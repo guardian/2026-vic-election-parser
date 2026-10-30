@@ -1,0 +1,65 @@
+"location","location_type","candidate","party","two_cp_votes","mis_sorts","formal_votes","informal_votes","total_votes"
+"Ordinary votes total","Ordinary votes total","FARNHAM, Wayne","Liberal",8713,7,14456,1055,15511
+"Ordinary votes total","Ordinary votes total","WOLFE, Tony","Independent",5736,7,14456,1055,15511
+"Early votes","Vote category","FARNHAM, Wayne","Liberal",11674,22,18543,1070,19613
+"Early votes","Vote category","WOLFE, Tony","Independent",6847,22,18543,1070,19613
+"Marked As Voted votes","Vote category","FARNHAM, Wayne","Liberal",5,0,9,0,9
+"Marked As Voted votes","Vote category","WOLFE, Tony","Independent",4,0,9,0,9
+"Postal votes","Vote category","FARNHAM, Wayne","Liberal",3024,3,4252,188,4440
+"Postal votes","Vote category","WOLFE, Tony","Independent",1225,3,4252,188,4440
+"Provisional votes","Vote category","FARNHAM, Wayne","Liberal",152,0,243,10,253
+"Provisional votes","Vote category","WOLFE, Tony","Independent",91,0,243,10,253
+"Total","Vote category","FARNHAM, Wayne","Liberal",23568,32,37503,2323,39826
+"Total","Vote category","WOLFE, Tony","Independent",13903,32,37503,2323,39826
+"Buln Buln","Voting centre","FARNHAM, Wayne","Liberal",189,0,294,15,309
+"Buln Buln","Voting centre","WOLFE, Tony","Independent",105,0,294,15,309
+"Bunyip","Voting centre","FARNHAM, Wayne","Liberal",613,0,932,56,988
+"Bunyip","Voting centre","WOLFE, Tony","Independent",319,0,932,56,988
+"Darnum","Voting centre","FARNHAM, Wayne","Liberal",201,0,328,21,349
+"Darnum","Voting centre","WOLFE, Tony","Independent",127,0,328,21,349
+"Drouin","Voting centre","FARNHAM, Wayne","Liberal",623,2,1238,94,1332
+"Drouin","Voting centre","WOLFE, Tony","Independent",613,2,1238,94,1332
+"Drouin College","Voting centre","FARNHAM, Wayne","Liberal",466,2,837,66,903
+"Drouin College","Voting centre","WOLFE, Tony","Independent",369,2,837,66,903
+"Drouin South","Voting centre","FARNHAM, Wayne","Liberal",191,0,264,15,279
+"Drouin South","Voting centre","WOLFE, Tony","Independent",73,0,264,15,279
+"Drouin West","Voting centre","FARNHAM, Wayne","Liberal",155,0,262,26,288
+"Drouin West","Voting centre","WOLFE, Tony","Independent",107,0,262,26,288
+"Ellinbank","Voting centre","FARNHAM, Wayne","Liberal",197,0,298,11,309
+"Ellinbank","Voting centre","WOLFE, Tony","Independent",101,0,298,11,309
+"Erica","Voting centre","FARNHAM, Wayne","Liberal",141,0,235,10,245
+"Erica","Voting centre","WOLFE, Tony","Independent",94,0,235,10,245
+"Garfield","Voting centre","FARNHAM, Wayne","Liberal",384,0,605,39,644
+"Garfield","Voting centre","WOLFE, Tony","Independent",221,0,605,39,644
+"Jindivick","Voting centre","FARNHAM, Wayne","Liberal",118,0,203,8,211
+"Jindivick","Voting centre","WOLFE, Tony","Independent",85,0,203,8,211
+"Labertouche","Voting centre","FARNHAM, Wayne","Liberal",126,0,177,13,190
+"Labertouche","Voting centre","WOLFE, Tony","Independent",51,0,177,13,190
+"Longwarry","Voting centre","FARNHAM, Wayne","Liberal",370,0,677,70,747
+"Longwarry","Voting centre","WOLFE, Tony","Independent",307,0,677,70,747
+"Maryknoll","Voting centre","FARNHAM, Wayne","Liberal",262,0,382,32,414
+"Maryknoll","Voting centre","WOLFE, Tony","Independent",120,0,382,32,414
+"Nar Nar Goon","Voting centre","FARNHAM, Wayne","Liberal",394,0,567,50,617
+"Nar Nar Goon","Voting centre","WOLFE, Tony","Independent",173,0,567,50,617
+"Neerim Junction","Voting centre","FARNHAM, Wayne","Liberal",155,0,255,11,266
+"Neerim Junction","Voting centre","WOLFE, Tony","Independent",100,0,255,11,266
+"Neerim South","Voting centre","FARNHAM, Wayne","Liberal",333,0,566,45,611
+"Neerim South","Voting centre","WOLFE, Tony","Independent",233,0,566,45,611
+"Nilma","Voting centre","FARNHAM, Wayne","Liberal",291,0,465,25,490
+"Nilma","Voting centre","WOLFE, Tony","Independent",174,0,465,25,490
+"Thorpdale","Voting centre","FARNHAM, Wayne","Liberal",291,0,391,31,422
+"Thorpdale","Voting centre","WOLFE, Tony","Independent",100,0,391,31,422
+"Trafalgar","Voting centre","FARNHAM, Wayne","Liberal",869,2,1384,138,1522
+"Trafalgar","Voting centre","WOLFE, Tony","Independent",513,2,1384,138,1522
+"Tynong","Voting centre","FARNHAM, Wayne","Liberal",291,0,445,29,474
+"Tynong","Voting centre","WOLFE, Tony","Independent",154,0,445,29,474
+"Warragul","Voting centre","FARNHAM, Wayne","Liberal",512,0,972,92,1064
+"Warragul","Voting centre","WOLFE, Tony","Independent",460,0,972,92,1064
+"Warragul East","Voting centre","FARNHAM, Wayne","Liberal",380,0,676,32,708
+"Warragul East","Voting centre","WOLFE, Tony","Independent",296,0,676,32,708
+"Warragul North","Voting centre","FARNHAM, Wayne","Liberal",395,0,784,40,824
+"Warragul North","Voting centre","WOLFE, Tony","Independent",389,0,784,40,824
+"Willow Grove","Voting centre","FARNHAM, Wayne","Liberal",340,1,480,34,514
+"Willow Grove","Voting centre","WOLFE, Tony","Independent",139,1,480,34,514
+"Yarragon","Voting centre","FARNHAM, Wayne","Liberal",426,0,739,52,791
+"Yarragon","Voting centre","WOLFE, Tony","Independent",313,0,739,52,791
