@@ -1,0 +1,295 @@
+<SenateGroups Created="2026-08-28T17:32:38.000" Id="39b33928-5fda-42f2-b153-ce143d853291" xmlns:eml="urn:oasis:names:tc:evs:schema:eml" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xnl="urn:oasis:names:tc:ciq:xsdschema:xNL:2.0" xmlns:ts="urn:oasis:names:tc:evs:schema:eml:ts" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.aec.gov.au/xml/schema/mediafeed">
+<eml:EventIdentifier Id="18738">
+<eml:EventName>Test State Election 2026</eml:EventName>
+</eml:EventIdentifier>
+<Election>
+<eml:ElectionIdentifier Id="U">
+<ElectionName>Upper House Election for the State of Victoria </ElectionName>
+<ElectionCategory>State</ElectionCategory>
+</eml:ElectionIdentifier>
+<Contests>
+<Contest>
+<eml:ContestIdentifier Id="18780">
+<eml:ContestName>Eastern Victoria Region</eml:ContestName>
+</eml:ContestIdentifier>
+<PollingDistrictIdentifier Id="16002" />
+<Group>
+<GroupIdentifier Id="25108">
+<Ticket>A</Ticket>
+<GroupName>Shooters, Fishers and Farmers Vic</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25081">
+<eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="28">
+<eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25082">
+<eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="28">
+<eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25083">
+<eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="28">
+<eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25084">
+<eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="28">
+<eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25085">
+<eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="28">
+<eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>5</BallotPosition>
+</Candidate>
+</Group>
+<Group>
+<GroupIdentifier Id="25109">
+<Ticket>B</Ticket>
+<GroupName>Health Australia Party</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25086">
+<eml:CandidateName>CANDIDATE, Six</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="86">
+<eml:RegisteredName>Health Australia Party</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>6</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25087">
+<eml:CandidateName>CANDIDATE, Seven</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="86">
+<eml:RegisteredName>Health Australia Party</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>7</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25088">
+<eml:CandidateName>CANDIDATE, Eight</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="86">
+<eml:RegisteredName>Health Australia Party</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>8</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25089">
+<eml:CandidateName>CANDIDATE, Nine</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="86">
+<eml:RegisteredName>Health Australia Party</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>9</BallotPosition>
+</Candidate>
+</Group>
+<Group>
+<GroupIdentifier Id="25110">
+<Ticket>C</Ticket>
+<GroupName>Pauline Hanson's One Nation</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25090">
+<eml:CandidateName>CANDIDATE, Ten</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="88">
+<eml:RegisteredName>Pauline Hanson's One Nation</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>10</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25091">
+<eml:CandidateName>CANDIDATE, Eleven</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="88">
+<eml:RegisteredName>Pauline Hanson's One Nation</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>11</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25092">
+<eml:CandidateName>CANDIDATE, Twelve</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="88">
+<eml:RegisteredName>Pauline Hanson's One Nation</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>12</BallotPosition>
+</Candidate>
+</Group>
+<Group>
+<GroupIdentifier Id="25111">
+<Ticket>D</Ticket>
+<GroupName>United Australia Party</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25093">
+<eml:CandidateName>CANDIDATE, Thirteen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="98">
+<eml:RegisteredName>United Australia Party</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>13</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25094">
+<eml:CandidateName>CANDIDATE, Fourteen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="98">
+<eml:RegisteredName>United Australia Party</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>14</BallotPosition>
+</Candidate>
+</Group>
+<Group>
+<GroupIdentifier Id="25112">
+<Ticket>E</Ticket>
+<GroupName>Australian Labor Party - Victorian Branch</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25095">
+<eml:CandidateName>CANDIDATE, Fifteen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="5">
+<eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>15</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25096">
+<eml:CandidateName>CANDIDATE, Sixteen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="5">
+<eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>16</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25097">
+<eml:CandidateName>CANDIDATE, Seventeen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="5">
+<eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>17</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25098">
+<eml:CandidateName>CANDIDATE, Eighteen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="5">
+<eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>18</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25099">
+<eml:CandidateName>CANDIDATE, Nineteen</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="5">
+<eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>19</BallotPosition>
+</Candidate>
+</Group>
+<Group>
+<GroupIdentifier Id="25113">
+<Ticket>F</Ticket>
+<GroupName>Liberal Party of Australia - Victorian Division</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25100">
+<eml:CandidateName>CANDIDATE, Twenty</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="8">
+<eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>20</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25101">
+<eml:CandidateName>CANDIDATE, Twenty-One</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="8">
+<eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>21</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25102">
+<eml:CandidateName>CANDIDATE, Twenty-Two</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="8">
+<eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>22</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25103">
+<eml:CandidateName>CANDIDATE, Twenty-Three</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="8">
+<eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>23</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25104">
+<eml:CandidateName>CANDIDATE, Twenty-Four</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="8">
+<eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+</eml:AffiliationIdentifier>
+<BallotPosition>24</BallotPosition>
+</Candidate>
+</Group>
+<Group>
+<GroupIdentifier Id="25114">
+<Ticket>G</Ticket>
+<GroupName>Group G</GroupName>
+</GroupIdentifier>
+<Candidate>
+<eml:CandidateIdentifier Id="25105">
+<eml:CandidateName>CANDIDATE, Twenty-Five</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="">
+<eml:RegisteredName />
+</eml:AffiliationIdentifier>
+<BallotPosition>25</BallotPosition>
+</Candidate>
+<Candidate>
+<eml:CandidateIdentifier Id="25106">
+<eml:CandidateName>CANDIDATE, Twenty-Six</eml:CandidateName>
+</eml:CandidateIdentifier>
+<eml:AffiliationIdentifier Id="">
+<eml:RegisteredName />
+</eml:AffiliationIdentifier>
+<BallotPosition>26</BallotPosition>
+</Candidate>
+</Group>
+</Contest>
+</Contests>
+</Election>
+</SenateGroups>

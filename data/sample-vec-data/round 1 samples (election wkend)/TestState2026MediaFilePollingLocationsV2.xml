@@ -1,0 +1,3478 @@
+<PollingDistrictList Created="31/08/2026 4:46:21 PM" xmlns:eml="urn:oasis:names:tc:evs:schema:eml" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xnl="urn:oasis:names:tc:ciq:xsdschema:xNL:2.0" xmlns:ts="urn:oasis:names:tc:evs:schema:eml:ts" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.aec.gov.au/xml/schema/mediafeed">
+<TransactionId>c02ff799-eca1-4aab-8b03-1959cd1495d3</TransactionId>
+<eml:EventIdentifier Id="18738">
+<eml:EventName>Test State Election 2026</eml:EventName>
+</eml:EventIdentifier>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15998">
+<Name>Albert Park District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18993" Name="Albert Park - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19071" Name="Albert Park - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15990">
+<Name>Ashwood District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18955" Name="Ashwood - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19026" Name="Ashwood - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15963">
+<Name>Bass District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18839" Name="Bass" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.466</AddressLongitude>
+<AddressLatitude>-38.48453</AddressLatitude>
+<AddressLine1>2-4 Bass School Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Bass</Suburb>
+<Postcode>3991</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18850" Name="Clyde" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3298</AddressLongitude>
+<AddressLatitude>-38.13182</AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Clyde</Suburb>
+<Postcode>3978</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18864" Name="Grantville" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.5327</AddressLongitude>
+<AddressLatitude>-38.40449</AddressLatitude>
+<AddressLine1>1470 Bass Highway</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Grantville</Suburb>
+<Postcode>3984</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18880" Name="San Remo" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3708</AddressLongitude>
+<AddressLatitude>-38.52401</AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>San Remo</Suburb>
+<Postcode>3925</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19009" Name="Bass - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.2387</AddressLongitude>
+<AddressLatitude>-38.44951</AddressLatitude>
+<AddressLine1>44 Thompson Ave</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Cowes</Suburb>
+<Postcode>3922</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18904" Name="Bass - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.5875</AddressLongitude>
+<AddressLatitude>-38.60502</AddressLatitude>
+<AddressLine1>46 Murray St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Wonthaggi</Suburb>
+<Postcode>3995</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19081" Name="Bass - MEVC" Classification="MobileVoting" />
+<WheelchairAccess></WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1>Multiple mobile voting locations</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15946">
+<Name>Bayswater District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19054" Name="Bayswater - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19038" Name="Bayswater - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15962">
+<Name>Bellarine District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19003" Name="Bellarine - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19017" Name="Bellarine - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15932">
+<Name>Benambra District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18949" Name="Benambra - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18937" Name="Benambra - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15933">
+<Name>Bendigo East District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19074" Name="Bendigo East - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19012" Name="Bendigo East - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15936">
+<Name>Bendigo West District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18989" Name="Bendigo West - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18976" Name="Bendigo West - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15911">
+<Name>Bentleigh District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19031" Name="Bentleigh - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19033" Name="Bentleigh - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15937">
+<Name>Berwick District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19069" Name="Berwick - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18938" Name="Berwick - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15997">
+<Name>Box Hill District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18907" Name="Box Hill - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18971" Name="Box Hill - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15914">
+<Name>Brighton District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18965" Name="Brighton - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18897" Name="Brighton - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15980">
+<Name>Broadmeadows District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18924" Name="Broadmeadows - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18991" Name="Broadmeadows - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15968">
+<Name>Brunswick District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18970" Name="Brunswick - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19078" Name="Brunswick - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15960">
+<Name>Bulleen District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19073" Name="Bulleen - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19045" Name="Bulleen - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15934">
+<Name>Bundoora District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18906" Name="Bundoora - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18963" Name="Bundoora - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15929">
+<Name>Carrum District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19060" Name="Carrum - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18978" Name="Carrum - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15973">
+<Name>Caulfield District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18908" Name="Caulfield - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18994" Name="Caulfield - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15967">
+<Name>Clarinda District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18996" Name="Clarinda - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18930" Name="Clarinda - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15925">
+<Name>Cranbourne District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19005" Name="Cranbourne - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18916" Name="Cranbourne - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15959">
+<Name>Croydon District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18922" Name="Croydon - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19052" Name="Croydon - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15956">
+<Name>Dandenong District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19056" Name="Dandenong - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18914" Name="Dandenong - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15979">
+<Name>Eildon District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19067" Name="Eildon - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18941" Name="Eildon - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15955">
+<Name>Eltham District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18980" Name="Eltham - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19065" Name="Eltham - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15945">
+<Name>Essendon District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18920" Name="Essendon - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19036" Name="Essendon - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15935">
+<Name>Eureka District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19062" Name="Eureka - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18936" Name="Eureka - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="16001">
+<Name>Euroa District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19076" Name="Euroa - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19016" Name="Euroa - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15977">
+<Name>Evelyn District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18844" Name="Bimbadeen" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3213</AddressLongitude>
+<AddressLatitude>-37.77485</AddressLatitude>
+<AddressLine1>118 Hayrick Lane</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mooroolbark</Suburb>
+<Postcode>3138</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18866" Name="Lilydale Heights" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3414</AddressLongitude>
+<AddressLatitude>-37.74609</AddressLatitude>
+<AddressLine1>Gate 4, 17 Nelson Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Lilydale</Suburb>
+<Postcode>3140</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18869" Name="Montrose" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3446</AddressLongitude>
+<AddressLatitude>-37.80798</AddressLatitude>
+<AddressLine1>17–21 Leith Road</AddressLine1>
+<AddressLine2>(access via Burley Street)</AddressLine2>
+<Suburb>Montrose</Suburb>
+<Postcode>3765</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18879" Name="Rolling Hills" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3266</AddressLongitude>
+<AddressLatitude>-37.76638</AddressLatitude>
+<AddressLine1>52 Landscape Drive</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mooroolbark</Suburb>
+<Postcode>3138</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19061" Name="Evelyn - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3459</AddressLongitude>
+<AddressLatitude>-37.81187</AddressLatitude>
+<AddressLine1>950 Mt Dandenong Tourist Rd</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Montrose</Suburb>
+<Postcode>3765</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19053" Name="Evelyn - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3436</AddressLongitude>
+<AddressLatitude>-37.75639</AddressLatitude>
+<AddressLine1>24 Main St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Lilydale</Suburb>
+<Postcode>3140</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19085" Name="Evelyn - MEVC" Classification="MobileVoting" />
+<WheelchairAccess></WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1>Multiple mobile voting locations</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15970">
+<Name>Footscray District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18987" Name="Footscray - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18898" Name="Footscray - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15949">
+<Name>Frankston District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19022" Name="Frankston - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19025" Name="Frankston - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15920">
+<Name>Geelong District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19001" Name="Geelong - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19034" Name="Geelong - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15917">
+<Name>Gippsland East District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18837" Name="Bairnsdale West" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>147.6077</AddressLongitude>
+<AddressLatitude>-37.82336</AddressLatitude>
+<AddressLine1>60 Wallace Street</AddressLine1>
+<AddressLine2>(access via McKean Street)</AddressLine2>
+<Suburb>Bairnsdale</Suburb>
+<Postcode>3875</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18846" Name="Buchan" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>148.1804</AddressLongitude>
+<AddressLatitude>-37.49748</AddressLatitude>
+<AddressLine1>4 Dalley Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Buchan</Suburb>
+<Postcode>3885</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18856" Name="Eagle Point" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>147.6799</AddressLongitude>
+<AddressLatitude>-37.89231</AddressLatitude>
+<AddressLine1>43 School Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Eagle Point</Suburb>
+<Postcode>3878</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18868" Name="Lucknow" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2>105 Great Alpine Road</AddressLine2>
+<Suburb>Lucknow</Suburb>
+<Postcode>3875</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18876" Name="Newmerella" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>148.4336</AddressLongitude>
+<AddressLatitude>-37.73523</AddressLatitude>
+<AddressLine1>Corner of Thomas Road and Mclaughlins Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Newmerella</Suburb>
+<Postcode>3886</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18900" Name="Gippsland East - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>147.629</AddressLongitude>
+<AddressLatitude>-37.82762</AddressLatitude>
+<AddressLine1>104 Macleod St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Bairnsdale</Suburb>
+<Postcode>3875</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18903" Name="Gippsland East - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>147.6378</AddressLongitude>
+<AddressLatitude>-37.82607</AddressLatitude>
+<AddressLine1>9 Main St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Bairnsdale</Suburb>
+<Postcode>3875</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19083" Name="Gippsland East - MEVC" Classification="MobileVoting" />
+<WheelchairAccess></WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1>Multiple mobile voting locations</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15969">
+<Name>Gippsland South District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18836" Name="Alberton" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.6666</AddressLongitude>
+<AddressLatitude>-38.61759</AddressLatitude>
+<AddressLine1>21 Thomson Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Alberton</Suburb>
+<Postcode>3971</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18842" Name="Bena" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.7623</AddressLongitude>
+<AddressLatitude>-38.41159</AddressLatitude>
+<AddressLine1>41 Main Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Bena</Suburb>
+<Postcode>3946</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18863" Name="Gormandale" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>146.7019</AddressLongitude>
+<AddressLatitude>-38.29452</AddressLatitude>
+<AddressLine1>Corner of Main Road and Hyland Highway</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Gormandale</Suburb>
+<Postcode>3873</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18872" Name="Mount Eccles" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9761</AddressLongitude>
+<AddressLatitude>-38.36346</AddressLatitude>
+<AddressLine1>5 Hall Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mount Eccles</Suburb>
+<Postcode>3953</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18882" Name="Seaspray" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>147.1895</AddressLongitude>
+<AddressLatitude>-38.37539</AddressLatitude>
+<AddressLine1>1 Futcher Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Seaspray</Suburb>
+<Postcode>3851</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19037" Name="Gippsland South - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>147.0653</AddressLongitude>
+<AddressLatitude>-38.10809</AddressLatitude>
+<AddressLine1>245 Raymond St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Sale</Suburb>
+<Postcode>3850</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18952" Name="Gippsland South - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9449</AddressLongitude>
+<AddressLatitude>-38.47676</AddressLatitude>
+<AddressLine1>28 Mccartin St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Leongatha</Suburb>
+<Postcode>3953</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19082" Name="Gippsland South - MEVC" Classification="MobileVoting" />
+<WheelchairAccess></WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1>Multiple mobile voting locations</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15996">
+<Name>Glen Waverley District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18986" Name="Glen Waverley - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18915" Name="Glen Waverley - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15922">
+<Name>Greenvale District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18923" Name="Greenvale - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18905" Name="Greenvale - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15942">
+<Name>Hastings District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18840" Name="Baxter" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.1817</AddressLongitude>
+<AddressLatitude>-38.19967</AddressLatitude>
+<AddressLine1>118A Grant Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Baxter</Suburb>
+<Postcode>3911</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18852" Name="Crib Point" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.2004</AddressLongitude>
+<AddressLatitude>-38.36043</AddressLatitude>
+<AddressLine1>70 Milne Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Crib Point</Suburb>
+<Postcode>3919</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18857" Name="Langwarrin" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.1902</AddressLongitude>
+<AddressLatitude>-38.15837</AddressLatitude>
+<AddressLine1>80 Warrandyte Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Langwarrin</Suburb>
+<Postcode>3910</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18883" Name="Somerville West" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.1684</AddressLongitude>
+<AddressLatitude>-38.23021</AddressLatitude>
+<AddressLine1>34 Blacks Camp Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Somerville</Suburb>
+<Postcode>3912</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18888" Name="Woodlands" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.2031</AddressLongitude>
+<AddressLatitude>-38.13577</AddressLatitude>
+<AddressLine1>51 Cotoneaster Way</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Langwarrin</Suburb>
+<Postcode>3910</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19004" Name="Hastings - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.1885</AddressLongitude>
+<AddressLatitude>-38.1493</AddressLatitude>
+<AddressLine1>15 Shute Dr</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Langwarrin</Suburb>
+<Postcode>3910</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19000" Name="Hastings - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.1927</AddressLongitude>
+<AddressLatitude>-38.30785</AddressLatitude>
+<AddressLine1>21 High St</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Hastings</Suburb>
+<Postcode>3915</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19087" Name="Hastings - MEVC" Classification="MobileVoting" />
+<WheelchairAccess></WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1>Multiple mobile voting locations</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15993">
+<Name>Hawthorn District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19055" Name="Hawthorn - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18973" Name="Hawthorn - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15921">
+<Name>Ivanhoe District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19019" Name="Ivanhoe - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19014" Name="Ivanhoe - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15947">
+<Name>Kalkallo District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19058" Name="Kalkallo - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18932" Name="Kalkallo - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15975">
+<Name>Kew District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19041" Name="Kew - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18999" Name="Kew - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15908">
+<Name>Kororoit District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18927" Name="Kororoit - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18918" Name="Kororoit - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15951">
+<Name>Lara District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18961" Name="Lara - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18988" Name="Lara - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15985">
+<Name>Laverton District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19049" Name="Laverton - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19047" Name="Laverton - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15915">
+<Name>Lowan District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18928" Name="Lowan - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19023" Name="Lowan - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15988">
+<Name>Macedon District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19044" Name="Macedon - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18981" Name="Macedon - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15958">
+<Name>Malvern District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18985" Name="Malvern - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18995" Name="Malvern - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15966">
+<Name>Melbourne District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19018" Name="Melbourne - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19008" Name="Melbourne - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15912">
+<Name>Melton District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19020" Name="Melton - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19027" Name="Melton - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15928">
+<Name>Mildura District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18942" Name="Mildura - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18909" Name="Mildura - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15938">
+<Name>Mill Park District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18931" Name="Mill Park - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18983" Name="Mill Park - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15913">
+<Name>Monbulk District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18841" Name="Belgrave South" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3578</AddressLongitude>
+<AddressLatitude>-37.93125</AddressLatitude>
+<AddressLine1>149 Belgrave–Hallam Road</AddressLine1>
+<AddressLine2>(access via Gilmore Court)</AddressLine2>
+<Suburb>Belgrave South</Suburb>
+<Postcode>3160</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18851" Name="Cockatoo" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.4912</AddressLongitude>
+<AddressLatitude>-37.93693</AddressLatitude>
+<AddressLine1>77 Pakenham Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Cockatoo</Suburb>
+<Postcode>3781</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18860" Name="Ferntree Gully North" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.2993</AddressLongitude>
+<AddressLatitude>-37.87417</AddressLatitude>
+<AddressLine1>111 Forest Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Ferntree Gully</Suburb>
+<Postcode>3156</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18886" Name="Ferntree Gully Upper" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3143</AddressLongitude>
+<AddressLatitude>-37.89591</AddressLatitude>
+<AddressLine1>4 Talaskia Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Upper Ferntree Gully</Suburb>
+<Postcode>3156</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18861" Name="Gembrook" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.546</AddressLongitude>
+<AddressLatitude>-37.95177</AddressLatitude>
+<AddressLine1>50 Main Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Gembrook</Suburb>
+<Postcode>3783</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18881" Name="Sassafras" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.3548</AddressLongitude>
+<AddressLatitude>-37.86145</AddressLatitude>
+<AddressLine1>399 Mount Dandenong Tourist Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Sassafras</Suburb>
+<Postcode>3787</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18901" Name="Monbulk - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.407</AddressLongitude>
+<AddressLatitude>-37.87476</AddressLatitude>
+<AddressLine1>88 Main Rd</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Monbulk</Suburb>
+<Postcode>3793</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19050" Name="Monbulk - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.354</AddressLongitude>
+<AddressLatitude>-37.90977</AddressLatitude>
+<AddressLine1>1662 Burwood Hwy</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Belgrave</Suburb>
+<Postcode>3160</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19080" Name="Monbulk - MEVC" Classification="MobileVoting" />
+<WheelchairAccess></WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1>Multiple mobile voting locations</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15919">
+<Name>Mordialloc District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18919" Name="Mordialloc - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19077" Name="Mordialloc - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="16000">
+<Name>Mornington District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18870" Name="Moorooduc" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.105</AddressLongitude>
+<AddressLatitude>-38.2484</AddressLatitude>
+<AddressLine1>787 Derril Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Moorooduc</Suburb>
+<Postcode>3933</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18884" Name="Mornington" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.0377</AddressLongitude>
+<AddressLatitude>-38.22163</AddressLatitude>
+<AddressLine1>50 Barkly Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mornington</Suburb>
+<Postcode>3931</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18843" Name="Mornington East" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.0611</AddressLongitude>
+<AddressLatitude>-38.2463</AddressLatitude>
+<AddressLine1>Gate 1, 261 Racecourse Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mornington</Suburb>
+<Postcode>3931</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18873" Name="Mt Eliza" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.0932</AddressLongitude>
+<AddressLatitude>-38.18896</AddressLatitude>
+<AddressLine1>Gate 2, 204 Canadian Bay Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mount Eliza</Suburb>
+<Postcode>3930</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18874" Name="Mt Martha" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.0133</AddressLongitude>
+<AddressLatitude>-38.2754</AddressLatitude>
+<AddressLine1>41 Glenisla Drive</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mount Martha</Suburb>
+<Postcode>3934</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18878" Name="Osborne" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.0402</AddressLongitude>
+<AddressLatitude>-38.25687</AddressLatitude>
+<AddressLine1>120 Craigie Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mount Martha</Suburb>
+<Postcode>3934</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18871" Name="Tanti Park" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.0587</AddressLongitude>
+<AddressLatitude>-38.22589</AddressLatitude>
+<AddressLine1>40 Robertson Drive</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Mornington</Suburb>
+<Postcode>3931</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19007" Name="Mornington - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19002" Name="Mornington - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15978">
+<Name>Morwell District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18849" Name="Churchill" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.4213</AddressLongitude>
+<AddressLatitude>-38.31324</AddressLatitude>
+<AddressLine1>4 Marina Drive</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Churchill</Suburb>
+<Postcode>3842</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18862" Name="Glengarry" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.5715</AddressLongitude>
+<AddressLatitude>-38.12767</AddressLatitude>
+<AddressLine1>41–45 Cairnbrook Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Glengarry</Suburb>
+<Postcode>3854</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18835" Name="Moe" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.2652</AddressLongitude>
+<AddressLatitude>-38.17436</AddressLatitude>
+<AddressLine1>40–42 Albert Street</AddressLine1>
+<AddressLine2>(access via Anzac Street)</AddressLine2>
+<Suburb>Moe</Suburb>
+<Postcode>3825</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18838" Name="Moe Central" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>146.2574</AddressLongitude>
+<AddressLatitude>-38.19151</AddressLatitude>
+<AddressLine1>47 Staff Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Moe</Suburb>
+<Postcode>3825</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18875" Name="Newborough East" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.294</AddressLongitude>
+<AddressLatitude>-38.17913</AddressLatitude>
+<AddressLine1>300 Old Sale Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Newborough</Suburb>
+<Postcode>3825</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18865" Name="Traralgon East" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.5528</AddressLongitude>
+<AddressLatitude>-38.20216</AddressLatitude>
+<AddressLine1>Shakespeare Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Traralgon</Suburb>
+<Postcode>3844</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18885" Name="Tyers" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>146.4783</AddressLongitude>
+<AddressLatitude>-38.149</AddressLatitude>
+<AddressLine1>Main Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Tyers</Suburb>
+<Postcode>3844</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18889" Name="Yallourn North" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>146.3621</AddressLongitude>
+<AddressLatitude>-38.16314</AddressLatitude>
+<AddressLine1>Reserve Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Yallourn North</Suburb>
+<Postcode>3825</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18921" Name="Morwell - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19032" Name="Morwell - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15974">
+<Name>Mulgrave District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18972" Name="Mulgrave - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19051" Name="Mulgrave - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15982">
+<Name>Murray Plains District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18945" Name="Murray Plains - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19010" Name="Murray Plains - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15940">
+<Name>Narracan District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18845" Name="Bona Vista" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9595</AddressLongitude>
+<AddressLatitude>-38.21011</AddressLatitude>
+<AddressLine1>520 Bona Vista Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Bona Vista</Suburb>
+<Postcode>3820</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18847" Name="Buln Buln" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>145.938</AddressLongitude>
+<AddressLatitude>-38.09909</AddressLatitude>
+<AddressLine1>15 Old Sale Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Buln Buln</Suburb>
+<Postcode>3821</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18848" Name="Bunyip" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.7213</AddressLongitude>
+<AddressLatitude>-38.09837</AddressLatitude>
+<AddressLine1>34 Main Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Bunyip</Suburb>
+<Postcode>3815</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18853" Name="Darnum" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9998</AddressLongitude>
+<AddressLatitude>-38.18769</AddressLatitude>
+<AddressLine1>6 Graham Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Darnum</Suburb>
+<Postcode>3822</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18854" Name="Drouin College" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.8524</AddressLongitude>
+<AddressLatitude>-38.14392</AddressLatitude>
+<AddressLine1>52 Main South Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Drouin</Suburb>
+<Postcode>3818</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18855" Name="Drouin South" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.8265</AddressLongitude>
+<AddressLatitude>-38.17113</AddressLatitude>
+<AddressLine1>3061 Westernport Road</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Drouin South</Suburb>
+<Postcode>3818</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18858" Name="Ellinbank" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9358</AddressLongitude>
+<AddressLatitude>-38.23906</AddressLatitude>
+<AddressLine1>13 Community Place</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Ellinbank</Suburb>
+<Postcode>3821</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18867" Name="Longwarry" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.7676</AddressLongitude>
+<AddressLatitude>-38.11388</AddressLatitude>
+<AddressLine1>14 Kennedy Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Longwarry</Suburb>
+<Postcode>3816</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18859" Name="Maryknoll" Classification="VotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude>145.6019</AddressLongitude>
+<AddressLatitude>-38.03251</AddressLatitude>
+<AddressLine1>70 Girrahween Road</AddressLine1>
+<AddressLine2>(access via Koolbirra Road)</AddressLine2>
+<Suburb>Maryknoll</Suburb>
+<Postcode>3812</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18877" Name="Noojee" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9982</AddressLongitude>
+<AddressLatitude>-37.89265</AddressLatitude>
+<AddressLine1>7 Henty Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Noojee</Suburb>
+<Postcode>3833</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18887" Name="Warragul North" Classification="VotingCentre" />
+<WheelchairAccess>Assisted</WheelchairAccess>
+<Address>
+<AddressLongitude>145.9401</AddressLongitude>
+<AddressLatitude>-38.14752</AddressLatitude>
+<AddressLine1>Balmoral Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Warragul</Suburb>
+<Postcode>3820</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18890" Name="Yarragon" Classification="VotingCentre" />
+<WheelchairAccess>Full</WheelchairAccess>
+<Address>
+<AddressLongitude>146.0641</AddressLongitude>
+<AddressLatitude>-38.20513</AddressLatitude>
+<AddressLine1>7 Campbell Street</AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb>Yarragon</Suburb>
+<Postcode>3823</Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18974" Name="Narracan - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19040" Name="Narracan - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15989">
+<Name>Narre Warren North District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18979" Name="Narre Warren North - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18910" Name="Narre Warren North - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15953">
+<Name>Narre Warren South District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18969" Name="Narre Warren South - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18962" Name="Narre Warren South - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15954">
+<Name>Nepean District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18929" Name="Nepean - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18997" Name="Nepean - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15950">
+<Name>Niddrie District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19011" Name="Niddrie - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18902" Name="Niddrie - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15930">
+<Name>Northcote District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19048" Name="Northcote - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18943" Name="Northcote - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15916">
+<Name>Oakleigh District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19035" Name="Oakleigh - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18998" Name="Oakleigh - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15976">
+<Name>Ovens Valley District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19057" Name="Ovens Valley - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18977" Name="Ovens Valley - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15961">
+<Name>Pakenham District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18925" Name="Pakenham - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19021" Name="Pakenham - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15939">
+<Name>Pascoe Vale District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19042" Name="Pascoe Vale - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18958" Name="Pascoe Vale - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15991">
+<Name>Point Cook District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18926" Name="Point Cook - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19072" Name="Point Cook - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15964">
+<Name>Polwarth District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19059" Name="Polwarth - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18944" Name="Polwarth - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15952">
+<Name>Prahran District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19015" Name="Prahran - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18968" Name="Prahran - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15931">
+<Name>Preston District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18917" Name="Preston - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18911" Name="Preston - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15999">
+<Name>Richmond District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19024" Name="Richmond - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18992" Name="Richmond - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15909">
+<Name>Ringwood District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18947" Name="Ringwood - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19028" Name="Ringwood - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15987">
+<Name>Ripon District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18967" Name="Ripon - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18956" Name="Ripon - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15941">
+<Name>Rowville District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18975" Name="Rowville - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18960" Name="Rowville - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15927">
+<Name>Sandringham District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19013" Name="Sandringham - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19070" Name="Sandringham - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15994">
+<Name>Shepparton District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19030" Name="Shepparton - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18954" Name="Shepparton - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15907">
+<Name>South Barwon District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18982" Name="South Barwon - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18951" Name="South Barwon - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15984">
+<Name>South-West Coast District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19063" Name="South-West Coast - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18990" Name="South-West Coast - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15971">
+<Name>St Albans District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19075" Name="St Albans - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19043" Name="St Albans - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15924">
+<Name>Sunbury District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19039" Name="Sunbury - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18912" Name="Sunbury - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15944">
+<Name>Sydenham District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19068" Name="Sydenham - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18913" Name="Sydenham - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15965">
+<Name>Tarneit District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18966" Name="Tarneit - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18935" Name="Tarneit - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15918">
+<Name>Thomastown District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19046" Name="Thomastown - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18948" Name="Thomastown - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15986">
+<Name>Warrandyte District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18957" Name="Warrandyte - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18964" Name="Warrandyte - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15972">
+<Name>Wendouree District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19006" Name="Wendouree - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18934" Name="Wendouree - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15923">
+<Name>Werribee District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18939" Name="Werribee - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19029" Name="Werribee - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15981">
+<Name>Williamstown District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18933" Name="Williamstown - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="19064" Name="Williamstown - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+<PollingDistrict>
+<PollingDistrictIdentifier Id="15957">
+<Name>Yan Yean District</Name>
+</PollingDistrictIdentifier>
+<PollingPlaces>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18950" Name="Yan Yean - EVC 1" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+<PollingPlace>
+<PollingPlaceIdentifier Id="18899" Name="Yan Yean - EVC 2" Classification="EarlyVotingCentre" />
+<WheelchairAccess>None</WheelchairAccess>
+<Address>
+<AddressLongitude></AddressLongitude>
+<AddressLatitude></AddressLatitude>
+<AddressLine1></AddressLine1>
+<AddressLine2></AddressLine2>
+<Suburb></Suburb>
+<Postcode></Postcode>
+</Address>
+</PollingPlace>
+</PollingPlaces>
+</PollingDistrict>
+</PollingDistrictList>

@@ -1,0 +1,732 @@
+<EML xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xnl="urn:oasis:names:tc:ciq:xsdschema:xNL:2.0" xmlns:ts="urn:oasis:names:tc:evs:schema:eml:ts" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:evs:schema:eml">
+<TransactionId>a144bb97-1dc2-42a2-ae36-030fb5bcd5b8</TransactionId>
+<CandidateList>
+<EventIdentifier Id="18738">
+<EventName>Test State Election 2026</EventName>
+</EventIdentifier>
+<Election>
+<ElectionIdentifier Id="L">
+<ElectionName>Lower House Election for the State of Victoria </ElectionName>
+<ElectionCategory>State</ElectionCategory>
+</ElectionIdentifier>
+<Contest>
+<ContestIdentifier Id="18828">
+<ContestName>Bass District</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="15963" />
+<Enrolment>5000</Enrolment>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="24952">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24970">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24971">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="88">
+<RegisteredName>Pauline Hanson's One Nation</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24975">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+</Contest>
+<Contest>
+<ContestIdentifier Id="18788">
+<ContestName>Evelyn District</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="15977" />
+<Enrolment>5500</Enrolment>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24982">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="4">
+<RegisteredName>The Australian Greens - Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25000">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="101">
+<RegisteredName>Family First Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25026">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25029">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="90">
+<RegisteredName>Victorian Socialists</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+</Contest>
+<Contest>
+<ContestIdentifier Id="18829">
+<ContestName>Gippsland East District</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="15917" />
+<Enrolment>4500</Enrolment>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25030">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="90">
+<RegisteredName>Victorian Socialists</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24984">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="4">
+<RegisteredName>The Australian Greens - Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25067">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25006">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="101">
+<RegisteredName>Family First Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25068">
+<CandidateName>CANDIDATE, Five</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>5</BallotPosition>
+</Candidate>
+</Contest>
+<Contest>
+<ContestIdentifier Id="18821">
+<ContestName>Gippsland South District</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="15969" />
+<Enrolment>6000</Enrolment>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24985">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="4">
+<RegisteredName>The Australian Greens - Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25033">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="90">
+<RegisteredName>Victorian Socialists</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25005">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="101">
+<RegisteredName>Family First Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25069">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25071">
+<CandidateName>CANDIDATE, Five</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>5</BallotPosition>
+</Candidate>
+</Contest>
+<Contest>
+<ContestIdentifier Id="18832">
+<ContestName>Hastings District</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="15942" />
+<Enrolment>4000</Enrolment>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25070">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25021">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="101">
+<RegisteredName>Family First Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25072">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24986">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="4">
+<RegisteredName>The Australian Greens - Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25073">
+<CandidateName>CANDIDATE, Five</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="87">
+<RegisteredName>Transport Matters Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>5</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25074">
+<CandidateName>CANDIDATE, Six</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>6</BallotPosition>
+</Candidate>
+</Contest>
+<Contest>
+<ContestIdentifier Id="18814">
+<ContestName>Monbulk District</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="15913" />
+<Enrolment>6500</Enrolment>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25075">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="86">
+<RegisteredName>Health Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25076">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25077">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="99">
+<RegisteredName>Freedom Party of Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25078">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="24988">
+<CandidateName>CANDIDATE, Five</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="4">
+<RegisteredName>The Australian Greens - Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>5</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25009">
+<CandidateName>CANDIDATE, Six</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="101">
+<RegisteredName>Family First Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>6</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25079">
+<CandidateName>CANDIDATE, Seven</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>7</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25080">
+<CandidateName>CANDIDATE, Eight</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>8</BallotPosition>
+</Candidate>
+</Contest>
+</Election>
+<Election>
+<ElectionIdentifier Id="U">
+<ElectionName>Upper House Election for the State of Victoria </ElectionName>
+<ElectionCategory>State</ElectionCategory>
+</ElectionIdentifier>
+<Contest>
+<ContestIdentifier Id="18780">
+<ContestName>Eastern Victoria Region</ContestName>
+</ContestIdentifier>
+<PollingDistrictIdentifier Id="16002" />
+<Enrolment>31500</Enrolment>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25081">
+<CandidateName>CANDIDATE, One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>1</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25082">
+<CandidateName>CANDIDATE, Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>2</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25083">
+<CandidateName>CANDIDATE, Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>3</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25084">
+<CandidateName>CANDIDATE, Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>4</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25085">
+<CandidateName>CANDIDATE, Five</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="28">
+<RegisteredName>Shooters, Fishers and Farmers Party Victoria</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>5</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25086">
+<CandidateName>CANDIDATE, Six</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="86">
+<RegisteredName>Health Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>6</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25087">
+<CandidateName>CANDIDATE, Seven</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="86">
+<RegisteredName>Health Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>7</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25088">
+<CandidateName>CANDIDATE, Eight</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="86">
+<RegisteredName>Health Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>8</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25089">
+<CandidateName>CANDIDATE, Nine</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="86">
+<RegisteredName>Health Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>9</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25090">
+<CandidateName>CANDIDATE, Ten</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="88">
+<RegisteredName>Pauline Hanson's One Nation</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>10</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25091">
+<CandidateName>CANDIDATE, Eleven</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="88">
+<RegisteredName>Pauline Hanson's One Nation</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>11</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25092">
+<CandidateName>CANDIDATE, Twelve</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="88">
+<RegisteredName>Pauline Hanson's One Nation</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>12</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25093">
+<CandidateName>CANDIDATE, Thirteen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="98">
+<RegisteredName>United Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>13</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25094">
+<CandidateName>CANDIDATE, Fourteen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="98">
+<RegisteredName>United Australia Party</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>14</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25095">
+<CandidateName>CANDIDATE, Fifteen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>15</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25096">
+<CandidateName>CANDIDATE, Sixteen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>16</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25097">
+<CandidateName>CANDIDATE, Seventeen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>17</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25098">
+<CandidateName>CANDIDATE, Eighteen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>18</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25099">
+<CandidateName>CANDIDATE, Nineteen</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="5">
+<RegisteredName>Australian Labor Party - Victorian Branch</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>19</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25100">
+<CandidateName>CANDIDATE, Twenty</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>20</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25101">
+<CandidateName>CANDIDATE, Twenty-One</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>21</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25102">
+<CandidateName>CANDIDATE, Twenty-Two</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>22</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25103">
+<CandidateName>CANDIDATE, Twenty-Three</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>23</BallotPosition>
+</Candidate>
+<Candidate Independent="no">
+<CandidateIdentifier Id="25104">
+<CandidateName>CANDIDATE, Twenty-Four</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<Affiliation>
+<AffiliationIdentifier Id="8">
+<RegisteredName>Liberal Party of Australia - Victorian Division</RegisteredName>
+</AffiliationIdentifier>
+</Affiliation>
+<BallotPosition>24</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25105">
+<CandidateName>CANDIDATE, Twenty-Five</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>25</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25106">
+<CandidateName>CANDIDATE, Twenty-Six</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>26</BallotPosition>
+</Candidate>
+<Candidate Independent="yes">
+<CandidateIdentifier Id="25107">
+<CandidateName>CANDIDATE, Twenty-Seven</CandidateName>
+</CandidateIdentifier>
+<Elected Historic="no" />
+<BallotPosition>27</BallotPosition>
+</Candidate>
+</Contest>
+</Election>
+</CandidateList>
+</EML>

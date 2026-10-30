@@ -1,0 +1,1040 @@
+<?xml version="1.0" ?>
+<MediaFeed xmlns:eml="urn:oasis:names:tc:evs:schema:eml" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xnl="urn:oasis:names:tc:ciq:xsdschema:xNL:2.0" xmlns:ts="urn:oasis:names:tc:evs:schema:eml:ts" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.vec.vic.gov.au" Verbose="true" Id="ee753f36-9cb2-44ce-9511-6aa5a8897347" Created="2026-09-21T09:08:00" Phase="ElectionNight">
+  <eml:EventIdentifier Id="18738">
+    <eml:EventName>Test State Election 2026</eml:EventName>
+  </eml:EventIdentifier>
+  <Election>
+    <eml:ElectionIdentifier Id="L">
+      <eml:ElectionName>Lower House election for the State of Victoria 2026</eml:ElectionName>
+      <eml:ElectionCategory>LowerHouse</eml:ElectionCategory>
+    </eml:ElectionIdentifier>
+    <House>
+      <Contests>
+        <Contest Updated="">
+          <eml:ContestIdentifier Id="18828">
+            <eml:ContestName>Bass District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15963">
+            <Name>Bass District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>5000</Enrolment>
+          <FirstPreferences PollingPlacesReturned="0" PollingPlacesExpected="9" Updated="">
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="24952">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24970">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="8">
+                  <eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24971">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="88">
+                  <eml:RegisteredName>Pauline Hanson's One Nation</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24975">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="5">
+                  <eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <PollingPlaces/>
+        </Contest>
+        <Contest Updated="">
+          <eml:ContestIdentifier Id="18788">
+            <eml:ContestName>Evelyn District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15977">
+            <Name>Evelyn District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>5500</Enrolment>
+          <FirstPreferences PollingPlacesReturned="0" PollingPlacesExpected="9" Updated="">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24982">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25000">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25026">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25029">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="90">
+                  <eml:RegisteredName>Victorian Socialists</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <PollingPlaces/>
+        </Contest>
+        <Contest Updated="">
+          <eml:ContestIdentifier Id="18829">
+            <eml:ContestName>Gippsland East District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15917">
+            <Name>Gippsland East District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>4500</Enrolment>
+          <FirstPreferences PollingPlacesReturned="0" PollingPlacesExpected="10" Updated="">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25030">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="90">
+                  <eml:RegisteredName>Victorian Socialists</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24984">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25067">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25006">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25068">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <PollingPlaces/>
+        </Contest>
+        <Contest Updated="">
+          <eml:ContestIdentifier Id="18821">
+            <eml:ContestName>Gippsland South District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15969">
+            <Name>Gippsland South District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>6000</Enrolment>
+          <FirstPreferences PollingPlacesReturned="0" PollingPlacesExpected="10" Updated="">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24985">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25033">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="90">
+                  <eml:RegisteredName>Victorian Socialists</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25005">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25069">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25071">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <PollingPlaces/>
+        </Contest>
+        <Contest Updated="">
+          <eml:ContestIdentifier Id="18832">
+            <eml:ContestName>Hastings District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15942">
+            <Name>Hastings District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>4000</Enrolment>
+          <FirstPreferences PollingPlacesReturned="0" PollingPlacesExpected="10" Updated="">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25070">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25021">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25072">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24986">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25073">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="87">
+                  <eml:RegisteredName>Transport Matters Party</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25074">
+                <eml:CandidateName>CANDIDATE, Six</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="8">
+                  <eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>6</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <PollingPlaces/>
+        </Contest>
+        <Contest Updated="">
+          <eml:ContestIdentifier Id="18814">
+            <eml:ContestName>Monbulk District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15913">
+            <Name>Monbulk District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>6500</Enrolment>
+          <FirstPreferences PollingPlacesReturned="0" PollingPlacesExpected="9" Updated="">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25075">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="86">
+                  <eml:RegisteredName>Health Australia Party</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25076">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="5">
+                  <eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25077">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="99">
+                  <eml:RegisteredName>Freedom Party of Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25078">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="8">
+                  <eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24988">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25009">
+                <eml:CandidateName>CANDIDATE, Six</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>6</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25079">
+                <eml:CandidateName>CANDIDATE, Seven</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>7</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25080">
+                <eml:CandidateName>CANDIDATE, Eight</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>8</BallotPosition>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>0</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">0</Votes>
+                <Votes Type="EVCEarly">0</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <PollingPlaces/>
+        </Contest>
+      </Contests>
+    </House>
+  </Election>
+</MediaFeed>

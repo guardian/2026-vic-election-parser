@@ -1,0 +1,3720 @@
+<?xml version="1.0" ?>
+<MediaFeed xmlns:eml="urn:oasis:names:tc:evs:schema:eml" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:xnl="urn:oasis:names:tc:ciq:xsdschema:xNL:2.0" xmlns:ts="urn:oasis:names:tc:evs:schema:eml:ts" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.vec.vic.gov.au" Verbose="true" Id="2e41dbbf-3ac9-45ed-a2a4-c8df53132963" Created="2026-09-26T10:09:00" Phase="ElectionNight">
+  <eml:EventIdentifier Id="18738">
+    <eml:EventName>Test State Election 2026</eml:EventName>
+  </eml:EventIdentifier>
+  <Election>
+    <eml:ElectionIdentifier Id="L">
+      <eml:ElectionName>Lower House election for the State of Victoria 2026</eml:ElectionName>
+      <eml:ElectionCategory>LowerHouse</eml:ElectionCategory>
+    </eml:ElectionIdentifier>
+    <House>
+      <Contests>
+        <Contest Updated="2026-09-25T16:33:48+11:00">
+          <eml:ContestIdentifier Id="18828">
+            <eml:ContestName>Bass District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15963">
+            <Name>Bass District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>5000</Enrolment>
+          <FirstPreferences PollingPlacesReturned="9" PollingPlacesExpected="9" Updated="2026-09-25T14:07:03+11:00">
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="24952">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>55</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">26</Votes>
+                <Votes Type="EVCEarly">18</Votes>
+                <Votes Type="MobileVotingEarly">8</Votes>
+                <Votes Type="Postal">3</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24970">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="8">
+                  <eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>44</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">26</Votes>
+                <Votes Type="EVCEarly">6</Votes>
+                <Votes Type="MobileVotingEarly">5</Votes>
+                <Votes Type="Postal">7</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24971">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="88">
+                  <eml:RegisteredName>Pauline Hanson's One Nation</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>37</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">21</Votes>
+                <Votes Type="EVCEarly">10</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">5</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24975">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="5">
+                  <eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>30</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">15</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>166</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">88</Votes>
+                <Votes Type="EVCEarly">46</Votes>
+                <Votes Type="MobileVotingEarly">16</Votes>
+                <Votes Type="Postal">16</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>11</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">7</Votes>
+                <Votes Type="EVCEarly">3</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>177</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">95</Votes>
+                <Votes Type="EVCEarly">49</Votes>
+                <Votes Type="MobileVotingEarly">17</Votes>
+                <Votes Type="Postal">16</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <TwoCandidatePreferred PollingPlacesReturned="9" PollingPlacesExpected="9" Updated="2026-09-25T16:33:48+11:00">
+            <Candidate>
+              <eml:CandidateIdentifier Id="24952">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>94</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">45</Votes>
+                <Votes Type="EVCEarly">28</Votes>
+                <Votes Type="MobileVotingEarly">14</Votes>
+                <Votes Type="Postal">7</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate>
+              <eml:CandidateIdentifier Id="24971">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>71</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">43</Votes>
+                <Votes Type="EVCEarly">17</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">9</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+          </TwoCandidatePreferred>
+          <PollingPlaces>
+            <PollingPlace Updated="2026-09-21T12:09:17+11:00">
+              <PollingPlaceIdentifier Id="18839" Name="Bass" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T09:51:16+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>8</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T12:09:17+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>11</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>7</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T14:30:49+11:00">
+              <PollingPlaceIdentifier Id="18850" Name="Clyde" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T12:08:20+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>19</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>20</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T14:30:49+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>9</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T14:44:17+11:00">
+              <PollingPlaceIdentifier Id="18864" Name="Grantville" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T14:29:46+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T14:44:17+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>11</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:31:02+11:00">
+              <PollingPlaceIdentifier Id="18895" Name="Rolling Hills" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:29:02+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>20</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:31:02+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>18</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>0</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:31:17+11:00">
+              <PollingPlaceIdentifier Id="18880" Name="San Remo" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:29:25+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:31:17+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>15</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T11:03:54+11:00">
+              <PollingPlaceIdentifier Id="19009" Name="Bass - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T14:30:12+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>9</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T11:03:54+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>5</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T12:52:18+11:00">
+              <PollingPlaceIdentifier Id="18904" Name="Bass - EVC 2" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-22T11:00:55+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T12:52:18+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>7</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:31:39+11:00">
+              <PollingPlaceIdentifier Id="18953" Name="Evelyn - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:29:54+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:31:39+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>11</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>5</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T14:49:14+11:00">
+              <PollingPlaceIdentifier Id="19081" Name="Bass - MEVC" Classification="MobileVoting"/>
+              <FirstPreferences Updated="2026-09-22T12:50:49+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>8</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24970"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24975"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T14:49:14+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24952"/>
+                  <Votes>14</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24971"/>
+                  <Votes>2</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+          </PollingPlaces>
+        </Contest>
+        <Contest Updated="2026-09-25T16:34:37+11:00">
+          <eml:ContestIdentifier Id="18788">
+            <eml:ContestName>Evelyn District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15977">
+            <Name>Evelyn District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>5500</Enrolment>
+          <FirstPreferences PollingPlacesReturned="9" PollingPlacesExpected="9" Updated="2026-09-25T14:11:17+11:00">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24982">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>65</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">34</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">10</Votes>
+                <Votes Type="Postal">9</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25000">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>28</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">15</Votes>
+                <Votes Type="EVCEarly">11</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25026">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>31</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">11</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">3</Votes>
+                <Votes Type="Postal">5</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25029">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="90">
+                  <eml:RegisteredName>Victorian Socialists</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>35</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">10</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">7</Votes>
+                <Votes Type="Postal">6</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>159</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">70</Votes>
+                <Votes Type="EVCEarly">47</Votes>
+                <Votes Type="MobileVotingEarly">22</Votes>
+                <Votes Type="Postal">20</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>23</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">15</Votes>
+                <Votes Type="EVCEarly">6</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">2</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>182</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">85</Votes>
+                <Votes Type="EVCEarly">53</Votes>
+                <Votes Type="MobileVotingEarly">22</Votes>
+                <Votes Type="Postal">22</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <TwoCandidatePreferred PollingPlacesReturned="9" PollingPlacesExpected="9" Updated="2026-09-25T16:34:37+11:00" Maverick="true"/>
+          <PollingPlaces>
+            <PollingPlace Updated="2026-09-21T15:21:43+11:00">
+              <PollingPlaceIdentifier Id="18844" Name="Bimbadeen" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T09:58:09+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>19</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>20</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:21:43+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:22:09+11:00">
+              <PollingPlaceIdentifier Id="18866" Name="Lilydale Heights" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T14:56:57+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>11</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>0</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:22:09+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:51:02+11:00">
+              <PollingPlaceIdentifier Id="18869" Name="Montrose" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:43:41+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>9</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>3</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:51:02+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:51:34+11:00">
+              <PollingPlaceIdentifier Id="18879" Name="Rolling Hills" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:44:18+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>0</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>6</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>9</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:51:34+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:51:49+11:00">
+              <PollingPlaceIdentifier Id="18893" Name="San Remo" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:44:41+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>8</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:51:49+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:52:10+11:00">
+              <PollingPlaceIdentifier Id="18984" Name="Bass - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:45:28+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:52:10+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T11:19:32+11:00">
+              <PollingPlaceIdentifier Id="19061" Name="Evelyn - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T14:57:18+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T11:19:32+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T12:55:36+11:00">
+              <PollingPlaceIdentifier Id="19053" Name="Evelyn - EVC 2" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-22T11:18:50+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T12:55:36+11:00" Maverick="true"/>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T14:49:54+11:00">
+              <PollingPlaceIdentifier Id="19085" Name="Evelyn - MEVC" Classification="MobileVoting"/>
+              <FirstPreferences Updated="2026-09-22T12:53:24+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24982"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25000"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25026"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25029"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>22</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>0</Votes>
+                </Informal>
+                <Total>
+                  <Votes>22</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T14:49:54+11:00" Maverick="true"/>
+            </PollingPlace>
+          </PollingPlaces>
+        </Contest>
+        <Contest Updated="2026-09-25T16:37:06+11:00">
+          <eml:ContestIdentifier Id="18829">
+            <eml:ContestName>Gippsland East District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15917">
+            <Name>Gippsland East District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>4500</Enrolment>
+          <FirstPreferences PollingPlacesReturned="10" PollingPlacesExpected="10" Updated="2026-09-25T16:36:30+11:00">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25030">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="90">
+                  <eml:RegisteredName>Victorian Socialists</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>38</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">19</Votes>
+                <Votes Type="EVCEarly">10</Votes>
+                <Votes Type="MobileVotingEarly">3</Votes>
+                <Votes Type="Postal">6</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24984">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>31</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">19</Votes>
+                <Votes Type="EVCEarly">5</Votes>
+                <Votes Type="MobileVotingEarly">6</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25067">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>30</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">17</Votes>
+                <Votes Type="EVCEarly">8</Votes>
+                <Votes Type="MobileVotingEarly">5</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25006">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>42</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">25</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">4</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25068">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>37</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">13</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">10</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>178</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">93</Votes>
+                <Votes Type="EVCEarly">47</Votes>
+                <Votes Type="MobileVotingEarly">17</Votes>
+                <Votes Type="Postal">21</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>18</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">11</Votes>
+                <Votes Type="EVCEarly">4</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>196</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">104</Votes>
+                <Votes Type="EVCEarly">51</Votes>
+                <Votes Type="MobileVotingEarly">19</Votes>
+                <Votes Type="Postal">22</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <TwoCandidatePreferred PollingPlacesReturned="10" PollingPlacesExpected="10" Updated="2026-09-25T16:37:06+11:00">
+            <Candidate>
+              <eml:CandidateIdentifier Id="25067">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>77</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">51</Votes>
+                <Votes Type="EVCEarly">16</Votes>
+                <Votes Type="MobileVotingEarly">6</Votes>
+                <Votes Type="Postal">4</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate>
+              <eml:CandidateIdentifier Id="25068">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>99</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">42</Votes>
+                <Votes Type="EVCEarly">30</Votes>
+                <Votes Type="MobileVotingEarly">10</Votes>
+                <Votes Type="Postal">17</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+          </TwoCandidatePreferred>
+          <PollingPlaces>
+            <PollingPlace Updated="2026-09-21T12:10:27+11:00">
+              <PollingPlaceIdentifier Id="18837" Name="Bairnsdale West" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T09:58:58+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T12:10:27+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>9</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:23:34+11:00">
+              <PollingPlaceIdentifier Id="18846" Name="Buchan" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T12:11:10+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:23:34+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>12</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>4</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:25:05+11:00">
+              <PollingPlaceIdentifier Id="18856" Name="Eagle Point" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:24:06+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:25:05+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>13</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>3</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:55:51+11:00">
+              <PollingPlaceIdentifier Id="18868" Name="Lucknow" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:53:19+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:55:51+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>6</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:56:08+11:00">
+              <PollingPlaceIdentifier Id="18876" Name="Newmerella" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:54:10+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>4</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:56:08+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>8</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:56:26+11:00">
+              <PollingPlaceIdentifier Id="18896" Name="San Remo" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:54:28+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:56:26+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>12</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:56:48+11:00">
+              <PollingPlaceIdentifier Id="18946" Name="Bass - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:54:56+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:56:48+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T11:20:50+11:00">
+              <PollingPlaceIdentifier Id="18900" Name="Gippsland East - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:24:35+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T11:20:50+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T11:57:01+11:00">
+              <PollingPlaceIdentifier Id="18903" Name="Gippsland East - EVC 2" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:55:21+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T11:57:01+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T14:52:10+11:00">
+              <PollingPlaceIdentifier Id="19083" Name="Gippsland East - MEVC" Classification="MobileVoting"/>
+              <FirstPreferences Updated="2026-09-22T12:56:39+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25030"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24984"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25006"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T14:52:10+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25067"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25068"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+          </PollingPlaces>
+        </Contest>
+        <Contest Updated="2026-09-25T16:38:26+11:00">
+          <eml:ContestIdentifier Id="18821">
+            <eml:ContestName>Gippsland South District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15969">
+            <Name>Gippsland South District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>6000</Enrolment>
+          <FirstPreferences PollingPlacesReturned="10" PollingPlacesExpected="10" Updated="2026-09-25T14:30:24+11:00">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24985">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>50</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">27</Votes>
+                <Votes Type="EVCEarly">14</Votes>
+                <Votes Type="MobileVotingEarly">4</Votes>
+                <Votes Type="Postal">5</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25033">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="90">
+                  <eml:RegisteredName>Victorian Socialists</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>32</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">18</Votes>
+                <Votes Type="EVCEarly">5</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">7</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25005">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>26</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">16</Votes>
+                <Votes Type="EVCEarly">6</Votes>
+                <Votes Type="MobileVotingEarly">3</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25069">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>31</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">18</Votes>
+                <Votes Type="EVCEarly">7</Votes>
+                <Votes Type="MobileVotingEarly">6</Votes>
+                <Votes Type="Postal">0</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25071">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>43</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">16</Votes>
+                <Votes Type="EVCEarly">11</Votes>
+                <Votes Type="MobileVotingEarly">5</Votes>
+                <Votes Type="Postal">11</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>182</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">95</Votes>
+                <Votes Type="EVCEarly">43</Votes>
+                <Votes Type="MobileVotingEarly">20</Votes>
+                <Votes Type="Postal">24</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>18</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">10</Votes>
+                <Votes Type="EVCEarly">4</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">4</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>200</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">105</Votes>
+                <Votes Type="EVCEarly">47</Votes>
+                <Votes Type="MobileVotingEarly">20</Votes>
+                <Votes Type="Postal">28</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <TwoCandidatePreferred PollingPlacesReturned="10" PollingPlacesExpected="10" Updated="2026-09-25T16:38:26+11:00">
+            <Candidate>
+              <eml:CandidateIdentifier Id="25033">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>91</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">42</Votes>
+                <Votes Type="EVCEarly">24</Votes>
+                <Votes Type="MobileVotingEarly">8</Votes>
+                <Votes Type="Postal">17</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate>
+              <eml:CandidateIdentifier Id="25005">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>87</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">50</Votes>
+                <Votes Type="EVCEarly">18</Votes>
+                <Votes Type="MobileVotingEarly">12</Votes>
+                <Votes Type="Postal">7</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+          </TwoCandidatePreferred>
+          <PollingPlaces>
+            <PollingPlace Updated="2026-09-21T12:12:38+11:00">
+              <PollingPlaceIdentifier Id="18836" Name="Alberton" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T10:00:01+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T12:12:38+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>5</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:28:27+11:00">
+              <PollingPlaceIdentifier Id="18842" Name="Bena" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T12:12:00+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:28:27+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>11</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:29:15+11:00">
+              <PollingPlaceIdentifier Id="18863" Name="Gormandale" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:27:27+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:29:15+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>7</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:24:50+11:00">
+              <PollingPlaceIdentifier Id="18891" Name="Lucknow" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:58:14+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>0</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:24:50+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>12</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:25:24+11:00">
+              <PollingPlaceIdentifier Id="18872" Name="Mount Eccles" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:58:35+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>20</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:25:24+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>11</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>7</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:25:52+11:00">
+              <PollingPlaceIdentifier Id="18882" Name="Seaspray" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:59:13+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>4</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:25:52+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>8</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:26:09+11:00">
+              <PollingPlaceIdentifier Id="18940" Name="Gippsland East - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T11:59:37+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>13</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:26:09+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>11</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>2</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T11:26:21+11:00">
+              <PollingPlaceIdentifier Id="19037" Name="Gippsland South - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:27:44+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>8</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>0</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>13</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>14</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T11:26:21+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>6</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T12:57:51+11:00">
+              <PollingPlaceIdentifier Id="18952" Name="Gippsland South - EVC 2" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-22T11:25:35+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T12:57:51+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T14:55:18+11:00">
+              <PollingPlaceIdentifier Id="19082" Name="Gippsland South - MEVC" Classification="MobileVoting"/>
+              <FirstPreferences Updated="2026-09-22T14:54:02+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24985"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25069"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25071"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>20</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>0</Votes>
+                </Informal>
+                <Total>
+                  <Votes>20</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T14:55:18+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25033"/>
+                  <Votes>8</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25005"/>
+                  <Votes>12</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+          </PollingPlaces>
+        </Contest>
+        <Contest Updated="2026-09-25T16:39:33+11:00">
+          <eml:ContestIdentifier Id="18832">
+            <eml:ContestName>Hastings District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15942">
+            <Name>Hastings District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>4000</Enrolment>
+          <FirstPreferences PollingPlacesReturned="10" PollingPlacesExpected="10" Updated="2026-09-25T14:31:21+11:00">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25070">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>40</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">18</Votes>
+                <Votes Type="EVCEarly">12</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">9</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25021">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>31</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">14</Votes>
+                <Votes Type="EVCEarly">8</Votes>
+                <Votes Type="MobileVotingEarly">8</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25072">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>30</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">15</Votes>
+                <Votes Type="EVCEarly">8</Votes>
+                <Votes Type="MobileVotingEarly">4</Votes>
+                <Votes Type="Postal">3</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24986">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>27</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">15</Votes>
+                <Votes Type="EVCEarly">4</Votes>
+                <Votes Type="MobileVotingEarly">3</Votes>
+                <Votes Type="Postal">5</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25073">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="87">
+                  <eml:RegisteredName>Transport Matters Party</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>36</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">17</Votes>
+                <Votes Type="EVCEarly">11</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">6</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25074">
+                <eml:CandidateName>CANDIDATE, Six</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="8">
+                  <eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>6</BallotPosition>
+              <Votes>24</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">14</Votes>
+                <Votes Type="EVCEarly">8</Votes>
+                <Votes Type="MobileVotingEarly">0</Votes>
+                <Votes Type="Postal">2</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>188</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">93</Votes>
+                <Votes Type="EVCEarly">51</Votes>
+                <Votes Type="MobileVotingEarly">18</Votes>
+                <Votes Type="Postal">26</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>16</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">9</Votes>
+                <Votes Type="EVCEarly">4</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">2</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>204</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">102</Votes>
+                <Votes Type="EVCEarly">55</Votes>
+                <Votes Type="MobileVotingEarly">19</Votes>
+                <Votes Type="Postal">28</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <TwoCandidatePreferred PollingPlacesReturned="10" PollingPlacesExpected="10" Updated="2026-09-25T16:39:33+11:00">
+            <Candidate>
+              <eml:CandidateIdentifier Id="25073">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>103</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">56</Votes>
+                <Votes Type="EVCEarly">34</Votes>
+                <Votes Type="MobileVotingEarly">10</Votes>
+                <Votes Type="Postal">3</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate>
+              <eml:CandidateIdentifier Id="25074">
+                <eml:CandidateName>CANDIDATE, Six</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>80</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">36</Votes>
+                <Votes Type="EVCEarly">15</Votes>
+                <Votes Type="MobileVotingEarly">8</Votes>
+                <Votes Type="Postal">21</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+          </TwoCandidatePreferred>
+          <PollingPlaces>
+            <PollingPlace Updated="2026-09-21T12:14:42+11:00">
+              <PollingPlaceIdentifier Id="18840" Name="Baxter" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T12:13:46+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T12:14:42+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>12</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:36:38+11:00">
+              <PollingPlaceIdentifier Id="18852" Name="Crib Point" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:35:31+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:36:38+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>5</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:42:44+11:00">
+              <PollingPlaceIdentifier Id="18857" Name="Langwarrin" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:39:27+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:42:44+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>13</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>2</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:43:09+11:00">
+              <PollingPlaceIdentifier Id="18892" Name="Mt Martha" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:39:51+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>4</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:43:09+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>4</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:43:24+11:00">
+              <PollingPlaceIdentifier Id="18883" Name="Somerville West" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:40:20+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:43:24+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>11</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>6</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:43:42+11:00">
+              <PollingPlaceIdentifier Id="18888" Name="Woodlands" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:40:40+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>14</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>15</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:43:42+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>7</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T11:28:35+11:00">
+              <PollingPlaceIdentifier Id="19004" Name="Hastings - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:36:06+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T11:28:35+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T12:59:57+11:00">
+              <PollingPlaceIdentifier Id="19000" Name="Hastings - EVC 2" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-22T11:27:47+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T12:59:57+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>12</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>4</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:43:58+11:00">
+              <PollingPlaceIdentifier Id="18959" Name="Mornington - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:41:27+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>5</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>2</Votes>
+                </Informal>
+                <Total>
+                  <Votes>20</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:43:58+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>17</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>1</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:44:12+11:00">
+              <PollingPlaceIdentifier Id="19087" Name="Hastings - MEVC" Classification="MobileVoting"/>
+              <FirstPreferences Updated="2026-09-22T12:59:26+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25070"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25021"/>
+                  <Votes>8</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25072"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24986"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>0</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:44:12+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25073"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25074"/>
+                  <Votes>8</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+          </PollingPlaces>
+        </Contest>
+        <Contest Updated="2026-09-25T16:40:37+11:00">
+          <eml:ContestIdentifier Id="18814">
+            <eml:ContestName>Monbulk District</eml:ContestName>
+          </eml:ContestIdentifier>
+          <PollingDistrictIdentifier Id="15913">
+            <Name>Monbulk District</Name>
+          </PollingDistrictIdentifier>
+          <Declared>false</Declared>
+          <NumberOfPositions>1</NumberOfPositions>
+          <Enrolment>6500</Enrolment>
+          <FirstPreferences PollingPlacesReturned="9" PollingPlacesExpected="9" Updated="2026-09-25T14:34:09+11:00">
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25075">
+                <eml:CandidateName>CANDIDATE, One</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="86">
+                  <eml:RegisteredName>Health Australia Party</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>1</BallotPosition>
+              <Votes>20</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">11</Votes>
+                <Votes Type="EVCEarly">4</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">4</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25076">
+                <eml:CandidateName>CANDIDATE, Two</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="5">
+                  <eml:RegisteredName>Australian Labor Party - Victorian Branch</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>2</BallotPosition>
+              <Votes>24</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">9</Votes>
+                <Votes Type="EVCEarly">3</Votes>
+                <Votes Type="MobileVotingEarly">4</Votes>
+                <Votes Type="Postal">8</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25077">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="99">
+                  <eml:RegisteredName>Freedom Party of Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>3</BallotPosition>
+              <Votes>20</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">11</Votes>
+                <Votes Type="EVCEarly">6</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25078">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="8">
+                  <eml:RegisteredName>Liberal Party of Australia - Victorian Division</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>4</BallotPosition>
+              <Votes>22</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">14</Votes>
+                <Votes Type="EVCEarly">4</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">3</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="24988">
+                <eml:CandidateName>CANDIDATE, Five</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="4">
+                  <eml:RegisteredName>The Australian Greens - Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>5</BallotPosition>
+              <Votes>28</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">14</Votes>
+                <Votes Type="EVCEarly">5</Votes>
+                <Votes Type="MobileVotingEarly">2</Votes>
+                <Votes Type="Postal">7</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25009">
+                <eml:CandidateName>CANDIDATE, Six</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="101">
+                  <eml:RegisteredName>Family First Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>6</BallotPosition>
+              <Votes>22</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">15</Votes>
+                <Votes Type="EVCEarly">2</Votes>
+                <Votes Type="MobileVotingEarly">3</Votes>
+                <Votes Type="Postal">2</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="yes">
+              <eml:CandidateIdentifier Id="25079">
+                <eml:CandidateName>CANDIDATE, Seven</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Elected>false</Elected>
+              <BallotPosition>7</BallotPosition>
+              <Votes>17</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">12</Votes>
+                <Votes Type="EVCEarly">3</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate Independent="no">
+              <eml:CandidateIdentifier Id="25080">
+                <eml:CandidateName>CANDIDATE, Eight</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Affiliation>
+                <eml:AffiliationIdentifier Id="28">
+                  <eml:RegisteredName>Shooters, Fishers and Farmers Party Victoria</eml:RegisteredName>
+                </eml:AffiliationIdentifier>
+              </Affiliation>
+              <Elected>false</Elected>
+              <BallotPosition>8</BallotPosition>
+              <Votes>21</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">12</Votes>
+                <Votes Type="EVCEarly">6</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">2</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Formal>
+              <Votes>174</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">98</Votes>
+                <Votes Type="EVCEarly">33</Votes>
+                <Votes Type="MobileVotingEarly">15</Votes>
+                <Votes Type="Postal">28</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Formal>
+            <Informal>
+              <Votes>11</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">7</Votes>
+                <Votes Type="EVCEarly">2</Votes>
+                <Votes Type="MobileVotingEarly">1</Votes>
+                <Votes Type="Postal">1</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Informal>
+            <Total>
+              <Votes>185</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">105</Votes>
+                <Votes Type="EVCEarly">35</Votes>
+                <Votes Type="MobileVotingEarly">16</Votes>
+                <Votes Type="Postal">29</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Total>
+          </FirstPreferences>
+          <TwoCandidatePreferred PollingPlacesReturned="9" PollingPlacesExpected="9" Updated="2026-09-25T16:40:37+11:00">
+            <Candidate>
+              <eml:CandidateIdentifier Id="25077">
+                <eml:CandidateName>CANDIDATE, Three</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>101</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">56</Votes>
+                <Votes Type="EVCEarly">21</Votes>
+                <Votes Type="MobileVotingEarly">9</Votes>
+                <Votes Type="Postal">15</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+            <Candidate>
+              <eml:CandidateIdentifier Id="25078">
+                <eml:CandidateName>CANDIDATE, Four</eml:CandidateName>
+              </eml:CandidateIdentifier>
+              <Votes>68</Votes>
+              <VotesByType>
+                <Votes Type="Ordinary">40</Votes>
+                <Votes Type="EVCEarly">11</Votes>
+                <Votes Type="MobileVotingEarly">5</Votes>
+                <Votes Type="Postal">12</Votes>
+                <Votes Type="Early">0</Votes>
+                <Votes Type="MarkedAsVoted">0</Votes>
+                <Votes Type="Provisional">0</Votes>
+                <Votes Type="Absent">0</Votes>
+              </VotesByType>
+            </Candidate>
+          </TwoCandidatePreferred>
+          <PollingPlaces>
+            <PollingPlace Updated="2026-09-21T12:15:47+11:00">
+              <PollingPlaceIdentifier Id="18841" Name="Belgrave South" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T10:00:57+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>18</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T12:15:47+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>8</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:38:20+11:00">
+              <PollingPlaceIdentifier Id="18851" Name="Cockatoo" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T12:16:46+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>0</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:38:20+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>7</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-21T15:39:01+11:00">
+              <PollingPlaceIdentifier Id="18860" Name="Ferntree Gully North" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-21T15:37:53+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>0</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-21T15:39:01+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>12</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>5</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:53:56+11:00">
+              <PollingPlaceIdentifier Id="18886" Name="Ferntree Gully Upper" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:47:56+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:53:56+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>4</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:54:11+11:00">
+              <PollingPlaceIdentifier Id="18861" Name="Gembrook" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:48:17+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:54:11+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>7</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:54:28+11:00">
+              <PollingPlaceIdentifier Id="18881" Name="Sassafras" Classification="VotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:48:43+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>3</Votes>
+                </Informal>
+                <Total>
+                  <Votes>19</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:54:28+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>10</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>6</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T11:31:08+11:00">
+              <PollingPlaceIdentifier Id="18901" Name="Monbulk - EVC 1" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-22T11:30:21+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>16</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>17</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T11:31:08+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>15</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>1</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-24T12:54:43+11:00">
+              <PollingPlaceIdentifier Id="19050" Name="Monbulk - EVC 2" Classification="EarlyVotingCentre"/>
+              <FirstPreferences Updated="2026-09-24T12:53:10+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>17</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>18</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-24T12:54:43+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>6</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>10</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+            <PollingPlace Updated="2026-09-22T14:56:40+11:00">
+              <PollingPlaceIdentifier Id="19080" Name="Monbulk - MEVC" Classification="MobileVoting"/>
+              <FirstPreferences Updated="2026-09-22T13:02:10+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25075"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25076"/>
+                  <Votes>4</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="24988"/>
+                  <Votes>2</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25009"/>
+                  <Votes>3</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25079"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25080"/>
+                  <Votes>1</Votes>
+                </Candidate>
+                <Formal>
+                  <Votes>15</Votes>
+                </Formal>
+                <Informal>
+                  <Votes>1</Votes>
+                </Informal>
+                <Total>
+                  <Votes>16</Votes>
+                </Total>
+              </FirstPreferences>
+              <TwoCandidatePreferred Updated="2026-09-22T14:56:40+11:00">
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25077"/>
+                  <Votes>9</Votes>
+                </Candidate>
+                <Candidate>
+                  <eml:CandidateIdentifier Id="25078"/>
+                  <Votes>5</Votes>
+                </Candidate>
+              </TwoCandidatePreferred>
+            </PollingPlace>
+          </PollingPlaces>
+        </Contest>
+      </Contests>
+    </House>
+  </Election>
+</MediaFeed>
