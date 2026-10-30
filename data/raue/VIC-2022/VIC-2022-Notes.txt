@@ -1,0 +1,6 @@
+The two-candidate-preferred count at the seat level is based on the distribution of preferences, whereas the count at the booth level is based on the national count from election night and subsequent days. This means there are differences between the total numbers, and in some seats the pairings are different. The counts in Hawthorn and Kew were between Liberal and Independent, but the final distribution was between Liberal and Labor. The count in Shepparton was between Liberal and Independent but the final distribution was between Nationals and Independent.
+
+There are 23 seats where the distribution of preferences was halted before reaching the final two candidates, so the seat-level 2CP in these seats is simply a sum of the notional booth-level count. These seats are: 
+
+Bendigo East, Berwick, Brighton, Brunswick, Bulleen, Bundoora, Carrum, Clarinda, Cranbourne, Greenvale, Kororoit, Lara, Laverton, Mill Park, Narre Warren North, Narre Warren South, Nepean, Sandringham, Sydenham, Tarneit, Warranty, Werribee, Yan Yean.
+
