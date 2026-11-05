@@ -1,0 +1,305 @@
+candidate_id,votes,pp_id,pp_name,pp_type,pp_last_update,district_id,district_name,enrolment_2026,candidate_name,party_name,party_code,incumbent,ballot_order_2026,address,suburb,latitude,longitude,postcode
+24952,8,18839,Bass,VotingCentre,2026-09-21T12:09:17+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,2-4 Bass School Road,Bass,-38.48453,145.466,3991.0
+24970,5,18839,Bass,VotingCentre,2026-09-21T12:09:17+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,2-4 Bass School Road,Bass,-38.48453,145.466,3991.0
+24971,3,18839,Bass,VotingCentre,2026-09-21T12:09:17+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,2-4 Bass School Road,Bass,-38.48453,145.466,3991.0
+24975,2,18839,Bass,VotingCentre,2026-09-21T12:09:17+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,2-4 Bass School Road,Bass,-38.48453,145.466,3991.0
+24952,4,18850,Clyde,VotingCentre,2026-09-21T14:30:49+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,,Clyde,-38.13182,145.3298,3978.0
+24970,7,18850,Clyde,VotingCentre,2026-09-21T14:30:49+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,,Clyde,-38.13182,145.3298,3978.0
+24971,3,18850,Clyde,VotingCentre,2026-09-21T14:30:49+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,,Clyde,-38.13182,145.3298,3978.0
+24975,5,18850,Clyde,VotingCentre,2026-09-21T14:30:49+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,,Clyde,-38.13182,145.3298,3978.0
+24952,5,18864,Grantville,VotingCentre,2026-09-21T14:44:17+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,1470 Bass Highway,Grantville,-38.40449,145.5327,3984.0
+24970,5,18864,Grantville,VotingCentre,2026-09-21T14:44:17+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,1470 Bass Highway,Grantville,-38.40449,145.5327,3984.0
+24971,4,18864,Grantville,VotingCentre,2026-09-21T14:44:17+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,1470 Bass Highway,Grantville,-38.40449,145.5327,3984.0
+24975,3,18864,Grantville,VotingCentre,2026-09-21T14:44:17+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,1470 Bass Highway,Grantville,-38.40449,145.5327,3984.0
+24952,5,18895,Rolling Hills,VotingCentre,2026-09-24T11:31:02+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,,,,,
+24970,6,18895,Rolling Hills,VotingCentre,2026-09-24T11:31:02+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,,,,,
+24971,4,18895,Rolling Hills,VotingCentre,2026-09-24T11:31:02+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,,,,,
+24975,3,18895,Rolling Hills,VotingCentre,2026-09-24T11:31:02+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,,,,,
+24952,4,18880,San Remo,VotingCentre,2026-09-24T11:31:17+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,,San Remo,-38.52401,145.3708,3925.0
+24970,3,18880,San Remo,VotingCentre,2026-09-24T11:31:17+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,,San Remo,-38.52401,145.3708,3925.0
+24971,7,18880,San Remo,VotingCentre,2026-09-24T11:31:17+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,,San Remo,-38.52401,145.3708,3925.0
+24975,2,18880,San Remo,VotingCentre,2026-09-24T11:31:17+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,,San Remo,-38.52401,145.3708,3925.0
+24952,9,19009,Bass - EVC 1,EarlyVotingCentre,2026-09-22T11:03:54+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,44 Thompson Ave,Cowes,-38.44951,145.2387,3922.0
+24970,1,19009,Bass - EVC 1,EarlyVotingCentre,2026-09-22T11:03:54+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,44 Thompson Ave,Cowes,-38.44951,145.2387,3922.0
+24971,3,19009,Bass - EVC 1,EarlyVotingCentre,2026-09-22T11:03:54+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,44 Thompson Ave,Cowes,-38.44951,145.2387,3922.0
+24975,2,19009,Bass - EVC 1,EarlyVotingCentre,2026-09-22T11:03:54+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,44 Thompson Ave,Cowes,-38.44951,145.2387,3922.0
+24952,3,18904,Bass - EVC 2,EarlyVotingCentre,2026-09-22T12:52:18+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,46 Murray St,Wonthaggi,-38.60502,145.5875,3995.0
+24970,3,18904,Bass - EVC 2,EarlyVotingCentre,2026-09-22T12:52:18+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,46 Murray St,Wonthaggi,-38.60502,145.5875,3995.0
+24971,3,18904,Bass - EVC 2,EarlyVotingCentre,2026-09-22T12:52:18+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,46 Murray St,Wonthaggi,-38.60502,145.5875,3995.0
+24975,5,18904,Bass - EVC 2,EarlyVotingCentre,2026-09-22T12:52:18+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,46 Murray St,Wonthaggi,-38.60502,145.5875,3995.0
+24952,6,18953,Evelyn - EVC 1,EarlyVotingCentre,2026-09-24T11:31:39+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,,,,,
+24970,2,18953,Evelyn - EVC 1,EarlyVotingCentre,2026-09-24T11:31:39+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,,,,,
+24971,4,18953,Evelyn - EVC 1,EarlyVotingCentre,2026-09-24T11:31:39+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,,,,,
+24975,5,18953,Evelyn - EVC 1,EarlyVotingCentre,2026-09-24T11:31:39+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,,,,,
+24952,8,19081,Bass - MEVC,MobileVoting,2026-09-22T14:49:14+11:00,15963,Bass District,5000,"CANDIDATE, One",Independent,,no,1,Multiple mobile voting locations,,,,
+24970,5,19081,Bass - MEVC,MobileVoting,2026-09-22T14:49:14+11:00,15963,Bass District,5000,"CANDIDATE, Two",Liberal Party of Australia - Victorian Division,8.0,no,2,Multiple mobile voting locations,,,,
+24971,1,19081,Bass - MEVC,MobileVoting,2026-09-22T14:49:14+11:00,15963,Bass District,5000,"CANDIDATE, Three",Pauline Hanson's One Nation,88.0,no,3,Multiple mobile voting locations,,,,
+24975,2,19081,Bass - MEVC,MobileVoting,2026-09-22T14:49:14+11:00,15963,Bass District,5000,"CANDIDATE, Four",Australian Labor Party - Victorian Branch,5.0,no,4,Multiple mobile voting locations,,,,
+24982,6,18844,Bimbadeen,VotingCentre,2026-09-21T15:21:43+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,118 Hayrick Lane,Mooroolbark,-37.77485,145.3213,3138.0
+25000,6,18844,Bimbadeen,VotingCentre,2026-09-21T15:21:43+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,118 Hayrick Lane,Mooroolbark,-37.77485,145.3213,3138.0
+25026,5,18844,Bimbadeen,VotingCentre,2026-09-21T15:21:43+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,118 Hayrick Lane,Mooroolbark,-37.77485,145.3213,3138.0
+25029,2,18844,Bimbadeen,VotingCentre,2026-09-21T15:21:43+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,118 Hayrick Lane,Mooroolbark,-37.77485,145.3213,3138.0
+24982,11,18866,Lilydale Heights,VotingCentre,2026-09-21T15:22:09+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,"Gate 4, 17 Nelson Road",Lilydale,-37.74609,145.3414,3140.0
+25000,2,18866,Lilydale Heights,VotingCentre,2026-09-21T15:22:09+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,"Gate 4, 17 Nelson Road",Lilydale,-37.74609,145.3414,3140.0
+25026,1,18866,Lilydale Heights,VotingCentre,2026-09-21T15:22:09+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,"Gate 4, 17 Nelson Road",Lilydale,-37.74609,145.3414,3140.0
+25029,1,18866,Lilydale Heights,VotingCentre,2026-09-21T15:22:09+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,"Gate 4, 17 Nelson Road",Lilydale,-37.74609,145.3414,3140.0
+24982,9,18869,Montrose,VotingCentre,2026-09-24T11:51:02+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,17–21 Leith Road,Montrose,-37.80798,145.3446,3765.0
+25000,4,18869,Montrose,VotingCentre,2026-09-24T11:51:02+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,17–21 Leith Road,Montrose,-37.80798,145.3446,3765.0
+25026,1,18869,Montrose,VotingCentre,2026-09-24T11:51:02+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,17–21 Leith Road,Montrose,-37.80798,145.3446,3765.0
+25029,2,18869,Montrose,VotingCentre,2026-09-24T11:51:02+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,17–21 Leith Road,Montrose,-37.80798,145.3446,3765.0
+24982,0,18879,Rolling Hills,VotingCentre,2026-09-24T11:51:34+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,52 Landscape Drive,Mooroolbark,-37.76638,145.3266,3138.0
+25000,1,18879,Rolling Hills,VotingCentre,2026-09-24T11:51:34+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,52 Landscape Drive,Mooroolbark,-37.76638,145.3266,3138.0
+25026,3,18879,Rolling Hills,VotingCentre,2026-09-24T11:51:34+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,52 Landscape Drive,Mooroolbark,-37.76638,145.3266,3138.0
+25029,2,18879,Rolling Hills,VotingCentre,2026-09-24T11:51:34+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,52 Landscape Drive,Mooroolbark,-37.76638,145.3266,3138.0
+24982,8,18893,San Remo,VotingCentre,2026-09-24T11:51:49+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,,,,,
+25000,2,18893,San Remo,VotingCentre,2026-09-24T11:51:49+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,,,,,
+25026,1,18893,San Remo,VotingCentre,2026-09-24T11:51:49+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,,,,,
+25029,3,18893,San Remo,VotingCentre,2026-09-24T11:51:49+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,,,,,
+24982,5,18984,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:52:10+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,,,,,
+25000,6,18984,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:52:10+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,,,,,
+25026,2,18984,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:52:10+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,,,,,
+25029,3,18984,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:52:10+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,,,,,
+24982,4,19061,Evelyn - EVC 1,EarlyVotingCentre,2026-09-22T11:19:32+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,950 Mt Dandenong Tourist Rd,Montrose,-37.81187,145.3459,3765.0
+25000,2,19061,Evelyn - EVC 1,EarlyVotingCentre,2026-09-22T11:19:32+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,950 Mt Dandenong Tourist Rd,Montrose,-37.81187,145.3459,3765.0
+25026,4,19061,Evelyn - EVC 1,EarlyVotingCentre,2026-09-22T11:19:32+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,950 Mt Dandenong Tourist Rd,Montrose,-37.81187,145.3459,3765.0
+25029,4,19061,Evelyn - EVC 1,EarlyVotingCentre,2026-09-22T11:19:32+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,950 Mt Dandenong Tourist Rd,Montrose,-37.81187,145.3459,3765.0
+24982,3,19053,Evelyn - EVC 2,EarlyVotingCentre,2026-09-22T12:55:36+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,24 Main St,Lilydale,-37.75639,145.3436,3140.0
+25000,3,19053,Evelyn - EVC 2,EarlyVotingCentre,2026-09-22T12:55:36+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,24 Main St,Lilydale,-37.75639,145.3436,3140.0
+25026,6,19053,Evelyn - EVC 2,EarlyVotingCentre,2026-09-22T12:55:36+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,24 Main St,Lilydale,-37.75639,145.3436,3140.0
+25029,5,19053,Evelyn - EVC 2,EarlyVotingCentre,2026-09-22T12:55:36+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,24 Main St,Lilydale,-37.75639,145.3436,3140.0
+24982,10,19085,Evelyn - MEVC,MobileVoting,2026-09-22T14:49:54+11:00,15977,Evelyn District,5500,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,Multiple mobile voting locations,,,,
+25000,2,19085,Evelyn - MEVC,MobileVoting,2026-09-22T14:49:54+11:00,15977,Evelyn District,5500,"CANDIDATE, Two",Family First Victoria,101.0,no,2,Multiple mobile voting locations,,,,
+25026,3,19085,Evelyn - MEVC,MobileVoting,2026-09-22T14:49:54+11:00,15977,Evelyn District,5500,"CANDIDATE, Three",Independent,,no,3,Multiple mobile voting locations,,,,
+25029,7,19085,Evelyn - MEVC,MobileVoting,2026-09-22T14:49:54+11:00,15977,Evelyn District,5500,"CANDIDATE, Four",Victorian Socialists,90.0,no,4,Multiple mobile voting locations,,,,
+25030,4,18837,Bairnsdale West,VotingCentre,2026-09-21T12:10:27+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,60 Wallace Street,Bairnsdale,-37.82336,147.6077,3875.0
+24984,3,18837,Bairnsdale West,VotingCentre,2026-09-21T12:10:27+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,60 Wallace Street,Bairnsdale,-37.82336,147.6077,3875.0
+25067,2,18837,Bairnsdale West,VotingCentre,2026-09-21T12:10:27+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,60 Wallace Street,Bairnsdale,-37.82336,147.6077,3875.0
+25006,5,18837,Bairnsdale West,VotingCentre,2026-09-21T12:10:27+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,60 Wallace Street,Bairnsdale,-37.82336,147.6077,3875.0
+25068,1,18837,Bairnsdale West,VotingCentre,2026-09-21T12:10:27+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,60 Wallace Street,Bairnsdale,-37.82336,147.6077,3875.0
+25030,6,18846,Buchan,VotingCentre,2026-09-21T15:23:34+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,4 Dalley Street,Buchan,-37.49748,148.1804,3885.0
+24984,2,18846,Buchan,VotingCentre,2026-09-21T15:23:34+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,4 Dalley Street,Buchan,-37.49748,148.1804,3885.0
+25067,1,18846,Buchan,VotingCentre,2026-09-21T15:23:34+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,4 Dalley Street,Buchan,-37.49748,148.1804,3885.0
+25006,4,18846,Buchan,VotingCentre,2026-09-21T15:23:34+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,4 Dalley Street,Buchan,-37.49748,148.1804,3885.0
+25068,3,18846,Buchan,VotingCentre,2026-09-21T15:23:34+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,4 Dalley Street,Buchan,-37.49748,148.1804,3885.0
+25030,1,18856,Eagle Point,VotingCentre,2026-09-21T15:25:05+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,43 School Road,Eagle Point,-37.89231,147.6799,3878.0
+24984,3,18856,Eagle Point,VotingCentre,2026-09-21T15:25:05+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,43 School Road,Eagle Point,-37.89231,147.6799,3878.0
+25067,6,18856,Eagle Point,VotingCentre,2026-09-21T15:25:05+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,43 School Road,Eagle Point,-37.89231,147.6799,3878.0
+25006,4,18856,Eagle Point,VotingCentre,2026-09-21T15:25:05+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,43 School Road,Eagle Point,-37.89231,147.6799,3878.0
+25068,2,18856,Eagle Point,VotingCentre,2026-09-21T15:25:05+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,43 School Road,Eagle Point,-37.89231,147.6799,3878.0
+25030,5,18868,Lucknow,VotingCentre,2026-09-24T11:55:51+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,,Lucknow,,,3875.0
+24984,2,18868,Lucknow,VotingCentre,2026-09-24T11:55:51+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,,Lucknow,,,3875.0
+25067,3,18868,Lucknow,VotingCentre,2026-09-24T11:55:51+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,,Lucknow,,,3875.0
+25006,4,18868,Lucknow,VotingCentre,2026-09-24T11:55:51+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,,Lucknow,,,3875.0
+25068,2,18868,Lucknow,VotingCentre,2026-09-24T11:55:51+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,,Lucknow,,,3875.0
+25030,2,18876,Newmerella,VotingCentre,2026-09-24T11:56:08+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,Corner of Thomas Road and Mclaughlins Road,Newmerella,-37.73523,148.4336,3886.0
+24984,4,18876,Newmerella,VotingCentre,2026-09-24T11:56:08+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,Corner of Thomas Road and Mclaughlins Road,Newmerella,-37.73523,148.4336,3886.0
+25067,2,18876,Newmerella,VotingCentre,2026-09-24T11:56:08+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,Corner of Thomas Road and Mclaughlins Road,Newmerella,-37.73523,148.4336,3886.0
+25006,4,18876,Newmerella,VotingCentre,2026-09-24T11:56:08+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,Corner of Thomas Road and Mclaughlins Road,Newmerella,-37.73523,148.4336,3886.0
+25068,3,18876,Newmerella,VotingCentre,2026-09-24T11:56:08+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,Corner of Thomas Road and Mclaughlins Road,Newmerella,-37.73523,148.4336,3886.0
+25030,1,18896,San Remo,VotingCentre,2026-09-24T11:56:26+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,,,,,
+24984,5,18896,San Remo,VotingCentre,2026-09-24T11:56:26+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,,,,,
+25067,3,18896,San Remo,VotingCentre,2026-09-24T11:56:26+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,,,,,
+25006,4,18896,San Remo,VotingCentre,2026-09-24T11:56:26+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,,,,,
+25068,2,18896,San Remo,VotingCentre,2026-09-24T11:56:26+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,,,,,
+25030,2,18946,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:56:48+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,,,,,
+24984,1,18946,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:56:48+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,,,,,
+25067,1,18946,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:56:48+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,,,,,
+25006,3,18946,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:56:48+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,,,,,
+25068,7,18946,Bass - EVC 1,EarlyVotingCentre,2026-09-24T11:56:48+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,,,,,
+25030,4,18900,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-22T11:20:50+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,104 Macleod St,Bairnsdale,-37.82762,147.629,3875.0
+24984,3,18900,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-22T11:20:50+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,104 Macleod St,Bairnsdale,-37.82762,147.629,3875.0
+25067,3,18900,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-22T11:20:50+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,104 Macleod St,Bairnsdale,-37.82762,147.629,3875.0
+25006,4,18900,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-22T11:20:50+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,104 Macleod St,Bairnsdale,-37.82762,147.629,3875.0
+25068,2,18900,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-22T11:20:50+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,104 Macleod St,Bairnsdale,-37.82762,147.629,3875.0
+25030,4,18903,Gippsland East - EVC 2,EarlyVotingCentre,2026-09-24T11:57:01+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,9 Main St,Bairnsdale,-37.82607,147.6378,3875.0
+24984,1,18903,Gippsland East - EVC 2,EarlyVotingCentre,2026-09-24T11:57:01+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,9 Main St,Bairnsdale,-37.82607,147.6378,3875.0
+25067,4,18903,Gippsland East - EVC 2,EarlyVotingCentre,2026-09-24T11:57:01+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,9 Main St,Bairnsdale,-37.82607,147.6378,3875.0
+25006,5,18903,Gippsland East - EVC 2,EarlyVotingCentre,2026-09-24T11:57:01+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,9 Main St,Bairnsdale,-37.82607,147.6378,3875.0
+25068,3,18903,Gippsland East - EVC 2,EarlyVotingCentre,2026-09-24T11:57:01+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,9 Main St,Bairnsdale,-37.82607,147.6378,3875.0
+25030,3,19083,Gippsland East - MEVC,MobileVoting,2026-09-22T14:52:10+11:00,15917,Gippsland East District,4500,"CANDIDATE, One",Victorian Socialists,90.0,no,1,Multiple mobile voting locations,,,,
+24984,6,19083,Gippsland East - MEVC,MobileVoting,2026-09-22T14:52:10+11:00,15917,Gippsland East District,4500,"CANDIDATE, Two",The Australian Greens - Victoria,4.0,no,2,Multiple mobile voting locations,,,,
+25067,5,19083,Gippsland East - MEVC,MobileVoting,2026-09-22T14:52:10+11:00,15917,Gippsland East District,4500,"CANDIDATE, Three",Independent,,no,3,Multiple mobile voting locations,,,,
+25006,1,19083,Gippsland East - MEVC,MobileVoting,2026-09-22T14:52:10+11:00,15917,Gippsland East District,4500,"CANDIDATE, Four",Family First Victoria,101.0,no,4,Multiple mobile voting locations,,,,
+25068,2,19083,Gippsland East - MEVC,MobileVoting,2026-09-22T14:52:10+11:00,15917,Gippsland East District,4500,"CANDIDATE, Five","Shooters, Fishers and Farmers Party Victoria",28.0,no,5,Multiple mobile voting locations,,,,
+24985,3,18836,Alberton,VotingCentre,2026-09-21T12:12:38+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,21 Thomson Street,Alberton,-38.61759,146.6666,3971.0
+25033,4,18836,Alberton,VotingCentre,2026-09-21T12:12:38+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,21 Thomson Street,Alberton,-38.61759,146.6666,3971.0
+25005,5,18836,Alberton,VotingCentre,2026-09-21T12:12:38+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,21 Thomson Street,Alberton,-38.61759,146.6666,3971.0
+25069,2,18836,Alberton,VotingCentre,2026-09-21T12:12:38+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,21 Thomson Street,Alberton,-38.61759,146.6666,3971.0
+25071,1,18836,Alberton,VotingCentre,2026-09-21T12:12:38+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,21 Thomson Street,Alberton,-38.61759,146.6666,3971.0
+24985,2,18842,Bena,VotingCentre,2026-09-21T15:28:27+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,41 Main Road,Bena,-38.41159,145.7623,3946.0
+25033,5,18842,Bena,VotingCentre,2026-09-21T15:28:27+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,41 Main Road,Bena,-38.41159,145.7623,3946.0
+25005,4,18842,Bena,VotingCentre,2026-09-21T15:28:27+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,41 Main Road,Bena,-38.41159,145.7623,3946.0
+25069,3,18842,Bena,VotingCentre,2026-09-21T15:28:27+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,41 Main Road,Bena,-38.41159,145.7623,3946.0
+25071,1,18842,Bena,VotingCentre,2026-09-21T15:28:27+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,41 Main Road,Bena,-38.41159,145.7623,3946.0
+24985,7,18863,Gormandale,VotingCentre,2026-09-21T15:29:15+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,Corner of Main Road and Hyland Highway,Gormandale,-38.29452,146.7019,3873.0
+25033,3,18863,Gormandale,VotingCentre,2026-09-21T15:29:15+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,Corner of Main Road and Hyland Highway,Gormandale,-38.29452,146.7019,3873.0
+25005,1,18863,Gormandale,VotingCentre,2026-09-21T15:29:15+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,Corner of Main Road and Hyland Highway,Gormandale,-38.29452,146.7019,3873.0
+25069,2,18863,Gormandale,VotingCentre,2026-09-21T15:29:15+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,Corner of Main Road and Hyland Highway,Gormandale,-38.29452,146.7019,3873.0
+25071,1,18863,Gormandale,VotingCentre,2026-09-21T15:29:15+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,Corner of Main Road and Hyland Highway,Gormandale,-38.29452,146.7019,3873.0
+24985,5,18891,Lucknow,VotingCentre,2026-09-24T12:24:50+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,,,,,
+25033,2,18891,Lucknow,VotingCentre,2026-09-24T12:24:50+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,,,,,
+25005,2,18891,Lucknow,VotingCentre,2026-09-24T12:24:50+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,,,,,
+25069,4,18891,Lucknow,VotingCentre,2026-09-24T12:24:50+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,,,,,
+25071,5,18891,Lucknow,VotingCentre,2026-09-24T12:24:50+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,,,,,
+24985,5,18872,Mount Eccles,VotingCentre,2026-09-24T12:25:24+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,5 Hall Road,Mount Eccles,-38.36346,145.9761,3953.0
+25033,2,18872,Mount Eccles,VotingCentre,2026-09-24T12:25:24+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,5 Hall Road,Mount Eccles,-38.36346,145.9761,3953.0
+25005,3,18872,Mount Eccles,VotingCentre,2026-09-24T12:25:24+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,5 Hall Road,Mount Eccles,-38.36346,145.9761,3953.0
+25069,4,18872,Mount Eccles,VotingCentre,2026-09-24T12:25:24+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,5 Hall Road,Mount Eccles,-38.36346,145.9761,3953.0
+25071,4,18872,Mount Eccles,VotingCentre,2026-09-24T12:25:24+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,5 Hall Road,Mount Eccles,-38.36346,145.9761,3953.0
+24985,5,18882,Seaspray,VotingCentre,2026-09-24T12:25:52+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,1 Futcher Street,Seaspray,-38.37539,147.1895,3851.0
+25033,2,18882,Seaspray,VotingCentre,2026-09-24T12:25:52+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,1 Futcher Street,Seaspray,-38.37539,147.1895,3851.0
+25005,1,18882,Seaspray,VotingCentre,2026-09-24T12:25:52+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,1 Futcher Street,Seaspray,-38.37539,147.1895,3851.0
+25069,3,18882,Seaspray,VotingCentre,2026-09-24T12:25:52+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,1 Futcher Street,Seaspray,-38.37539,147.1895,3851.0
+25071,4,18882,Seaspray,VotingCentre,2026-09-24T12:25:52+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,1 Futcher Street,Seaspray,-38.37539,147.1895,3851.0
+24985,1,18940,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-24T12:26:09+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,,,,,
+25033,2,18940,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-24T12:26:09+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,,,,,
+25005,2,18940,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-24T12:26:09+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,,,,,
+25069,3,18940,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-24T12:26:09+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,,,,,
+25071,5,18940,Gippsland East - EVC 1,EarlyVotingCentre,2026-09-24T12:26:09+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,,,,,
+24985,8,19037,Gippsland South - EVC 1,EarlyVotingCentre,2026-09-22T11:26:21+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,245 Raymond St,Sale,-38.10809,147.0653,3850.0
+25033,2,19037,Gippsland South - EVC 1,EarlyVotingCentre,2026-09-22T11:26:21+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,245 Raymond St,Sale,-38.10809,147.0653,3850.0
+25005,1,19037,Gippsland South - EVC 1,EarlyVotingCentre,2026-09-22T11:26:21+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,245 Raymond St,Sale,-38.10809,147.0653,3850.0
+25069,0,19037,Gippsland South - EVC 1,EarlyVotingCentre,2026-09-22T11:26:21+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,245 Raymond St,Sale,-38.10809,147.0653,3850.0
+25071,2,19037,Gippsland South - EVC 1,EarlyVotingCentre,2026-09-22T11:26:21+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,245 Raymond St,Sale,-38.10809,147.0653,3850.0
+24985,5,18952,Gippsland South - EVC 2,EarlyVotingCentre,2026-09-22T12:57:51+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,28 Mccartin St,Leongatha,-38.47676,145.9449,3953.0
+25033,1,18952,Gippsland South - EVC 2,EarlyVotingCentre,2026-09-22T12:57:51+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,28 Mccartin St,Leongatha,-38.47676,145.9449,3953.0
+25005,3,18952,Gippsland South - EVC 2,EarlyVotingCentre,2026-09-22T12:57:51+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,28 Mccartin St,Leongatha,-38.47676,145.9449,3953.0
+25069,4,18952,Gippsland South - EVC 2,EarlyVotingCentre,2026-09-22T12:57:51+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,28 Mccartin St,Leongatha,-38.47676,145.9449,3953.0
+25071,4,18952,Gippsland South - EVC 2,EarlyVotingCentre,2026-09-22T12:57:51+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,28 Mccartin St,Leongatha,-38.47676,145.9449,3953.0
+24985,4,19082,Gippsland South - MEVC,MobileVoting,2026-09-22T14:55:18+11:00,15969,Gippsland South District,6000,"CANDIDATE, One",The Australian Greens - Victoria,4.0,no,1,Multiple mobile voting locations,,,,
+25033,2,19082,Gippsland South - MEVC,MobileVoting,2026-09-22T14:55:18+11:00,15969,Gippsland South District,6000,"CANDIDATE, Two",Victorian Socialists,90.0,no,2,Multiple mobile voting locations,,,,
+25005,3,19082,Gippsland South - MEVC,MobileVoting,2026-09-22T14:55:18+11:00,15969,Gippsland South District,6000,"CANDIDATE, Three",Family First Victoria,101.0,no,3,Multiple mobile voting locations,,,,
+25069,6,19082,Gippsland South - MEVC,MobileVoting,2026-09-22T14:55:18+11:00,15969,Gippsland South District,6000,"CANDIDATE, Four","Shooters, Fishers and Farmers Party Victoria",28.0,no,4,Multiple mobile voting locations,,,,
+25071,5,19082,Gippsland South - MEVC,MobileVoting,2026-09-22T14:55:18+11:00,15969,Gippsland South District,6000,"CANDIDATE, Five",Independent,,no,5,Multiple mobile voting locations,,,,
+25070,3,18840,Baxter,VotingCentre,2026-09-21T12:14:42+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,118A Grant Road,Baxter,-38.19967,145.1817,3911.0
+25021,2,18840,Baxter,VotingCentre,2026-09-21T12:14:42+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,118A Grant Road,Baxter,-38.19967,145.1817,3911.0
+25072,4,18840,Baxter,VotingCentre,2026-09-21T12:14:42+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,118A Grant Road,Baxter,-38.19967,145.1817,3911.0
+24986,1,18840,Baxter,VotingCentre,2026-09-21T12:14:42+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,118A Grant Road,Baxter,-38.19967,145.1817,3911.0
+25073,5,18840,Baxter,VotingCentre,2026-09-21T12:14:42+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,118A Grant Road,Baxter,-38.19967,145.1817,3911.0
+25074,2,18840,Baxter,VotingCentre,2026-09-21T12:14:42+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,118A Grant Road,Baxter,-38.19967,145.1817,3911.0
+25070,6,18852,Crib Point,VotingCentre,2026-09-21T15:36:38+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,70 Milne Street,Crib Point,-38.36043,145.2004,3919.0
+25021,2,18852,Crib Point,VotingCentre,2026-09-21T15:36:38+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,70 Milne Street,Crib Point,-38.36043,145.2004,3919.0
+25072,1,18852,Crib Point,VotingCentre,2026-09-21T15:36:38+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,70 Milne Street,Crib Point,-38.36043,145.2004,3919.0
+24986,2,18852,Crib Point,VotingCentre,2026-09-21T15:36:38+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,70 Milne Street,Crib Point,-38.36043,145.2004,3919.0
+25073,3,18852,Crib Point,VotingCentre,2026-09-21T15:36:38+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,70 Milne Street,Crib Point,-38.36043,145.2004,3919.0
+25074,1,18852,Crib Point,VotingCentre,2026-09-21T15:36:38+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,70 Milne Street,Crib Point,-38.36043,145.2004,3919.0
+25070,2,18857,Langwarrin,VotingCentre,2026-09-24T12:42:44+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,80 Warrandyte Road,Langwarrin,-38.15837,145.1902,3910.0
+25021,4,18857,Langwarrin,VotingCentre,2026-09-24T12:42:44+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,80 Warrandyte Road,Langwarrin,-38.15837,145.1902,3910.0
+25072,2,18857,Langwarrin,VotingCentre,2026-09-24T12:42:44+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,80 Warrandyte Road,Langwarrin,-38.15837,145.1902,3910.0
+24986,5,18857,Langwarrin,VotingCentre,2026-09-24T12:42:44+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,80 Warrandyte Road,Langwarrin,-38.15837,145.1902,3910.0
+25073,2,18857,Langwarrin,VotingCentre,2026-09-24T12:42:44+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,80 Warrandyte Road,Langwarrin,-38.15837,145.1902,3910.0
+25074,1,18857,Langwarrin,VotingCentre,2026-09-24T12:42:44+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,80 Warrandyte Road,Langwarrin,-38.15837,145.1902,3910.0
+25070,2,18892,Mt Martha,VotingCentre,2026-09-24T12:43:09+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,,,,,
+25021,2,18892,Mt Martha,VotingCentre,2026-09-24T12:43:09+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,,,,,
+25072,4,18892,Mt Martha,VotingCentre,2026-09-24T12:43:09+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,,,,,
+24986,3,18892,Mt Martha,VotingCentre,2026-09-24T12:43:09+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,,,,,
+25073,2,18892,Mt Martha,VotingCentre,2026-09-24T12:43:09+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,,,,,
+25074,1,18892,Mt Martha,VotingCentre,2026-09-24T12:43:09+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,,,,,
+25070,3,18883,Somerville West,VotingCentre,2026-09-24T12:43:24+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,34 Blacks Camp Road,Somerville,-38.23021,145.1684,3912.0
+25021,3,18883,Somerville West,VotingCentre,2026-09-24T12:43:24+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,34 Blacks Camp Road,Somerville,-38.23021,145.1684,3912.0
+25072,3,18883,Somerville West,VotingCentre,2026-09-24T12:43:24+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,34 Blacks Camp Road,Somerville,-38.23021,145.1684,3912.0
+24986,2,18883,Somerville West,VotingCentre,2026-09-24T12:43:24+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,34 Blacks Camp Road,Somerville,-38.23021,145.1684,3912.0
+25073,2,18883,Somerville West,VotingCentre,2026-09-24T12:43:24+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,34 Blacks Camp Road,Somerville,-38.23021,145.1684,3912.0
+25074,4,18883,Somerville West,VotingCentre,2026-09-24T12:43:24+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,34 Blacks Camp Road,Somerville,-38.23021,145.1684,3912.0
+25070,2,18888,Woodlands,VotingCentre,2026-09-24T12:43:42+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,51 Cotoneaster Way,Langwarrin,-38.13577,145.2031,3910.0
+25021,1,18888,Woodlands,VotingCentre,2026-09-24T12:43:42+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,51 Cotoneaster Way,Langwarrin,-38.13577,145.2031,3910.0
+25072,1,18888,Woodlands,VotingCentre,2026-09-24T12:43:42+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,51 Cotoneaster Way,Langwarrin,-38.13577,145.2031,3910.0
+24986,2,18888,Woodlands,VotingCentre,2026-09-24T12:43:42+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,51 Cotoneaster Way,Langwarrin,-38.13577,145.2031,3910.0
+25073,3,18888,Woodlands,VotingCentre,2026-09-24T12:43:42+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,51 Cotoneaster Way,Langwarrin,-38.13577,145.2031,3910.0
+25074,5,18888,Woodlands,VotingCentre,2026-09-24T12:43:42+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,51 Cotoneaster Way,Langwarrin,-38.13577,145.2031,3910.0
+25070,3,19004,Hastings - EVC 1,EarlyVotingCentre,2026-09-22T11:28:35+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,15 Shute Dr,Langwarrin,-38.1493,145.1885,3910.0
+25021,3,19004,Hastings - EVC 1,EarlyVotingCentre,2026-09-22T11:28:35+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,15 Shute Dr,Langwarrin,-38.1493,145.1885,3910.0
+25072,3,19004,Hastings - EVC 1,EarlyVotingCentre,2026-09-22T11:28:35+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,15 Shute Dr,Langwarrin,-38.1493,145.1885,3910.0
+24986,2,19004,Hastings - EVC 1,EarlyVotingCentre,2026-09-22T11:28:35+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,15 Shute Dr,Langwarrin,-38.1493,145.1885,3910.0
+25073,2,19004,Hastings - EVC 1,EarlyVotingCentre,2026-09-22T11:28:35+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,15 Shute Dr,Langwarrin,-38.1493,145.1885,3910.0
+25074,4,19004,Hastings - EVC 1,EarlyVotingCentre,2026-09-22T11:28:35+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,15 Shute Dr,Langwarrin,-38.1493,145.1885,3910.0
+25070,5,19000,Hastings - EVC 2,EarlyVotingCentre,2026-09-22T12:59:57+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,21 High St,Hastings,-38.30785,145.1927,3915.0
+25021,2,19000,Hastings - EVC 2,EarlyVotingCentre,2026-09-22T12:59:57+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,21 High St,Hastings,-38.30785,145.1927,3915.0
+25072,2,19000,Hastings - EVC 2,EarlyVotingCentre,2026-09-22T12:59:57+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,21 High St,Hastings,-38.30785,145.1927,3915.0
+24986,1,19000,Hastings - EVC 2,EarlyVotingCentre,2026-09-22T12:59:57+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,21 High St,Hastings,-38.30785,145.1927,3915.0
+25073,4,19000,Hastings - EVC 2,EarlyVotingCentre,2026-09-22T12:59:57+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,21 High St,Hastings,-38.30785,145.1927,3915.0
+25074,2,19000,Hastings - EVC 2,EarlyVotingCentre,2026-09-22T12:59:57+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,21 High St,Hastings,-38.30785,145.1927,3915.0
+25070,4,18959,Mornington - EVC 1,EarlyVotingCentre,2026-09-24T12:43:58+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,,,,,
+25021,3,18959,Mornington - EVC 1,EarlyVotingCentre,2026-09-24T12:43:58+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,,,,,
+25072,3,18959,Mornington - EVC 1,EarlyVotingCentre,2026-09-24T12:43:58+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,,,,,
+24986,1,18959,Mornington - EVC 1,EarlyVotingCentre,2026-09-24T12:43:58+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,,,,,
+25073,5,18959,Mornington - EVC 1,EarlyVotingCentre,2026-09-24T12:43:58+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,,,,,
+25074,2,18959,Mornington - EVC 1,EarlyVotingCentre,2026-09-24T12:43:58+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,,,,,
+25070,1,19087,Hastings - MEVC,MobileVoting,2026-09-24T12:44:12+11:00,15942,Hastings District,4000,"CANDIDATE, One","Shooters, Fishers and Farmers Party Victoria",28.0,no,1,Multiple mobile voting locations,,,,
+25021,8,19087,Hastings - MEVC,MobileVoting,2026-09-24T12:44:12+11:00,15942,Hastings District,4000,"CANDIDATE, Two",Family First Victoria,101.0,no,2,Multiple mobile voting locations,,,,
+25072,4,19087,Hastings - MEVC,MobileVoting,2026-09-24T12:44:12+11:00,15942,Hastings District,4000,"CANDIDATE, Three",Independent,,no,3,Multiple mobile voting locations,,,,
+24986,3,19087,Hastings - MEVC,MobileVoting,2026-09-24T12:44:12+11:00,15942,Hastings District,4000,"CANDIDATE, Four",The Australian Greens - Victoria,4.0,no,4,Multiple mobile voting locations,,,,
+25073,2,19087,Hastings - MEVC,MobileVoting,2026-09-24T12:44:12+11:00,15942,Hastings District,4000,"CANDIDATE, Five",Transport Matters Party,87.0,no,5,Multiple mobile voting locations,,,,
+25074,0,19087,Hastings - MEVC,MobileVoting,2026-09-24T12:44:12+11:00,15942,Hastings District,4000,"CANDIDATE, Six",Liberal Party of Australia - Victorian Division,8.0,no,6,Multiple mobile voting locations,,,,
+25075,3,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25076,2,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25077,1,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25078,4,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+24988,2,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25009,3,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25079,1,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25080,2,18841,Belgrave South,VotingCentre,2026-09-21T12:15:47+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,149 Belgrave–Hallam Road,Belgrave South,-37.93125,145.3578,3160.0
+25075,2,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25076,0,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25077,3,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25078,2,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+24988,4,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25009,1,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25079,2,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25080,1,18851,Cockatoo,VotingCentre,2026-09-21T15:38:20+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,77 Pakenham Road,Cockatoo,-37.93693,145.4912,3781.0
+25075,1,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25076,3,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25077,2,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25078,1,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+24988,3,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25009,2,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25079,4,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25080,1,18860,Ferntree Gully North,VotingCentre,2026-09-21T15:39:01+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,111 Forest Road,Ferntree Gully,-37.87417,145.2993,3156.0
+25075,2,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25076,1,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25077,1,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25078,3,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+24988,1,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25009,1,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25079,2,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25080,4,18886,Ferntree Gully Upper,VotingCentre,2026-09-24T12:53:56+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,4 Talaskia Road,Upper Ferntree Gully,-37.89591,145.3143,3156.0
+25075,2,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25076,1,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25077,3,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25078,2,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+24988,1,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25009,4,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25079,2,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25080,2,18861,Gembrook,VotingCentre,2026-09-24T12:54:11+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,50 Main Street,Gembrook,-37.95177,145.546,3783.0
+25075,1,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25076,2,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25077,1,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25078,2,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+24988,3,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25009,4,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25079,1,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25080,2,18881,Sassafras,VotingCentre,2026-09-24T12:54:28+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,399 Mount Dandenong Tourist Road,Sassafras,-37.86145,145.3548,3787.0
+25075,3,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25076,1,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25077,2,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25078,3,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+24988,2,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25009,1,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25079,1,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25080,3,18901,Monbulk - EVC 1,EarlyVotingCentre,2026-09-22T11:31:08+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,88 Main Rd,Monbulk,-37.87476,145.407,3793.0
+25075,1,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25076,2,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25077,4,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25078,1,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+24988,3,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25009,1,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25079,2,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25080,3,19050,Monbulk - EVC 2,EarlyVotingCentre,2026-09-24T12:54:43+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,1662 Burwood Hwy,Belgrave,-37.90977,145.354,3160.0
+25075,1,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, One",Health Australia Party,86.0,no,1,Multiple mobile voting locations,,,,
+25076,4,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Two",Australian Labor Party - Victorian Branch,5.0,no,2,Multiple mobile voting locations,,,,
+25077,2,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Three",Freedom Party of Victoria,99.0,no,3,Multiple mobile voting locations,,,,
+25078,1,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Four",Liberal Party of Australia - Victorian Division,8.0,no,4,Multiple mobile voting locations,,,,
+24988,2,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Five",The Australian Greens - Victoria,4.0,no,5,Multiple mobile voting locations,,,,
+25009,3,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Six",Family First Victoria,101.0,no,6,Multiple mobile voting locations,,,,
+25079,1,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Seven",Independent,,no,7,Multiple mobile voting locations,,,,
+25080,1,19080,Monbulk - MEVC,MobileVoting,2026-09-22T14:56:40+11:00,15913,Monbulk District,6500,"CANDIDATE, Eight","Shooters, Fishers and Farmers Party Victoria",28.0,no,8,Multiple mobile voting locations,,,,

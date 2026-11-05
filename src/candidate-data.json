@@ -1,0 +1,1068 @@
+{
+    "EML": {
+        "@xmlns:ds": "http://www.w3.org/2000/09/xmldsig#",
+        "@xmlns:xal": "urn:oasis:names:tc:ciq:xsdschema:xAL:2.0",
+        "@xmlns:xnl": "urn:oasis:names:tc:ciq:xsdschema:xNL:2.0",
+        "@xmlns:ts": "urn:oasis:names:tc:evs:schema:eml:ts",
+        "@xmlns:xs": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns": "urn:oasis:names:tc:evs:schema:eml",
+        "TransactionId": "a144bb97-1dc2-42a2-ae36-030fb5bcd5b8",
+        "CandidateList": {
+            "EventIdentifier": {
+                "@Id": "18738",
+                "EventName": "Test State Election 2026"
+            },
+            "Election": [
+                {
+                    "ElectionIdentifier": {
+                        "@Id": "L",
+                        "ElectionName": "Lower House Election for the State of Victoria",
+                        "ElectionCategory": "State"
+                    },
+                    "Contest": [
+                        {
+                            "ContestIdentifier": {
+                                "@Id": "18828",
+                                "ContestName": "Bass District"
+                            },
+                            "PollingDistrictIdentifier": {
+                                "@Id": "15963"
+                            },
+                            "Enrolment": "5000",
+                            "Candidate": [
+                                {
+                                    "@Independent": "yes",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24952",
+                                        "CandidateName": "CANDIDATE, One"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "BallotPosition": "1"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24970",
+                                        "CandidateName": "CANDIDATE, Two"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "8",
+                                            "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                        }
+                                    },
+                                    "BallotPosition": "2"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24971",
+                                        "CandidateName": "CANDIDATE, Three"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "88",
+                                            "RegisteredName": "Pauline Hanson's One Nation"
+                                        }
+                                    },
+                                    "BallotPosition": "3"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24975",
+                                        "CandidateName": "CANDIDATE, Four"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "5",
+                                            "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                        }
+                                    },
+                                    "BallotPosition": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "ContestIdentifier": {
+                                "@Id": "18788",
+                                "ContestName": "Evelyn District"
+                            },
+                            "PollingDistrictIdentifier": {
+                                "@Id": "15977"
+                            },
+                            "Enrolment": "5500",
+                            "Candidate": [
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24982",
+                                        "CandidateName": "CANDIDATE, One"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "4",
+                                            "RegisteredName": "The Australian Greens - Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "1"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25000",
+                                        "CandidateName": "CANDIDATE, Two"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "101",
+                                            "RegisteredName": "Family First Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "2"
+                                },
+                                {
+                                    "@Independent": "yes",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25026",
+                                        "CandidateName": "CANDIDATE, Three"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "BallotPosition": "3"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25029",
+                                        "CandidateName": "CANDIDATE, Four"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "90",
+                                            "RegisteredName": "Victorian Socialists"
+                                        }
+                                    },
+                                    "BallotPosition": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "ContestIdentifier": {
+                                "@Id": "18829",
+                                "ContestName": "Gippsland East District"
+                            },
+                            "PollingDistrictIdentifier": {
+                                "@Id": "15917"
+                            },
+                            "Enrolment": "4500",
+                            "Candidate": [
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25030",
+                                        "CandidateName": "CANDIDATE, One"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "90",
+                                            "RegisteredName": "Victorian Socialists"
+                                        }
+                                    },
+                                    "BallotPosition": "1"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24984",
+                                        "CandidateName": "CANDIDATE, Two"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "4",
+                                            "RegisteredName": "The Australian Greens - Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "2"
+                                },
+                                {
+                                    "@Independent": "yes",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25067",
+                                        "CandidateName": "CANDIDATE, Three"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "BallotPosition": "3"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25006",
+                                        "CandidateName": "CANDIDATE, Four"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "101",
+                                            "RegisteredName": "Family First Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "4"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25068",
+                                        "CandidateName": "CANDIDATE, Five"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "28",
+                                            "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "ContestIdentifier": {
+                                "@Id": "18821",
+                                "ContestName": "Gippsland South District"
+                            },
+                            "PollingDistrictIdentifier": {
+                                "@Id": "15969"
+                            },
+                            "Enrolment": "6000",
+                            "Candidate": [
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24985",
+                                        "CandidateName": "CANDIDATE, One"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "4",
+                                            "RegisteredName": "The Australian Greens - Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "1"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25033",
+                                        "CandidateName": "CANDIDATE, Two"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "90",
+                                            "RegisteredName": "Victorian Socialists"
+                                        }
+                                    },
+                                    "BallotPosition": "2"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25005",
+                                        "CandidateName": "CANDIDATE, Three"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "101",
+                                            "RegisteredName": "Family First Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "3"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25069",
+                                        "CandidateName": "CANDIDATE, Four"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "28",
+                                            "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "4"
+                                },
+                                {
+                                    "@Independent": "yes",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25071",
+                                        "CandidateName": "CANDIDATE, Five"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "BallotPosition": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "ContestIdentifier": {
+                                "@Id": "18832",
+                                "ContestName": "Hastings District"
+                            },
+                            "PollingDistrictIdentifier": {
+                                "@Id": "15942"
+                            },
+                            "Enrolment": "4000",
+                            "Candidate": [
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25070",
+                                        "CandidateName": "CANDIDATE, One"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "28",
+                                            "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "1"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25021",
+                                        "CandidateName": "CANDIDATE, Two"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "101",
+                                            "RegisteredName": "Family First Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "2"
+                                },
+                                {
+                                    "@Independent": "yes",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25072",
+                                        "CandidateName": "CANDIDATE, Three"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "BallotPosition": "3"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24986",
+                                        "CandidateName": "CANDIDATE, Four"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "4",
+                                            "RegisteredName": "The Australian Greens - Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "4"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25073",
+                                        "CandidateName": "CANDIDATE, Five"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "87",
+                                            "RegisteredName": "Transport Matters Party"
+                                        }
+                                    },
+                                    "BallotPosition": "5"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25074",
+                                        "CandidateName": "CANDIDATE, Six"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "8",
+                                            "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                        }
+                                    },
+                                    "BallotPosition": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "ContestIdentifier": {
+                                "@Id": "18814",
+                                "ContestName": "Monbulk District"
+                            },
+                            "PollingDistrictIdentifier": {
+                                "@Id": "15913"
+                            },
+                            "Enrolment": "6500",
+                            "Candidate": [
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25075",
+                                        "CandidateName": "CANDIDATE, One"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "86",
+                                            "RegisteredName": "Health Australia Party"
+                                        }
+                                    },
+                                    "BallotPosition": "1"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25076",
+                                        "CandidateName": "CANDIDATE, Two"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "5",
+                                            "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                        }
+                                    },
+                                    "BallotPosition": "2"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25077",
+                                        "CandidateName": "CANDIDATE, Three"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "99",
+                                            "RegisteredName": "Freedom Party of Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "3"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25078",
+                                        "CandidateName": "CANDIDATE, Four"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "8",
+                                            "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                        }
+                                    },
+                                    "BallotPosition": "4"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "24988",
+                                        "CandidateName": "CANDIDATE, Five"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "4",
+                                            "RegisteredName": "The Australian Greens - Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "5"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25009",
+                                        "CandidateName": "CANDIDATE, Six"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "101",
+                                            "RegisteredName": "Family First Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "6"
+                                },
+                                {
+                                    "@Independent": "yes",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25079",
+                                        "CandidateName": "CANDIDATE, Seven"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "BallotPosition": "7"
+                                },
+                                {
+                                    "@Independent": "no",
+                                    "CandidateIdentifier": {
+                                        "@Id": "25080",
+                                        "CandidateName": "CANDIDATE, Eight"
+                                    },
+                                    "Elected": {
+                                        "@Historic": "no"
+                                    },
+                                    "Affiliation": {
+                                        "AffiliationIdentifier": {
+                                            "@Id": "28",
+                                            "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                        }
+                                    },
+                                    "BallotPosition": "8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ElectionIdentifier": {
+                        "@Id": "U",
+                        "ElectionName": "Upper House Election for the State of Victoria",
+                        "ElectionCategory": "State"
+                    },
+                    "Contest": {
+                        "ContestIdentifier": {
+                            "@Id": "18780",
+                            "ContestName": "Eastern Victoria Region"
+                        },
+                        "PollingDistrictIdentifier": {
+                            "@Id": "16002"
+                        },
+                        "Enrolment": "31500",
+                        "Candidate": [
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25081",
+                                    "CandidateName": "CANDIDATE, One"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "28",
+                                        "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                    }
+                                },
+                                "BallotPosition": "1"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25082",
+                                    "CandidateName": "CANDIDATE, Two"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "28",
+                                        "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                    }
+                                },
+                                "BallotPosition": "2"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25083",
+                                    "CandidateName": "CANDIDATE, Three"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "28",
+                                        "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                    }
+                                },
+                                "BallotPosition": "3"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25084",
+                                    "CandidateName": "CANDIDATE, Four"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "28",
+                                        "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                    }
+                                },
+                                "BallotPosition": "4"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25085",
+                                    "CandidateName": "CANDIDATE, Five"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "28",
+                                        "RegisteredName": "Shooters, Fishers and Farmers Party Victoria"
+                                    }
+                                },
+                                "BallotPosition": "5"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25086",
+                                    "CandidateName": "CANDIDATE, Six"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "86",
+                                        "RegisteredName": "Health Australia Party"
+                                    }
+                                },
+                                "BallotPosition": "6"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25087",
+                                    "CandidateName": "CANDIDATE, Seven"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "86",
+                                        "RegisteredName": "Health Australia Party"
+                                    }
+                                },
+                                "BallotPosition": "7"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25088",
+                                    "CandidateName": "CANDIDATE, Eight"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "86",
+                                        "RegisteredName": "Health Australia Party"
+                                    }
+                                },
+                                "BallotPosition": "8"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25089",
+                                    "CandidateName": "CANDIDATE, Nine"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "86",
+                                        "RegisteredName": "Health Australia Party"
+                                    }
+                                },
+                                "BallotPosition": "9"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25090",
+                                    "CandidateName": "CANDIDATE, Ten"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "88",
+                                        "RegisteredName": "Pauline Hanson's One Nation"
+                                    }
+                                },
+                                "BallotPosition": "10"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25091",
+                                    "CandidateName": "CANDIDATE, Eleven"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "88",
+                                        "RegisteredName": "Pauline Hanson's One Nation"
+                                    }
+                                },
+                                "BallotPosition": "11"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25092",
+                                    "CandidateName": "CANDIDATE, Twelve"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "88",
+                                        "RegisteredName": "Pauline Hanson's One Nation"
+                                    }
+                                },
+                                "BallotPosition": "12"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25093",
+                                    "CandidateName": "CANDIDATE, Thirteen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "98",
+                                        "RegisteredName": "United Australia Party"
+                                    }
+                                },
+                                "BallotPosition": "13"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25094",
+                                    "CandidateName": "CANDIDATE, Fourteen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "98",
+                                        "RegisteredName": "United Australia Party"
+                                    }
+                                },
+                                "BallotPosition": "14"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25095",
+                                    "CandidateName": "CANDIDATE, Fifteen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "5",
+                                        "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                    }
+                                },
+                                "BallotPosition": "15"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25096",
+                                    "CandidateName": "CANDIDATE, Sixteen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "5",
+                                        "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                    }
+                                },
+                                "BallotPosition": "16"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25097",
+                                    "CandidateName": "CANDIDATE, Seventeen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "5",
+                                        "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                    }
+                                },
+                                "BallotPosition": "17"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25098",
+                                    "CandidateName": "CANDIDATE, Eighteen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "5",
+                                        "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                    }
+                                },
+                                "BallotPosition": "18"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25099",
+                                    "CandidateName": "CANDIDATE, Nineteen"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "5",
+                                        "RegisteredName": "Australian Labor Party - Victorian Branch"
+                                    }
+                                },
+                                "BallotPosition": "19"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25100",
+                                    "CandidateName": "CANDIDATE, Twenty"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "8",
+                                        "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                    }
+                                },
+                                "BallotPosition": "20"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25101",
+                                    "CandidateName": "CANDIDATE, Twenty-One"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "8",
+                                        "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                    }
+                                },
+                                "BallotPosition": "21"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25102",
+                                    "CandidateName": "CANDIDATE, Twenty-Two"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "8",
+                                        "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                    }
+                                },
+                                "BallotPosition": "22"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25103",
+                                    "CandidateName": "CANDIDATE, Twenty-Three"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "8",
+                                        "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                    }
+                                },
+                                "BallotPosition": "23"
+                            },
+                            {
+                                "@Independent": "no",
+                                "CandidateIdentifier": {
+                                    "@Id": "25104",
+                                    "CandidateName": "CANDIDATE, Twenty-Four"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "Affiliation": {
+                                    "AffiliationIdentifier": {
+                                        "@Id": "8",
+                                        "RegisteredName": "Liberal Party of Australia - Victorian Division"
+                                    }
+                                },
+                                "BallotPosition": "24"
+                            },
+                            {
+                                "@Independent": "yes",
+                                "CandidateIdentifier": {
+                                    "@Id": "25105",
+                                    "CandidateName": "CANDIDATE, Twenty-Five"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "BallotPosition": "25"
+                            },
+                            {
+                                "@Independent": "yes",
+                                "CandidateIdentifier": {
+                                    "@Id": "25106",
+                                    "CandidateName": "CANDIDATE, Twenty-Six"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "BallotPosition": "26"
+                            },
+                            {
+                                "@Independent": "yes",
+                                "CandidateIdentifier": {
+                                    "@Id": "25107",
+                                    "CandidateName": "CANDIDATE, Twenty-Seven"
+                                },
+                                "Elected": {
+                                    "@Historic": "no"
+                                },
+                                "BallotPosition": "27"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

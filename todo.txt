@@ -1,0 +1,24 @@
+Clarify following variables from Luke's list:
+
+# pp_type_2 - ???
+# pp_new_indicator - is the polling place new or not? where to get this
+# district_byelection - where to get this list from?
+# district_byelection_alp_contest - ???
+# region_id - ???
+# region_name - ??? 
+# premises - ???
+# formal_informal_indicator - ???
+# retirement - where to get this?
+# vote - is this first preference? 
+# ballot_order_2022 - is this matched on party or candidate? 
+# number_of_candidates_la_2022 - ???
+# number_of_candidates_la_2026 - ???
+# enrolment_2026 - enrolment for the electorate ? 
+
+
+- Is there any difference between Contest and Polling District?
+
+- Get official party name three-letter codes
+
+- Write script to make the electorate-level results JSON file for the website
+- Write script to make the top level summary JSON file for the website
