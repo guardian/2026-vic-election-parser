@@ -1,10 +1,18 @@
 import json
 import xmltodict
 import pandas as pd
+from azure.storage.blob import ContainerClient
+from downloadBlob import getAndReadFile
+import os
+from io import BytesIO
 
-candidate_xml_file = "data/sample-vec-data/round 1 samples (election wkend)/TestState2026MediaFileCandidatesV2.xml"
+# candidate_xml_file = "data/sample-vec-data/round 1 samples (election wkend)/TestState2026MediaFileCandidatesV2.xml"
 
-candidate_data = xmltodict.parse(open(candidate_xml_file, 'rb'))
+VEC_TOKEN = os.environ["VEC_RESULTS_SAS"]
+with ContainerClient.from_container_url(VEC_TOKEN) as container:
+    candidate_data = getAndReadFile(container, "State2026MediaFileCandidatesV2")
+
+candidate_data = xmltodict.parse(BytesIO(candidate_data))
 
 # with open('src/candidate-data.json', 'w') as f:
 #     json.dump(candidate_data, f)
@@ -104,4 +112,4 @@ for contest in candidate_data['EML']['CandidateList']['Election'][0]['Contest']:
 
 out_df = pd.DataFrame(candidate_results)
 
-out_df.to_csv('src/candidate-info.csv', index=False)
+out_df.to_csv('data/candidate-info.csv', index=False)

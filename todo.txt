@@ -1,18 +1,31 @@
 Clarify following variables from Luke's list:
 
 # pp_type_2 - ???
-# pp_new_indicator - is the polling place new or not? where to get this
+
+# pp_new_indicator - is this whether the polling place new or not? where to get this
+
 # district_byelection - where to get this list from?
+
 # district_byelection_alp_contest - ???
+
 # region_id - ???
+
 # region_name - ??? 
+
 # premises - ???
+
 # formal_informal_indicator - ???
+
 # retirement - where to get this?
-# vote - is this first preference? 
+
+# vote - is this first preference votes for that candidate?  
+
 # ballot_order_2022 - is this matched on party or candidate? 
+
 # number_of_candidates_la_2022 - ???
-# number_of_candidates_la_2026 - ???
+
+# number_of_candidates_la_2026 - is this the total number of candidates in the electoral division?
+
 # enrolment_2026 - enrolment for the electorate ? 
 
 

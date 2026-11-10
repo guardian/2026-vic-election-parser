@@ -3,9 +3,19 @@
 import json
 import xmltodict
 import pandas as pd
-pp_location_xml_file = "data/sample-vec-data/round 1 samples (election wkend)/TestState2026MediaFilePollingLocationsV2.xml"
+import os
+from azure.storage.blob import ContainerClient
+from downloadBlob import getAndReadFile
+from io import BytesIO
 
-pp_location_data = xmltodict.parse(open(pp_location_xml_file, 'rb'))
+# pp_location_xml_file = "data/sample-vec-data/round 1 samples (election wkend)/TestState2026MediaFilePollingLocationsV2.xml"
+
+VEC_TOKEN = os.environ["VEC_RESULTS_SAS"]
+
+with ContainerClient.from_container_url(VEC_TOKEN) as container:
+    pp_location_data = getAndReadFile(container, "State2026MediaFilePollingLocationsV2")
+
+pp_location_data = xmltodict.parse(BytesIO(pp_location_data))
 
 pp_data = []
 
@@ -82,7 +92,7 @@ for district in pp_location_data['PollingDistrictList']['PollingDistrict']:
 
 
 out_df = pd.DataFrame(pp_data)
-out_df.to_csv('src/pp-data.csv', index=False)
+out_df.to_csv('data/pp-data.csv', index=False)
 
 # with open('pp-data.json', 'w') as f:
 #     json.dump(pp_location_data, f)

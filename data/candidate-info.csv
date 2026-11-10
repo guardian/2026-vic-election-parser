@@ -1,0 +1,735 @@
+candidate_id,candidate_name,party_name,party_code,incumbent,ballot_order_2026
+23000,"DRAGWIDGE, Georgie",Independent,,no,1
+22176,"SEMMENS, Sonya",Australian Greens Victoria,4,no,2
+22605,"COOK, Andrew",Liberal Party of Australia - Victorian Division,8,no,3
+22474,"TAYLOR, Nina",Australian Labor Party - Victorian Branch,5,no,4
+22717,"KING, Adrian William",Independent,,no,5
+22739,"LINDRUM, Tam",One Nation Victoria,88,no,6
+22339,"BOLGER, Colleen",Victorian Socialists,90,no,7
+22859,"UWIMANA, Enid",Family First Victoria,101,no,1
+22177,"RANDALL, Tim",Australian Greens Victoria,4,no,2
+22475,"FREGON, Matt",Australian Labor Party - Victorian Branch,5,no,3
+22340,"VAN DER EYNDEN, Jacob",Victorian Socialists,90,no,4
+22606,"ZOGRAPHOS, Theo",Liberal Party of Australia - Victorian Division,8,no,5
+22467,"JOSHI, Hitendra K.",Independent,,no,6
+22740,"MITCHELL, Steven",One Nation Victoria,88,no,7
+22341,"JOBE, Chris",Victorian Socialists,90,no,1
+22178,"THORN, Sophie",Australian Greens Victoria,4,no,2
+22741,"SCHELLEKENS, Nikole",One Nation Victoria,88,no,3
+22607,"HALSTEAD, Rochelle",Liberal Party of Australia - Victorian Division,8,no,4
+22860,"CAUNEAC, Ben",Family First Victoria,101,no,5
+22476,"BUCKINGHAM, Chris",Australian Labor Party - Victorian Branch,5,no,6
+22742,"BLEAKNEY, Kayte",One Nation Victoria,88,no,1
+22179,"KENNEDY, Jess",Australian Greens Victoria,4,no,2
+22477,"BUXTON, Julie",Australian Labor Party - Victorian Branch,5,no,3
+22608,"KITCHEN, David",Liberal Party of Australia - Victorian Division,8,no,4
+23108,"CLARKE, Mathew",Independent,,no,5
+23277,"HUBBARD, Naomi",Democratic Labour Party (DLP),7,no,6
+22342,"FERGUSON, Alec",Victorian Socialists,90,no,7
+22861,"COOMBES, Gary",Family First Victoria,101,no,8
+22609,"WHITEHEAD, Callum",Liberal Party of Australia - Victorian Division,8,no,1
+22478,"MARCHANT, Alison",Australian Labor Party - Victorian Branch,5,no,2
+22743,"MCRAE, Ross",One Nation Victoria,88,no,3
+22343,"KEOGH, Ronan",Victorian Socialists,90,no,4
+23306,"LOCKHART, Kate",Independent,,no,5
+22862,"MANUELL, Guy",Family First Victoria,101,no,6
+23012,"WILLIAMS, Dom",Socialist Alliance,112,no,7
+22180,"POPE, Mitch",Australian Greens Victoria,4,no,8
+23127,"FUERY, Mike",Animal Justice Party,25,no,1
+22181,"PARTON, Graham",Australian Greens Victoria,4,no,2
+22479,"YOUNG, Oliver",Australian Labor Party - Victorian Branch,5,no,3
+22344,"VANGALEN, Alex",Victorian Socialists,90,no,4
+23234,"McKEEMAN, Lachie",Independent,,no,5
+22610,"MARTIN, Steve",Liberal Party of Australia - Victorian Division,8,no,6
+22744,"SHEPPARD, Kellie",One Nation Victoria,88,no,7
+22863,"PEPPER, Evette",Family First Victoria,101,no,8
+23178,"QUILTY, Tim",Libertarian Party (formerly Liberal Democrats),30,no,9
+22864,"JOHN, Des",Family First Victoria,101,no,1
+23128,"DUNN, Bonnie",Animal Justice Party,25,no,2
+22345,"NORSEN, Denali",Victorian Socialists,90,no,3
+22745,"HAWKEN, Cheryl",One Nation Victoria,88,no,4
+22304,"LETHLEAN, Andrew",National Party of Australia - Victoria,9,no,5
+23250,"WRIGHT, Liz",Independent,,no,6
+23107,"HOSKINS, Kristie",Independent,,no,7
+22480,"RICKWOOD, Tim",Australian Labor Party - Victorian Branch,5,no,8
+22182,"TOLHURST, Michael",Australian Greens Victoria,4,no,9
+22346,"SHALEVSKI, Tayne",Victorian Socialists,90,no,1
+22305,"HUTCHINGS, David",National Party of Australia - Victoria,9,no,2
+23129,"TRANTER, Debra",Animal Justice Party,25,no,3
+22481,"BALDWIN, Brenton",Australian Labor Party - Victorian Branch,5,no,4
+22183,"SHAW, Liza",Australian Greens Victoria,4,no,5
+22865,"HARISOPOULOS, Christos",Family First Victoria,101,no,6
+22746,"MORGAN, Ellen",One Nation Victoria,88,no,7
+22611,"PUTT, Tynan",Liberal Party of Australia - Victorian Division,8,no,1
+23099,"VAINORAS, Tony",Australian Citizens Party (Victorian Division),108,no,2
+22747,"LONSING, Herbert",One Nation Victoria,88,no,3
+22184,"PROCTOR, Claire",Australian Greens Victoria,4,no,4
+22482,"STAIKOS, Nick",Australian Labor Party - Victorian Branch,5,no,5
+22347,"KRUGER, Liam",Victorian Socialists,90,no,6
+22483,"KHAN, Rana",Australian Labor Party - Victorian Branch,5,no,1
+22185,"DE SILVA, Roshan",Australian Greens Victoria,4,no,2
+22866,"DE PAOLIS, Vincenzo",Family First Victoria,101,no,3
+22748,"PIASTRINO, Michael",One Nation Victoria,88,no,4
+22612,"BATTIN, Brad",Liberal Party of Australia - Victorian Division,8,no,5
+23100,"DOWLING, Scott",Australian Citizens Party (Victorian Division),108,no,6
+23003,"JOHN, David",Independent,,no,7
+22348,"AMARASIRI GUNAWARDANA, Nalinda",Victorian Socialists,90,no,8
+23179,"KING, Ethelyn",Libertarian Party (formerly Liberal Democrats),30,no,9
+22186,"QIN, Aaron",Australian Greens Victoria,4,no,1
+23084,"CHEUNG, Heena",Independent,,no,2
+22749,"BAKER, Jamie",One Nation Victoria,88,no,3
+22613,"HOUGUET, Sally",Liberal Party of Australia - Victorian Division,8,no,4
+23059,"McGRATH, Sue-Ellen",Democratic Labour Party (DLP),7,no,5
+22484,"HAMER, Paul",Australian Labor Party - Victorian Branch,5,no,6
+22349,"AFAJ, Saravina",Victorian Socialists,90,no,7
+22867,"FAGG, Peter",Family First Victoria,101,no,8
+22750,"FAGAN, Alexander",One Nation Victoria,88,no,1
+22461,"CASLEY, John",Independent,,no,2
+23180,"HAIN, Anthony",Libertarian Party (formerly Liberal Democrats),30,no,3
+22485,"MULLAHY, Bridget",Australian Labor Party - Victorian Branch,5,no,4
+22350,"SMITH, Jessica",Victorian Socialists,90,no,5
+22614,"NEWBURY, James",Liberal Party of Australia - Victorian Division,8,no,6
+22868,"VINCENT, Barry",Family First Victoria,101,no,7
+22187,"BAIN, Ebony",Australian Greens Victoria,4,no,8
+22351,"YOLBULAN, Mutullah Can",Victorian Socialists,90,no,1
+23097,"EL YOUSSEF, Mohamad",Independent,,no,2
+22615,"DUZOVA, Baris",Liberal Party of Australia - Victorian Division,8,no,3
+22188,"NASIM, Maryam",Australian Greens Victoria,4,no,4
+22976,"ELMUSTAPHA, Mohamad",Independent,,no,5
+22486,"MATTHEWS-WARD, Kathleen",Australian Labor Party - Victorian Branch,5,no,6
+22869,"WILSON, Russell",Family First Victoria,101,no,7
+22751,"KEIRS, Ethan",One Nation Victoria,88,no,8
+23130,"UNICOMB, Rachel",Animal Justice Party,25,no,9
+23013,"BOLTON, Sue",Socialist Alliance,112,no,10
+22352,"FARMER, Naomi",Victorian Socialists,90,no,1
+22616,"MARGELIS, John",Liberal Party of Australia - Victorian Division,8,no,2
+22189,"PULFORD, Adam",Australian Greens Victoria,4,no,3
+22752,"HELMAN, Adam",One Nation Victoria,88,no,4
+23131,"ROSE, India",Animal Justice Party,25,no,5
+22487,"STEGER, Gabe",Australian Labor Party - Victorian Branch,5,no,6
+23094,"AMANATIDIS, Jack",Independent,,no,7
+22460,"YUAN, Melissa",Independent,,no,8
+22851,"RUBLEE, Greg",Independent,,no,1
+22190,"LIGHTBODY, Tomas",Australian Greens Victoria,4,no,2
+22870,"HARVEY, Bradley",Family First Victoria,101,no,3
+22617,"GUY, Matthew",Liberal Party of Australia - Victorian Division,8,no,4
+22948,"PALIOURAS, Amanda",Independent,,no,5
+22353,"TAFIDIS, Dimitrios",Victorian Socialists,90,no,6
+22488,"DALE, Tim",Australian Labor Party - Victorian Branch,5,no,7
+22753,"ATHARI, Mahdi",One Nation Victoria,88,no,8
+23027,"MURPHY-WEBSTER, Melissa",Independent,,no,1
+22191,"LAITALA, Nina",Australian Greens Victoria,4,no,2
+22618,"PARR, Chris",Liberal Party of Australia - Victorian Division,8,no,3
+22754,"WHALLEY, Bruce",One Nation Victoria,88,no,4
+22871,"RANCIE, Rae",Family First Victoria,101,no,5
+23132,"NICOLOSI, Chloe",Animal Justice Party,25,no,6
+22489,"BROOKS, Colin",Australian Labor Party - Victorian Branch,5,no,7
+22354,"SANYAL, Sagar",Victorian Socialists,90,no,8
+22755,"MATHEWS, Joshua",One Nation Victoria,88,no,1
+22355,"ABABNEH, Reema",Victorian Socialists,90,no,2
+23133,"MOORE, Carolyn",Animal Justice Party,25,no,3
+22718,"MACKENZIE, Harley",Legalise Cannabis Victoria,102,no,4
+23181,"SMITH, Trevor",Libertarian Party (formerly Liberal Democrats),30,no,5
+22490,"KILKENNY, Sonya",Australian Labor Party - Victorian Branch,5,no,6
+22192,"PEGRUM, Zoe",Australian Greens Victoria,4,no,7
+22619,"SHELLEY, Jeff",Liberal Party of Australia - Victorian Division,8,no,8
+22193,"DOLEJŠÍ, Angel",Australian Greens Victoria,4,no,1
+23292,"SHROOT, Yaakov Ziv",Independent,,no,2
+22356,"ABABNEH, Malak",Victorian Socialists,90,no,3
+22491,"STAFRACE, Mikaela",Australian Labor Party - Victorian Branch,5,no,4
+22872,"GILBERT, Geneviève",Family First Victoria,101,no,5
+22620,"SOUTHWICK, David",Liberal Party of Australia - Victorian Division,8,no,6
+22756,"ABELMAN, Michael",One Nation Victoria,88,no,7
+23182,"ROCHE, Liam",Libertarian Party (formerly Liberal Democrats),30,no,1
+22194,"BOYD-EEDLE, Conor",Australian Greens Victoria,4,no,2
+22492,"TAK, Meng Heang",Australian Labor Party - Victorian Branch,5,no,3
+22357,"MESSAGE, Kit",Victorian Socialists,90,no,4
+22455,"WHITE, Caroline",Independent,,no,5
+22757,"BAIN, Gavin",One Nation Victoria,88,no,6
+22621,"PAGANIS, John",Liberal Party of Australia - Victorian Division,8,no,7
+22719,"URQUIOLA, Liam",Legalise Cannabis Victoria,102,no,1
+23183,"BAIRD, Craig",Libertarian Party (formerly Liberal Democrats),30,no,2
+22195,"MERCER, Annalise",Australian Greens Victoria,4,no,3
+22622,"TRIPODI, Gino",Liberal Party of Australia - Victorian Division,8,no,4
+22493,"RICHARDS, Pauline",Australian Labor Party - Victorian Branch,5,no,5
+22358,"YUNIS, Reem",Victorian Socialists,90,no,6
+22758,"HIRST, Andrew",One Nation Victoria,88,no,7
+22873,"FOREMAN, Shane",Family First Victoria,101,no,8
+22494,"FARR, Richard",Australian Labor Party - Victorian Branch,5,no,1
+22858,"VANDERWOLF, David",Independent,,no,2
+23184,"SCHWAB, Nathan",Libertarian Party (formerly Liberal Democrats),30,no,3
+22874,"THOMAS, Nofoao",Family First Victoria,101,no,4
+22623,"WOOLDRIDGE, Toby",Liberal Party of Australia - Victorian Division,8,no,5
+22359,"GRIMSHAW, Beth",Victorian Socialists,90,no,6
+22759,"BRINDLEY, Glenn",One Nation Victoria,88,no,7
+22196,"FERNANDO, Lini",Australian Greens Victoria,4,no,8
+22624,"BILLINGS, William",Liberal Party of Australia - Victorian Division,8,no,1
+22360,"McMAHON, Jack",Victorian Socialists,90,no,2
+23300,"KHAN, Arshad Ali",Independent,,no,3
+22875,"HARVEY, Jacqueline",Family First Victoria,101,no,4
+22495,"WILLIAMS, Gabrielle",Australian Labor Party - Victorian Branch,5,no,5
+23185,"FORTE, Jordan",Libertarian Party (formerly Liberal Democrats),30,no,6
+22197,"D'ARCY, Catherine",Australian Greens Victoria,4,no,7
+22760,"WRIGHT, Glenda",One Nation Victoria,88,no,8
+22322,"WARD, Tom",Independent,,no,1
+22628,"MCLEISH, Cindy",Liberal Party of Australia - Victorian Division,8,no,2
+22764,"BARBER, Tim",One Nation Victoria,88,no,3
+22876,"MOSELY, Joshua",Family First Victoria,101,no,4
+22203,"GULPILIL, Talia",Australian Greens Victoria,4,no,5
+22363,"LITTLE, Dylan",Victorian Socialists,90,no,6
+22501,"GIBSON, Kevin",Australian Labor Party - Victorian Branch,5,no,7
+23136,"BOND, Chloe",Animal Justice Party,25,no,8
+22364,"RICHES, Maeve",Victorian Socialists,90,no,1
+22629,"BYRNES, Paul",Liberal Party of Australia - Victorian Division,8,no,2
+23137,"BROOKSBY, Louise",Animal Justice Party,25,no,3
+23186,"MARASEA, Steven",Libertarian Party (formerly Liberal Democrats),30,no,4
+22502,"WARD, Vicki",Australian Labor Party - Victorian Branch,5,no,5
+22765,"WEATHERLEY, Jessie",One Nation Victoria,88,no,6
+22204,"BUSBRIDGE, Rachel",Australian Greens Victoria,4,no,7
+22766,"BARNES, John",One Nation Victoria,88,no,1
+22325,"ADAMS, Ava",Independent,,no,2
+22630,"LE DEUX, Tommy",Liberal Party of Australia - Victorian Division,8,no,3
+23236,"MOHAMUD, Anab",Independent,,no,4
+22503,"THEODOSIS, Kat",Australian Labor Party - Victorian Branch,5,no,5
+22205,"WILLIAMS, James",Australian Greens Victoria,4,no,6
+22604,"YILDIZ, Oscar",Independent,,no,7
+22365,"KEDEM, Michal",Victorian Socialists,90,no,8
+23302,"ZIVKOVIC, Belinda",Independent,,no,1
+22206,"McCOLL, Sam",Australian Greens Victoria,4,no,2
+22504,"SETTLE, Michaela",Australian Labor Party - Victorian Branch,5,no,3
+22366,"RAVEN, Andy",Victorian Socialists,90,no,4
+22877,"HARKNESS, Ian Maxwell",Family First Victoria,101,no,5
+23138,"MORRISON, Wendy",Animal Justice Party,25,no,6
+22767,"BALLINGER, Paul",One Nation Victoria,88,no,7
+22631,"MUIR, Emma",Liberal Party of Australia - Victorian Division,8,no,8
+23310,"VENDITTI-TAYLOR, Steven",Independent,,no,9
+22308,"CLEELAND, Annabelle",National Party of Australia - Victoria,9,no,1
+22878,"TAOUK, Moussa",Family First Victoria,101,no,2
+22207,"REGAN, Alysia",Australian Greens Victoria,4,no,3
+23139,"KELLY, Karina",Animal Justice Party,25,no,4
+22505,"KELLY, Julian",Australian Labor Party - Victorian Branch,5,no,5
+22768,"CAMPBELL, Steve",One Nation Victoria,88,no,6
+22367,"LYLE, Zoe",Victorian Socialists,90,no,7
+22506,"SHERLOCK, Analise",Australian Labor Party - Victorian Branch,5,no,1
+22879,"O'BRIEN, Michelle",Family First Victoria,101,no,2
+22208,"HENLEY, Andrew",Australian Greens Victoria,4,no,3
+22632,"VALLENCE, Bridget",Liberal Party of Australia - Victorian Division,8,no,4
+23140,"HEALD, Jan",Animal Justice Party,25,no,5
+22769,"KILLEY, Daniel",One Nation Victoria,88,no,6
+22368,"SCANLON, James",Victorian Socialists,90,no,7
+22995,"DINH, Hai",Independent,,no,1
+22209,"PEREYRA, Elena",Australian Greens Victoria,4,no,2
+23112,"NGUYEN, Minh Quan",The West Party,106,no,3
+22977,"FELATE, Andualem",The Republican Make Australia Great Again,109,no,4
+23293,"HESS, Kristina",I'm Voting to Avoid the Fine,111,no,5
+22770,"LOPEZ, Alexander",One Nation Victoria,88,no,6
+23085,"LEWIS, Daniel",Free Palestine,107,no,7
+23058,"IBRAHIM, Marcus",Independent,,no,8
+22880,"FLORES, Ana",Family First Victoria,101,no,9
+22507,"HALL, Katie",Australian Labor Party - Victorian Branch,5,no,10
+22999,"MARSH, Jess",Independent,,no,11
+23287,"CALDER, Daryle",Climate Action Now,110,no,12
+22602,"CUMMING, Catherine",Independent,,no,13
+22633,"CHANG, Tim",Liberal Party of Australia - Victorian Division,8,no,14
+22369,"DUFF, Jasmine",Victorian Socialists,90,no,15
+22722,"KNIPE, Jeff",Legalise Cannabis Victoria,102,no,1
+23034,"KELSALL, Henry",Independent,,no,2
+23093,"BARRY, Nicola",Independent,,no,3
+22881,"NICHOLES, Peter",Family First Victoria,101,no,4
+22508,"EDBROOKE, Paul",Australian Labor Party - Victorian Branch,5,no,5
+22856,"ABRAHAM, Chrysten",Independent,,no,6
+22634,"AMBRY, Bree",Liberal Party of Australia - Victorian Division,8,no,7
+22771,"STAFFORD, Paul",One Nation Victoria,88,no,8
+23141,"HARMAN, Julie",Animal Justice Party,25,no,9
+22210,"GOULAS, Katie",Australian Greens Victoria,4,no,10
+22370,"CHEESEMAN, Andrew",Victorian Socialists,90,no,11
+22211,"FLYNN, Emilie",Australian Greens Victoria,4,no,1
+22635,"POBJOY, Andy",Liberal Party of Australia - Victorian Division,8,no,2
+22882,"BENGTSSON, Maria",Family First Victoria,101,no,3
+23142,"MACPHERSON, Pippa",Animal Justice Party,25,no,4
+22772,"DE LORENZO, John",One Nation Victoria,88,no,5
+23014,"GRULL, Brenden",Socialist Alliance,112,no,6
+22509,"COUZENS, Christine",Australian Labor Party - Victorian Branch,5,no,7
+22371,"VANDERPOL, Bree",Victorian Socialists,90,no,8
+22372,"ESPESETH, Amy",Victorian Socialists,90,no,1
+22510,"STEPHENS, Sonny",Australian Labor Party - Victorian Branch,5,no,2
+22212,"MUNRO, Ash",Australian Greens Victoria,4,no,3
+22309,"RENDELL, Gemma",National Party of Australia - Victoria,9,no,4
+22883,"WATERS, Alison",Family First Victoria,101,no,5
+22773,"GOODMAN, Steve",One Nation Victoria,88,no,6
+22332,"MUIR, Ricky","Shooters, Fishers and Farmers Party Victoria",28,no,7
+22511,"BARRY-MACAULAY, Amy",Australian Labor Party - Victorian Branch,5,no,1
+23143,"McAULIFFE, Jessica",Animal Justice Party,25,no,2
+22310,"O'BRIEN, Danny",National Party of Australia - Victoria,9,no,3
+23170,"SCHUHMANN, Phillip",Independent,,no,4
+22213,"EVANS, Zave",Australian Greens Victoria,4,no,5
+22373,"McGENNISKEN, Lachie",Victorian Socialists,90,no,6
+22774,"WILKIE, Bianca",One Nation Victoria,88,no,7
+22636,"SUN, Jacky",Liberal Party of Australia - Victorian Division,8,no,1
+22214,"WHITE, Toyo",Australian Greens Victoria,4,no,2
+23062,"NADARAJAH, Segar",Democratic Labour Party (DLP),7,no,3
+22775,"COX, Brad",One Nation Victoria,88,no,4
+22884,"DOBIE, Anna",Family First Victoria,101,no,5
+22374,"SIOW, Nicholas",Victorian Socialists,90,no,6
+22512,"MULLAHY, John",Australian Labor Party - Victorian Branch,5,no,7
+22471,"SAID, Hassan",Independent,,no,1
+22375,"SMELOV, Kirill",Victorian Socialists,90,no,2
+22215,"MCGINNESS, Declan",Australian Greens Victoria,4,no,3
+22776,"MOORE, Chris",One Nation Victoria,88,no,4
+23038,"ZOUGHAIB, Yehya",Independent,,no,5
+23101,"YOHANNA, Mazen",Australian Citizens Party (Victorian Division),108,no,6
+22885,"TITHERIDGE, Michael",Family First Victoria,101,no,7
+23144,"FURINA, Rosanna",Animal Justice Party,25,no,8
+22637,"OVEREND, Jim",Liberal Party of Australia - Victorian Division,8,no,9
+22513,"WALTERS, Iwan",Australian Labor Party - Victorian Branch,5,no,10
+23145,"COULSON, Chloe",Animal Justice Party,25,no,1
+22376,"DENMAN, Michael",Victorian Socialists,90,no,2
+22216,"WILLOUGHBY, Isaac",Australian Greens Victoria,4,no,3
+22514,"MERCURIO, Paul",Australian Labor Party - Victorian Branch,5,no,4
+22638,"SCHIEFLER, Frank",Liberal Party of Australia - Victorian Division,8,no,5
+23265,"SMART, Jason",Independent,,no,6
+22777,"ANGELICO, Peter",One Nation Victoria,88,no,7
+22515,"CROSBY, Clive",Australian Labor Party - Victorian Branch,5,no,1
+22217,"ROCHA, Kylie",Australian Greens Victoria,4,no,2
+22459,"IBUKI, Shima",Independent,,no,3
+22778,"PRIBILOVICS, Paul",One Nation Victoria,88,no,4
+22886,"NICOLL, Adam",Family First Victoria,101,no,5
+22377,"McENEARNEY, Tess",Victorian Socialists,90,no,6
+22639,"PESUTTO, John",Liberal Party of Australia - Victorian Division,8,no,7
+22324,"KENNEDY, Michelle",Independent,,no,1
+22378,"MILNE, Ben",Victorian Socialists,90,no,2
+22516,"CARBINES, Anthony",Australian Labor Party - Victorian Branch,5,no,3
+22640,"LOPEZ RIOS, Oscar",Liberal Party of Australia - Victorian Division,8,no,4
+22779,"HUTCHINSON, Wayne",One Nation Victoria,88,no,5
+22887,"CASONATO, Ren",Family First Victoria,101,no,6
+22218,"CRAWLEY, Nina",Australian Greens Victoria,4,no,7
+23284,"BERGMAN, Dora",Independent,,no,8
+22517,"SPENCE, Ros",Australian Labor Party - Victorian Branch,5,no,1
+22641,"DADISHO, Eddie",Liberal Party of Australia - Victorian Division,8,no,2
+22888,"DOBSON, Jeanette",Family First Victoria,101,no,3
+23146,"LYNCH, Matthew",Animal Justice Party,25,no,4
+22780,"STEANS, Troy",One Nation Victoria,88,no,5
+22219,"TIWARI, Payal",Australian Greens Victoria,4,no,6
+22972,"ISLAM, Rebeca",Independent,,no,7
+22379,"MILLETT, Courtney",Victorian Socialists,90,no,8
+23096,"LIANG, Man",Independent,,no,1
+22466,"TORNEY, Sophie",Independent,,no,2
+22220,"CARTER, Jackie",Australian Greens Victoria,4,no,3
+22518,"SUN, David",Australian Labor Party - Victorian Branch,5,no,4
+22781,"LAIRD, David",One Nation Victoria,88,no,5
+22380,"LINCOLNE, Samantha",Victorian Socialists,90,no,6
+22642,"WILSON, Jess",Liberal Party of Australia - Victorian Division,8,no,7
+22889,"SEELEY, Ann",Family First Victoria,101,no,8
+23262,"HALES, Juliet",Animal Justice Party,25,no,9
+23224,"DAVIS, Finlay",Independent,,no,10
+23113,"SOUTHERN, Donna",The West Party,106,no,1
+22890,"PATTERSON, Nick",Family First Victoria,101,no,2
+22221,"MCDONALD, Joyce",Australian Greens Victoria,4,no,3
+22978,"PIDI, Divya",The Republican Make Australia Great Again,109,no,4
+22381,"HASSAN, Rayan",Victorian Socialists,90,no,5
+22643,"CHAKOMA, Jack",Liberal Party of Australia - Victorian Division,8,no,6
+22519,"GRIGOROVITCH, Luba",Australian Labor Party - Victorian Branch,5,no,7
+22782,"MELNIKOV, Seva",One Nation Victoria,88,no,8
+23147,"KANDPAL, Vasundhara",Animal Justice Party,25,no,9
+23015,"HATHWAY, Sarah",Socialist Alliance,112,no,1
+23148,"LONG, Samantha",Animal Justice Party,25,no,2
+22891,"UWIZEYIMANA, Tina",Family First Victoria,101,no,3
+22222,"SLATER, Theresa",Australian Greens Victoria,4,no,4
+22783,"SPYROS, Steven",One Nation Victoria,88,no,5
+22382,"RANDALL, Oliver",Victorian Socialists,90,no,6
+22520,"GEORGE, Ella",Australian Labor Party - Victorian Branch,5,no,7
+22644,"BEDDOE, Tim",Liberal Party of Australia - Victorian Division,8,no,8
+22223,"NGUYEN, Lucy",Australian Greens Victoria,4,no,1
+23114,"MENDELSOHN, Emma",The West Party,106,no,2
+22784,"PAREDES, Rufo",One Nation Victoria,88,no,3
+22892,"GARCIA, Jo",Family First Victoria,101,no,4
+22521,"CONNOLLY, Sarah",Australian Labor Party - Victorian Branch,5,no,5
+23149,"MANSOURI JAJAEE, Shohre",Animal Justice Party,25,no,6
+22979,"CHITTEDI, Suchithra",The Republican Make Australia Great Again,109,no,7
+22645,"NOUNE, Ghada",Liberal Party of Australia - Victorian Division,8,no,8
+22383,"RUDD, Van Thanh",Victorian Socialists,90,no,9
+22603,"BUTLER, Kieran",Independent,,no,1
+23219,"HYSLOP, Karen",Australian Democrats,113,no,2
+22311,"KEALY, Emma",National Party of Australia - Victoria,9,no,3
+22522,"PAVLOVICH, Sue",Australian Labor Party - Victorian Branch,5,no,4
+22893,"ELMES, Lee-Ann",Family First Victoria,101,no,5
+22785,"PARTRIDGE, Andrew",One Nation Victoria,88,no,6
+22384,"DOWNEY, Jos",Victorian Socialists,90,no,7
+22224,"MORAN, Jeff",Australian Greens Victoria,4,no,8
+22465,"BONANNO, Dom",Independent,,no,1
+22523,"DEATH, Annette",Australian Labor Party - Victorian Branch,5,no,2
+22385,"WILSON, Catherine",Victorian Socialists,90,no,3
+22225,"MCRAE MCLEOD, Marley",Australian Greens Victoria,4,no,4
+22327,"SETON, Michael",Independent,,no,5
+22894,"MAYNE, Bernadette",Family First Victoria,101,no,6
+23150,"KORINFSKY, Natalie",Animal Justice Party,25,no,7
+22646,"KENDALL, Kate",Liberal Party of Australia - Victorian Division,8,no,8
+22786,"PAROLIN, Damien",One Nation Victoria,88,no,9
+23187,"SEGAL, David",Libertarian Party (formerly Liberal Democrats),30,no,1
+22524,"MARTIN, Peter",Australian Labor Party - Victorian Branch,5,no,2
+22787,"BODE, Edward",One Nation Victoria,88,no,3
+22386,"LEONARD, Gavin",Victorian Socialists,90,no,4
+22226,"KATSIKIS, Georgia",Australian Greens Victoria,4,no,5
+22338,"ZIGOURAS, Christina",Independent,,no,6
+22647,"HAMER, Amelia",Liberal Party of Australia - Victorian Division,8,no,7
+23301,"TUCKFIELD, Rowan",Independent,,no,1
+22227,"SANDELL, Ellen",Australian Greens Victoria,4,no,2
+23188,"MCCATHIE, Rob",Libertarian Party (formerly Liberal Democrats),30,no,3
+22525,"GRIFFITHS, Davydd",Australian Labor Party - Victorian Branch,5,no,4
+23257,"YUSUF, Mohamed",Independent,,no,5
+23151,"JONES, Naomi",Animal Justice Party,25,no,6
+22648,"CAMILLO, Rafael",Liberal Party of Australia - Victorian Division,8,no,7
+22387,"VAN DEN LAMB, Jordan",Victorian Socialists,90,no,8
+22788,"COURTIS, Phillip",One Nation Victoria,88,no,9
+23115,"LEGRO, Hayden",The West Party,106,no,1
+22388,"KELLY, Daire",Victorian Socialists,90,no,2
+22970,"FARUQ, M.D. Omor",Independent,,no,3
+22228,"LEVCHENKOVA, Veronika",Australian Greens Victoria,4,no,4
+23152,"ADIN-JAMES, Fiona",Animal Justice Party,25,no,5
+22649,"BINGHAM, Jarrod",Liberal Party of Australia - Victorian Division,8,no,6
+22895,"WEST, Marlene",Family First Victoria,101,no,7
+22526,"BORG, Broden",Australian Labor Party - Victorian Branch,5,no,8
+22716,"PERERA, Jason Spencer",Independent,,no,9
+23042,"FRASER, Jason",Independent,,no,10
+22789,"KATSELIS, Matthew",One Nation Victoria,88,no,11
+22896,"NTAHOMVUKIYE, Joselyne",Family First Victoria,101,no,1
+22790,"COOPER, Guy",One Nation Victoria,88,no,2
+22389,"NAYEF, Renee",Victorian Socialists,90,no,3
+22312,"BENHAM, Jade",National Party of Australia - Victoria,9,no,4
+23153,"FRIES, Vanessa",Animal Justice Party,25,no,5
+22527,"ZIGOURAS, Stella",Australian Labor Party - Victorian Branch,5,no,6
+22229,"CLEMENTS, Katie",Australian Greens Victoria,4,no,7
+22528,"NEALY, Elizabeth",Australian Labor Party - Victorian Branch,5,no,1
+22650,"DRYSDALE, Joel",Liberal Party of Australia - Victorian Division,8,no,2
+22897,"VAN DER END, Kath",Family First Victoria,101,no,3
+22230,"ZACHARIAS, Binoy",Australian Greens Victoria,4,no,4
+23305,"McLINDON, Aidan",Independent,,no,5
+22390,"LAMBOURN, Jesse",Victorian Socialists,90,no,6
+22791,"TSOUTSOULIS, Arthur",One Nation Victoria,88,no,7
+23154,"LEVENS, Eve",Animal Justice Party,25,no,8
+22651,"FITZMAURICE, Clare",Liberal Party of Australia - Victorian Division,8,no,1
+22898,"MANNERS, Craig",Family First Victoria,101,no,2
+22529,"DE MARTINO, Daniela",Australian Labor Party - Victorian Branch,5,no,3
+22792,"DOWELL, Adrian",One Nation Victoria,88,no,4
+22231,"BLAIR, Merran",Australian Greens Victoria,4,no,5
+23155,"WORMALD, Alyssa",Animal Justice Party,25,no,6
+22391,"BRIGGS, Noah",Victorian Socialists,90,no,7
+22652,"O'HALLORAN, Paul",Liberal Party of Australia - Victorian Division,8,no,1
+22392,"HOSSAIN, Mahee",Victorian Socialists,90,no,2
+22899,"POTUCEK, Lily",Family First Victoria,101,no,3
+23189,"VERSTEEGEN, Rachel",Libertarian Party (formerly Liberal Democrats),30,no,4
+22793,"TICEHURST, Nadia",One Nation Victoria,88,no,5
+22232,"BRESKIN, Alex",Australian Greens Victoria,4,no,6
+22530,"RICHARDSON, Tim",Australian Labor Party - Victorian Branch,5,no,7
+22723,"THOMPSON, Renee",Legalise Cannabis Victoria,102,no,8
+22393,"BROWNLIE, Gene",Victorian Socialists,90,no,1
+22531,"MACDONALD, Kerry",Australian Labor Party - Victorian Branch,5,no,2
+22653,"CREWTHER, Chris",Liberal Party of Australia - Victorian Division,8,no,3
+22794,"BEARDS, Ashli",One Nation Victoria,88,no,4
+22233,"TITCHER, Kai",Australian Greens Victoria,4,no,5
+22453,"GOFFIN, Melissa",Independent,,no,6
+23311,"MAHER, Adrian",Independent,,no,7
+22900,"CLARKE, Brendan",Family First Victoria,101,no,1
+22532,"LUND, Tracie",Australian Labor Party - Victorian Branch,5,no,2
+22234,"HINE, Rochelle",Australian Greens Victoria,4,no,3
+23063,"McPHEE, Ross",Democratic Labour Party (DLP),7,no,4
+22313,"CAMERON, Martin",National Party of Australia - Victoria,9,no,5
+22394,"ACREMAN, Natalie",Victorian Socialists,90,no,6
+22795,"MURPHY, Casey",One Nation Victoria,88,no,7
+22796,"REBBECHI, Cody",One Nation Victoria,88,no,1
+22235,"SCHOFIELD, Paul J",Australian Greens Victoria,4,no,2
+22654,"TRAN, Charles",Liberal Party of Australia - Victorian Division,8,no,3
+22533,"FOSTER, Eden",Australian Labor Party - Victorian Branch,5,no,4
+23190,"THEODOSSOPOULOU, Fotini",Libertarian Party (formerly Liberal Democrats),30,no,5
+22901,"DOBRZYNSKI, Stewart",Family First Victoria,101,no,6
+23090,"COOK, Ian",Independent,,no,7
+22395,"BUCHANAN, Connor",Victorian Socialists,90,no,8
+23162,"COLLARD, Peita",Animal Justice Party,25,no,1
+22314,"HOSKING, Brett",National Party of Australia - Victoria,9,no,2
+22902,"MCDONALD, Ewan",Family First Victoria,101,no,3
+22797,"SMITH, Garner",One Nation Victoria,88,no,4
+22534,"GRUNDY, Christine",Australian Labor Party - Victorian Branch,5,no,5
+22396,"SANIF, Asyiqin",Victorian Socialists,90,no,6
+22236,"COOK, Zoe",Australian Greens Victoria,4,no,7
+22903,"DETHLEFS, Geoff",Family First Victoria,101,no,1
+22655,"FARNHAM, Wayne",Liberal Party of Australia - Victorian Division,8,no,2
+22237,"WEAVER, Alyssa",Australian Greens Victoria,4,no,3
+22397,"PAGE, Moss",Victorian Socialists,90,no,4
+22798,"LUCAS, Ben",One Nation Victoria,88,no,5
+22535,"LANGLEY, Jannette",Australian Labor Party - Victorian Branch,5,no,6
+22656,"NATHANIELSZ, Shemane",Liberal Party of Australia - Victorian Division,8,no,1
+22799,"CRUTCHFIELD, Sebastian",One Nation Victoria,88,no,2
+23191,"UTOYO, Joshua",Libertarian Party (formerly Liberal Democrats),30,no,3
+22904,"EMMANUEL, Cristina",Family First Victoria,101,no,4
+22724,"LEAHY, Martin",Legalise Cannabis Victoria,102,no,5
+22536,"WILSON, Belinda",Australian Labor Party - Victorian Branch,5,no,6
+22238,"PERRY, Hayley",Australian Greens Victoria,4,no,7
+22398,"McCRACKEN, Lachlan",Victorian Socialists,90,no,8
+22399,"McCRACKEN, Bailey",Victorian Socialists,90,no,1
+22905,"CURRIE, Alan",Family First Victoria,101,no,2
+22800,"HAMMOND, Trevor",One Nation Victoria,88,no,3
+23192,"DENKER, Lydia",Libertarian Party (formerly Liberal Democrats),30,no,4
+22456,"WATSON, Scott",Independent,,no,5
+22239,"NAMBU, Jill",Australian Greens Victoria,4,no,6
+22537,"KOOMEN, Stefan",Australian Labor Party - Victorian Branch,5,no,7
+22657,"PETERSON, Norliah",Liberal Party of Australia - Victorian Division,8,no,8
+22240,"HEALY, Sianan",Australian Greens Victoria,4,no,1
+22538,"SNOWBALL, Surbhi",Australian Labor Party - Victorian Branch,5,no,2
+23156,"CHAMPION, Tamara",Animal Justice Party,25,no,3
+22801,"HERCUS, Darren",One Nation Victoria,88,no,4
+22473,"ROBBINS, Kim",Independent,,no,5
+22949,"TOSCANO, Joseph",Independent,,no,6
+22400,"WILLCOCKS, Seth",Victorian Socialists,90,no,7
+22658,"MARSH, Anthony",Liberal Party of Australia - Victorian Division,8,no,8
+22906,"BROWN, Mike",Family First Victoria,101,no,9
+23006,"SFAMENI, Sam",Independent,,no,1
+22539,"CARROLL, Ben",Australian Labor Party - Victorian Branch,5,no,2
+22907,"THEODOROU, George",Family First Victoria,101,no,3
+22659,"BYRNE, Samantha",Liberal Party of Australia - Victorian Division,8,no,4
+23064,"METE, Domenic",Democratic Labour Party (DLP),7,no,5
+22401,"LAWS, Brendan",Victorian Socialists,90,no,6
+23157,"HASELGROVE, Salomae",Animal Justice Party,25,no,7
+22802,"TAVERNA, Jason",One Nation Victoria,88,no,8
+22241,"NGUYEN, Lana",Australian Greens Victoria,4,no,9
+22980,"CHITTEDI, Karthik Reddy",The Republican Make Australia Great Again,109,no,10
+23116,"PATRIKEOS, Brett",The West Party,106,no,11
+22908,"CIMBARO, Richard",Family First Victoria,101,no,1
+23193,"PENMAN, Jim",Libertarian Party (formerly Liberal Democrats),30,no,2
+22402,"LARKIN, Kath",Victorian Socialists,90,no,3
+23294,"PILLEY, Clive",I'm Voting to Avoid the Fine,111,no,4
+22329,"HILLMAN, Ian",Independent,,no,5
+22803,"BRADBURY, Christopher",One Nation Victoria,88,no,6
+22660,"AWAD, Lynda",Liberal Party of Australia - Victorian Division,8,no,7
+22540,"THEOPHANOUS, Kat",Australian Labor Party - Victorian Branch,5,no,8
+23086,"KAFEL, Hannah",Free Palestine,107,no,9
+22242,"GOME, Campbell",Australian Greens Victoria,4,no,10
+22258,"HSIEH, Hsiang-Han",Australian Greens Victoria,4,no,1
+22556,"DIMOPOULOS, Steve",Australian Labor Party - Victorian Branch,5,no,2
+22674,"JUNG, Martin",Liberal Party of Australia - Victorian Division,8,no,3
+22812,"CARTER, Brooke",One Nation Victoria,88,no,4
+22915,"GRINTER, Matthew",Family First Victoria,101,no,5
+22412,"BUGTER, Rowdy",Victorian Socialists,90,no,6
+22317,"McCURDY, Tim",National Party of Australia - Victoria,9,no,1
+23196,"FIDGE, Julian",Libertarian Party (formerly Liberal Democrats),30,no,2
+22413,"MURPHY, Bronwyn",Victorian Socialists,90,no,3
+22813,"ROUEL, James",One Nation Victoria,88,no,4
+22451,"MANNING, Steve",Independent,,no,5
+22916,"NORTON-SMITH, Carol",Family First Victoria,101,no,6
+22557,"SMITH, Jennifer",Australian Labor Party - Victorian Branch,5,no,7
+22259,"GILBERT, Benjamin",Australian Greens Victoria,4,no,8
+23160,"LITCHFIELD, Sue",Animal Justice Party,25,no,9
+23275,"HAMALAINEN, Jesse",Democratic Labour Party (DLP),7,no,1
+22323,"FRENCH, Raymond",Independent,,no,2
+23197,"HANDS, Kate",Libertarian Party (formerly Liberal Democrats),30,no,3
+23217,"OGDEN, Lucas",Independent,,no,4
+22414,"GRIGG, Stephanie",Victorian Socialists,90,no,5
+22558,"SOLIVEN, Alessandra",Australian Labor Party - Victorian Branch,5,no,6
+22675,"DYSON, Radmila",Liberal Party of Australia - Victorian Division,8,no,7
+22260,"YAWARI, Nasser",Australian Greens Victoria,4,no,8
+22814,"PICKERING, Warren",One Nation Victoria,88,no,9
+23109,"DAVIES, Stephanie",Independent,,no,10
+23087,"HICKEY, Amanda",Free Palestine,107,no,1
+23289,"LAWRENCE, Stuart",Climate Action Now,110,no,2
+22559,"CIANFLONE, Anthony",Australian Labor Party - Victorian Branch,5,no,3
+22975,"GANCI, Rosemarie Pauline",One Nation Victoria,88,no,4
+22261,"PANOPOULOS, Angelica",Australian Greens Victoria,4,no,5
+22917,"ASHTON, Kathrine",Family First Victoria,101,no,6
+23019,"ANDREWARTHA, Jacob",Socialist Alliance,112,no,7
+23295,"HAUPT, Kerry",I'm Voting to Avoid the Fine,111,no,8
+22415,"SHAMSILI, Yasemin",Victorian Socialists,90,no,9
+22676,"TAGGAR, Rohit",Liberal Party of Australia - Victorian Division,8,no,10
+22416,"LAINE, Taylor",Victorian Socialists,90,no,1
+23117,"GRECH, Mark",The West Party,106,no,2
+23071,"KELLY, Paul",Democratic Labour Party (DLP),7,no,3
+22560,"HILAKARI, Mathew",Australian Labor Party - Victorian Branch,5,no,4
+22981,"ALLE, Kirti",The Republican Make Australia Great Again,109,no,5
+22262,"KRISHNA PANDI, Ponraj",Australian Greens Victoria,4,no,6
+22918,"MEURE, Keith",Family First Victoria,101,no,7
+22677,"REDDY, Raja",Liberal Party of Australia - Victorian Division,8,no,8
+22815,"REID, Cameron",One Nation Victoria,88,no,9
+22417,"TOLLEY, Lula",Victorian Socialists,90,no,1
+22678,"RIORDAN, Richard",Liberal Party of Australia - Victorian Division,8,no,2
+22561,"HUSSEIN, Hutch",Australian Labor Party - Victorian Branch,5,no,3
+22263,"HOLDEN, Jesse",Australian Greens Victoria,4,no,4
+23104,"CARBINS, Brenton",Australian Citizens Party (Victorian Division),108,no,5
+22816,"MALCOLM, Anna",One Nation Victoria,88,no,6
+22919,"COLLA, Vince",Family First Victoria,101,no,7
+23285,"FINNIGAN, Tosh-Jake",Independent,,no,1
+23161,"O'NEILL, G. Daniel",Animal Justice Party,25,no,2
+22971,"LEETON WATTS, George",Independent,,no,3
+22679,"WESTAWAY, Rachel",Liberal Party of Australia - Victorian Division,8,no,4
+22464,"MENADUE, Alan",Independent,,no,5
+23290,"WONG, Nicholas",Climate Action Now,110,no,6
+23088,"JONES, Daniel",Free Palestine,107,no,7
+23298,"DICKS, Max",Independent,,no,8
+22418,"DOUEIHI, Clayton",Victorian Socialists,90,no,9
+23286,"JONAS, Morgan",Safety Victoria – Violent Crime Prevention,99,no,10
+22817,"VIRSU, Shaun",One Nation Victoria,88,no,11
+22562,"HOPPER, Meghan",Australian Labor Party - Victorian Branch,5,no,12
+22264,"DI CAMILLO, Angelica",Australian Greens Victoria,4,no,13
+23297,"DATE, Tim",I'm Voting to Avoid the Fine,111,no,1
+23208,"CHIN, Zheng",Independent,,no,2
+22680,"AL KATRANJI, Hamza",Liberal Party of Australia - Victorian Division,8,no,3
+22920,"VALENCIA, Julio",Family First Victoria,101,no,4
+23299,"FOWLES, William",Independent,,no,5
+22265,"SANGARYA, Loki",Australian Greens Victoria,4,no,6
+22419,"ASHMORE, Serena",Victorian Socialists,90,no,7
+23089,"BRYANT, Mark",Free Palestine,107,no,8
+22818,"GUARDIANI, Franco",One Nation Victoria,88,no,9
+23291,"DOWER, Simon",Climate Action Now,110,no,10
+22563,"LAMBERT, Nathan",Australian Labor Party - Victorian Branch,5,no,11
+22819,"RINDFLEISH, Harrison",One Nation Victoria,88,no,1
+22681,"APONSO, Charles",Liberal Party of Australia - Victorian Division,8,no,2
+22420,"DITE, Chris",Victorian Socialists,90,no,3
+22564,"MCKENZIE, Sarah",Australian Labor Party - Victorian Branch,5,no,4
+23237,"MAYNARD, Christine",Independent,,no,5
+23198,"GRAY, Bernadette",Libertarian Party (formerly Liberal Democrats),30,no,6
+23220,"PEAD-PHILIPSON, Jack",Australian Democrats,113,no,7
+22266,"de VIETRI, Gabrielle",Australian Greens Victoria,4,no,8
+23209,"MEYER, David",Independent,,no,9
+22565,"HALSE, Rachel",Australian Labor Party - Victorian Branch,5,no,1
+22682,"McGOWAN, Nick",Liberal Party of Australia - Victorian Division,8,no,2
+23072,"NORTON, Christopher William",Democratic Labour Party (DLP),7,no,3
+22921,"HUANG, Elaine",Family First Victoria,101,no,4
+22449,"CUTTS, Prue",Independent,,no,5
+22267,"MILLS, Amy",Australian Greens Victoria,4,no,6
+22820,"O'CONNOR, John",One Nation Victoria,88,no,7
+23163,"WALKER, Lyndon",Animal Justice Party,25,no,8
+22421,"GARDNER, Jack",Victorian Socialists,90,no,9
+22335,"WOJTKOWSKI, Krzysztof","Shooters, Fishers and Farmers Party Victoria",28,no,1
+23037,"QUINCE, Bernard",Independent,,no,2
+22922,"MCGRATH, Mark",Family First Victoria,101,no,3
+23073,"SKRUZNY, Ronald",Democratic Labour Party (DLP),7,no,4
+22422,"BRENNAN-JONES, Taylah",Victorian Socialists,90,no,5
+23199,"BARRY, Jeff",Libertarian Party (formerly Liberal Democrats),30,no,6
+22472,"ANDREI, Trevor Scott",Independent,,no,7
+22566,"HAYLETT, Martha",Australian Labor Party - Victorian Branch,5,no,8
+22268,"DRYLIE, Tim",Australian Greens Victoria,4,no,9
+22821,"BUXTON, Donna",One Nation Victoria,88,no,10
+22683,"READ, Megan",Liberal Party of Australia - Victorian Division,8,no,11
+22318,"ARMSTRONG, Jo",National Party of Australia - Victoria,9,no,12
+22269,"MASSEY, David",Australian Greens Victoria,4,no,1
+22684,"WILLIAMS, Max",Liberal Party of Australia - Victorian Division,8,no,2
+22923,"DOBRZYNSKI, Fiona",Family First Victoria,101,no,3
+22567,"SHAHBAZ, Muhammad",Australian Labor Party - Victorian Branch,5,no,4
+22822,"WATT, Bradley",One Nation Victoria,88,no,5
+23200,"ROBSON, Scott",Libertarian Party (formerly Liberal Democrats),30,no,6
+22423,"HIEMSTRA, Lars",Victorian Socialists,90,no,7
+22424,"STEVENSON, Lauren",Victorian Socialists,90,no,1
+22270,"FOTAKIS, Timon",Australian Greens Victoria,4,no,2
+22685,"ROWSWELL, Brad",Liberal Party of Australia - Victorian Division,8,no,3
+22568,"SAGRIS-DESMOND, Anastasia",Australian Labor Party - Victorian Branch,5,no,4
+22823,"BLIGHT, Anthony",One Nation Victoria,88,no,5
+22319,"SALI, Shane",National Party of Australia - Victoria,9,no,1
+22924,"WHITE, Alison",Family First Victoria,101,no,2
+22271,"VERNEY, Grace",Australian Greens Victoria,4,no,3
+22425,"HOCKING, Karen",Victorian Socialists,90,no,4
+23095,"COSTA, Lou",Independent,,no,5
+22569,"FIN, Cayla",Australian Labor Party - Victorian Branch,5,no,6
+22824,"BRYANT, Phillip",One Nation Victoria,88,no,7
+23164,"MURPHY-GINGER, Faith",Animal Justice Party,25,no,8
+22974,"VARKEY, Johnson",Independent,,no,9
+22570,"THISTLETON, Rebecca",Australian Labor Party - Victorian Branch,5,no,1
+22462,"NELSON, Ron",Independent,,no,2
+22925,"BARRON, Alan",Family First Victoria,101,no,3
+23020,"HEDLEY, Freya",Socialist Alliance,112,no,4
+22426,"GORMAN, Madilyn",Victorian Socialists,90,no,5
+22825,"GEARD, Josh",One Nation Victoria,88,no,6
+22272,"SCHERRER, Izzy",Australian Greens Victoria,4,no,7
+22686,"PETTIT, Libby",Liberal Party of Australia - Victorian Division,8,no,8
+22928,"BUCHAN, Tamhas",Family First Victoria,101,no,1
+22831,"HUGHES, Richard",One Nation Victoria,88,no,2
+22581,"GOVANSTONE, Andrew",Australian Labor Party - Victorian Branch,5,no,3
+22283,"WATTS, Silver Rose",Australian Greens Victoria,4,no,4
+22697,"BRITNELL, Roma",Liberal Party of Australia - Victorian Division,8,no,5
+22431,"SHEPPARD, Hera",Victorian Socialists,90,no,6
+23118,"WALKER, Luân",The West Party,106,no,1
+22284,"HUYNH, Thuc Bao",Australian Greens Victoria,4,no,2
+22432,"NGUYEN, Leanna",Victorian Socialists,90,no,3
+22582,"SULEYMAN, Natalie",Australian Labor Party - Victorian Branch,5,no,4
+22698,"DUNSTAN, Rob",Liberal Party of Australia - Victorian Division,8,no,5
+23169,"JANTEN, Kerry",Independent,,no,6
+22929,"HAKIZIMANA, Alex",Family First Victoria,101,no,7
+22832,"COWELL, John",One Nation Victoria,88,no,8
+22982,DAVINDER KAUR,The Republican Make Australia Great Again,109,no,9
+22433,"BREMNER, Adam",Victorian Socialists,90,no,1
+22833,"DABROWSKI, Elita",One Nation Victoria,88,no,2
+23119,"VINE, Geoff",The West Party,106,no,3
+22699,"COTTOM, Simmone",Liberal Party of Australia - Victorian Division,8,no,4
+22583,"BULL, Josh",Australian Labor Party - Victorian Branch,5,no,5
+23165,"MOHR, Rohanna",Animal Justice Party,25,no,6
+22983,"BETHI, Bhasker Reddy",The Republican Make Australia Great Again,109,no,7
+23078,"STAFFORD, John",Democratic Labour Party (DLP),7,no,8
+23235,"MEDCRAFT, Steve Jack",Independent,,no,9
+22285,"GRANGER-BROWN, Lauren",Australian Greens Victoria,4,no,10
+22930,"BATRES, Elmer",Family First Victoria,101,no,11
+22450,"VANDENBERG, Ashleigh",Independent,,no,1
+22931,"CROES, Nancy G",Family First Victoria,101,no,2
+22984,"LANKALA KENDERLA, Laxmi",The Republican Make Australia Great Again,109,no,3
+23120,"LANCASHIRE, Bruce",The West Party,106,no,4
+23098,"KERR, Maria",Independent,,no,5
+22834,"BAUCH, Joh",One Nation Victoria,88,no,6
+22700,"MOUSSI, Nathalie",Liberal Party of Australia - Victorian Division,8,no,7
+23280,"SINCLAIR, Brandon",Democratic Labour Party (DLP),7,no,8
+23264,"POON, Bruce",Animal Justice Party,25,no,9
+22584,"RASIC, Uros",Australian Labor Party - Victorian Branch,5,no,10
+22286,"JANE, Maggie",Australian Greens Victoria,4,no,11
+22434,"KHAN, Shania",Victorian Socialists,90,no,12
+22468,"MOINUDDIN, Aijaz",Independent,,no,1
+22585,"WIGHT, Dylan",Australian Labor Party - Victorian Branch,5,no,2
+22326,"ISLAM, SM Zaberul",Independent,,no,3
+23121,"ELSBURY, Andrew",The West Party,106,no,4
+22435,"VAN KEULEN, Leah",Victorian Socialists,90,no,5
+22932,"NIYONGABIRE, Horizana",Family First Victoria,101,no,6
+23307,"AHMED, Rahima Ibrahim",Independent,,no,7
+23166,"RAHN, Maurita",Animal Justice Party,25,no,8
+22835,"VILLAGONZALO, Walter",One Nation Victoria,88,no,9
+22287,"RIFAI, A. Raheem",Australian Greens Victoria,4,no,10
+22701,"UPPARLAPALLE, Venkat Ram",Liberal Party of Australia - Victorian Division,8,no,11
+22985,"SUDHAGANI, Sindhu",The Republican Make Australia Great Again,109,no,12
+22933,"RANCIE, Rob",Family First Victoria,101,no,1
+22702,"STOJCEVSKI, Belinda",Liberal Party of Australia - Victorian Division,8,no,2
+22836,"ANTHONY, Nadia",One Nation Victoria,88,no,3
+22436,"REDDY, Priya",Victorian Socialists,90,no,4
+22586,"HALFPENNY, Bronwyn",Australian Labor Party - Victorian Branch,5,no,5
+22288,"TREWELLA, Gavin",Australian Greens Victoria,4,no,6
+22437,"STANLEY, John",Victorian Socialists,90,no,1
+22703,"WERNER, Nicole",Liberal Party of Australia - Victorian Division,8,no,2
+22587,"PATERSON, Rebecca",Australian Labor Party - Victorian Branch,5,no,3
+23203,"SCHWAB, Caleb",Libertarian Party (formerly Liberal Democrats),30,no,4
+22289,"MURADIAN, Vanessa",Australian Greens Victoria,4,no,5
+22837,"BURNSIDE, Mark",One Nation Victoria,88,no,6
+22588,"ADDISON, Juliana",Australian Labor Party - Victorian Branch,5,no,1
+22838,"ROBINSON, Stuart",One Nation Victoria,88,no,2
+22934,"BYRNE, Ruth",Family First Victoria,101,no,3
+22438,"MEAGHER, Chris",Victorian Socialists,90,no,4
+22704,"RONAN, Gav",Liberal Party of Australia - Victorian Division,8,no,5
+23167,"COLLINS, Melissa",Animal Justice Party,25,no,6
+22290,"BURNS, Ellen",Australian Greens Victoria,4,no,7
+23122,"HOPPER, Paul",The West Party,106,no,1
+22291,"KUMAR, Tushar",Australian Greens Victoria,4,no,2
+22839,"PATERAS, Paul",One Nation Victoria,88,no,3
+22705,"CLARK, Reece",Liberal Party of Australia - Victorian Division,8,no,4
+22935,"EMERSON, Matt",Family First Victoria,101,no,5
+22589,"LISTER, John",Australian Labor Party - Victorian Branch,5,no,6
+23279,"ORCHARD, Jeremy",Democratic Labour Party (DLP),7,no,7
+22439,"MUNRO, Sue",Victorian Socialists,90,no,8
+22454,"RAIZADA, Monica Sharma",Independent,,no,9
+22986,"KAYAGURLA, Sandhya",The Republican Make Australia Great Again,109,no,10
+22447,"MARTIN, Oskar",Victorian Socialists,90,no,1
+22302,"HOCKING, Ben",Australian Greens Victoria,4,no,2
+22945,"O'REGAN, Bruce",Family First Victoria,101,no,3
+22845,"LOUGHNAN, Catherine",One Nation Victoria,88,no,4
+22993,"YARRA, Sagar Reddy",The Republican Make Australia Great Again,109,no,5
+23126,"GANNON, Gill",The West Party,106,no,6
+22600,"HORNE, Melissa",Australian Labor Party - Victorian Branch,5,no,7
+22328,"BRIFFA, Tony",Independent,,no,8
+22714,"LINDEMANN, Paul",Liberal Party of Australia - Victorian Division,8,no,9
+22601,"KATHAGE, Lauren",Australian Labor Party - Victorian Branch,5,no,1
+22846,"JOHNSON, Jeremy",One Nation Victoria,88,no,2
+22448,"BELL, Andrew",Victorian Socialists,90,no,3
+22946,"HALL, James",Family First Victoria,101,no,4
+23168,"OKATAN, Sinan",Animal Justice Party,25,no,5
+22715,"DOW, Amanda",Liberal Party of Australia - Victorian Division,8,no,6
+22303,"MOHAMMED, Gufran",Australian Greens Victoria,4,no,7
+23206,"CHEERS, Troy",Libertarian Party (formerly Liberal Democrats),30,no,8

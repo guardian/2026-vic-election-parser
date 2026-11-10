@@ -1,271 +1,133 @@
 import json
-from ftplib import FTP
-import os
-from zipfile import ZipFile
-from io import StringIO
-from io import BytesIO
-from datetime import datetime
-from datetime import timedelta
-import emlparse
-import logresults
+import requests
 import schedule
 import time
-from feedburner import burnfeeds
+import xmltodict
+import os
+from azure.storage.blob import ContainerClient
+from datetime import datetime
+from zipfile import ZipFile
+import src.logResults as logresults
+from src.downloadBlob import getAndReadFile
 
-# the 2025 election ID is 31496
-# the 2022 election ID for testing is 27966
-# Make sure it is correct on the night
+# Credentials URL from the VEC
 
-# electionID = '27966'
-electionID = '31496'
+VEC_TOKEN = os.environ["VEC_RESULTS_SAS"]
 
-if electionID != '31496':
-	print("WARNING: USING OLD ELECTION ID")
+# Won't write results to the main s3 bucket if True
 
-# Set to mediafeed on election night
-
-# ftpPath = 'mediafeedarchive.aec.gov.au'
-
-ftpPath = 'mediafeed.aec.gov.au'	
-
-if ftpPath != 'mediafeed.aec.gov.au':
-	print("WARNING: USING THE MEDIA ARCHIVE")
-
-# Set to true if you want more console output
-verbose = False
-
-# Loops through old election data to simulate results night
-resultsTest = False
-
-if resultsTest:
-	print("WARNING: RUNNING A TEST USING OLD RESULTS")
+testing = True
 
 # True if we want to upload results to s3 on election night, false for local testing
-upload = True
 
-if not upload:
-	print("WARNING: UPLOADING SWITCHED OFF")
+upload = False
 
-# Determines the upload path, True for election night, false if you want to upload to results-data-test
+# Election idenfier string. TestState2026 is the test election, State026 is the real election.
 
-uploadToProd = True
+election_id = "TestState2026"
 
-if not uploadToProd:
-	print("WARNING: UPLOADING TO TEST DIRECTORY")
+if election_id == "TestState2026":
+    print("YOU HAVE THE TEST ID SET CHANGE THIS IF IT IS ELECTION NIGHT")
+
+# Filetypes to filter by
+
+filetype = "mediafileverboselhv2"
 
 # The first part of the s3 upload path
-uploadPath = "2025/05/aus-election/results-data"
 
-if not uploadToProd:
-	uploadPath = "2025/05/aus-election/results-data-test"
+uploadPath = "2026/11/aus-vic-election/results-data"
 
-# If we're running a test, the starting time of the test. Usually start 6pm on an election night
+def returnFilename(timestamp):
+    return f"{election_id}{filetype}_{timestamp}"
 
-testTime = datetime.strptime("2022-05-21 18:00","%Y-%m-%d %H:%M")
+# Extract timestamp from blob name eg TestState2026mediafileverboselhv2_20260926_100901.xml
 
-# Make a folder for all the results files if it doesn't exist yet
+def getTimestamp(file_str):
+    # Timestamps are in the format YYYYMMDD_HHMMSS
+    
+    timestamp = file_str.split(filetype + "_")[1].split(".zip")[0]
 
-os.makedirs("results", exist_ok=True) 
+    timestamp_parsed = datetime.strptime(timestamp,"%Y%m%d_%H%M%S")
+
+    return timestamp_parsed
+
+# Authenticate and download file list
+
+def get_results_files(test):
+
+    with ContainerClient.from_container_url(VEC_TOKEN) as container:
+        blobs = list(container.list_blobs())
+        filtered_blobs = [blob.name for blob in blobs if f"{election_id}{filetype}" in blob.name]
+        # print(filtered_blobs)
+
+        timestamps = [getTimestamp(fileName) for fileName in filtered_blobs]
+        # print(timestamps)
+
+        latestTimestamp = max(timestamps)
+        latestTimestampStr = datetime.strftime(latestTimestamp, '%Y%m%d_%H%M%S')
+
+        print("latest timestamp is", latestTimestampStr)
+
+        if os.path.exists('recentResults.json'):
+
+            # Get recent timestamps of results
+
+            with open('recentResults.json','r') as recentResultsFile:
+                recentResults = json.load(recentResultsFile)
+            
+            # print(recentResults)
+
+            # Check if we have it or not
+
+            if latestTimestampStr not in recentResults:
+                print(f"{latestTimestampStr} hasn't been saved, saving now")
+                
+                # Get latest file
+
+                latestFilename = returnFilename(latestTimestampStr)
+                print("Getting", f"{latestFilename}.zip")
+                content = getAndReadFile(container, latestFilename)
+
+                # Parse results functions here
+
+                print("Parsing results...")
+            else:
+                print(f"{latestTimestampStr} has already been saved")
+                
+        else:
+            print(f"Results file not found, saving {latestTimestampStr} as first entry")
+            latestFilename = returnFilename(latestTimestampStr)
+            print("Getting", f"{latestFilename}.zip")
+
+            content = getAndReadFile(container, latestFilename)
+            
+            # Parse results functions here
+            print("Parsing results...")
+            # results = xmltodict.parse(content)
+           
+            logresults.saveRecentResults(timestamp=latestTimestampStr, 
+								uploadPath=uploadPath,
+								upload=upload)
+
+        # Outputs a json version for testing
+        # with open("demo-results.json", "w") as f:
+        #     json.dump(filtered_blobs, f, indent=2, default=lambda o: dict(o) if hasattr(o, "keys") else str(o))
+
+        # latest = max(blobs, key=lambda blob: blob.last_modified)
+        # print(f"Latest results file is {latest.name} ({latest.last_modified:%Y-%m-%d %H:%M:%S})")
+        # print(f"Latest results file is {blob.name} ({timestamp:%Y-%m-%d %H:%M:%S})")
+        # xml_bytes = read_blob_xml(container, blob.name)
+
+    # results = xmltodict.parse(xml_bytes)
+    # return results
 
 def parse_results(test):
 
-	path = '/{electionID}/Standard/Verbose/'.format(electionID=electionID)
-	print("Logging in to AEC FTP using", ftpPath)
-
-	print(ftpPath)
-	ftp = FTP(ftpPath)
-	ftp.login()
-
-	# print("yep")
-	ftp.cwd(path)
-
-	aec_files = []
-
-	def get_filenames(ln):
-		# global aec_files
-		cols = ln.split(' ')
-		objname = cols[len(cols)-1] # file or directory name
-		if objname.endswith('.zip'):
-			aec_files.append(objname) # full path
-
-	print("Getting all the filenames")
-
-	ftp.retrlines('LIST', get_filenames)
-
-	# try:
-	# 	ftp.retrlines('LIST', get_filenames)
-	
-	# except BrokenPipeError as e:
-	# 	print(e)
-	# 	print("Can't reach the AEC server, retrying in 20 seconds")
-	# 	time.sleep(20)
-	# 	ftp = FTP(ftpPath)
-	# 	ftp.login()
-	# 	ftp.cwd(path)
-	# 	ftp.retrlines('LIST', get_filenames)
-
-	timestamps = []
-
-	if verbose:
-		print(aec_files)
-
-	#Get latest timestamp
-
-	print("Getting latest timestamp")
-
-	for f in aec_files:
-		timestamp = f.split("-")[-1].replace(".zip","")
-
-		if test:
-			if datetime.strptime(timestamp,"%Y%m%d%H%M%S") < testTime:
-				# print("test time is ", testTime)
-				if verbose:
-					print(timestamp)
-				timestamps.append(datetime.strptime(timestamp,"%Y%m%d%H%M%S"))
-		else:
-			if verbose:
-				print(timestamp)
-
-			timestamps.append(datetime.strptime(timestamp,"%Y%m%d%H%M%S"))
-
-	latestTimestamp = max(timestamps)
-	latestTimestampStr = datetime.strftime(latestTimestamp, '%Y%m%d%H%M%S')
-
-	print("latest timestamp is", latestTimestamp)
-
-	# Check if results log exists
-
-	if os.path.exists('recentResults.json'):
-
-		# Get recent timestamps of results
-
-		with open('recentResults.json','r') as recentResultsFile:
-			recentResults = json.load(recentResultsFile)
-
-		print(recentResults)
-
-		# Check if we have it or not
-
-		if latestTimestampStr not in recentResults:
-			
-			print("{timestamp} hasn't been saved, saving now".format(timestamp=latestTimestampStr))
-			
-			# Get latest file
-
-			latestFile = "aec-mediafeed-Standard-Verbose-{electionID}-{timestamp}.zip".format(electionID=electionID,timestamp=datetime.strftime(latestTimestamp, '%Y%m%d%H%M%S'))
-			r = BytesIO()
-
-			print('Getting ' + latestFile)
-
-			# Get file, read into memory
-
-			ftp.retrbinary('RETR ' + latestFile, r.write)
-			input_zip=ZipFile(r, 'r')
-			ex_file = input_zip.open("xml/aec-mediafeed-results-standard-verbose-" + electionID + ".xml")
-			content = ex_file.read()
-			
-			# print content
-
-			print("Parsing the feed into JSON")
-
-			# The function that actually parses all the XML into JSON
-	
-			emlparse.eml_to_JSON(eml_file=content,
-						type='media feed',
-						local=False, 
-						timestamp=latestTimestampStr,
-						uploadPath=uploadPath,
-						upload=upload,
-						electionID=electionID)
-			
-			logresults.saveRecentResults(timestamp=latestTimestampStr, 
-								uploadPath=uploadPath,
-								upload=upload)
-
-		if latestTimestampStr in recentResults:
-			print("{timestamp} has already been saved".format(timestamp=latestTimestampStr))
-
-	# It doesn't exist, so treat timestamp as first
-
-	else:
-		print("Results file not found, saving {timestamp} as first entry".format(timestamp=latestTimestampStr))
-			
-		# Get latest file
-
-		latestFile = "aec-mediafeed-Standard-Verbose-{electionID}-{timestamp}.zip".format(electionID=electionID,timestamp=datetime.strftime(latestTimestamp, '%Y%m%d%H%M%S'))
-		r = BytesIO()
-
-		print('Getting ' + latestFile)
-
-		# Get file, read into memory
-
-		ftp.retrbinary('RETR ' + latestFile, r.write)
-		input_zip = ZipFile(r, 'r')
-		ex_file = input_zip.open("xml/aec-mediafeed-results-standard-verbose-" + electionID + ".xml")
-		content = ex_file.read()
-		
-		# print content
-
-		print("Parsing the feed into JSON")
-
-		emlparse.eml_to_JSON(eml_file=content,
-						type='media feed',
-						local=False, 
-						timestamp=latestTimestampStr,
-						uploadPath=uploadPath,
-						upload=upload,
-						electionID=electionID)
-			
-		logresults.saveRecentResults(timestamp=latestTimestampStr, 
-								uploadPath=uploadPath,
-								upload=upload)
-
-	print("Done, results all saved")
-	ftp.quit()
-	burnfeeds(uploadPath=uploadPath, electionID=electionID)
-
-# Use scheduler to time function every 2 minutes
-
-if not resultsTest:
-
-	parse_results(resultsTest)
-
-	schedule.every(1).minutes.do(parse_results,resultsTest)
-
-	while True:
-		schedule.run_pending()
-		time.sleep(1)
-		print(datetime.now())
-
-# Test function, counts from 6 pm to 11 pm on election night 2013    
-
-elif resultsTest:
-
-	def runTest():
-		global testTime
-		endTime = datetime.strptime("2022-05-23 23:00","%Y-%m-%d %H:%M")
-		parse_results(resultsTest)
-		schedule.every(1).minutes.do(parse_results,True)
-		
-		while testTime < endTime:
-			schedule.run_pending()
-			testTime = testTime + timedelta(minutes=1)
-			print(testTime)
-			time.sleep(1)
-
-	runTest()
-
-# parse_results(True)
-# ftp.quit()
-
-
-
-
-
-
-def main():
-    print("Hello from vic-election-results-parser!")
+    # Get a list of the latest files in the VEC's azure storage thing
+    print("Parsing VEC results...")
+    print("test:", test)
+    get_results_files(test)
 
 
 if __name__ == "__main__":
-    main()
+    parse_results(testing)
