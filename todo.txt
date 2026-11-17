@@ -29,6 +29,8 @@ Clarify following variables from Luke's list:
 # enrolment_2026 - enrolment for the electorate ? 
 
 
+- Where is the state level 2pp ? I can see it on the VEC website but not in the XML. Do we need to scrape the website???
+
 - Is there any difference between Contest and Polling District?
 
 - Get official party name three-letter codes

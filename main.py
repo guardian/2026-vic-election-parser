@@ -22,6 +22,10 @@ testing = True
 
 upload = False
 
+# Ignores recentResults.json if True
+
+ignore_results = True
+
 # Election idenfier string. TestState2026 is the test election, State026 is the real election.
 
 election_id = "TestState2026"
@@ -68,7 +72,7 @@ def get_results_files(test):
 
         print("latest timestamp is", latestTimestampStr)
 
-        if os.path.exists('recentResults.json'):
+        if os.path.exists('recentResults.json') and not ignore_results:
 
             # Get recent timestamps of results
 
@@ -95,7 +99,7 @@ def get_results_files(test):
                 print(f"{latestTimestampStr} has already been saved")
                 
         else:
-            print(f"Results file not found, saving {latestTimestampStr} as first entry")
+            print(f"Results file not found or ignored, saving {latestTimestampStr} as first entry")
             latestFilename = returnFilename(latestTimestampStr)
             print("Getting", f"{latestFilename}.zip")
 

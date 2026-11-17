@@ -63,14 +63,14 @@ candidate_data = xmltodict.parse(BytesIO(candidate_data))
 party_abbrev = {
   "Independent": "IND",
   "Liberal Party of Australia - Victorian Division": "LIB",
-  "Pauline Hanson's One Nation": "",
+  "Pauline Hanson's One Nation": "ON",
   "Australian Labor Party - Victorian Branch": "ALP",
   "The Australian Greens - Victoria": "GRN",
   "Family First Victoria": "FFV",
   "Victorian Socialists": "",
-  "Shooters, Fishers and Farmers Party Victoria": "",
+  "Shooters, Fishers and Farmers Party Victoria": "SFF",
   "Transport Matters Party": "",
-  "Health Australia Party": "",
+  "Health Australia Party": "HAP",
   "Freedom Party of Victoria": "FPV",
   "The Nationals": "NAT"
 }
@@ -112,4 +112,4 @@ for contest in candidate_data['EML']['CandidateList']['Election'][0]['Contest']:
 
 out_df = pd.DataFrame(candidate_results)
 
-out_df.to_csv('data/candidate-info.csv', index=False)
+out_df.to_csv('data/candidate-info.csv', index=False, encoding='utf-8')

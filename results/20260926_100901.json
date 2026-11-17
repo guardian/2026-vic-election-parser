@@ -1,0 +1,442 @@
+{
+    "divisions": [
+        {
+            "id": "18828",
+            "district_name": "Bass District",
+            "name": "Bass",
+            "enrolment": "5000",
+            "votesCounted": 166,
+            "candidates": [
+                {
+                    "candidate_id": "24952",
+                    "candidate_name": "CANDIDATE, One",
+                    "votesTotal": 55,
+                    "votesPercent": 33.13253012048193,
+                    "party_short": "IND",
+                    "party_long": "Independent",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "24952"
+                },
+                {
+                    "candidate_id": "24970",
+                    "candidate_name": "CANDIDATE, Two",
+                    "votesTotal": 44,
+                    "votesPercent": 26.506024096385545,
+                    "party_long": "Liberal Party of Australia - Victorian Division",
+                    "party_short": "LIB",
+                    "votesHistoric": 12482,
+                    "votesPercentHistoric": 30.15,
+                    "swing": -3.6439759036144537,
+                    "id": "24970"
+                },
+                {
+                    "candidate_id": "24971",
+                    "candidate_name": "CANDIDATE, Three",
+                    "votesTotal": 37,
+                    "votesPercent": 22.289156626506024,
+                    "party_long": "Pauline Hanson's One Nation",
+                    "party_short": "ON",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "24971"
+                },
+                {
+                    "candidate_id": "24975",
+                    "candidate_name": "CANDIDATE, Four",
+                    "votesTotal": 30,
+                    "votesPercent": 18.072289156626507,
+                    "party_long": "Australian Labor Party - Victorian Branch",
+                    "party_short": "ALP",
+                    "votesHistoric": 13478,
+                    "votesPercentHistoric": 32.55,
+                    "swing": -14.47771084337349,
+                    "id": "24975"
+                }
+            ]
+        },
+        {
+            "id": "18788",
+            "district_name": "Evelyn District",
+            "name": "Evelyn",
+            "enrolment": "5500",
+            "votesCounted": 159,
+            "candidates": [
+                {
+                    "candidate_id": "24982",
+                    "candidate_name": "CANDIDATE, One",
+                    "votesTotal": 65,
+                    "votesPercent": 40.88050314465409,
+                    "party_long": "The Australian Greens - Victoria",
+                    "party_short": "GRN",
+                    "votesHistoric": 4052,
+                    "votesPercentHistoric": 9.28,
+                    "swing": 31.60050314465409,
+                    "id": "24982"
+                },
+                {
+                    "candidate_id": "25000",
+                    "candidate_name": "CANDIDATE, Two",
+                    "votesTotal": 28,
+                    "votesPercent": 17.61006289308176,
+                    "party_long": "Family First Victoria",
+                    "party_short": "FFV",
+                    "votesHistoric": 2318,
+                    "votesPercentHistoric": 5.31,
+                    "swing": 12.300062893081762,
+                    "id": "25000"
+                },
+                {
+                    "candidate_id": "25026",
+                    "candidate_name": "CANDIDATE, Three",
+                    "votesTotal": 31,
+                    "votesPercent": 19.49685534591195,
+                    "party_short": "IND",
+                    "party_long": "Independent",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25026"
+                },
+                {
+                    "candidate_id": "25029",
+                    "candidate_name": "CANDIDATE, Four",
+                    "votesTotal": 35,
+                    "votesPercent": 22.0125786163522,
+                    "party_long": "Victorian Socialists",
+                    "party_short": "VS",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25029"
+                }
+            ]
+        },
+        {
+            "id": "18829",
+            "district_name": "Gippsland East District",
+            "name": "Gippsland East",
+            "enrolment": "4500",
+            "votesCounted": 178,
+            "candidates": [
+                {
+                    "candidate_id": "25030",
+                    "candidate_name": "CANDIDATE, One",
+                    "votesTotal": 38,
+                    "votesPercent": 21.34831460674157,
+                    "party_long": "Victorian Socialists",
+                    "party_short": "VS",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25030"
+                },
+                {
+                    "candidate_id": "24984",
+                    "candidate_name": "CANDIDATE, Two",
+                    "votesTotal": 31,
+                    "votesPercent": 17.415730337078653,
+                    "party_long": "The Australian Greens - Victoria",
+                    "party_short": "GRN",
+                    "votesHistoric": 2691,
+                    "votesPercentHistoric": 6.37,
+                    "swing": 11.045730337078652,
+                    "id": "24984"
+                },
+                {
+                    "candidate_id": "25067",
+                    "candidate_name": "CANDIDATE, Three",
+                    "votesTotal": 30,
+                    "votesPercent": 16.853932584269664,
+                    "party_short": "IND",
+                    "party_long": "Independent",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25067"
+                },
+                {
+                    "candidate_id": "25006",
+                    "candidate_name": "CANDIDATE, Four",
+                    "votesTotal": 42,
+                    "votesPercent": 23.595505617977526,
+                    "party_long": "Family First Victoria",
+                    "party_short": "FFV",
+                    "votesHistoric": 1068,
+                    "votesPercentHistoric": 2.53,
+                    "swing": 21.065505617977525,
+                    "id": "25006"
+                },
+                {
+                    "candidate_id": "25068",
+                    "candidate_name": "CANDIDATE, Five",
+                    "votesTotal": 37,
+                    "votesPercent": 20.786516853932586,
+                    "party_long": "Shooters, Fishers and Farmers Party Victoria",
+                    "party_short": "SFF",
+                    "votesHistoric": 2460,
+                    "votesPercentHistoric": 5.83,
+                    "swing": 14.956516853932586,
+                    "id": "25068"
+                }
+            ]
+        },
+        {
+            "id": "18821",
+            "district_name": "Gippsland South District",
+            "name": "Gippsland South",
+            "enrolment": "6000",
+            "votesCounted": 182,
+            "candidates": [
+                {
+                    "candidate_id": "24985",
+                    "candidate_name": "CANDIDATE, One",
+                    "votesTotal": 50,
+                    "votesPercent": 27.472527472527474,
+                    "party_long": "The Australian Greens - Victoria",
+                    "party_short": "GRN",
+                    "votesHistoric": 3538,
+                    "votesPercentHistoric": 8.35,
+                    "swing": 19.122527472527473,
+                    "id": "24985"
+                },
+                {
+                    "candidate_id": "25033",
+                    "candidate_name": "CANDIDATE, Two",
+                    "votesTotal": 32,
+                    "votesPercent": 17.582417582417584,
+                    "party_long": "Victorian Socialists",
+                    "party_short": "VS",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25033"
+                },
+                {
+                    "candidate_id": "25005",
+                    "candidate_name": "CANDIDATE, Three",
+                    "votesTotal": 26,
+                    "votesPercent": 14.285714285714285,
+                    "party_long": "Family First Victoria",
+                    "party_short": "FFV",
+                    "votesHistoric": 1218,
+                    "votesPercentHistoric": 2.88,
+                    "swing": 11.405714285714286,
+                    "id": "25005"
+                },
+                {
+                    "candidate_id": "25069",
+                    "candidate_name": "CANDIDATE, Four",
+                    "votesTotal": 31,
+                    "votesPercent": 17.032967032967033,
+                    "party_long": "Shooters, Fishers and Farmers Party Victoria",
+                    "party_short": "SFF",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25069"
+                },
+                {
+                    "candidate_id": "25071",
+                    "candidate_name": "CANDIDATE, Five",
+                    "votesTotal": 43,
+                    "votesPercent": 23.626373626373624,
+                    "party_short": "IND",
+                    "party_long": "Independent",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25071"
+                }
+            ]
+        },
+        {
+            "id": "18832",
+            "district_name": "Hastings District",
+            "name": "Hastings",
+            "enrolment": "4000",
+            "votesCounted": 188,
+            "candidates": [
+                {
+                    "candidate_id": "25070",
+                    "candidate_name": "CANDIDATE, One",
+                    "votesTotal": 40,
+                    "votesPercent": 21.27659574468085,
+                    "party_long": "Shooters, Fishers and Farmers Party Victoria",
+                    "party_short": "SFF",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25070"
+                },
+                {
+                    "candidate_id": "25021",
+                    "candidate_name": "CANDIDATE, Two",
+                    "votesTotal": 31,
+                    "votesPercent": 16.48936170212766,
+                    "party_long": "Family First Victoria",
+                    "party_short": "FFV",
+                    "votesHistoric": 1001,
+                    "votesPercentHistoric": 2.43,
+                    "swing": 14.05936170212766,
+                    "id": "25021"
+                },
+                {
+                    "candidate_id": "25072",
+                    "candidate_name": "CANDIDATE, Three",
+                    "votesTotal": 30,
+                    "votesPercent": 15.957446808510639,
+                    "party_short": "IND",
+                    "party_long": "Independent",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25072"
+                },
+                {
+                    "candidate_id": "24986",
+                    "candidate_name": "CANDIDATE, Four",
+                    "votesTotal": 27,
+                    "votesPercent": 14.361702127659576,
+                    "party_long": "The Australian Greens - Victoria",
+                    "party_short": "GRN",
+                    "votesHistoric": 4118,
+                    "votesPercentHistoric": 9.99,
+                    "swing": 4.371702127659576,
+                    "id": "24986"
+                },
+                {
+                    "candidate_id": "25073",
+                    "candidate_name": "CANDIDATE, Five",
+                    "votesTotal": 36,
+                    "votesPercent": 19.148936170212767,
+                    "party_long": "Transport Matters Party",
+                    "party_short": "TM",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25073"
+                },
+                {
+                    "candidate_id": "25074",
+                    "candidate_name": "CANDIDATE, Six",
+                    "votesTotal": 24,
+                    "votesPercent": 12.76595744680851,
+                    "party_long": "Liberal Party of Australia - Victorian Division",
+                    "party_short": "LIB",
+                    "votesHistoric": 16415,
+                    "votesPercentHistoric": 39.81,
+                    "swing": -27.044042553191492,
+                    "id": "25074"
+                }
+            ]
+        },
+        {
+            "id": "18814",
+            "district_name": "Monbulk District",
+            "name": "Monbulk",
+            "enrolment": "6500",
+            "votesCounted": 174,
+            "candidates": [
+                {
+                    "candidate_id": "25075",
+                    "candidate_name": "CANDIDATE, One",
+                    "votesTotal": 20,
+                    "votesPercent": 11.494252873563218,
+                    "party_long": "Health Australia Party",
+                    "party_short": "HAP",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25075"
+                },
+                {
+                    "candidate_id": "25076",
+                    "candidate_name": "CANDIDATE, Two",
+                    "votesTotal": 24,
+                    "votesPercent": 13.793103448275861,
+                    "party_long": "Australian Labor Party - Victorian Branch",
+                    "party_short": "ALP",
+                    "votesHistoric": 15071,
+                    "votesPercentHistoric": 36.06,
+                    "swing": -22.26689655172414,
+                    "id": "25076"
+                },
+                {
+                    "candidate_id": "25077",
+                    "candidate_name": "CANDIDATE, Three",
+                    "votesTotal": 20,
+                    "votesPercent": 11.494252873563218,
+                    "party_long": "Freedom Party of Victoria",
+                    "party_short": "FPV",
+                    "votesHistoric": 910,
+                    "votesPercentHistoric": 2.18,
+                    "swing": 9.314252873563218,
+                    "id": "25077"
+                },
+                {
+                    "candidate_id": "25078",
+                    "candidate_name": "CANDIDATE, Four",
+                    "votesTotal": 22,
+                    "votesPercent": 12.643678160919542,
+                    "party_long": "Liberal Party of Australia - Victorian Division",
+                    "party_short": "LIB",
+                    "votesHistoric": 12327,
+                    "votesPercentHistoric": 29.49,
+                    "swing": -16.846321839080456,
+                    "id": "25078"
+                },
+                {
+                    "candidate_id": "24988",
+                    "candidate_name": "CANDIDATE, Five",
+                    "votesTotal": 28,
+                    "votesPercent": 16.091954022988507,
+                    "party_long": "The Australian Greens - Victoria",
+                    "party_short": "GRN",
+                    "votesHistoric": 6255,
+                    "votesPercentHistoric": 14.97,
+                    "swing": 1.1219540229885059,
+                    "id": "24988"
+                },
+                {
+                    "candidate_id": "25009",
+                    "candidate_name": "CANDIDATE, Six",
+                    "votesTotal": 22,
+                    "votesPercent": 12.643678160919542,
+                    "party_long": "Family First Victoria",
+                    "party_short": "FFV",
+                    "votesHistoric": 1197,
+                    "votesPercentHistoric": 2.86,
+                    "swing": 9.783678160919543,
+                    "id": "25009"
+                },
+                {
+                    "candidate_id": "25079",
+                    "candidate_name": "CANDIDATE, Seven",
+                    "votesTotal": 17,
+                    "votesPercent": 9.770114942528735,
+                    "party_short": "IND",
+                    "party_long": "Independent",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25079"
+                },
+                {
+                    "candidate_id": "25080",
+                    "candidate_name": "CANDIDATE, Eight",
+                    "votesTotal": 21,
+                    "votesPercent": 12.068965517241379,
+                    "party_long": "Shooters, Fishers and Farmers Party Victoria",
+                    "party_short": "SFF",
+                    "votesHistoric": null,
+                    "votesPercentHistoric": null,
+                    "swing": null,
+                    "id": "25080"
+                }
+            ]
+        }
+    ]
+}
