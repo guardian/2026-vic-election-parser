@@ -16,6 +16,13 @@ input_url <- paste0(
 input_folder <- "data/vec/2026/postalearlyvoting"
 input_filename <- "PostalAndEarlyVotingSummary.xlsx"
 
+
+# --------------------------------------------------
+# OUTPUT CONFIGURATION
+# --------------------------------------------------
+
+output_folder <- "data/lm/2026/postalearlyvoting"
+
 # --------------------------------------------------
 # LOAD INPUT FILE
 # --------------------------------------------------
@@ -80,7 +87,7 @@ statewide <- result$statewide
 totals <- result$totals
 
 # Export cleaned district data
-output_path <- file.path(input_folder, "cleaned_postal_early_voting.csv")
+output_path <- file.path(output_folder, "cleaned_postal_early_voting.csv")
 
 # Ensure output folder exists
 dir.create(input_folder, recursive = TRUE,
