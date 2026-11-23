@@ -19,7 +19,7 @@ suppressPackageStartupMessages({
 
 input_folder <- "data/vec/2026/postalearlyvoting"
 output_folder <- "data/lm/2026/postalearlyvoting"
-input_filename <- "PostalAndEarlyVotingSummary-2.xlsx"
+input_filename <- "PostalAndEarlyVotingSummary.xlsx"
 
 if (!dir.exists(input_folder)) {
   stop("Input folder does not exist. Edit input_folder: ", input_folder)
