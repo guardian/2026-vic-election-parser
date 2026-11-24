@@ -30,5 +30,6 @@
   "Fiona Patten's Reason Party": { "party_code":"RP", "party_status":"old"},
   "Transport Matters Party": { "party_code":"TM", "party_status":"old"},
   "Health Australia Party": { "party_code":"HAP", "party_status":"old"},
-  "New Democrats": { "party_code":"ND", "party_status":"old"}
+  "New Democrats": { "party_code":"ND", "party_status":"old"},
+  "Companions and Pets Party": { "party_code":"CPP", "party_status":"old"}
 }

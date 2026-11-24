@@ -1,0 +1,200 @@
+{
+  "Animal Justice Party": {
+    "party_name": "Animal Justice Party",
+    "short_name": "Animal Justice Party",
+    "party_code": "AJP",
+    "party_status": "old"
+  },
+  "Australian Labor Party - Victorian Branch": {
+    "party_name": "Australian Labor Party - Victorian Branch",
+    "short_name": "Labor party",
+    "party_code": "ALP",
+    "party_status": "old"
+  },
+  "Australian Democrats": {
+    "party_name": "Australian Democrats",
+    "short_name": "Australian Democrats",
+    "party_code": "AUD",
+    "party_status": "new"
+  },
+  "Angry Victorians Party": {
+    "party_name": "Angry Victorians Party",
+    "short_name": "Angry Victorians Party",
+    "party_code": "AVP",
+    "party_status": "old"
+  },
+  "Climate Action Now": {
+    "party_name": "Climate Action Now",
+    "short_name": "Climate Action Now",
+    "party_code": "CAN",
+    "party_status": "new"
+  },
+  "Australian Citizens Party (Victorian Division)": {
+    "party_name": "Australian Citizens Party (Victorian Division)",
+    "short_name": "Aus. Citizens party",
+    "party_code": "CEC",
+    "party_status": "new"
+  },
+  "Derryn Hinch's Justice Party": {
+    "party_name": "Derryn Hinch's Justice Party",
+    "short_name": "DH Justice party",
+    "party_code": "DHJ",
+    "party_status": "old"
+  },
+  "Democratic Labour Party (DLP)": {
+    "party_name": "Democratic Labour Party (DLP)",
+    "short_name": "DLP",
+    "party_code": "DLP",
+    "party_status": "old"
+  },
+  "Family First Victoria": {
+    "party_name": "Family First Victoria",
+    "short_name": "Family First",
+    "party_code": "FFV",
+    "party_status": "old"
+  },
+  "Freedom Party of Victoria": {
+    "party_name": "Freedom Party of Victoria",
+    "short_name": "Freedom party",
+    "party_code": "FPV",
+    "party_status": "old"
+  },
+  "Free Palestine": {
+    "party_name": "Free Palestine",
+    "short_name": "Free Palestine",
+    "party_code": "FRP",
+    "party_status": "new"
+  },
+  "Australian Greens Victoria": {
+    "party_name": "Australian Greens Victoria",
+    "short_name": "Greens",
+    "party_code": "GRN",
+    "party_status": "old"
+  },
+  "The Australian Greens - Victoria": {
+    "party_name": "The Australian Greens - Victoria",
+    "short_name": "Greens",
+    "party_code": "GRN",
+    "party_status": "old"
+  },
+  "Health Australia Party": {
+    "party_name": "Health Australia Party",
+    "short_name": "Health Australia Party",
+    "party_code": "HAP",
+    "party_status": "old"
+  },
+  "Independent": {
+    "party_name": "Independent",
+    "short_name": "Independent",
+    "party_code": "IND",
+    "party_status": "old"
+  },
+  "I'm Voting to Avoid the Fine": {
+    "party_name": "I'm Voting to Avoid the Fine",
+    "short_name": "I'm Voting to Avoid the Fine",
+    "party_code": "IVF",
+    "party_status": "new"
+  },
+  "Libertarian Party (formerly Liberal Democrats)": {
+    "party_name": "Libertarian Party (formerly Liberal Democrats)",
+    "short_name": "Libertarian",
+    "party_code": "LDP",
+    "party_status": "old"
+  },
+  "Liberal Democratic Party": {
+    "party_name": "Liberal Democratic Party",
+    "short_name": "Lib. Dem. party",
+    "party_code": "LDP",
+    "party_status": "old"
+  },
+  "Legalise Cannabis Victoria": {
+    "party_name": "Legalise Cannabis Victoria",
+    "short_name": "Legalise Cannabis",
+    "party_code": "LGC",
+    "party_status": "old"
+  },
+  "Liberal Party of Australia - Victorian Division": {
+    "party_name": "Liberal Party of Australia - Victorian Division",
+    "short_name": "Liberal party",
+    "party_code": "LIB",
+    "party_status": "old"
+  },
+  "National Party of Australia - Victoria": {
+    "party_name": "National Party of Australia - Victoria",
+    "short_name": "National party",
+    "party_code": "NAT",
+    "party_status": "old"
+  },
+  "New Democrats": {
+    "party_name": "New Democrats",
+    "short_name": "New Democrats",
+    "party_code": "ND",
+    "party_status": "old"
+  },
+  "One Nation Victoria": {
+    "party_name": "One Nation Victoria",
+    "short_name": "One Nation",
+    "party_code": "ON",
+    "party_status": "old"
+  },
+  "Pauline Hanson's One Nation": {
+    "party_name": "Pauline Hanson's One Nation",
+    "short_name": "One Nation",
+    "party_code": "ON",
+    "party_status": "old"
+  },
+  "The Republican Make Australia Great Again": {
+    "party_name": "The Republican Make Australia Great Again",
+    "short_name": "The Republican Make Australia Great Again",
+    "party_code": "REP",
+    "party_status": "new"
+  },
+  "Fiona Patten's Reason Party": {
+    "party_name": "Fiona Patten's Reason Party",
+    "short_name": "Reason party",
+    "party_code": "RP",
+    "party_status": "old"
+  },
+  "Socialist Alliance": {
+    "party_name": "Socialist Alliance",
+    "short_name": "Socialist Alliance",
+    "party_code": "SAL",
+    "party_status": "new"
+  },
+  "Shooters, Fishers and Farmers Party Victoria": {
+    "party_name": "Shooters, Fishers and Farmers Party Victoria",
+    "short_name": "Shooters, Fishers & Farmers",
+    "party_code": "SFF",
+    "party_status": "old"
+  },
+  "Safety Victoria - Violent Crime Prevention": {
+    "party_name": "Safety Victoria - Violent Crime Prevention",
+    "short_name": "Safety Victoria - Violent Crime Prevention",
+    "party_code": "SVV",
+    "party_status": "new"
+  },
+  "Transport Matters Party": {
+    "party_name": "Transport Matters Party",
+    "short_name": "Transport Matters Party",
+    "party_code": "TMP",
+    "party_status": "old"
+  },
+  "The West Party": {
+    "party_name": "The West Party",
+    "short_name": "The West Party",
+    "party_code": "TWP",
+    "party_status": "new"
+  },
+  "Victorian Socialists": {
+    "party_name": "Victorian Socialists",
+    "short_name": "Victorian Socialists",
+    "party_code": "VS",
+    "party_status": "old"
+  },
+  "Companions and Pets Party": {
+    "party_name": "Companions and Pets Party",
+    "short_name": "Companions and Pets Party",
+    "party_code": "CPP",
+    "party_status": "old"
+  }
+}

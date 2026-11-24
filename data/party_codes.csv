@@ -1,33 +1,34 @@
-﻿party_name,party_code,party_status
-Animal Justice Party,AJP,old
-Australian Citizens Party (Victorian Division),CEC,new
-Australian Democrats,AUD,new
-Australian Greens Victoria,GRN,old
-The Australian Greens - Victoria,GRN,old
-Australian Labor Party - Victorian Branch,ALP,old
-Climate Action Now,CAN,new
-Democratic Labour Party (DLP),DLP,old
-Family First Victoria,FFV,old
-Free Palestine,FRP,new
-I'm Voting to Avoid the Fine,IVF,new
-Independent,IND,old
-Legalise Cannabis Victoria,LGC,old
-Liberal Party of Australia - Victorian Division,LIB,old
-Libertarian Party (formerly Liberal Democrats),LDP,old
-Liberal Democratic Party,LDP,old
-National Party of Australia - Victoria,NAT,old
-One Nation Victoria,ON,old
-Pauline Hanson's One Nation,ON,old
-Safety Victoria - Violent Crime Prevention,SVV,new
-"Shooters, Fishers and Farmers Party Victoria",SFF,old
-Socialist Alliance,SAL,new
-The Republican Make Australia Great Again,REP,new
-The West Party,TWP,new
-Victorian Socialists,VS,old
-Freedom Party of Victoria,FPV,old
-Derryn Hinch's Justice Party,DHJ,old
-Angry Victorians Party,AVP,old
-Fiona Patten's Reason Party,RP,old
-Transport Matters Party,TMP,old
-Health Australia Party,HAP,old
-New Democrats,ND,old
+﻿party_name,short_name,party_code,party_status
+Animal Justice Party,Animal Justice Party,AJP,old
+Australian Labor Party - Victorian Branch,Labor party,ALP,old
+Australian Democrats,Australian Democrats,AUD,new
+Angry Victorians Party,Angry Victorians Party,AVP,old
+Climate Action Now,Climate Action Now,CAN,new
+Australian Citizens Party (Victorian Division),Aus. Citizens party,CEC,new
+Derryn Hinch's Justice Party,DH Justice party,DHJ,old
+Democratic Labour Party (DLP),DLP,DLP,old
+Family First Victoria,Family First,FFV,old
+Freedom Party of Victoria,Freedom party,FPV,old
+Free Palestine,Free Palestine,FRP,new
+Australian Greens Victoria,Greens,GRN,old
+The Australian Greens - Victoria,Greens,GRN,old
+Health Australia Party,Health Australia Party,HAP,old
+Independent,Independent,IND,old
+I'm Voting to Avoid the Fine,I'm Voting to Avoid the Fine,IVF,new
+Libertarian Party (formerly Liberal Democrats),Libertarian,LDP,old
+Liberal Democratic Party,Lib. Dem. party,LDP,old
+Legalise Cannabis Victoria,Legalise Cannabis,LGC,old
+Liberal Party of Australia - Victorian Division,Liberal party,LIB,old
+National Party of Australia - Victoria,National party,NAT,old
+New Democrats,New Democrats,ND,old
+One Nation Victoria,One Nation,ON,old
+Pauline Hanson's One Nation,One Nation,ON,old
+The Republican Make Australia Great Again,The Republican Make Australia Great Again,REP,new
+Fiona Patten's Reason Party,Reason party,RP,old
+Socialist Alliance,Socialist Alliance,SAL,new
+"Shooters, Fishers and Farmers Party Victoria","Shooters, Fishers & Farmers",SFF,old
+Safety Victoria - Violent Crime Prevention,Safety Victoria - Violent Crime Prevention,SVV,new
+Transport Matters Party,Transport Matters Party,TMP,old
+The West Party,The West Party,TWP,new
+Victorian Socialists,Victorian Socialists,VS,old
+Companions and Pets Party,Companions and Pets Party,CPP,old

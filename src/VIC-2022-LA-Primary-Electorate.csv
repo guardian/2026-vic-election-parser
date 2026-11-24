@@ -1,0 +1,743 @@
+district_name,district_id,region_name,region_id,candidate_id,candidate_name,surname,first_name,party_code,ballot_order,votes,vote_pct
+Albert Park,1,Southern Metropolitan,6.0,1.0,"DRAGWIDGE, Georgie",DRAGWIDGE,Georgie,IND,1,2294,5.87
+Albert Park,1,Southern Metropolitan,6.0,2.0,"TAYLOR, Nina",TAYLOR,Nina,ALP,2,14254,36.45
+Albert Park,1,Southern Metropolitan,6.0,3.0,"SAMIOTIS, Kim",SAMIOTIS,Kim,GRN,3,8178,20.91
+Albert Park,1,Southern Metropolitan,6.0,4.0,"ANTUNOVIC, Elizabeth",ANTUNOVIC,Elizabeth,FPV,4,518,1.32
+Albert Park,1,Southern Metropolitan,6.0,5.0,"BRADEA, Viorel",BRADEA,Viorel,FFV,5,466,1.19
+Albert Park,1,Southern Metropolitan,6.0,6.0,"SHERSON, Lauren",SHERSON,Lauren,LIB,6,11659,29.81
+Albert Park,1,Southern Metropolitan,6.0,7.0,"SMART, Lance",SMART,Lance,LDP,7,534,1.37
+Albert Park,1,Southern Metropolitan,6.0,8.0,"WESTWOOD, Cassandra",WESTWOOD,Cassandra,AJP,8,1207,3.09
+Ashwood,2,Southern Metropolitan,6.0,9.0,"JUDAH, Asher",JUDAH,Asher,LIB,1,16618,37.17
+Ashwood,2,Southern Metropolitan,6.0,10.0,"SALOUMI, Lynnette",SALOUMI,Lynnette,IND,2,704,1.57
+Ashwood,2,Southern Metropolitan,6.0,11.0,"FREGON, Matt",FREGON,Matt,ALP,3,18014,40.29
+Ashwood,2,Southern Metropolitan,6.0,12.0,"MORGAN, Peter",MORGAN,Peter,GRN,4,6612,14.79
+Ashwood,2,Southern Metropolitan,6.0,13.0,"BAKER, Norman F.",BAKER,Norman F.,FPV,5,568,1.27
+Ashwood,2,Southern Metropolitan,6.0,14.0,"GRIFFITHS, Milton",GRIFFITHS,Milton,AJP,6,880,1.97
+Ashwood,2,Southern Metropolitan,6.0,15.0,"GEYER, Keith",GEYER,Keith,FFV,7,847,1.89
+Ashwood,2,Southern Metropolitan,6.0,16.0,"DOYLE, Michael",DOYLE,Michael,IND,8,467,1.04
+Bass,3,Eastern Victoria,1.0,17.0,"TESSARI, Brett",TESSARI,Brett,NAT,1,5506,13.3
+Bass,3,Eastern Victoria,1.0,18.0,"O'NEILL, Mark",O'NEILL,Mark,DLP,2,1465,3.54
+Bass,3,Eastern Victoria,1.0,19.0,"MUNDAY, Marcus",MUNDAY,Marcus,FPV,3,1013,2.45
+Bass,3,Eastern Victoria,1.0,20.0,"VERHAGEN, Martin",VERHAGEN,Martin,FFV,4,1164,2.81
+Bass,3,Eastern Victoria,1.0,21.0,"CRUGNALE, Jordan",CRUGNALE,Jordan,ALP,5,13478,32.55
+Bass,3,Eastern Victoria,1.0,22.0,"MOUSELLIS, Elly",MOUSELLIS,Elly,AJP,6,1085,2.62
+Bass,3,Eastern Victoria,1.0,23.0,"BROWN, Aaron",BROWN,Aaron,LIB,7,12482,30.15
+Bass,3,Eastern Victoria,1.0,24.0,"EDWARDS, Meg",EDWARDS,Meg,IND,8,872,2.11
+Bass,3,Eastern Victoria,1.0,25.0,"BUGBIRD, Callum",BUGBIRD,Callum,GRN,9,3369,8.14
+Bass,3,Eastern Victoria,1.0,26.0,"JOBE, Jeni",JOBE,Jeni,IND,10,970,2.34
+Bayswater,4,North Eastern Metropolitan,2.0,27.0,"COOMBES, Gary",COOMBES,Gary,FFV,1,1397,3.28
+Bayswater,4,North Eastern Metropolitan,2.0,28.0,"FIELD, Chris",FIELD,Chris,FPV,2,937,2.2
+Bayswater,4,North Eastern Metropolitan,2.0,29.0,"WORMALD, Alyssa",WORMALD,Alyssa,AJP,3,840,1.97
+Bayswater,4,North Eastern Metropolitan,2.0,30.0,"MACKALLAH, Chloe",MACKALLAH,Chloe,IND,4,890,2.09
+Bayswater,4,North Eastern Metropolitan,2.0,31.0,"WAKELING, Nick",WAKELING,Nick,LIB,5,15174,35.62
+Bayswater,4,North Eastern Metropolitan,2.0,32.0,"DOLAN, Thomas",DOLAN,Thomas,DLP,6,948,2.23
+Bayswater,4,North Eastern Metropolitan,2.0,33.0,"TAYLOR, Jackson",TAYLOR,Jackson,ALP,7,17609,41.34
+Bayswater,4,North Eastern Metropolitan,2.0,34.0,"HEAP, Ashley",HEAP,Ashley,LGC,8,1653,3.88
+Bayswater,4,North Eastern Metropolitan,2.0,35.0,"SIRNINGER RANKIN, Nadia",SIRNINGER RANKIN,Nadia,GRN,9,3151,7.4
+Bellarine,5,Western Victoria,8.0,36.0,"SEMMENS, Rachel",SEMMENS,Rachel,GRN,1,5537,11.74
+Bellarine,5,Western Victoria,8.0,37.0,"GRIGAU, Donnie",GRIGAU,Donnie,LIB,2,15617,33.12
+Bellarine,5,Western Victoria,8.0,38.0,"MANUELL, Guy",MANUELL,Guy,FFV,3,1033,2.19
+Bellarine,5,Western Victoria,8.0,39.0,"RITCHIE, Brett Anthony",RITCHIE,Brett Anthony,DHJ,4,770,1.63
+Bellarine,5,Western Victoria,8.0,40.0,"MUSE, Kylee",MUSE,Kylee,FPV,5,458,0.97
+Bellarine,5,Western Victoria,8.0,41.0,"TAYLOR, Brendan",TAYLOR,Brendan,AVP,6,389,0.82
+Bellarine,5,Western Victoria,8.0,42.0,"MARCHANT, Alison",MARCHANT,Alison,ALP,7,20103,42.63
+Bellarine,5,Western Victoria,8.0,43.0,"CARDILINI, Adam",CARDILINI,Adam,AJP,8,1088,2.31
+Bellarine,5,Western Victoria,8.0,44.0,"FENTON, Sarah",FENTON,Sarah,IND,9,2158,4.58
+Benambra,6,Northern Victoria,4.0,45.0,"FUERY, Mike",FUERY,Mike,AJP,1,1170,2.84
+Benambra,6,Northern Victoria,4.0,46.0,"ROSSITER, Dean",ROSSITER,Dean,LDP,2,804,1.95
+Benambra,6,Northern Victoria,4.0,47.0,"BRADY, Luke",BRADY,Luke,GRN,3,1592,3.87
+Benambra,6,Northern Victoria,4.0,48.0,"HAWKINS, Jacqui",HAWKINS,Jacqui,IND,4,13038,31.7
+Benambra,6,Northern Victoria,4.0,49.0,"STRATTON, Janelle",STRATTON,Janelle,FFV,5,815,1.98
+Benambra,6,Northern Victoria,4.0,50.0,"TILLEY, Bill",TILLEY,Bill,LIB,6,17658,42.93
+Benambra,6,Northern Victoria,4.0,51.0,"TAIT, Mark",TAIT,Mark,ALP,7,5375,13.07
+Benambra,6,Northern Victoria,4.0,52.0,"O'BRIEN, Adrian James",O'BRIEN,Adrian James,FPV,8,683,1.66
+Bendigo East,7,Northern Victoria,4.0,53.0,"McLELLAND-HOWE, Vyonne",McLELLAND-HOWE,Vyonne,AJP,1,1574,3.45
+Bendigo East,7,Northern Victoria,4.0,54.0,"SCHADE, Darin",SCHADE,Darin,LIB,2,12478,27.38
+Bendigo East,7,Northern Victoria,4.0,55.0,"MIHAIL, Ben",MIHAIL,Ben,ON,3,2597,5.7
+Bendigo East,7,Northern Victoria,4.0,56.0,"KEETELAAR, Evelyn",KEETELAAR,Evelyn,FFV,4,1362,2.99
+Bendigo East,7,Northern Victoria,4.0,57.0,"TOLHURST, Michael James",TOLHURST,Michael James,GRN,5,3944,8.66
+Bendigo East,7,Northern Victoria,4.0,58.0,"LAURIE, James",LAURIE,James,IND,6,1603,3.52
+Bendigo East,7,Northern Victoria,4.0,59.0,"ALLAN, Jacinta",ALLAN,Jacinta,ALP,7,22010,48.3
+Bendigo West,8,Northern Victoria,4.0,60.0,"SERPELL, Steve",SERPELL,Steve,FFV,1,1704,4.23
+Bendigo West,8,Northern Victoria,4.0,61.0,"PRICE, Ken",PRICE,Ken,LIB,2,10057,24.99
+Bendigo West,8,Northern Victoria,4.0,62.0,"MAXWELL, Victoria",MAXWELL,Victoria,AJP,3,1040,2.58
+Bendigo West,8,Northern Victoria,4.0,63.0,"NUSKE, Marilyn",NUSKE,Marilyn,IND,4,349,0.87
+Bendigo West,8,Northern Victoria,4.0,64.0,"WOOLLEY, Richard James",WOOLLEY,Richard James,FPV,5,606,1.51
+Bendigo West,8,Northern Victoria,4.0,65.0,"BANSEMER, Matt",BANSEMER,Matt,IND,6,979,2.43
+Bendigo West,8,Northern Victoria,4.0,66.0,"EDWARDS, Maree",EDWARDS,Maree,ALP,7,18704,46.47
+Bendigo West,8,Northern Victoria,4.0,67.0,"SEARLE, James",SEARLE,James,GRN,8,4634,11.51
+Bendigo West,8,Northern Victoria,4.0,68.0,"TAYLOR, Wayne",TAYLOR,Wayne,LGC,9,2175,5.4
+Bentleigh,9,Southern Metropolitan,6.0,69.0,"GNIESLAW, Simon",GNIESLAW,Simon,IND,1,789,1.75
+Bentleigh,9,Southern Metropolitan,6.0,70.0,"STAIKOS, Nick",STAIKOS,Nick,ALP,2,20656,45.78
+Bentleigh,9,Southern Metropolitan,6.0,71.0,"GALLI-MCROSTIE, Alana",GALLI-MCROSTIE,Alana,GRN,3,4845,10.74
+Bentleigh,9,Southern Metropolitan,6.0,72.0,"HARRIS, David",HARRIS,David,AJP,4,1098,2.43
+Bentleigh,9,Southern Metropolitan,6.0,73.0,"RYAN, Paul",RYAN,Paul,FFV,5,1331,2.95
+Bentleigh,9,Southern Metropolitan,6.0,74.0,"TAYLOR-HAYNES, Debbie",TAYLOR-HAYNES,Debbie,LIB,6,16401,36.35
+Berwick,10,South Eastern Metropolitan,5.0,75.0,"PERRY, Hayley",PERRY,Hayley,GRN,1,4297,9.7
+Berwick,10,South Eastern Metropolitan,5.0,76.0,"HAUPT, Kerry",HAUPT,Kerry,FPV,2,1570,3.54
+Berwick,10,South Eastern Metropolitan,5.0,77.0,"DOLHEGUY, Katherine",DOLHEGUY,Katherine,AJP,3,1029,2.32
+Berwick,10,South Eastern Metropolitan,5.0,78.0,"BATTIN, Brad",BATTIN,Brad,LIB,4,20031,45.23
+Berwick,10,South Eastern Metropolitan,5.0,79.0,"van der HORST, Joel",van der HORST,Joel,FFV,5,1488,3.36
+Berwick,10,South Eastern Metropolitan,5.0,80.0,"ZAVEER, Malik",ZAVEER,Malik,ALP,6,15874,35.84
+Box Hill,11,North Eastern Metropolitan,2.0,81.0,"TSENG, Wayne",TSENG,Wayne,IND,1,464,1.05
+Box Hill,11,North Eastern Metropolitan,2.0,82.0,"FOLLONI, Sebastian",FOLLONI,Sebastian,AJP,2,824,1.86
+Box Hill,11,North Eastern Metropolitan,2.0,83.0,"LISTON, Cameron",LISTON,Cameron,IND,3,436,0.98
+Box Hill,11,North Eastern Metropolitan,2.0,84.0,"RIERA, Alicia",RIERA,Alicia,FPV,4,541,1.22
+Box Hill,11,North Eastern Metropolitan,2.0,85.0,"WERNER, Nicole Ta-Ei",WERNER,Nicole Ta-Ei,LIB,5,15593,35.15
+Box Hill,11,North Eastern Metropolitan,2.0,86.0,"SHAN, Joanne",SHAN,Joanne,GRN,6,6267,14.13
+Box Hill,11,North Eastern Metropolitan,2.0,87.0,"DEAN, Paul",DEAN,Paul,DLP,7,1083,2.44
+Box Hill,11,North Eastern Metropolitan,2.0,88.0,"ONG, Gary",ONG,Gary,FFV,8,809,1.82
+Box Hill,11,North Eastern Metropolitan,2.0,89.0,"HAMER, Paul",HAMER,Paul,ALP,9,18340,41.35
+Brighton,12,Southern Metropolitan,6.0,90.0,"TIMMS, Allan L.",TIMMS,Allan L.,IND,1,211,0.51
+Brighton,12,Southern Metropolitan,6.0,91.0,"SCIOLA, Nick",SCIOLA,Nick,FFV,2,558,1.35
+Brighton,12,Southern Metropolitan,6.0,92.0,"DEKIERE, Sarah",DEKIERE,Sarah,GRN,3,5680,13.79
+Brighton,12,Southern Metropolitan,6.0,93.0,"GIBSON, Sally",GIBSON,Sally,IND,4,941,2.28
+Brighton,12,Southern Metropolitan,6.0,94.0,"FREDERICO, Felicity",FREDERICO,Felicity,IND,5,3749,9.1
+Brighton,12,Southern Metropolitan,6.0,95.0,"WALKER, Alicia",WALKER,Alicia,AJP,6,851,2.07
+Brighton,12,Southern Metropolitan,6.0,96.0,"NEWBURY, James",NEWBURY,James,LIB,7,18791,45.61
+Brighton,12,Southern Metropolitan,6.0,97.0,"CRAWFORD, Louise",CRAWFORD,Louise,ALP,8,10164,24.67
+Brighton,12,Southern Metropolitan,6.0,98.0,"CASLEY, John Tiger",CASLEY,John Tiger,IND,9,251,0.61
+Broadmeadows,13,Northern Metropolitan,3.0,99.0,"DUZOVA, Baris",DUZOVA,Baris,LIB,1,8044,23.13
+Broadmeadows,13,Northern Metropolitan,3.0,100.0,"HASSAN, Omar",HASSAN,Omar,VS,2,2795,8.04
+Broadmeadows,13,Northern Metropolitan,3.0,101.0,"HUYBREGTS, Arie",HUYBREGTS,Arie,IND,3,362,1.04
+Broadmeadows,13,Northern Metropolitan,3.0,102.0,"MATTHEWS-WARD, Kathleen",MATTHEWS-WARD,Kathleen,ALP,4,15899,45.71
+Broadmeadows,13,Northern Metropolitan,3.0,103.0,"SUTTER, Ben",SUTTER,Ben,RP,5,815,2.34
+Broadmeadows,13,Northern Metropolitan,3.0,104.0,"ELMUSTAPHA, Mohamad",ELMUSTAPHA,Mohamad,IND,6,1316,3.78
+Broadmeadows,13,Northern Metropolitan,3.0,105.0,"TAM, Bienne",TAM,Bienne,FFV,7,1611,4.63
+Broadmeadows,13,Northern Metropolitan,3.0,106.0,"AGUILUS, Joe",AGUILUS,Joe,GRN,8,2908,8.36
+Broadmeadows,13,Northern Metropolitan,3.0,107.0,"FEILD, Candace",FEILD,Candace,AJP,9,1030,2.96
+Brunswick,14,Northern Metropolitan,3.0,108.0,"HELOU, Anthony",HELOU,Anthony,IND,1,551,1.27
+Brunswick,14,Northern Metropolitan,3.0,109.0,"WILLIAMS, Mike",WILLIAMS,Mike,ALP,2,12392,28.52
+Brunswick,14,Northern Metropolitan,3.0,110.0,"JIMENEZ, Nahui",JIMENEZ,Nahui,VS,3,3506,8.07
+Brunswick,14,Northern Metropolitan,3.0,111.0,"EVANS, Shea",EVANS,Shea,RP,4,1933,4.45
+Brunswick,14,Northern Metropolitan,3.0,112.0,"SHAKER, Lilian Sabry",SHAKER,Lilian Sabry,FFV,5,529,1.22
+Brunswick,14,Northern Metropolitan,3.0,113.0,"NGUYEN, Minh Quan",NGUYEN,Minh Quan,LIB,6,4723,10.87
+Brunswick,14,Northern Metropolitan,3.0,114.0,"LAMARCHE-BEAUCHESNE, Rachel",LAMARCHE-BEAUCHESNE,Rachel,AJP,7,699,1.61
+Brunswick,14,Northern Metropolitan,3.0,115.0,"TAYLOR, Kenneth Charles",TAYLOR,Kenneth Charles,IND,8,153,0.35
+Brunswick,14,Northern Metropolitan,3.0,116.0,"READ, Tim",READ,Tim,GRN,9,18959,43.64
+Bulleen,15,North Eastern Metropolitan,2.0,117.0,"STAFFORD, Kellie",STAFFORD,Kellie,GRN,1,4576,10.65
+Bulleen,15,North Eastern Metropolitan,2.0,118.0,"SABHLOK, Sanjeev",SABHLOK,Sanjeev,IND,2,419,0.98
+Bulleen,15,North Eastern Metropolitan,2.0,119.0,"STOKES, Jason",STOKES,Jason,FFV,3,1014,2.36
+Bulleen,15,North Eastern Metropolitan,2.0,120.0,"VINCENT, David",VINCENT,David,IND,4,214,0.5
+Bulleen,15,North Eastern Metropolitan,2.0,121.0,"GUY, Matthew",GUY,Matthew,LIB,5,20645,48.06
+Bulleen,15,North Eastern Metropolitan,2.0,122.0,"PATRIKIOS, Voula",PATRIKIOS,Voula,FPV,6,1172,2.73
+Bulleen,15,North Eastern Metropolitan,2.0,123.0,"ROGERS, Ian",ROGERS,Ian,ALP,7,14052,32.71
+Bulleen,15,North Eastern Metropolitan,2.0,124.0,"JAFARI, Elnaz",JAFARI,Elnaz,AJP,8,867,2.02
+Bundoora,16,North Eastern Metropolitan,2.0,125.0,"O'BRIEN, Julie",O'BRIEN,Julie,GRN,1,5311,13.17
+Bundoora,16,North Eastern Metropolitan,2.0,126.0,"TOMAR, Sahil",TOMAR,Sahil,LIB,2,11167,27.68
+Bundoora,16,North Eastern Metropolitan,2.0,127.0,"KOELMEYER, Eric",KOELMEYER,Eric,IND,3,408,1.01
+Bundoora,16,North Eastern Metropolitan,2.0,128.0,"BROOKS, Colin",BROOKS,Colin,ALP,4,19288,47.82
+Bundoora,16,North Eastern Metropolitan,2.0,129.0,"JONES, Ethan",JONES,Ethan,FFV,5,1294,3.21
+Bundoora,16,North Eastern Metropolitan,2.0,130.0,"LU, Andrew",LU,Andrew,FPV,6,1637,4.06
+Bundoora,16,North Eastern Metropolitan,2.0,131.0,"HOLGATE, Bella",HOLGATE,Bella,AJP,7,1231,3.05
+Carrum,17,South Eastern Metropolitan,5.0,132.0,"WILLIS, Damian",WILLIS,Damian,IND,1,986,2.28
+Carrum,17,South Eastern Metropolitan,5.0,133.0,"EREVNIDIS, Georgia",EREVNIDIS,Georgia,FPV,2,1750,4.04
+Carrum,17,South Eastern Metropolitan,5.0,134.0,"CAMERON, Jeremy",CAMERON,Jeremy,FFV,3,1354,3.13
+Carrum,17,South Eastern Metropolitan,5.0,135.0,"MACGREGOR OWEN, Taylor",MACGREGOR OWEN,Taylor,AJP,4,1201,2.77
+Carrum,17,South Eastern Metropolitan,5.0,136.0,"LILLICO, Jayde",LILLICO,Jayde,GRN,5,3282,7.58
+Carrum,17,South Eastern Metropolitan,5.0,137.0,"BUCHANAN, Bec",BUCHANAN,Bec,LIB,6,13141,30.35
+Carrum,17,South Eastern Metropolitan,5.0,138.0,"KILKENNY, Sonya",KILKENNY,Sonya,ALP,7,21586,49.85
+Caulfield,18,Southern Metropolitan,6.0,139.0,"KALTMANN, Nomi",KALTMANN,Nomi,IND,1,2643,6.5
+Caulfield,18,Southern Metropolitan,6.0,140.0,"EDWELL, Lynne",EDWELL,Lynne,FFV,2,557,1.37
+Caulfield,18,Southern Metropolitan,6.0,141.0,"IAMPOLSKI, Rachel",IAMPOLSKI,Rachel,GRN,3,6447,15.85
+Caulfield,18,Southern Metropolitan,6.0,142.0,"MYERSON, Asher",MYERSON,Asher,AJP,4,908,2.23
+Caulfield,18,Southern Metropolitan,6.0,143.0,"SOUTHWICK, David",SOUTHWICK,David,LIB,5,18088,44.46
+Caulfield,18,Southern Metropolitan,6.0,144.0,"HAREL, Lior",HAREL,Lior,ALP,6,11301,27.78
+Caulfield,18,Southern Metropolitan,6.0,145.0,"ABELMAN, Michael",ABELMAN,Michael,LDP,7,739,1.82
+Clarinda,19,South Eastern Metropolitan,5.0,146.0,"WHITE, Caroline",WHITE,Caroline,IND,1,3167,7.81
+Clarinda,19,South Eastern Metropolitan,5.0,147.0,"HASTINGS, Karen",HASTINGS,Karen,FFV,2,1215,3.0
+Clarinda,19,South Eastern Metropolitan,5.0,148.0,"WOLFE, Steve",WOLFE,Steve,FPV,3,794,1.96
+Clarinda,19,South Eastern Metropolitan,5.0,149.0,"VO, Hung",VO,Hung,IND,4,1122,2.77
+Clarinda,19,South Eastern Metropolitan,5.0,150.0,"TAK, Meng Heang",TAK,Meng Heang,ALP,5,18441,45.46
+Clarinda,19,South Eastern Metropolitan,5.0,151.0,"RICHARDSON, Anthony",RICHARDSON,Anthony,LIB,6,11593,28.58
+Clarinda,19,South Eastern Metropolitan,5.0,152.0,"MOFFETT, Jessamine",MOFFETT,Jessamine,GRN,7,3227,7.96
+Clarinda,19,South Eastern Metropolitan,5.0,153.0,"LITCHFIELD, Sue",LITCHFIELD,Sue,AJP,8,1005,2.48
+Cranbourne,20,South Eastern Metropolitan,5.0,154.0,"HARVEY, Bradley",HARVEY,Bradley,FFV,1,2249,5.51
+Cranbourne,20,South Eastern Metropolitan,5.0,155.0,"NORTON, Chris",NORTON,Chris,DLP,2,2044,5.01
+Cranbourne,20,South Eastern Metropolitan,5.0,156.0,"PHILPOTT, Peter Bernard",PHILPOTT,Peter Bernard,DHJ,3,1126,2.76
+Cranbourne,20,South Eastern Metropolitan,5.0,157.0,"SINGH, Jagdeep",SINGH,Jagdeep,LIB,4,11230,27.51
+Cranbourne,20,South Eastern Metropolitan,5.0,158.0,"RICHARDS, Pauline",RICHARDS,Pauline,ALP,5,18853,46.18
+Cranbourne,20,South Eastern Metropolitan,5.0,159.0,"BRENNAN, Gwynne",BRENNAN,Gwynne,AJP,6,1006,2.46
+Cranbourne,20,South Eastern Metropolitan,5.0,160.0,"RAGUPATHY, Ravi",RAGUPATHY,Ravi,IND,7,242,0.59
+Cranbourne,20,South Eastern Metropolitan,5.0,161.0,"HANSEN, Gerardine Frances",HANSEN,Gerardine Frances,FPV,8,1790,4.38
+Cranbourne,20,South Eastern Metropolitan,5.0,162.0,"VEMPATI, Kiran",VEMPATI,Kiran,GRN,9,2282,5.59
+Croydon,21,North Eastern Metropolitan,2.0,163.0,"de WIT, Sophia",de WIT,Sophia,DLP,1,1978,4.33
+Croydon,21,North Eastern Metropolitan,2.0,164.0,"McDONALD-ECKERSALL, Harley",McDONALD-ECKERSALL,Harley,AJP,2,1501,3.29
+Croydon,21,North Eastern Metropolitan,2.0,165.0,"GRASSO, Sorina",GRASSO,Sorina,ALP,3,15564,34.1
+Croydon,21,North Eastern Metropolitan,2.0,166.0,"HODGETT, David",HODGETT,David,LIB,4,19605,42.96
+Croydon,21,North Eastern Metropolitan,2.0,167.0,"POWELL, Brendan",POWELL,Brendan,GRN,5,4940,10.82
+Croydon,21,North Eastern Metropolitan,2.0,168.0,"NEBAUER, Dan",NEBAUER,Dan,FFV,6,2051,4.49
+Dandenong,22,South Eastern Metropolitan,5.0,169.0,"HARMSE, Audrey",HARMSE,Audrey,FFV,1,2719,6.88
+Dandenong,22,South Eastern Metropolitan,5.0,170.0,"LEVCHENKO, Anthony",LEVCHENKO,Anthony,FPV,2,1478,3.74
+Dandenong,22,South Eastern Metropolitan,5.0,171.0,"WILLIAMS, Gabrielle",WILLIAMS,Gabrielle,ALP,3,21677,54.87
+Dandenong,22,South Eastern Metropolitan,5.0,172.0,"KIRWAN, Matthew",KIRWAN,Matthew,GRN,4,3215,8.14
+Dandenong,22,South Eastern Metropolitan,5.0,173.0,"BROADLEY, Karen",BROADLEY,Karen,LIB,5,8475,21.45
+Dandenong,22,South Eastern Metropolitan,5.0,174.0,"KLOP, Andrew",KLOP,Andrew,AJP,6,982,2.49
+Dandenong,22,South Eastern Metropolitan,5.0,175.0,"TURNER, Tham",TURNER,Tham,LDP,7,961,2.43
+Eildon,23,Northern Victoria,4.0,176.0,"JUDD, Jane",JUDD,Jane,ALP,1,12284,28.97
+Eildon,23,Northern Victoria,4.0,177.0,"BOND, Chloe",BOND,Chloe,AJP,2,1340,3.16
+Eildon,23,Northern Victoria,4.0,178.0,"McLEISH, Cindy",McLEISH,Cindy,LIB,3,20119,47.45
+Eildon,23,Northern Victoria,4.0,179.0,"THORNTON, Robert",THORNTON,Robert,IND,4,459,1.08
+Eildon,23,Northern Victoria,4.0,180.0,"MIKELSONS, Wil",MIKELSONS,Wil,GRN,5,4753,11.21
+Eildon,23,Northern Victoria,4.0,181.0,"RUSIC, Joshua",RUSIC,Joshua,FPV,6,1426,3.36
+Eildon,23,Northern Victoria,4.0,182.0,"CORDNER HUNT, Kammy",CORDNER HUNT,Kammy,IND,7,581,1.37
+Eildon,23,Northern Victoria,4.0,183.0,"LACEY, Tim",LACEY,Tim,FFV,8,1437,3.39
+Eltham,24,North Eastern Metropolitan,2.0,184.0,"WARD, Vicki",WARD,Vicki,ALP,1,19509,44.5
+Eltham,24,North Eastern Metropolitan,2.0,185.0,"KARIMI, Leila",KARIMI,Leila,DLP,2,710,1.62
+Eltham,24,North Eastern Metropolitan,2.0,186.0,"McCLINTOCK, Jason",McCLINTOCK,Jason,LIB,3,15615,35.61
+Eltham,24,North Eastern Metropolitan,2.0,187.0,"MARSHALL, Catriona",MARSHALL,Catriona,AJP,4,995,2.27
+Eltham,24,North Eastern Metropolitan,2.0,188.0,"GRIMES, Alex",GRIMES,Alex,GRN,5,5897,13.45
+Eltham,24,North Eastern Metropolitan,2.0,189.0,"STUBLEY, Hugh",STUBLEY,Hugh,FFV,6,1118,2.55
+Essendon,25,Northern Metropolitan,3.0,190.0,"WILLIAMS, Gayle",WILLIAMS,Gayle,AJP,1,1173,2.8
+Essendon,25,Northern Metropolitan,3.0,191.0,"WRIGHT, David",WRIGHT,David,FPV,2,1006,2.4
+Essendon,25,Northern Metropolitan,3.0,192.0,"PRENTIS, Jared",PRENTIS,Jared,GRN,3,6344,15.15
+Essendon,25,Northern Metropolitan,3.0,193.0,"DADICH, Daniel Nair",DADICH,Daniel Nair,VS,4,1951,4.66
+Essendon,25,Northern Metropolitan,3.0,194.0,"HOPE, Nicholas",HOPE,Nicholas,RP,5,1018,2.43
+Essendon,25,Northern Metropolitan,3.0,195.0,"BARONESSA, Angelo",BARONESSA,Angelo,LIB,6,12331,29.45
+Essendon,25,Northern Metropolitan,3.0,196.0,"PEARSON, Danny",PEARSON,Danny,ALP,7,17196,41.07
+Essendon,25,Northern Metropolitan,3.0,197.0,"MUIR, Margaret",MUIR,Margaret,FFV,8,848,2.03
+Eureka,26,Western Victoria,8.0,198.0,"TATCHELL, Paul",TATCHELL,Paul,LIB,1,14320,31.65
+Eureka,26,Western Victoria,8.0,199.0,"GIAMPAOLO, Anthony Joseph",GIAMPAOLO,Anthony Joseph,FPV,2,967,2.14
+Eureka,26,Western Victoria,8.0,200.0,"McCOLL, Sam",McCOLL,Sam,GRN,3,4887,10.8
+Eureka,26,Western Victoria,8.0,201.0,"GARCIA, Adrian",GARCIA,Adrian,FFV,4,1233,2.73
+Eureka,26,Western Victoria,8.0,202.0,"RICKARD, Tabitha",RICKARD,Tabitha,DLP,5,1821,4.02
+Eureka,26,Western Victoria,8.0,203.0,"MORRISON, Wendy",MORRISON,Wendy,AJP,6,1519,3.36
+Eureka,26,Western Victoria,8.0,204.0,"RAY, Michael",RAY,Michael,IND,7,666,1.47
+Eureka,26,Western Victoria,8.0,205.0,"REID, Nicola",REID,Nicola,IND,8,1083,2.39
+Eureka,26,Western Victoria,8.0,206.0,"BANWELL, Mark William",BANWELL,Mark William,IND,9,220,0.49
+Eureka,26,Western Victoria,8.0,207.0,"SETTLE, Michaela",SETTLE,Michaela,ALP,10,18531,40.96
+Euroa,27,Northern Victoria,4.0,208.0,"TOUGH, Angela",TOUGH,Angela,ALP,1,12840,30.4
+Euroa,27,Northern Victoria,4.0,209.0,"HADDOCK, Elaine",HADDOCK,Elaine,AJP,2,1170,2.77
+Euroa,27,Northern Victoria,4.0,210.0,"CLEELAND, Annabelle",CLEELAND,Annabelle,NAT,3,13496,31.95
+Euroa,27,Northern Victoria,4.0,211.0,"HEARN, Brad",HEARN,Brad,LIB,4,9227,21.84
+Euroa,27,Northern Victoria,4.0,212.0,"BENNETT, James",BENNETT,James,GRN,5,2245,5.31
+Euroa,27,Northern Victoria,4.0,213.0,"BACHELOR, Paul",BACHELOR,Paul,FFV,6,1494,3.54
+Euroa,27,Northern Victoria,4.0,214.0,"ROWBOTHAM, Raymond Mark",ROWBOTHAM,Raymond Mark,FPV,7,1770,4.19
+Evelyn,28,Eastern Victoria,1.0,215.0,"HEALD, Jan",HEALD,Jan,AJP,1,1819,4.17
+Evelyn,28,Eastern Victoria,1.0,216.0,"DE FRANCESCO, Nat",DE FRANCESCO,Nat,IND,2,448,1.03
+Evelyn,28,Eastern Victoria,1.0,217.0,"DENT, Lorna",DENT,Lorna,ALP,3,14277,32.7
+Evelyn,28,Eastern Victoria,1.0,218.0,"DE FRANCESCO, Rosalie",DE FRANCESCO,Rosalie,IND,4,366,0.84
+Evelyn,28,Eastern Victoria,1.0,219.0,"VALLENCE, Bridget",VALLENCE,Bridget,LIB,5,20385,46.68
+Evelyn,28,Eastern Victoria,1.0,220.0,"DOBSON, Jeanette",DOBSON,Jeanette,FFV,6,2318,5.31
+Evelyn,28,Eastern Victoria,1.0,221.0,"HENLEY, Andrew",HENLEY,Andrew,GRN,7,4052,9.28
+Footscray,29,Western Metropolitan,7.0,222.0,"PEREYRA, Elena",PEREYRA,Elena,GRN,1,9045,22.42
+Footscray,29,Western Metropolitan,7.0,223.0,"MANSOURI JAJAEE, Shohre",MANSOURI JAJAEE,Shohre,AJP,2,989,2.45
+Footscray,29,Western Metropolitan,7.0,224.0,"HALL, Katie",HALL,Katie,ALP,3,17387,43.1
+Footscray,29,Western Metropolitan,7.0,225.0,"MUIR, Russell",MUIR,Russell,FFV,4,838,2.08
+Footscray,29,Western Metropolitan,7.0,226.0,"WILLIAMS, Alan",WILLIAMS,Alan,DLP,5,1098,2.72
+Footscray,29,Western Metropolitan,7.0,227.0,"JORQUERA, Jorge",JORQUERA,Jorge,VS,6,3769,9.34
+Footscray,29,Western Metropolitan,7.0,228.0,"JOESIKA, Emete",JOESIKA,Emete,LIB,7,7214,17.88
+Frankston,30,South Eastern Metropolitan,5.0,229.0,"SURIC, Dragan",SURIC,Dragan,FPV,1,1443,3.61
+Frankston,30,South Eastern Metropolitan,5.0,230.0,"GREEN, Emily",GREEN,Emily,GRN,2,5060,12.67
+Frankston,30,South Eastern Metropolitan,5.0,231.0,"JOHNSTON, Elizabeth",JOHNSTON,Elizabeth,AJP,3,1365,3.42
+Frankston,30,South Eastern Metropolitan,5.0,232.0,"BERGWERF, Darren Paul",BERGWERF,Darren Paul,IND,4,844,2.11
+Frankston,30,South Eastern Metropolitan,5.0,233.0,"KELSALL, Henry",KELSALL,Henry,IND,5,369,0.92
+Frankston,30,South Eastern Metropolitan,5.0,234.0,"BROWN, Richard",BROWN,Richard,FFV,6,1083,2.71
+Frankston,30,South Eastern Metropolitan,5.0,235.0,"EDBROOKE, Paul",EDBROOKE,Paul,ALP,7,16595,41.55
+Frankston,30,South Eastern Metropolitan,5.0,236.0,"O'REILLY, Michael",O'REILLY,Michael,LIB,8,11762,29.45
+Frankston,30,South Eastern Metropolitan,5.0,237.0,"ABRAHAM, Chrysten",ABRAHAM,Chrysten,LDP,9,1420,3.56
+Geelong,31,Western Victoria,8.0,238.0,"PARKER-HILL, Madeleine",PARKER-HILL,Madeleine,FFV,1,2051,4.58
+Geelong,31,Western Victoria,8.0,239.0,"CARR, Angela",CARR,Angela,IND,2,994,2.22
+Geelong,31,Western Victoria,8.0,240.0,"JUHASZ, Stephen",JUHASZ,Stephen,IND,3,455,1.02
+Geelong,31,Western Victoria,8.0,241.0,"BENNETT-HULLIN, James",BENNETT-HULLIN,James,LIB,4,12194,27.24
+Geelong,31,Western Victoria,8.0,242.0,"COUZENS, Christine",COUZENS,Christine,ALP,5,20754,46.37
+Geelong,31,Western Victoria,8.0,243.0,"MOTTA, Bob",MOTTA,Bob,AJP,6,1465,3.27
+Geelong,31,Western Victoria,8.0,244.0,"SMITH, Aleisha",SMITH,Aleisha,GRN,7,6849,15.3
+Gippsland East,32,Eastern Victoria,1.0,245.0,"BULL, Tim",BULL,Tim,NAT,1,26737,63.34
+Gippsland East,32,Eastern Victoria,1.0,246.0,"FECHNER, Carl John",FECHNER,Carl John,FFV,2,1068,2.53
+Gippsland East,32,Eastern Victoria,1.0,247.0,"RICHARDSON, Stephen",RICHARDSON,Stephen,ALP,3,7191,17.04
+Gippsland East,32,Eastern Victoria,1.0,248.0,"MUIR, Ricky",MUIR,Ricky,SFF,4,2460,5.83
+Gippsland East,32,Eastern Victoria,1.0,249.0,"LING, Nissa",LING,Nissa,GRN,5,2691,6.37
+Gippsland East,32,Eastern Victoria,1.0,250.0,"COURT, Sally",COURT,Sally,AJP,6,725,1.72
+Gippsland East,32,Eastern Victoria,1.0,251.0,"BARNES, Ed",BARNES,Ed,FPV,7,1340,3.17
+Gippsland South,33,Eastern Victoria,1.0,252.0,"ESLER, Clay",ESLER,Clay,IND,1,2414,5.7
+Gippsland South,33,Eastern Victoria,1.0,253.0,"TIZIANI-SIMPSON, Jay",TIZIANI-SIMPSON,Jay,GRN,2,3538,8.35
+Gippsland South,33,Eastern Victoria,1.0,254.0,"FURLONG, Paul",FURLONG,Paul,FFV,3,1218,2.88
+Gippsland South,33,Eastern Victoria,1.0,255.0,"RYAN, Denise",RYAN,Denise,ALP,4,9920,23.42
+Gippsland South,33,Eastern Victoria,1.0,256.0,"O'BRIEN, Danny",O'BRIEN,Danny,NAT,5,22566,53.27
+Gippsland South,33,Eastern Victoria,1.0,257.0,"JEGES, Helen",JEGES,Helen,AJP,6,1350,3.19
+Gippsland South,33,Eastern Victoria,1.0,258.0,"NEWNHAM, Angela",NEWNHAM,Angela,FPV,7,1357,3.2
+Glen Waverley,34,North Eastern Metropolitan,2.0,259.0,"MARSH, Scott",MARSH,Scott,DLP,1,1856,4.16
+Glen Waverley,34,North Eastern Metropolitan,2.0,260.0,"HARRIS, Joyce Maree",HARRIS,Joyce Maree,FPV,2,664,1.49
+Glen Waverley,34,North Eastern Metropolitan,2.0,261.0,"PARTRIDGE, Steph",PARTRIDGE,Steph,GRN,3,4279,9.58
+Glen Waverley,34,North Eastern Metropolitan,2.0,262.0,"HANCE, Maddy",HANCE,Maddy,AJP,4,802,1.8
+Glen Waverley,34,North Eastern Metropolitan,2.0,263.0,"MULLAHY, John",MULLAHY,John,ALP,5,18153,40.64
+Glen Waverley,34,North Eastern Metropolitan,2.0,264.0,"HUISMAN, Kristeen",HUISMAN,Kristeen,FFV,6,972,2.18
+Glen Waverley,34,North Eastern Metropolitan,2.0,265.0,"ANGUS, Neil",ANGUS,Neil,LIB,7,17941,40.17
+Greenvale,35,Northern Metropolitan,3.0,266.0,"YOLBULAN, Mutullah Can",YOLBULAN,Mutullah Can,VS,1,2582,6.85
+Greenvale,35,Northern Metropolitan,3.0,267.0,"ERCIYAS, Fatma",ERCIYAS,Fatma,IND,2,2416,6.41
+Greenvale,35,Northern Metropolitan,3.0,268.0,"GHANI, Usman",GHANI,Usman,LIB,3,9568,25.39
+Greenvale,35,Northern Metropolitan,3.0,269.0,"BENGTSSON, Maria",BENGTSSON,Maria,FFV,4,2778,7.37
+Greenvale,35,Northern Metropolitan,3.0,270.0,"SANTA-ISABEL, Cristina",SANTA-ISABEL,Cristina,GRN,5,2194,5.82
+Greenvale,35,Northern Metropolitan,3.0,271.0,"STYLES, Lauren",STYLES,Lauren,FPV,6,1225,3.25
+Greenvale,35,Northern Metropolitan,3.0,272.0,"WALTERS, Iwan",WALTERS,Iwan,ALP,7,15628,41.47
+Greenvale,35,Northern Metropolitan,3.0,273.0,"FURINA, Rosanna",FURINA,Rosanna,AJP,8,1295,3.44
+Hastings,36,Eastern Victoria,1.0,274.0,"JACK, Tyson",JACK,Tyson,AJP,1,1736,4.21
+Hastings,36,Eastern Victoria,1.0,275.0,"SAUNDERS, Paul",SAUNDERS,Paul,GRN,2,4118,9.99
+Hastings,36,Eastern Victoria,1.0,276.0,"MERCURIO, Paul",MERCURIO,Paul,ALP,3,15361,37.26
+Hastings,36,Eastern Victoria,1.0,277.0,"de WIT, Camille",de WIT,Camille,DLP,4,833,2.02
+Hastings,36,Eastern Victoria,1.0,278.0,"SABO, Tom",SABO,Tom,FFV,5,1001,2.43
+Hastings,36,Eastern Victoria,1.0,279.0,"BENSON, Janet Felicity",BENSON,Janet Felicity,FPV,6,1235,3.0
+Hastings,36,Eastern Victoria,1.0,280.0,"HUTTON, Briony",HUTTON,Briony,LIB,7,16415,39.81
+Hastings,36,Eastern Victoria,1.0,281.0,"WHITEHILL, Robert",WHITEHILL,Robert,IND,8,533,1.29
+Hawthorn,37,Southern Metropolitan,6.0,282.0,"FUHRER, Faith",FUHRER,Faith,AJP,1,660,1.49
+Hawthorn,37,Southern Metropolitan,6.0,283.0,"KENNEDY, John",KENNEDY,John,ALP,2,9799,22.11
+Hawthorn,37,Southern Metropolitan,6.0,284.0,"TRIANTAFILLIS, Ken",TRIANTAFILLIS,Ken,FFV,3,408,0.92
+Hawthorn,37,Southern Metropolitan,6.0,285.0,"PEPPARD, Richard",PEPPARD,Richard,LDP,4,583,1.32
+Hawthorn,37,Southern Metropolitan,6.0,286.0,"LOWE, Melissa",LOWE,Melissa,IND,5,8851,19.98
+Hawthorn,37,Southern Metropolitan,6.0,287.0,"SAVAGE, Nick",SAVAGE,Nick,GRN,6,4927,11.12
+Hawthorn,37,Southern Metropolitan,6.0,288.0,"PESUTTO, John",PESUTTO,John,LIB,7,18728,42.27
+Hawthorn,37,Southern Metropolitan,6.0,289.0,"BELL, Stratton",BELL,Stratton,DLP,8,354,0.8
+Ivanhoe,38,North Eastern Metropolitan,2.0,290.0,"CARBINES, Anthony",CARBINES,Anthony,ALP,1,17333,42.69
+Ivanhoe,38,North Eastern Metropolitan,2.0,291.0,"HAYWARD, Sarah",HAYWARD,Sarah,FFV,2,1216,3.0
+Ivanhoe,38,North Eastern Metropolitan,2.0,292.0,"KHOURY, Bernadette",KHOURY,Bernadette,LIB,3,12566,30.95
+Ivanhoe,38,North Eastern Metropolitan,2.0,293.0,"RISTEVSKI, Sonja",RISTEVSKI,Sonja,AJP,4,937,2.31
+Ivanhoe,38,North Eastern Metropolitan,2.0,294.0,"LANGDON, Craig",LANGDON,Craig,IND,5,739,1.82
+Ivanhoe,38,North Eastern Metropolitan,2.0,295.0,"BIEBER, Emily",BIEBER,Emily,GRN,6,7808,19.23
+Kalkallo,39,Northern Metropolitan,3.0,296.0,"SPENCE, Ros",SPENCE,Ros,ALP,1,21531,53.85
+Kalkallo,39,Northern Metropolitan,3.0,297.0,"SINGH, Bikram",SINGH,Bikram,LIB,2,9154,22.9
+Kalkallo,39,Northern Metropolitan,3.0,298.0,"LOWE, Frances",LOWE,Frances,AJP,3,1466,3.67
+Kalkallo,39,Northern Metropolitan,3.0,299.0,"PAREL, Jimmy George",PAREL,Jimmy George,IND,4,610,1.53
+Kalkallo,39,Northern Metropolitan,3.0,300.0,"UL MURTAZA, Muhammad Nisar",UL MURTAZA,Muhammad Nisar,GRN,5,2116,5.29
+Kalkallo,39,Northern Metropolitan,3.0,301.0,"FRENCH, Callum John",FRENCH,Callum John,IND,6,299,0.75
+Kalkallo,39,Northern Metropolitan,3.0,302.0,"SANDHU, Smiley",SANDHU,Smiley,ND,7,409,1.02
+Kalkallo,39,Northern Metropolitan,3.0,303.0,"SAYER, Das",SAYER,Das,FFV,8,2457,6.15
+Kalkallo,39,Northern Metropolitan,3.0,304.0,"MONSALVE TOBON, Sergio",MONSALVE TOBON,Sergio,VS,9,1938,4.85
+Kew,40,Southern Metropolitan,6.0,305.0,"TORNEY, Sophie",TORNEY,Sophie,IND,1,9200,21.1
+Kew,40,Southern Metropolitan,6.0,306.0,"SULLIVAN, Kym",SULLIVAN,Kym,IND,2,147,0.34
+Kew,40,Southern Metropolitan,6.0,307.0,"DAVIS, Finlay",DAVIS,Finlay,IND,3,158,0.36
+Kew,40,Southern Metropolitan,6.0,308.0,"SKELTON, Lucy",SKELTON,Lucy,ALP,4,9896,22.7
+Kew,40,Southern Metropolitan,6.0,309.0,"SEELEY, Ann",SEELEY,Ann,FFV,5,751,1.72
+Kew,40,Southern Metropolitan,6.0,310.0,"WILSON, Jess",WILSON,Jess,LIB,6,19321,44.32
+Kew,40,Southern Metropolitan,6.0,311.0,"CARTER, Jackie",CARTER,Jackie,GRN,7,3612,8.29
+Kew,40,Southern Metropolitan,6.0,312.0,"SCHOFIELD, Ruby",SCHOFIELD,Ruby,AJP,8,507,1.16
+Kororoit,41,Western Metropolitan,7.0,313.0,"GIBSON, Belle",GIBSON,Belle,VS,1,2768,6.86
+Kororoit,41,Western Metropolitan,7.0,314.0,"CHANDOK, Jaz",CHANDOK,Jaz,ND,2,623,1.54
+Kororoit,41,Western Metropolitan,7.0,315.0,"BROWN, Zuzanna",BROWN,Zuzanna,DLP,3,2517,6.23
+Kororoit,41,Western Metropolitan,7.0,316.0,"DIVITA, Katherine",DIVITA,Katherine,AJP,4,1242,3.08
+Kororoit,41,Western Metropolitan,7.0,317.0,"BAUCH, Joh",BAUCH,Joh,IND,5,978,2.42
+Kororoit,41,Western Metropolitan,7.0,318.0,"MILUTINOVIC, Melanie",MILUTINOVIC,Melanie,FFV,6,2326,5.76
+Kororoit,41,Western Metropolitan,7.0,319.0,"GRIGOROVITCH, Luba",GRIGOROVITCH,Luba,ALP,7,17468,43.27
+Kororoit,41,Western Metropolitan,7.0,320.0,"CHESTER, Ben",CHESTER,Ben,GRN,8,2650,6.56
+Kororoit,41,Western Metropolitan,7.0,321.0,"FLETCHER, John",FLETCHER,John,LIB,9,9801,24.28
+Lara,42,Western Victoria,8.0,322.0,"GARDNER, Courtney",GARDNER,Courtney,GRN,1,4473,11.32
+Lara,42,Western Victoria,8.0,323.0,"HATHWAY, Sarah",HATHWAY,Sarah,IND,2,1050,2.66
+Lara,42,Western Victoria,8.0,324.0,"KREIN, Ralph",KREIN,Ralph,LIB,3,8460,21.41
+Lara,42,Western Victoria,8.0,325.0,"RANKINE, Steve",RANKINE,Steve,FFV,4,1775,4.49
+Lara,42,Western Victoria,8.0,326.0,"GEORGE, Ella",GEORGE,Ella,ALP,5,19635,49.68
+Lara,42,Western Victoria,8.0,327.0,"KELLY, Peter",KELLY,Peter,AJP,6,1502,3.8
+Lara,42,Western Victoria,8.0,328.0,"TAYLOR, Ash",TAYLOR,Ash,AVP,7,938,2.37
+Lara,42,Western Victoria,8.0,329.0,"PAYNE, Max",PAYNE,Max,LDP,8,1688,4.27
+Laverton,43,Western Metropolitan,7.0,330.0,"SONI, Gurneet",SONI,Gurneet,ND,1,1082,2.91
+Laverton,43,Western Metropolitan,7.0,331.0,"DURZADA, Braishna",DURZADA,Braishna,GRN,2,3496,9.41
+Laverton,43,Western Metropolitan,7.0,332.0,"FRY, David",FRY,David,FFV,3,1353,3.64
+Laverton,43,Western Metropolitan,7.0,333.0,"PAREDES, Rufo",PAREDES,Rufo,IND,4,355,0.96
+Laverton,43,Western Metropolitan,7.0,334.0,"WIRTH, Michael",WIRTH,Michael,DLP,5,2051,5.52
+Laverton,43,Western Metropolitan,7.0,335.0,"ROBERTSON, Catherine",ROBERTSON,Catherine,VS,6,2206,5.94
+Laverton,43,Western Metropolitan,7.0,336.0,"RAYMOND, Trent",RAYMOND,Trent,FPV,7,641,1.73
+Laverton,43,Western Metropolitan,7.0,337.0,"BAGHERI, Pouya",BAGHERI,Pouya,AJP,8,694,1.87
+Laverton,43,Western Metropolitan,7.0,338.0,"CONNOLLY, Sarah",CONNOLLY,Sarah,ALP,9,17026,45.85
+Laverton,43,Western Metropolitan,7.0,339.0,"REDDY, Raja",REDDY,Raja,LIB,10,8233,22.17
+Lowan,44,Western Victoria,8.0,340.0,"ETHERTON, Richard",ETHERTON,Richard,AVP,1,1710,3.95
+Lowan,44,Western Victoria,8.0,341.0,"KEALY, Emma",KEALY,Emma,NAT,2,25482,58.85
+Lowan,44,Western Victoria,8.0,342.0,"RAMSAY, Tamasin",RAMSAY,Tamasin,AJP,3,1019,2.35
+Lowan,44,Western Victoria,8.0,343.0,"COLEMAN, Robert",COLEMAN,Robert,FFV,4,1573,3.63
+Lowan,44,Western Victoria,8.0,344.0,"MEAD, Amanda",MEAD,Amanda,IND,5,2384,5.51
+Lowan,44,Western Victoria,8.0,345.0,"MONAGHAN, Mick",MONAGHAN,Mick,ALP,6,8554,19.76
+Lowan,44,Western Victoria,8.0,346.0,"LANE, Richard",LANE,Richard,GRN,7,2575,5.95
+Macedon,45,Northern Victoria,4.0,347.0,"BONANNO, Dominic",BONANNO,Dominic,LIB,1,12463,29.97
+Macedon,45,Northern Victoria,4.0,348.0,"McRAE McLEOD, Marley",McRAE McLEOD,Marley,GRN,2,5214,12.54
+Macedon,45,Northern Victoria,4.0,349.0,"THOMAS, Mary-Anne",THOMAS,Mary-Anne,ALP,3,17234,41.44
+Macedon,45,Northern Victoria,4.0,350.0,"BARTON, Huntly",BARTON,Huntly,IND,4,2250,5.41
+Macedon,45,Northern Victoria,4.0,351.0,"SEDGMAN, Kerryn P.",SEDGMAN,Kerryn P.,FPV,5,770,1.85
+Macedon,45,Northern Victoria,4.0,352.0,"McCORMACK, Chris",McCORMACK,Chris,FFV,6,791,1.9
+Macedon,45,Northern Victoria,4.0,353.0,"EVEZARD, Amanda",EVEZARD,Amanda,ON,7,1511,3.63
+Macedon,45,Northern Victoria,4.0,354.0,"BERGMANN, Iris",BERGMANN,Iris,AJP,8,1356,3.26
+Malvern,46,Southern Metropolitan,6.0,355.0,"NATOLI, Amelia",NATOLI,Amelia,AJP,1,1005,2.46
+Malvern,46,Southern Metropolitan,6.0,356.0,"NATALE, Darren",NATALE,Darren,ALP,2,10686,26.19
+Malvern,46,Southern Metropolitan,6.0,357.0,"O'BRIEN, Michael",O'BRIEN,Michael,LIB,3,21438,52.54
+Malvern,46,Southern Metropolitan,6.0,358.0,"STEFANOPOULOS, Steve",STEFANOPOULOS,Steve,IND,4,643,1.58
+Malvern,46,Southern Metropolitan,6.0,359.0,"SCHMIDT, Judy",SCHMIDT,Judy,FFV,5,639,1.57
+Malvern,46,Southern Metropolitan,6.0,360.0,"FULLER, Mitchell",FULLER,Mitchell,GRN,6,6390,15.66
+Melbourne,47,Northern Metropolitan,3.0,361.0,"PALACKALODY, George",PALACKALODY,George,LIB,1,7522,17.69
+Melbourne,47,Northern Metropolitan,3.0,362.0,"SANDELL, Ellen",SANDELL,Ellen,GRN,2,15855,37.29
+Melbourne,47,Northern Metropolitan,3.0,363.0,"JANSON, Michael",JANSON,Michael,FFV,3,535,1.26
+Melbourne,47,Northern Metropolitan,3.0,364.0,"AL-SAIMARY, Laylah",AL-SAIMARY,Laylah,IND,4,428,1.01
+Melbourne,47,Northern Metropolitan,3.0,365.0,"BOLGER, Colleen",BOLGER,Colleen,VS,5,2323,5.46
+Melbourne,47,Northern Metropolitan,3.0,366.0,"BANGAAR, Rabin",BANGAAR,Rabin,AJP,6,701,1.65
+Melbourne,47,Northern Metropolitan,3.0,367.0,"SMITH, Steven J.",SMITH,Steven J.,FPV,7,521,1.23
+Melbourne,47,Northern Metropolitan,3.0,368.0,"THISTLETON, Rebecca",THISTLETON,Rebecca,ALP,8,13033,30.65
+Melbourne,47,Northern Metropolitan,3.0,369.0,"FOXWORTHY, Nicola",FOXWORTHY,Nicola,RP,9,1601,3.77
+Melton,48,Western Victoria,8.0,370.0,"BLACKBORROW, Paul",BLACKBORROW,Paul,SFF,1,1682,4.47
+Melton,48,Western Victoria,8.0,371.0,"BIRCHALL, Ian",BIRCHALL,Ian,IND,2,3403,9.05
+Melton,48,Western Victoria,8.0,372.0,"DOBRAN, Tony",DOBRAN,Tony,FPV,3,717,1.91
+Melton,48,Western Victoria,8.0,373.0,"WATT, Graham",WATT,Graham,LIB,4,9155,24.34
+Melton,48,Western Victoria,8.0,374.0,"BRUNT, Richard",BRUNT,Richard,FFV,5,946,2.51
+Melton,48,Western Victoria,8.0,375.0,"PERERA, Jason Spencer",PERERA,Jason Spencer,IND,6,130,0.35
+Melton,48,Western Victoria,8.0,376.0,"ALP, Ashley",ALP,Ashley,DLP,7,1629,4.33
+Melton,48,Western Victoria,8.0,377.0,"MORRIS, Praise",MORRIS,Praise,GRN,8,1711,4.55
+Melton,48,Western Victoria,8.0,378.0,"BINGHAM, Jarrod James",BINGHAM,Jarrod James,IND,9,2186,5.81
+Melton,48,Western Victoria,8.0,379.0,"McGHIE, Steve",McGHIE,Steve,ALP,10,14193,37.73
+Melton,48,Western Victoria,8.0,380.0,"CIAPPARA, Lucienne",CIAPPARA,Lucienne,HAP,11,219,0.58
+Melton,48,Western Victoria,8.0,381.0,"ADIN-JAMES, Fiona",ADIN-JAMES,Fiona,AJP,12,743,1.98
+Melton,48,Western Victoria,8.0,382.0,"KAUR, Jasleen",KAUR,Jasleen,ND,13,242,0.64
+Melton,48,Western Victoria,8.0,383.0,"DONALD, Samantha Jane",DONALD,Samantha Jane,DHJ,14,663,1.76
+Mildura,49,Northern Victoria,4.0,384.0,"CUPPER, Ali",CUPPER,Ali,IND,1,12913,33.86
+Mildura,49,Northern Victoria,4.0,385.0,"BRYMER, Sonia",BRYMER,Sonia,IND,2,1080,2.83
+Mildura,49,Northern Victoria,4.0,386.0,"BROUGHAM, Philippe John",BROUGHAM,Philippe John,FPV,3,416,1.09
+Mildura,49,Northern Victoria,4.0,387.0,"SHARPE, Felicity",SHARPE,Felicity,DLP,4,586,1.54
+Mildura,49,Northern Victoria,4.0,388.0,"MATHESON, Paul",MATHESON,Paul,LIB,5,7291,19.12
+Mildura,49,Northern Victoria,4.0,389.0,"ZIGOURAS, Stella",ZIGOURAS,Stella,ALP,6,2483,6.51
+Mildura,49,Northern Victoria,4.0,390.0,"BENHAM, Jade",BENHAM,Jade,NAT,7,9868,25.87
+Mildura,49,Northern Victoria,4.0,391.0,"ZAYN, Angylina",ZAYN,Angylina,AJP,8,333,0.87
+Mildura,49,Northern Victoria,4.0,392.0,"STRATTON, Brad",STRATTON,Brad,FFV,9,560,1.47
+Mildura,49,Northern Victoria,4.0,393.0,"MILNE, Glenn",MILNE,Glenn,IND,10,1716,4.5
+Mildura,49,Northern Victoria,4.0,394.0,"CLEMENTS, Katie",CLEMENTS,Katie,GRN,11,894,2.34
+Mill Park,50,North Eastern Metropolitan,2.0,395.0,"SIMONS, Marcia",SIMONS,Marcia,AJP,1,1833,4.85
+Mill Park,50,North Eastern Metropolitan,2.0,396.0,"YAP, Paige",YAP,Paige,LIB,2,9797,25.92
+Mill Park,50,North Eastern Metropolitan,2.0,397.0,"ANDERSON, Craig",ANDERSON,Craig,FFV,3,1891,5.0
+Mill Park,50,North Eastern Metropolitan,2.0,398.0,"FILIPPOPOULOS, Andrew",FILIPPOPOULOS,Andrew,FPV,4,2659,7.03
+Mill Park,50,North Eastern Metropolitan,2.0,399.0,"D'AMBROSIO, Lily",D'AMBROSIO,Lily,ALP,5,18857,49.89
+Mill Park,50,North Eastern Metropolitan,2.0,400.0,"KEARNEY, Chris",KEARNEY,Chris,GRN,6,2761,7.3
+Monbulk,51,Eastern Victoria,1.0,401.0,"COLE, Craig",COLE,Craig,IND,1,2069,4.95
+Monbulk,51,Eastern Victoria,1.0,402.0,"FOLLONI, Leah",FOLLONI,Leah,AJP,2,1739,4.16
+Monbulk,51,Eastern Victoria,1.0,403.0,"BARNES, Veronica",BARNES,Veronica,FPV,3,910,2.18
+Monbulk,51,Eastern Victoria,1.0,404.0,"ORMSBY, Michael",ORMSBY,Michael,GRN,4,6255,14.97
+Monbulk,51,Eastern Victoria,1.0,405.0,"WARD, Gareth",WARD,Gareth,LIB,5,12327,29.49
+Monbulk,51,Eastern Victoria,1.0,406.0,"SKELTON, Johanna",SKELTON,Johanna,IND,6,2229,5.33
+Monbulk,51,Eastern Victoria,1.0,407.0,"HIGGINS, David",HIGGINS,David,FFV,7,1197,2.86
+Monbulk,51,Eastern Victoria,1.0,408.0,"DE MARTINO, Daniela",DE MARTINO,Daniela,ALP,8,15071,36.06
+Mordialloc,52,South Eastern Metropolitan,5.0,409.0,"O'DONNELL, Sarah",O'DONNELL,Sarah,IND,1,3240,7.35
+Mordialloc,52,South Eastern Metropolitan,5.0,410.0,"REID, Phil",REID,Phil,IND,2,154,0.35
+Mordialloc,52,South Eastern Metropolitan,5.0,411.0,"VO, Chi",VO,Chi,AJP,3,1070,2.43
+Mordialloc,52,South Eastern Metropolitan,5.0,412.0,"RICHARDSON, Tim",RICHARDSON,Tim,ALP,4,19398,44.03
+Mordialloc,52,South Eastern Metropolitan,5.0,413.0,"LUM, Patrick",LUM,Patrick,FFV,5,887,2.01
+Mordialloc,52,South Eastern Metropolitan,5.0,414.0,"LESSA, Daniel",LESSA,Daniel,GRN,6,4526,10.27
+Mordialloc,52,South Eastern Metropolitan,5.0,415.0,"ALBRECHT, Deborah",ALBRECHT,Deborah,FPV,7,955,2.17
+Mordialloc,52,South Eastern Metropolitan,5.0,416.0,"PEASE, Phillip",PEASE,Phillip,LIB,8,13829,31.39
+Mornington,53,Eastern Victoria,1.0,417.0,"LARDNER, Kate",LARDNER,Kate,IND,1,9432,22.42
+Mornington,53,Eastern Victoria,1.0,418.0,"SCHWEEN, Leonie",SCHWEEN,Leonie,AJP,2,740,1.76
+Mornington,53,Eastern Victoria,1.0,419.0,"CREWTHER, Chris",CREWTHER,Chris,LIB,3,17910,42.58
+Mornington,53,Eastern Victoria,1.0,420.0,"HAYWARD, Ross",HAYWARD,Ross,FFV,4,375,0.89
+Mornington,53,Eastern Victoria,1.0,421.0,"PETTITT, Paul",PETTITT,Paul,FPV,5,1041,2.47
+Mornington,53,Eastern Victoria,1.0,422.0,"AGIRTAN, Jane",AGIRTAN,Jane,IND,6,641,1.52
+Mornington,53,Eastern Victoria,1.0,423.0,"SINCLAIR, Harry",SINCLAIR,Harry,GRN,7,2677,6.36
+Mornington,53,Eastern Victoria,1.0,424.0,"FOWLER, Georgia",FOWLER,Georgia,ALP,8,9246,21.98
+Morwell,54,Eastern Victoria,1.0,425.0,"HARRIMAN, Dale",HARRIMAN,Dale,LIB,1,6710,15.51
+Morwell,54,Eastern Victoria,1.0,426.0,"CAMERON, Martin",CAMERON,Martin,NAT,2,9902,22.89
+Morwell,54,Eastern Victoria,1.0,427.0,"MAIDANA, Alex",MAIDANA,Alex,FPV,3,900,2.08
+Morwell,54,Eastern Victoria,1.0,428.0,"HINE, Rochelle",HINE,Rochelle,GRN,4,1830,4.23
+Morwell,54,Eastern Victoria,1.0,429.0,"PROCTOR, Lisa",PROCTOR,Lisa,IND,5,469,1.08
+Morwell,54,Eastern Victoria,1.0,430.0,"CLARKE, Brendan",CLARKE,Brendan,FFV,6,749,1.73
+Morwell,54,Eastern Victoria,1.0,431.0,"McAULIFFE, Jessica",McAULIFFE,Jessica,AJP,7,687,1.59
+Morwell,54,Eastern Victoria,1.0,432.0,"MAXFIELD, Kate",MAXFIELD,Kate,ALP,8,13601,31.44
+Morwell,54,Eastern Victoria,1.0,433.0,"GIBSON, Sharon",GIBSON,Sharon,IND,9,2515,5.81
+Morwell,54,Eastern Victoria,1.0,434.0,"LUND, Tracie",LUND,Tracie,IND,10,1206,2.79
+Morwell,54,Eastern Victoria,1.0,435.0,"HICKEN, Allan",HICKEN,Allan,ON,11,2648,6.12
+Morwell,54,Eastern Victoria,1.0,436.0,"SNELLING, David",SNELLING,David,SFF,12,2044,4.72
+Mulgrave,55,South Eastern Metropolitan,5.0,437.0,"ANDREWS, Daniel",ANDREWS,Daniel,ALP,1,19365,51.0
+Mulgrave,55,South Eastern Metropolitan,5.0,438.0,"KING, Andrew",KING,Andrew,IND,2,173,0.46
+Mulgrave,55,South Eastern Metropolitan,5.0,439.0,"ISMA, Ezra J. D.",ISMA,Ezra J. D.,IND,3,92,0.24
+Mulgrave,55,South Eastern Metropolitan,5.0,440.0,"MOODY, Anne",MOODY,Anne,IND,4,146,0.38
+Mulgrave,55,South Eastern Metropolitan,5.0,441.0,"COOK, Ian",COOK,Ian,IND,5,6838,18.01
+Mulgrave,55,South Eastern Metropolitan,5.0,442.0,"TOSCANO, Joseph",TOSCANO,Joseph,IND,6,155,0.41
+Mulgrave,55,South Eastern Metropolitan,5.0,443.0,"MOULD, David",MOULD,David,AJP,7,419,1.1
+Mulgrave,55,South Eastern Metropolitan,5.0,444.0,"FOREMAN, Jane",FOREMAN,Jane,FFV,8,749,1.97
+Mulgrave,55,South Eastern Metropolitan,5.0,445.0,"LIM, Robert",LIM,Robert,GRN,9,1930,5.08
+Mulgrave,55,South Eastern Metropolitan,5.0,446.0,"WOOD, Maree",WOOD,Maree,DLP,10,327,0.86
+Mulgrave,55,South Eastern Metropolitan,5.0,447.0,"PIASTRINO, Michael",PIASTRINO,Michael,LIB,11,6528,17.19
+Mulgrave,55,South Eastern Metropolitan,5.0,448.0,"THEODOSSOPOULOU, Fotini",THEODOSSOPOULOU,Fotini,IND,12,305,0.8
+Mulgrave,55,South Eastern Metropolitan,5.0,449.0,"LEE, Howard",LEE,Howard,IND,13,120,0.32
+Mulgrave,55,South Eastern Metropolitan,5.0,450.0,"McLINDON, Aidan",McLINDON,Aidan,FPV,14,824,2.17
+Murray Plains,56,Northern Victoria,4.0,451.0,"MacPHERSON, Cameron",MacPHERSON,Cameron,FFV,1,2575,6.41
+Murray Plains,56,Northern Victoria,4.0,452.0,"BISH, Katia",BISH,Katia,FPV,2,1752,4.36
+Murray Plains,56,Northern Victoria,4.0,453.0,"HURRELL, Damien",HURRELL,Damien,ALP,3,7543,18.77
+Murray Plains,56,Northern Victoria,4.0,454.0,"LEUNG, Glenys",LEUNG,Glenys,AJP,4,908,2.26
+Murray Plains,56,Northern Victoria,4.0,455.0,"WALSH, Peter",WALSH,Peter,NAT,5,24831,61.78
+Murray Plains,56,Northern Victoria,4.0,456.0,"OTTO, Andrea",OTTO,Andrea,IND,6,1022,2.54
+Murray Plains,56,Northern Victoria,4.0,457.0,"BROWNSTEIN, John",BROWNSTEIN,John,GRN,7,1560,3.88
+Narre Warren North,58,South Eastern Metropolitan,5.0,467.0,"WILSON, Belinda",WILSON,Belinda,ALP,1,19350,46.77
+Narre Warren North,58,South Eastern Metropolitan,5.0,468.0,"ZMEGAC, Andrew",ZMEGAC,Andrew,DLP,2,1191,2.88
+Narre Warren North,58,South Eastern Metropolitan,5.0,469.0,"RUYTER, Monique",RUYTER,Monique,SFF,3,772,1.87
+Narre Warren North,58,South Eastern Metropolitan,5.0,470.0,"CAPON, Stephen",CAPON,Stephen,IND,4,906,2.19
+Narre Warren North,58,South Eastern Metropolitan,5.0,471.0,"GARDNER, Sheree",GARDNER,Sheree,AJP,5,978,2.36
+Narre Warren North,58,South Eastern Metropolitan,5.0,472.0,"ELKINS, Christine",ELKINS,Christine,FFV,6,1530,3.7
+Narre Warren North,58,South Eastern Metropolitan,5.0,473.0,"PARKER, Craig",PARKER,Craig,FPV,7,1218,2.94
+Narre Warren North,58,South Eastern Metropolitan,5.0,474.0,"MATULEC, Stephen",MATULEC,Stephen,LDP,8,1325,3.2
+Narre Warren North,58,South Eastern Metropolitan,5.0,475.0,"DRAGAN, Timothy",DRAGAN,Timothy,LIB,9,11291,27.29
+Narre Warren North,58,South Eastern Metropolitan,5.0,476.0,"McLEAN, Laura",McLEAN,Laura,GRN,10,2809,6.79
+Narre Warren South,59,South Eastern Metropolitan,5.0,477.0,"HARVEY, Jacqueline",HARVEY,Jacqueline,FFV,1,2495,5.82
+Narre Warren South,59,South Eastern Metropolitan,5.0,478.0,"SKROBO, Christine",SKROBO,Christine,LDP,2,1212,2.83
+Narre Warren South,59,South Eastern Metropolitan,5.0,479.0,"BAKER-PEARCE, Tylere",BAKER-PEARCE,Tylere,IND,3,290,0.68
+Narre Warren South,59,South Eastern Metropolitan,5.0,480.0,"SAMUEL, Annette",SAMUEL,Annette,LIB,4,12280,28.65
+Narre Warren South,59,South Eastern Metropolitan,5.0,481.0,"MAAS, Gary",MAAS,Gary,ALP,5,20562,47.98
+Narre Warren South,59,South Eastern Metropolitan,5.0,482.0,"GALLAGHER, Michael",GALLAGHER,Michael,AJP,6,1048,2.45
+Narre Warren South,59,South Eastern Metropolitan,5.0,483.0,"MOORE, Susanna",MOORE,Susanna,GRN,7,2836,6.62
+Narre Warren South,59,South Eastern Metropolitan,5.0,484.0,"HANSEN, Geoff",HANSEN,Geoff,FPV,8,2136,4.98
+Nepean,60,Eastern Victoria,1.0,485.0,"MILLER, Jay",MILLER,Jay,CAP,1,526,1.29
+Nepean,60,Eastern Victoria,1.0,486.0,"DIJKMAN, Janny",DIJKMAN,Janny,FFV,2,638,1.57
+Nepean,60,Eastern Victoria,1.0,487.0,"ENGELANDER, Pamela",ENGELANDER,Pamela,AJP,3,720,1.77
+Nepean,60,Eastern Victoria,1.0,488.0,"AINSLIE, Charelle",AINSLIE,Charelle,IND,4,449,1.1
+Nepean,60,Eastern Victoria,1.0,489.0,"GROTH, Sam",GROTH,Sam,LIB,5,19614,48.11
+Nepean,60,Eastern Victoria,1.0,490.0,"GLEIXNER, Esther",GLEIXNER,Esther,GRN,6,3576,8.77
+Nepean,60,Eastern Victoria,1.0,491.0,"ANGER, Steve",ANGER,Steve,IND,7,91,0.22
+Nepean,60,Eastern Victoria,1.0,492.0,"LEINE, Hank",LEINE,Hank,FPV,8,980,2.4
+Nepean,60,Eastern Victoria,1.0,493.0,"WOOLCOCK, Elizabeth",WOOLCOCK,Elizabeth,IND,9,495,1.21
+Nepean,60,Eastern Victoria,1.0,494.0,"BRAYNE, Chris",BRAYNE,Chris,ALP,10,13308,32.64
+Nepean,60,Eastern Victoria,1.0,495.0,"SKRUZNY, Cynthia",SKRUZNY,Cynthia,DLP,11,369,0.91
+Niddrie,61,Western Metropolitan,7.0,496.0,"MAUGERI, Frank",MAUGERI,Frank,FPV,1,1899,4.5
+Niddrie,61,Western Metropolitan,7.0,497.0,"KRUSE, Holly",KRUSE,Holly,DLP,2,1172,2.77
+Niddrie,61,Western Metropolitan,7.0,498.0,"CARROLL, Ben",CARROLL,Ben,ALP,3,18567,43.95
+Niddrie,61,Western Metropolitan,7.0,499.0,"REICH, Brad",REICH,Brad,VS,4,966,2.29
+Niddrie,61,Western Metropolitan,7.0,500.0,"MEILAK, Shannon",MEILAK,Shannon,AJP,5,812,1.92
+Niddrie,61,Western Metropolitan,7.0,501.0,"GARCIA, Joanne",GARCIA,Joanne,FFV,6,1096,2.59
+Niddrie,61,Western Metropolitan,7.0,502.0,"GRAMMENOS, Georgia",GRAMMENOS,Georgia,ND,7,269,0.64
+Niddrie,61,Western Metropolitan,7.0,503.0,"YOUHANA, Alan",YOUHANA,Alan,LIB,8,14344,33.96
+Niddrie,61,Western Metropolitan,7.0,504.0,"McGINNESS, Declan",McGINNESS,Declan,GRN,9,3117,7.38
+Northcote,62,Northern Metropolitan,3.0,505.0,"WHITEHEAD, Adrian",WHITEHEAD,Adrian,IND,1,518,1.21
+Northcote,62,Northern Metropolitan,3.0,506.0,"NTOUNI, Anastacia",NTOUNI,Anastacia,FPV,2,729,1.71
+Northcote,62,Northern Metropolitan,3.0,507.0,"GOME, Campbell",GOME,Campbell,GRN,3,12797,30.01
+Northcote,62,Northern Metropolitan,3.0,508.0,"OSECKAS, Tim",OSECKAS,Tim,AJP,4,757,1.78
+Northcote,62,Northern Metropolitan,3.0,509.0,"LARKIN, Kath",LARKIN,Kath,VS,5,2776,6.51
+Northcote,62,Northern Metropolitan,3.0,510.0,"CAVE, Anthony",CAVE,Anthony,LDP,6,530,1.24
+Northcote,62,Northern Metropolitan,3.0,511.0,"THEOPHANOUS, Kat",THEOPHANOUS,Kat,ALP,7,17303,40.58
+Northcote,62,Northern Metropolitan,3.0,512.0,"ASHTON, Kathrine",ASHTON,Kathrine,FFV,8,408,0.96
+Northcote,62,Northern Metropolitan,3.0,513.0,"CLARKE, April",CLARKE,April,RP,9,1539,3.61
+Northcote,62,Northern Metropolitan,3.0,514.0,"TODHUNTER, Stewart",TODHUNTER,Stewart,LIB,10,5205,12.21
+Northcote,62,Northern Metropolitan,3.0,515.0,"VERMA, Ashish",VERMA,Ashish,IND,11,80,0.19
+Oakleigh,63,Southern Metropolitan,6.0,516.0,"MURPHY, Dominique",MURPHY,Dominique,IND,1,1084,2.47
+Oakleigh,63,Southern Metropolitan,6.0,517.0,"DIMOPOULOS, Steve",DIMOPOULOS,Steve,ALP,2,19778,45.04
+Oakleigh,63,Southern Metropolitan,6.0,518.0,"SOK, Edward",SOK,Edward,FFV,3,904,2.06
+Oakleigh,63,Southern Metropolitan,6.0,519.0,"GRIVOKOSTOPOULOS, Jim",GRIVOKOSTOPOULOS,Jim,LIB,4,12848,29.26
+Oakleigh,63,Southern Metropolitan,6.0,520.0,"KIOUPELIS, Parashos",KIOUPELIS,Parashos,IND,5,234,0.53
+Oakleigh,63,Southern Metropolitan,6.0,521.0,"HSIEH, Hsiang-Han",HSIEH,Hsiang-Han,GRN,6,7278,16.57
+Oakleigh,63,Southern Metropolitan,6.0,522.0,"FABB, Loraine",FABB,Loraine,AJP,7,1014,2.31
+Oakleigh,63,Southern Metropolitan,6.0,523.0,"JACOBS, Anthony Charles",JACOBS,Anthony Charles,FPV,8,770,1.75
+Ovens Valley,64,Northern Victoria,4.0,524.0,"McCURDY, Tim",McCURDY,Tim,NAT,1,21057,52.13
+Ovens Valley,64,Northern Victoria,4.0,525.0,"BUGGE, Mark",BUGGE,Mark,FPV,2,1932,4.78
+Ovens Valley,64,Northern Victoria,4.0,526.0,"WISE, Anna",WISE,Anna,FFV,3,1403,3.47
+Ovens Valley,64,Northern Victoria,4.0,527.0,"LESCHEN, Zuvele",LESCHEN,Zuvele,ALP,4,8369,20.72
+Ovens Valley,64,Northern Victoria,4.0,528.0,"SLATER, Aisha",SLATER,Aisha,AJP,5,1009,2.5
+Ovens Valley,64,Northern Victoria,4.0,529.0,"KROMAR, Zoe",KROMAR,Zoe,GRN,6,3625,8.97
+Ovens Valley,64,Northern Victoria,4.0,530.0,"FIDGE, Julian",FIDGE,Julian,LDP,7,2995,7.42
+Pakenham,65,Eastern Victoria,1.0,531.0,"FARRELLY, David",FARRELLY,David,LIB,1,12605,32.43
+Pakenham,65,Eastern Victoria,1.0,532.0,"PLEDGER-FIRTH, Hannah",PLEDGER-FIRTH,Hannah,AJP,2,978,2.52
+Pakenham,65,Eastern Victoria,1.0,533.0,"MAIBAUM, Michelle",MAIBAUM,Michelle,GRN,3,2571,6.61
+Pakenham,65,Eastern Victoria,1.0,534.0,"GORE, Christopher",GORE,Christopher,FFV,4,1218,3.13
+Pakenham,65,Eastern Victoria,1.0,535.0,"CLARKE, Sammi",CLARKE,Sammi,FPV,5,956,2.46
+Pakenham,65,Eastern Victoria,1.0,536.0,"OWEN, Brett",OWEN,Brett,IND,6,3157,8.12
+Pakenham,65,Eastern Victoria,1.0,537.0,"VULIN, Emma",VULIN,Emma,ALP,7,13151,33.84
+Pakenham,65,Eastern Victoria,1.0,538.0,"SAGOO, Rajvir Singh",SAGOO,Rajvir Singh,IND,8,234,0.6
+Pakenham,65,Eastern Victoria,1.0,539.0,"SARKESHIK, Sarasadat",SARKESHIK,Sarasadat,DLP,9,666,1.71
+Pakenham,65,Eastern Victoria,1.0,540.0,"SILADJI, Angela",SILADJI,Angela,ON,10,1321,3.4
+Pakenham,65,Eastern Victoria,1.0,541.0,"SMITH, Elissa",SMITH,Elissa,LGC,11,2010,5.17
+Pascoe Vale,66,Northern Metropolitan,3.0,542.0,"HAH, Madaleine",HAH,Madaleine,VS,1,2228,5.53
+Pascoe Vale,66,Northern Metropolitan,3.0,543.0,"WRIGHT, Tom",WRIGHT,Tom,LIB,2,8461,21.01
+Pascoe Vale,66,Northern Metropolitan,3.0,544.0,"CIMBARO, Richard",CIMBARO,Richard,FFV,3,1080,2.68
+Pascoe Vale,66,Northern Metropolitan,3.0,545.0,"ADAMS, Elizabeth",ADAMS,Elizabeth,AJP,4,889,2.21
+Pascoe Vale,66,Northern Metropolitan,3.0,546.0,"GLOVER, Margee",GLOVER,Margee,RP,5,1281,3.18
+Pascoe Vale,66,Northern Metropolitan,3.0,547.0,"BOLTON, Sue",BOLTON,Sue,IND,6,1689,4.19
+Pascoe Vale,66,Northern Metropolitan,3.0,548.0,"CIANFLONE, Anthony",CIANFLONE,Anthony,ALP,7,15611,38.76
+Pascoe Vale,66,Northern Metropolitan,3.0,549.0,"PANOPOULOS, Angelica",PANOPOULOS,Angelica,GRN,8,9034,22.43
+Point Cook,67,Western Metropolitan,7.0,550.0,"CRONKWRIGHT, Carolyn",CRONKWRIGHT,Carolyn,FFV,1,1496,3.83
+Point Cook,67,Western Metropolitan,7.0,551.0,"BEECH, Terri",BEECH,Terri,AJP,2,804,2.06
+Point Cook,67,Western Metropolitan,7.0,552.0,"KHAN, Shamsher",KHAN,Shamsher,GRN,3,2657,6.8
+Point Cook,67,Western Metropolitan,7.0,553.0,"ZHAO, Larry",ZHAO,Larry,IND,4,814,2.08
+Point Cook,67,Western Metropolitan,7.0,554.0,"NEWHOUSE, Angela",NEWHOUSE,Angela,LIB,5,9651,24.68
+Point Cook,67,Western Metropolitan,7.0,555.0,"McAULAY, Alex",McAULAY,Alex,VS,6,1399,3.58
+Point Cook,67,Western Metropolitan,7.0,556.0,"GATTI, Lisa Jane",GATTI,Lisa Jane,TMP,7,245,0.63
+Point Cook,67,Western Metropolitan,7.0,557.0,"LAW, Emma",LAW,Emma,HAP,8,383,0.98
+Point Cook,67,Western Metropolitan,7.0,558.0,"CHAUDHARY, Rakhi P.",CHAUDHARY,Rakhi P.,ND,9,358,0.92
+Point Cook,67,Western Metropolitan,7.0,559.0,"HILAKARI, Mathew",HILAKARI,Mathew,ALP,10,15657,40.04
+Point Cook,67,Western Metropolitan,7.0,560.0,"ABDULOVSKI, Adrian",ABDULOVSKI,Adrian,FPV,11,571,1.46
+Point Cook,67,Western Metropolitan,7.0,561.0,"SAWANT, Shwetali",SAWANT,Shwetali,IND,12,469,1.2
+Point Cook,67,Western Metropolitan,7.0,562.0,"GRIMLEY, Scott",GRIMLEY,Scott,DHJ,13,514,1.31
+Point Cook,67,Western Metropolitan,7.0,563.0,"HAMMAN, Daniel",HAMMAN,Daniel,DLP,14,1369,3.5
+Point Cook,67,Western Metropolitan,7.0,564.0,"GARRA, Joe",GARRA,Joe,IND,15,2712,6.94
+Polwarth,68,Western Victoria,8.0,565.0,"McALLISTER, Hilary",McALLISTER,Hilary,GRN,1,7661,16.65
+Polwarth,68,Western Victoria,8.0,566.0,"BORSOS, Denes C.",BORSOS,Denes C.,IND,2,2017,4.38
+Polwarth,68,Western Victoria,8.0,567.0,"HUNTER, Hollie",HUNTER,Hollie,FFV,3,1166,2.53
+Polwarth,68,Western Victoria,8.0,568.0,"HUSSEIN, Hutch",HUSSEIN,Hutch,ALP,4,13484,29.31
+Polwarth,68,Western Victoria,8.0,569.0,"ATCHISON, Elisha",ATCHISON,Elisha,AJP,5,1101,2.39
+Polwarth,68,Western Victoria,8.0,570.0,"REMENYI, Joseph Vincent",REMENYI,Joseph Vincent,DHJ,6,1033,2.25
+Polwarth,68,Western Victoria,8.0,571.0,"RIORDAN, Richard",RIORDAN,Richard,LIB,7,19540,42.48
+Prahran,69,Southern Metropolitan,6.0,572.0,"LE HURAY, Alice",LE HURAY,Alice,AJP,1,1263,3.22
+Prahran,69,Southern Metropolitan,6.0,573.0,"LUCAS, Matthew",LUCAS,Matthew,LIB,2,12198,31.08
+Prahran,69,Southern Metropolitan,6.0,574.0,"CHAU, Wesa",CHAU,Wesa,ALP,3,10421,26.56
+Prahran,69,Southern Metropolitan,6.0,575.0,"MENADUE, Alan",MENADUE,Alan,IND,4,449,1.14
+Prahran,69,Southern Metropolitan,6.0,576.0,"HIBBINS, Sam",HIBBINS,Sam,GRN,5,14286,36.4
+Prahran,69,Southern Metropolitan,6.0,577.0,"EMILSEN, Ronald",EMILSEN,Ronald,FFV,6,626,1.6
+Preston,70,Northern Metropolitan,3.0,578.0,"GRECO, Gaetano",GRECO,Gaetano,IND,1,5473,13.73
+Preston,70,Northern Metropolitan,3.0,579.0,"SANAGHAN, Brian",SANAGHAN,Brian,IND,2,270,0.68
+Preston,70,Northern Metropolitan,3.0,580.0,"SOLIMAN, Raouf",SOLIMAN,Raouf,FFV,3,885,2.22
+Preston,70,Northern Metropolitan,3.0,581.0,"PATERSON, Patchouli",PATERSON,Patchouli,GRN,4,6027,15.12
+Preston,70,Northern Metropolitan,3.0,582.0,"LAHIFF-JENKINS, Carmen",LAHIFF-JENKINS,Carmen,RP,5,890,2.23
+Preston,70,Northern Metropolitan,3.0,583.0,"UNICOMB, Rachel",UNICOMB,Rachel,AJP,6,822,2.06
+Preston,70,Northern Metropolitan,3.0,584.0,"MATIAS, Angelique",MATIAS,Angelique,FPV,7,1150,2.89
+Preston,70,Northern Metropolitan,3.0,585.0,"PALIOURAS, Amanda",PALIOURAS,Amanda,LIB,8,6883,17.27
+Preston,70,Northern Metropolitan,3.0,586.0,"LAMBERT, Nathan",LAMBERT,Nathan,ALP,9,14999,37.63
+Preston,70,Northern Metropolitan,3.0,587.0,"PRICE, Steph",PRICE,Steph,VS,10,2458,6.17
+Richmond,71,Northern Metropolitan,3.0,588.0,"VIGGERS, Lis",VIGGERS,Lis,AJP,1,934,2.35
+Richmond,71,Northern Metropolitan,3.0,589.0,"WARD, Roz",WARD,Roz,VS,2,1828,4.6
+Richmond,71,Northern Metropolitan,3.0,590.0,"HO, Meca",HO,Meca,IND,3,417,1.05
+Richmond,71,Northern Metropolitan,3.0,591.0,"COWEN, Jeremy",COWEN,Jeremy,RP,4,1830,4.61
+Richmond,71,Northern Metropolitan,3.0,592.0,"DE VIETRI, Gabrielle",DE VIETRI,Gabrielle,GRN,5,13771,34.66
+Richmond,71,Northern Metropolitan,3.0,593.0,"MOON, Lucas",MOON,Lucas,LIB,6,7456,18.77
+Richmond,71,Northern Metropolitan,3.0,594.0,"FREIVERTS, Markus",FREIVERTS,Markus,FFV,7,458,1.15
+Richmond,71,Northern Metropolitan,3.0,595.0,"O'DWYER, Lauren",O'DWYER,Lauren,ALP,8,13037,32.81
+Ringwood,72,North Eastern Metropolitan,2.0,596.0,"RYAN, Gary",RYAN,Gary,DLP,1,1684,3.68
+Ringwood,72,North Eastern Metropolitan,2.0,597.0,"FOWLES, Will",FOWLES,Will,ALP,2,17851,39.02
+Ringwood,72,North Eastern Metropolitan,2.0,598.0,"SIEMER, Robyn M.",SIEMER,Robyn M.,FPV,3,1038,2.27
+Ringwood,72,North Eastern Metropolitan,2.0,599.0,"WATSON, Cynthia",WATSON,Cynthia,LIB,4,15467,33.81
+Ringwood,72,North Eastern Metropolitan,2.0,600.0,"STEEN, Reuben",STEEN,Reuben,GRN,5,7105,15.53
+Ringwood,72,North Eastern Metropolitan,2.0,601.0,"GRIFFITH-JONES, Richard",GRIFFITH-JONES,Richard,FFV,6,1396,3.05
+Ringwood,72,North Eastern Metropolitan,2.0,602.0,"ROWE, Nick",ROWE,Nick,AJP,7,1212,2.65
+Ripon,73,Western Victoria,8.0,603.0,"SMITH, Luke",SMITH,Luke,SFF,1,3606,8.52
+Ripon,73,Western Victoria,8.0,604.0,"RIGG, Wayne",RIGG,Wayne,IND,2,872,2.06
+Ripon,73,Western Victoria,8.0,605.0,"JAMES, Earl",JAMES,Earl,GRN,3,2524,5.96
+Ripon,73,Western Victoria,8.0,606.0,"HAYLETT, Martha",HAYLETT,Martha,ALP,4,16321,38.55
+Ripon,73,Western Victoria,8.0,607.0,"WILSON, Wren Louise",WILSON,Wren Louise,DHJ,5,940,2.22
+Ripon,73,Western Victoria,8.0,608.0,"STALEY, Louise",STALEY,Louise,LIB,6,15305,36.15
+Ripon,73,Western Victoria,8.0,609.0,"SITTERS, Holly",SITTERS,Holly,AJP,7,1145,2.7
+Ripon,73,Western Victoria,8.0,610.0,"GEORGE, Craig",GEORGE,Craig,FFV,8,1316,3.11
+Ripon,73,Western Victoria,8.0,611.0,"QUINCE, Bernard",QUINCE,Bernard,IND,9,312,0.74
+Rowville,74,South Eastern Metropolitan,5.0,612.0,"WELLS, Kim",WELLS,Kim,LIB,1,17600,40.58
+Rowville,74,South Eastern Metropolitan,5.0,613.0,"SEYMOUR, Nicole",SEYMOUR,Nicole,IND,2,5231,12.06
+Rowville,74,South Eastern Metropolitan,5.0,614.0,"DI CAMILLO, Angelica",DI CAMILLO,Angelica,GRN,3,3055,7.04
+Rowville,74,South Eastern Metropolitan,5.0,615.0,"VERMA, Mannie Kaur",VERMA,Mannie Kaur,ALP,4,14283,32.93
+Rowville,74,South Eastern Metropolitan,5.0,616.0,"SMULDERS, Peterine Elizabeth",SMULDERS,Peterine Elizabeth,FPV,5,908,2.09
+Rowville,74,South Eastern Metropolitan,5.0,617.0,"BURGESS, Stephen",BURGESS,Stephen,FFV,6,1433,3.3
+Rowville,74,South Eastern Metropolitan,5.0,618.0,"GLENANE, Diane",GLENANE,Diane,AJP,7,859,1.98
+Sandringham,75,Southern Metropolitan,6.0,619.0,"REGAN, Alysia",REGAN,Alysia,GRN,1,5949,14.68
+Sandringham,75,Southern Metropolitan,6.0,620.0,"ZMEGAC, Karla",ZMEGAC,Karla,DLP,2,749,1.85
+Sandringham,75,Southern Metropolitan,6.0,621.0,"PRESCOTT, Bettina",PRESCOTT,Bettina,ALP,3,10426,25.74
+Sandringham,75,Southern Metropolitan,6.0,622.0,"EPPINGSTALL, Barbara",EPPINGSTALL,Barbara,AJP,4,976,2.41
+Sandringham,75,Southern Metropolitan,6.0,623.0,"ROWSWELL, Brad",ROWSWELL,Brad,LIB,5,18783,46.36
+Sandringham,75,Southern Metropolitan,6.0,624.0,"CHALMERS, Jill",CHALMERS,Jill,FFV,6,714,1.76
+Sandringham,75,Southern Metropolitan,6.0,625.0,"CAMPBELL, Rodney",CAMPBELL,Rodney,IND,7,115,0.28
+Sandringham,75,Southern Metropolitan,6.0,626.0,"MARTIN, Clarke",MARTIN,Clarke,IND,8,2800,6.91
+Shepparton,76,Northern Victoria,4.0,627.0,"O'KEEFFE, Kim",O'KEEFFE,Kim,NAT,1,13242,32.06
+Shepparton,76,Northern Victoria,4.0,628.0,"CHRISTOE, Ian",CHRISTOE,Ian,GRN,2,1056,2.56
+Shepparton,76,Northern Victoria,4.0,629.0,"TAYLOR, Katherine",TAYLOR,Katherine,AJP,3,515,1.25
+Shepparton,76,Northern Victoria,4.0,630.0,"McGRATH, Sueie",McGRATH,Sueie,DLP,4,882,2.14
+Shepparton,76,Northern Victoria,4.0,631.0,"TEASDALE, Diane M.",TEASDALE,Diane M.,FPV,5,807,1.95
+Shepparton,76,Northern Victoria,4.0,632.0,"COWAN, Liam",COWAN,Liam,ALP,6,3285,7.95
+Shepparton,76,Northern Victoria,4.0,633.0,"HAMMER, Cheryl",HAMMER,Cheryl,LIB,7,8491,20.56
+Shepparton,76,Northern Victoria,4.0,634.0,"SHEED, Suzanna",SHEED,Suzanna,IND,8,12146,29.41
+Shepparton,76,Northern Victoria,4.0,635.0,"WHITE, Alison",WHITE,Alison,FFV,9,877,2.12
+South Barwon,77,Western Victoria,8.0,636.0,"KATOS, Andrew",KATOS,Andrew,LIB,1,14516,32.13
+South Barwon,77,Western Victoria,8.0,637.0,"DEAN, Jeynelle Marie",DEAN,Jeynelle Marie,DHJ,2,891,1.97
+South Barwon,77,Western Victoria,8.0,638.0,"DAWSON-SCOTT, Genevieve Frances",DAWSON-SCOTT,Genevieve Frances,GRN,3,5719,12.66
+South Barwon,77,Western Victoria,8.0,639.0,"BATES, Leone",BATES,Leone,DLP,4,1099,2.43
+South Barwon,77,Western Victoria,8.0,640.0,"BARRON, Alan",BARRON,Alan,FFV,5,1338,2.96
+South Barwon,77,Western Victoria,8.0,641.0,"ADAMS, Naomi",ADAMS,Naomi,AJP,6,1076,2.38
+South Barwon,77,Western Victoria,8.0,642.0,"TOMLINSON, Simone",TOMLINSON,Simone,FPV,7,576,1.27
+South Barwon,77,Western Victoria,8.0,643.0,"CHEESEMAN, Darren",CHEESEMAN,Darren,ALP,8,19969,44.19
+South-West Coast,78,Western Victoria,8.0,644.0,"PURCELL, James",PURCELL,James,IND,1,2737,6.02
+South-West Coast,78,Western Victoria,8.0,645.0,"DOUKAS, Jim",DOUKAS,Jim,IND,2,1865,4.1
+South-West Coast,78,Western Victoria,8.0,646.0,"McCLUSKEY, Michael",McCLUSKEY,Michael,IND,3,616,1.35
+South-West Coast,78,Western Victoria,8.0,647.0,"GRIMLEY, James Brash",GRIMLEY,James Brash,DHJ,4,488,1.07
+South-West Coast,78,Western Victoria,8.0,648.0,"ALTMANN, Carol",ALTMANN,Carol,IND,5,6564,14.43
+South-West Coast,78,Western Victoria,8.0,649.0,"BRUNT, Chris",BRUNT,Chris,FFV,6,924,2.03
+South-West Coast,78,Western Victoria,8.0,650.0,"ANDERSON, Jacinta",ANDERSON,Jacinta,AJP,7,688,1.51
+South-West Coast,78,Western Victoria,8.0,651.0,"GASTON, Kylie",GASTON,Kylie,ALP,8,9640,21.19
+South-West Coast,78,Western Victoria,8.0,652.0,"CAMPBELL, Thomas",CAMPBELL,Thomas,GRN,9,2457,5.4
+South-West Coast,78,Western Victoria,8.0,653.0,"BRITNELL, Roma",BRITNELL,Roma,LIB,10,19517,42.9
+St Albans,79,Western Metropolitan,7.0,654.0,"KERR, Maria",KERR,Maria,LIB,1,9066,25.38
+St Albans,79,Western Metropolitan,7.0,655.0,"HOBART, Mark",HOBART,Mark,DLP,2,2735,7.66
+St Albans,79,Western Metropolitan,7.0,656.0,"RUDD, Van Thanh",RUDD,Van Thanh,VS,3,2367,6.63
+St Albans,79,Western Metropolitan,7.0,657.0,"WALTON, Russell",WALTON,Russell,FFV,4,1038,2.91
+St Albans,79,Western Metropolitan,7.0,658.0,"SULEYMAN, Natalie",SULEYMAN,Natalie,ALP,5,15094,42.26
+St Albans,79,Western Metropolitan,7.0,659.0,"MANNAN, Zaffer",MANNAN,Zaffer,ND,6,192,0.54
+St Albans,79,Western Metropolitan,7.0,660.0,"BENTLEY, Joel",BENTLEY,Joel,GRN,7,2416,6.76
+St Albans,79,Western Metropolitan,7.0,661.0,"TACHOS, Virginia",TACHOS,Virginia,IND,8,1152,3.23
+St Albans,79,Western Metropolitan,7.0,662.0,"CULLEN, Kim J.",CULLEN,Kim J.,FPV,9,874,2.45
+St Albans,79,Western Metropolitan,7.0,663.0,"CARACASSIS, Jason",CARACASSIS,Jason,AJP,10,782,2.19
+Sunbury,80,Western Metropolitan,7.0,664.0,"MOHR, Rohanna",MOHR,Rohanna,AJP,1,1537,4.08
+Sunbury,80,Western Metropolitan,7.0,665.0,"PACE, Charles",PACE,Charles,FFV,2,1445,3.83
+Sunbury,80,Western Metropolitan,7.0,666.0,"COTTOM, Simmone",COTTOM,Simmone,LIB,3,11895,31.55
+Sunbury,80,Western Metropolitan,7.0,667.0,"BAYLISS, Peter",BAYLISS,Peter,DLP,4,1317,3.49
+Sunbury,80,Western Metropolitan,7.0,668.0,"BULL, Josh",BULL,Josh,ALP,5,16253,43.1
+Sunbury,80,Western Metropolitan,7.0,669.0,"GALLAGHER, James",GALLAGHER,James,VS,6,1164,3.09
+Sunbury,80,Western Metropolitan,7.0,670.0,"BURKE, Richard",BURKE,Richard,GRN,7,2459,6.52
+Sunbury,80,Western Metropolitan,7.0,671.0,"PATEL, Rushi Vijaykumar",PATEL,Rushi Vijaykumar,ND,8,204,0.54
+Sunbury,80,Western Metropolitan,7.0,672.0,"PINCINI, Laurence",PINCINI,Laurence,IND,9,1432,3.8
+Sydenham,81,Western Metropolitan,7.0,673.0,"TAWADROS, Marvet",TAWADROS,Marvet,FFV,1,2818,6.45
+Sydenham,81,Western Metropolitan,7.0,674.0,"CHLIHI, Hajar",CHLIHI,Hajar,VS,2,1977,4.53
+Sydenham,81,Western Metropolitan,7.0,675.0,"HUTCHINS, Natalie",HUTCHINS,Natalie,ALP,3,18978,43.46
+Sydenham,81,Western Metropolitan,7.0,676.0,"CULLIA, Joseph",CULLIA,Joseph,LIB,4,12661,29.0
+Sydenham,81,Western Metropolitan,7.0,677.0,"LEUNG, Karina",LEUNG,Karina,AJP,5,1095,2.51
+Sydenham,81,Western Metropolitan,7.0,678.0,"RALPH, Maggie",RALPH,Maggie,GRN,6,2547,5.83
+Sydenham,81,Western Metropolitan,7.0,679.0,"RAMOS, Alejandro",RAMOS,Alejandro,FPV,7,1672,3.83
+Sydenham,81,Western Metropolitan,7.0,680.0,"RADOVANI, Jakueline",RADOVANI,Jakueline,DLP,8,1916,4.39
+Tarneit,82,Western Metropolitan,7.0,681.0,"PATEL, Jaydeep",PATEL,Jaydeep,ND,1,1176,3.02
+Tarneit,82,Western Metropolitan,7.0,682.0,"MOINUDDIN, Aijaz",MOINUDDIN,Aijaz,IND,2,534,1.37
+Tarneit,82,Western Metropolitan,7.0,683.0,"URIBE, Claudio",URIBE,Claudio,VS,3,2072,5.32
+Tarneit,82,Western Metropolitan,7.0,684.0,"WIGHT, Dylan",WIGHT,Dylan,ALP,4,18173,46.62
+Tarneit,82,Western Metropolitan,7.0,685.0,"MILLER, Clare",MILLER,Clare,GRN,5,2883,7.4
+Tarneit,82,Western Metropolitan,7.0,686.0,"JEFFREY, Thomas",JEFFREY,Thomas,FFV,6,1977,5.07
+Tarneit,82,Western Metropolitan,7.0,687.0,"MAQSOOD, Erum",MAQSOOD,Erum,FPV,7,882,2.26
+Tarneit,82,Western Metropolitan,7.0,688.0,"SINGH, Preet",SINGH,Preet,LIB,8,10438,26.78
+Tarneit,82,Western Metropolitan,7.0,689.0,"RAHN, Maurita",RAHN,Maurita,AJP,9,843,2.16
+Thomastown,83,Northern Metropolitan,3.0,690.0,"SINGH, Gurdawar",SINGH,Gurdawar,LIB,1,9003,24.02
+Thomastown,83,Northern Metropolitan,3.0,691.0,"McNAMARA, Colleen",McNAMARA,Colleen,FFV,2,2571,6.86
+Thomastown,83,Northern Metropolitan,3.0,692.0,"LEVENS, Evie",LEVENS,Evie,AJP,3,1076,2.87
+Thomastown,83,Northern Metropolitan,3.0,693.0,"HALFPENNY, Bronwyn",HALFPENNY,Bronwyn,ALP,4,19396,51.76
+Thomastown,83,Northern Metropolitan,3.0,694.0,"SINAPI, Matt",SINAPI,Matt,GRN,5,2557,6.82
+Thomastown,83,Northern Metropolitan,3.0,695.0,"CVETKOVA, Kelly",CVETKOVA,Kelly,VS,6,2873,7.67
+Warrandyte,84,North Eastern Metropolitan,2.0,696.0,"OAKLEY, Naomi",OAKLEY,Naomi,ALP,1,14946,33.16
+Warrandyte,84,North Eastern Metropolitan,2.0,697.0,"RAE, Nicola",RAE,Nicola,AJP,2,1020,2.26
+Warrandyte,84,North Eastern Metropolitan,2.0,698.0,"JOSHI, Deepak",JOSHI,Deepak,GRN,3,5283,11.72
+Warrandyte,84,North Eastern Metropolitan,2.0,699.0,"VERNAY, Richard",VERNAY,Richard,FFV,4,1823,4.04
+Warrandyte,84,North Eastern Metropolitan,2.0,700.0,"PILLI, Cynthia",PILLI,Cynthia,IND,5,659,1.46
+Warrandyte,84,North Eastern Metropolitan,2.0,701.0,"SMITH, Ryan",SMITH,Ryan,LIB,6,21344,47.35
+Wendouree,85,Western Victoria,8.0,702.0,"HARKNESS, Ian",HARKNESS,Ian,FFV,1,1616,3.83
+Wendouree,85,Western Victoria,8.0,703.0,"HILLS, Bryn",HILLS,Bryn,AJP,2,1602,3.8
+Wendouree,85,Western Victoria,8.0,704.0,"McINTOSH, Samantha",McINTOSH,Samantha,LIB,3,12548,29.75
+Wendouree,85,Western Victoria,8.0,705.0,"ADDISON, Juliana",ADDISON,Juliana,ALP,4,20059,47.56
+Wendouree,85,Western Victoria,8.0,706.0,"ECKEL, Bren",ECKEL,Bren,IND,5,455,1.08
+Wendouree,85,Western Victoria,8.0,707.0,"COLBERT, Dianne",COLBERT,Dianne,DLP,6,1509,3.58
+Wendouree,85,Western Victoria,8.0,708.0,"BURNS, Ellen",BURNS,Ellen,GRN,7,4386,10.4
+Werribee,86,Western Metropolitan,7.0,709.0,"PALLAS, Tim",PALLAS,Tim,ALP,1,17512,45.36
+Werribee,86,Western Metropolitan,7.0,710.0,"WICKS, Patricia Anne",WICKS,Patricia Anne,DHJ,2,709,1.84
+Werribee,86,Western Metropolitan,7.0,711.0,"BARCATTA, Patrizia",BARCATTA,Patrizia,IND,3,213,0.55
+Werribee,86,Western Metropolitan,7.0,712.0,"BREAKWELL, Kathryn",BREAKWELL,Kathryn,DLP,4,767,1.99
+Werribee,86,Western Metropolitan,7.0,713.0,"KWAN, Heni Cazlynn",KWAN,Heni Cazlynn,IND,5,45,0.12
+Werribee,86,Western Metropolitan,7.0,714.0,"BODDEKE, Jack",BODDEKE,Jack,GRN,6,2613,6.77
+Werribee,86,Western Metropolitan,7.0,715.0,"SHAW, Mia",SHAW,Mia,LIB,7,9779,25.33
+Werribee,86,Western Metropolitan,7.0,716.0,"MUNRO, Sue",MUNRO,Sue,VS,8,1391,3.6
+Werribee,86,Western Metropolitan,7.0,717.0,"TANDON, Prashant",TANDON,Prashant,ND,9,319,0.83
+Werribee,86,Western Metropolitan,7.0,718.0,"SEGRAVE, Josh",SEGRAVE,Josh,AJP,10,730,1.89
+Werribee,86,Western Metropolitan,7.0,719.0,"HOPPER, Paul",HOPPER,Paul,IND,11,2278,5.9
+Werribee,86,Western Metropolitan,7.0,720.0,"EMERSON, Matthew",EMERSON,Matthew,FFV,12,964,2.5
+Werribee,86,Western Metropolitan,7.0,721.0,"HOGAN, Karen",HOGAN,Karen,HAP,13,260,0.67
+Werribee,86,Western Metropolitan,7.0,722.0,"STROTHER, Mark",STROTHER,Mark,FPV,14,663,1.72
+Werribee,86,Western Metropolitan,7.0,723.0,"COLLINS, Trevor Russell",COLLINS,Trevor Russell,TMP,15,360,0.93
+Williamstown,87,Western Metropolitan,7.0,724.0,"FISHER, Rochelle",FISHER,Rochelle,DLP,1,1632,4.19
+Williamstown,87,Western Metropolitan,7.0,725.0,"KELLANDER, Daria",KELLANDER,Daria,LIB,2,10928,28.04
+Williamstown,87,Western Metropolitan,7.0,726.0,"MOSELY, Joshua",MOSELY,Joshua,FFV,3,675,1.73
+Williamstown,87,Western Metropolitan,7.0,727.0,"ANSALONE, Alexander",ANSALONE,Alexander,FPV,4,976,2.5
+Williamstown,87,Western Metropolitan,7.0,728.0,"MACANDILI, Julien Q.",MACANDILI,Julien Q.,VS,5,1528,3.92
+Williamstown,87,Western Metropolitan,7.0,729.0,"HORNE, Melissa",HORNE,Melissa,ALP,6,16173,41.5
+Williamstown,87,Western Metropolitan,7.0,730.0,"RODOREDA, Suzette",RODOREDA,Suzette,GRN,7,6013,15.43
+Williamstown,87,Western Metropolitan,7.0,731.0,"MACKEVICIUS, Patricia",MACKEVICIUS,Patricia,AJP,8,1049,2.69
+Yan Yean,88,Northern Victoria,4.0,732.0,"WOOLDRIDGE, Jack",WOOLDRIDGE,Jack,DLP,1,2028,5.14
+Yan Yean,88,Northern Victoria,4.0,733.0,"HALL, James",HALL,James,FFV,2,1284,3.26
+Yan Yean,88,Northern Victoria,4.0,734.0,"MASON, Samantha",MASON,Samantha,GRN,3,2537,6.44
+Yan Yean,88,Northern Victoria,4.0,735.0,"GRIMLEY, Mandy Anne",GRIMLEY,Mandy Anne,DHJ,4,793,2.01
+Yan Yean,88,Northern Victoria,4.0,736.0,"WELCH, Richard",WELCH,Richard,LIB,5,13361,33.89
+Yan Yean,88,Northern Victoria,4.0,737.0,"KATHAGE, Lauren",KATHAGE,Lauren,ALP,6,16328,41.42
+Yan Yean,88,Northern Victoria,4.0,738.0,"KRSTIC, Alexandar",KRSTIC,Alexandar,SFF,7,1024,2.6
+Yan Yean,88,Northern Victoria,4.0,739.0,"BOUROUTZIS, Con",BOUROUTZIS,Con,FPV,8,1021,2.59
+Yan Yean,88,Northern Victoria,4.0,740.0,"PARRAMORE, Ruth",PARRAMORE,Ruth,AJP,9,1043,2.65
+Narracan,57,,,,"ABELMAN, Michael",,,LDP,1,1328,3.54
+Narracan,57,,,,"WOLFE, Tony",,,IND,2,4144,11.05
+Narracan,57,,,,"WEAVER, Alyssa",,,GRN,3,4161,11.1
+Narracan,57,,,,"CRAM, Austin",,,AJP,4,853,2.27
+Narracan,57,,,,"DE WIT, Sophia Camille",,,DLP,5,2656,7.08
+Narracan,57,,,,"MURPHY, Casey",,,ON,6,2263,6.03
+Narracan,57,,,,"HONEY, Ian",,,IND,7,389,1.04
+Narracan,57,,,,"CLARKE, Brendan",,,FFV,8,1101,2.94
+Narracan,57,,,,"BLACKWELL, Leonie",,,FPV,9,2266,6.04
+Narracan,57,,,,"FARNHAM, Wayne",,,LIB,10,16891,45.04
+Narracan,57,,,,"McCABE, Annemarie",,,IND,11,1451,3.87
