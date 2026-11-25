@@ -1,16 +1,18 @@
 import json
-import requests
 import schedule
 import time
-import xmltodict
 import os
 from azure.storage.blob import ContainerClient
+from contextlib import nullcontext
 from datetime import datetime
 from zipfile import ZipFile
 import src.logResults as logresults
 from src.downloadBlob import getAndReadFile
 from src.feedburner import burnfeeds
 from pathlib import Path
+from src.makeStateAndDivisionResults import eml_to_JSON
+from datetime import datetime
+from src.burnelectorates import burnElectorates
 
 SRC_DIR = Path(__file__).resolve().parent
 DATA_DIR = SRC_DIR / "data"
@@ -18,9 +20,6 @@ TEST_DATA_DIR = DATA_DIR / "test-2022"
 
 print(SRC_DIR)
 print(TEST_DATA_DIR)
-# Credentials URL from the VEC
-
-VEC_TOKEN = os.environ["VEC_RESULTS_SAS"]
 
 # Uses the local data in data/test-2022
 
@@ -52,8 +51,15 @@ if testing:
 
 uploadPath = "2026/11/aus-vic-election/results-data"
 
-def returnFilename(timestamp):
-    return f"{election_id}{filetype}_{timestamp}"
+# Make results directory if it doesn't exist
+
+RESULTS_DIR = SRC_DIR / "results"
+RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+
+# Make electorates directory if it doesn't exist
+
+ELECTORATES_DIR = RESULTS_DIR / "electorates"
+ELECTORATES_DIR.mkdir(parents=True, exist_ok=True)
 
 # Extract timestamp from blob name eg TestState2026mediafileverboselhv2_20260926_100901.xml
 
@@ -66,95 +72,103 @@ def getTimestamp(file_str):
 
     return timestamp_parsed
 
-# Authenticate and download file list
-
-def get_results_files(test):
+def results_source(test):
+    # Local zips do not need the VEC SAS URL.
     if test:
-        files = [f.name for f in TEST_DATA_DIR.glob("*.zip")]
-        # print(files)
-        timestamps = [getTimestamp(fileName) for fileName in files]
-            # print(timestamps)
+        return nullcontext(None)
+    return ContainerClient.from_container_url(os.environ["VEC_RESULTS_SAS"])
 
-        latestTimestamp = max(timestamps)
-        latestTimestampStr = datetime.strftime(latestTimestamp, '%Y%m%d_%H%M%S')
+def list_result_names(container=None):
+    if container is None:
+        names = [path.name for path in TEST_DATA_DIR.glob("*.zip")]
+        return [name for name in names if filetype in name]
 
-        print("latest timestamp is", latestTimestampStr)
+    prefix = f"{election_id}{filetype}"
+    return [blob.name for blob in container.list_blobs() if prefix in blob.name]
+
+def read_results_xml(filename, container=None):
+    stem = filename.removesuffix(".zip")
+    
+    if container is None:
+        local_name = Path(stem).name
+        with ZipFile(TEST_DATA_DIR / f"{local_name}.zip") as archive:
+            return archive.read(f"{local_name}.xml")
+
+    return getAndReadFile(container, stem)
+
+def process_latest(names, container=None):
+    
+    if not names:
+        print("No results files found")
+        return
+
+    latest_name = max(names, key=getTimestamp)
+    latest_timestamp = datetime.strftime(getTimestamp(latest_name), "%Y%m%d_%H%M%S")
+    print("latest timestamp from server is ", latest_timestamp)
+
+    # Get the latest timestamp from the local results file
+    recent_path = Path("recentResults.json")
+    already_saved = False
+
+
+    if recent_path.exists() and not ignore_results:
+        recent_results = json.loads(recent_path.read_text())
+        already_saved = latest_timestamp in recent_results
+
+    # We already have these results, so do nothing
+
+    if already_saved:
+
+        print(f"{latest_timestamp} has already been saved")
 
     else:
-        with ContainerClient.from_container_url(VEC_TOKEN) as container:
-            blobs = list(container.list_blobs())
-            filtered_blobs = [blob.name for blob in blobs if f"{election_id}{filetype}" in blob.name]
-            # print(filtered_blobs)
 
-            timestamps = [getTimestamp(fileName) for fileName in filtered_blobs]
-            # print(timestamps)
+        if recent_path.exists() and not ignore_results:
+            print(f"{latest_timestamp} hasn't been saved, saving now")
+        else:
+            print(f"Results file not found or ignored, saving {latest_timestamp} as first entry")
 
-            latestTimestamp = max(timestamps)
-            latestTimestampStr = datetime.strftime(latestTimestamp, '%Y%m%d_%H%M%S')
+        print("Getting", latest_name)
+        content = read_results_xml(latest_name, container)
+        print("Parsing results...")
 
-            print("latest timestamp is", latestTimestampStr)
+        # eml_to_JSON(eml_file=VEC_2022_XML_FILE_DECLARED,
+		# 	 local=True,
+		# 	 timestamp='20260926_100901', 
+		# 	 uploadPath="2026/11/aus-vic-election/results-data",
+		# 	 upload=True)	
 
-            if os.path.exists('recentResults.json') and not ignore_results:
+        eml_to_JSON(content, local=False, timestamp=latest_timestamp, uploadPath=uploadPath, upload=upload)
 
-                # Get recent timestamps of results
+        logresults.saveRecentResults(
+            timestamp=latest_timestamp,
+            uploadPath=uploadPath,
+            upload=upload,
+        )
 
-                with open('recentResults.json','r') as recentResultsFile:
-                    recentResults = json.load(recentResultsFile)
-                
-                # print(recentResults)
+        burnfeeds(uploadPath, latest_timestamp, upload)
+        burnElectorates(uploadPath, uploadElectorates=True)
 
-                # Check if we have it or not
-
-                if latestTimestampStr not in recentResults:
-                    print(f"{latestTimestampStr} hasn't been saved, saving now")
-                    
-                    # Get latest file
-
-                    latestFilename = returnFilename(latestTimestampStr)
-                    print("Getting", f"{latestFilename}.zip")
-                    content = getAndReadFile(container, latestFilename)
-
-                    # Parse results functions here
-
-                    print("Parsing results...")
-                else:
-                    print(f"{latestTimestampStr} has already been saved")
-                    
-            else:
-                print(f"Results file not found or ignored, saving {latestTimestampStr} as first entry")
-                latestFilename = returnFilename(latestTimestampStr)
-                print("Getting", f"{latestFilename}.zip")
-
-                content = getAndReadFile(container, latestFilename)
-                
-                # Parse results functions here
-                print("Parsing results...")
-                # results = xmltodict.parse(content)
-            
-                logresults.saveRecentResults(timestamp=latestTimestampStr, 
-                                    uploadPath=uploadPath,
-                                    upload=upload)
-
-            # Outputs a json version for testing
-            # with open("demo-results.json", "w") as f:
-            #     json.dump(filtered_blobs, f, indent=2, default=lambda o: dict(o) if hasattr(o, "keys") else str(o))
-
-            # latest = max(blobs, key=lambda blob: blob.last_modified)
-            # print(f"Latest results file is {latest.name} ({latest.last_modified:%Y-%m-%d %H:%M:%S})")
-            # print(f"Latest results file is {blob.name} ({timestamp:%Y-%m-%d %H:%M:%S})")
-            # xml_bytes = read_blob_xml(container, blob.name)
-            burnfeeds(uploadPath, latestTimestampStr)
-
-        # results = xmltodict.parse(xml_bytes)
-        # return results
+def get_results_files(test):
+    with results_source(test) as container:
+        process_latest(list_result_names(container), container)
 
 def parse_results(test):
-
+    startTime = datetime.now()
     # Get a list of the latest files in the VEC's azure storage thing
     print("Parsing VEC results...")
     print("test:", test)
     get_results_files(test)
+    endTime = datetime.now()
+    print(f"Time taken: {endTime - startTime}")
 
 
-if __name__ == "__main__":
-    parse_results(testing)
+# if __name__ == "__main__":
+parse_results(testing)
+
+schedule.every(1).minutes.do(parse_results,testing)
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+    print(datetime.now())

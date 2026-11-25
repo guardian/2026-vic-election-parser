@@ -149,6 +149,7 @@ def getOldTwoCandidates(contest, twocp_2022):
 
 
 def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
+	
 	if local:
 		elect_data = xmltodict.parse(open(eml_file, 'rb'))
 	else:
@@ -187,10 +188,10 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 		swing_json = {}
 		
 		
-		electorates_json['id'] = contest["eml:ContestIdentifier"]["@Id"]
-		electorates_json['district_name'] = contest["eml:ContestIdentifier"]["eml:ContestName"]
+		electorates_json['id'] = contest["PollingDistrictIdentifier"]["@Id"]
+		electorates_json['district_name'] = contest["PollingDistrictIdentifier"]["Name"]
 		electorates_json['name'] = electorates_json['district_name'].split(" District")[0]
-		electorates_json['enrolment'] = contest["Enrolment"]
+		electorates_json['enrolment'] = int(contest["Enrolment"])
 		
 		# Update the state enrolment
 		stateEnrolment += int(electorates_json['enrolment'])
@@ -408,7 +409,7 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 	# 	print(f"saving {timestamp}-swing.json locally")
 	# 	fileOut.write(swingJson)		
 
-	with open('summaryResults.json','w') as fileOut:
+	with open('results/summaryResults.json','w') as fileOut:
 		print("saving summaryResults.json locally")
 		fileOut.write(summaryJson)		
 	
@@ -467,6 +468,6 @@ if __name__ == "__main__":
 	print("Running parser")
 	eml_to_JSON(eml_file=VEC_2022_XML_FILE_DECLARED,
 			 local=True,
-			 timestamp='20260926_100901', 
+			 timestamp='20221215_180017', 
 			 uploadPath="2026/11/aus-vic-election/results-data",
 			 upload=True)	

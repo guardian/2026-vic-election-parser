@@ -178,7 +178,7 @@
             "id": "15818",
             "district_name": "Albert Park District",
             "name": "Albert Park",
-            "enrolment": "48788",
+            "enrolment": 48788,
             "votesCounted": 40506,
             "candidates": [
                 {
@@ -307,7 +307,7 @@
             "id": "15894",
             "district_name": "Ashwood District",
             "name": "Ashwood",
-            "enrolment": "51209",
+            "enrolment": 51209,
             "votesCounted": 46275,
             "candidates": [
                 {
@@ -436,7 +436,7 @@
             "id": "15899",
             "district_name": "Bass District",
             "name": "Bass",
-            "enrolment": "49984",
+            "enrolment": 49984,
             "votesCounted": 44539,
             "candidates": [
                 {
@@ -589,7 +589,7 @@
             "id": "15864",
             "district_name": "Bayswater District",
             "name": "Bayswater",
-            "enrolment": "49707",
+            "enrolment": 49707,
             "votesCounted": 45111,
             "candidates": [
                 {
@@ -730,7 +730,7 @@
             "id": "15867",
             "district_name": "Bellarine District",
             "name": "Bellarine",
-            "enrolment": "55022",
+            "enrolment": 55022,
             "votesCounted": 49309,
             "candidates": [
                 {
@@ -871,7 +871,7 @@
             "id": "15822",
             "district_name": "Benambra District",
             "name": "Benambra",
-            "enrolment": "50045",
+            "enrolment": 50045,
             "votesCounted": 43234,
             "candidates": [
                 {
@@ -1000,7 +1000,7 @@
             "id": "15895",
             "district_name": "Bendigo East District",
             "name": "Bendigo East",
-            "enrolment": "53134",
+            "enrolment": 53134,
             "votesCounted": 47752,
             "candidates": [
                 {
@@ -1117,7 +1117,7 @@
             "id": "15900",
             "district_name": "Bendigo West District",
             "name": "Bendigo West",
-            "enrolment": "47808",
+            "enrolment": 47808,
             "votesCounted": 42649,
             "candidates": [
                 {
@@ -1258,7 +1258,7 @@
             "id": "15884",
             "district_name": "Bentleigh District",
             "name": "Bentleigh",
-            "enrolment": "51415",
+            "enrolment": 51415,
             "votesCounted": 46528,
             "candidates": [
                 {
@@ -1363,7 +1363,7 @@
             "id": "15841",
             "district_name": "Berwick District",
             "name": "Berwick",
-            "enrolment": "51910",
+            "enrolment": 51910,
             "votesCounted": 46164,
             "candidates": [
                 {
@@ -1468,7 +1468,7 @@
             "id": "15843",
             "district_name": "Box Hill District",
             "name": "Box Hill",
-            "enrolment": "50799",
+            "enrolment": 50799,
             "votesCounted": 45992,
             "candidates": [
                 {
@@ -1609,7 +1609,7 @@
             "id": "15824",
             "district_name": "Brighton District",
             "name": "Brighton",
-            "enrolment": "48260",
+            "enrolment": 48260,
             "votesCounted": 42982,
             "candidates": [
                 {
@@ -1750,7 +1750,7 @@
             "id": "15814",
             "district_name": "Broadmeadows District",
             "name": "Broadmeadows",
-            "enrolment": "48414",
+            "enrolment": 48414,
             "votesCounted": 38978,
             "candidates": [
                 {
@@ -1891,7 +1891,7 @@
             "id": "15889",
             "district_name": "Brunswick District",
             "name": "Brunswick",
-            "enrolment": "52263",
+            "enrolment": 52263,
             "votesCounted": 45178,
             "candidates": [
                 {
@@ -2032,7 +2032,7 @@
             "id": "15815",
             "district_name": "Bulleen District",
             "name": "Bulleen",
-            "enrolment": "50496",
+            "enrolment": 50496,
             "votesCounted": 45285,
             "candidates": [
                 {
@@ -2161,7 +2161,7 @@
             "id": "15834",
             "district_name": "Bundoora District",
             "name": "Bundoora",
-            "enrolment": "47319",
+            "enrolment": 47319,
             "votesCounted": 42545,
             "candidates": [
                 {
@@ -2278,7 +2278,7 @@
             "id": "15820",
             "district_name": "Carrum District",
             "name": "Carrum",
-            "enrolment": "51265",
+            "enrolment": 51265,
             "votesCounted": 45469,
             "candidates": [
                 {
@@ -2395,7 +2395,7 @@
             "id": "15832",
             "district_name": "Caulfield District",
             "name": "Caulfield",
-            "enrolment": "48492",
+            "enrolment": 48492,
             "votesCounted": 42057,
             "candidates": [
                 {
@@ -2512,7 +2512,7 @@
             "id": "15876",
             "district_name": "Clarinda District",
             "name": "Clarinda",
-            "enrolment": "48450",
+            "enrolment": 48450,
             "votesCounted": 43041,
             "candidates": [
                 {
@@ -2641,7 +2641,7 @@
             "id": "15883",
             "district_name": "Cranbourne District",
             "name": "Cranbourne",
-            "enrolment": "51173",
+            "enrolment": 51173,
             "votesCounted": 44056,
             "candidates": [
                 {
@@ -2782,7 +2782,7 @@
             "id": "15893",
             "district_name": "Croydon District",
             "name": "Croydon",
-            "enrolment": "52544",
+            "enrolment": 52544,
             "votesCounted": 47693,
             "candidates": [
                 {
@@ -2887,7 +2887,7 @@
             "id": "15858",
             "district_name": "Dandenong District",
             "name": "Dandenong",
-            "enrolment": "50846",
+            "enrolment": 50846,
             "votesCounted": 42695,
             "candidates": [
                 {
@@ -3004,7 +3004,7 @@
             "id": "15871",
             "district_name": "Eildon District",
             "name": "Eildon",
-            "enrolment": "50090",
+            "enrolment": 50090,
             "votesCounted": 44742,
             "candidates": [
                 {
@@ -3133,7 +3133,7 @@
             "id": "15881",
             "district_name": "Eltham District",
             "name": "Eltham",
-            "enrolment": "48931",
+            "enrolment": 48931,
             "votesCounted": 45351,
             "candidates": [
                 {
@@ -3238,7 +3238,7 @@
             "id": "15905",
             "district_name": "Essendon District",
             "name": "Essendon",
-            "enrolment": "49525",
+            "enrolment": 49525,
             "votesCounted": 43628,
             "candidates": [
                 {
@@ -3367,7 +3367,7 @@
             "id": "15852",
             "district_name": "Eureka District",
             "name": "Eureka",
-            "enrolment": "54487",
+            "enrolment": 54487,
             "votesCounted": 48544,
             "candidates": [
                 {
@@ -3520,7 +3520,7 @@
             "id": "15828",
             "district_name": "Euroa District",
             "name": "Euroa",
-            "enrolment": "50663",
+            "enrolment": 50663,
             "votesCounted": 44673,
             "candidates": [
                 {
@@ -3637,7 +3637,7 @@
             "id": "15837",
             "district_name": "Evelyn District",
             "name": "Evelyn",
-            "enrolment": "50210",
+            "enrolment": 50210,
             "votesCounted": 45919,
             "candidates": [
                 {
@@ -3754,7 +3754,7 @@
             "id": "15904",
             "district_name": "Footscray District",
             "name": "Footscray",
-            "enrolment": "48860",
+            "enrolment": 48860,
             "votesCounted": 41994,
             "candidates": [
                 {
@@ -3871,7 +3871,7 @@
             "id": "15819",
             "district_name": "Frankston District",
             "name": "Frankston",
-            "enrolment": "49160",
+            "enrolment": 49160,
             "votesCounted": 42264,
             "candidates": [
                 {
@@ -4012,7 +4012,7 @@
             "id": "15845",
             "district_name": "Geelong District",
             "name": "Geelong",
-            "enrolment": "52376",
+            "enrolment": 52376,
             "votesCounted": 46680,
             "candidates": [
                 {
@@ -4129,7 +4129,7 @@
             "id": "15851",
             "district_name": "Gippsland East District",
             "name": "Gippsland East",
-            "enrolment": "49698",
+            "enrolment": 49698,
             "votesCounted": 44204,
             "candidates": [
                 {
@@ -4246,7 +4246,7 @@
             "id": "15844",
             "district_name": "Gippsland South District",
             "name": "Gippsland South",
-            "enrolment": "49715",
+            "enrolment": 49715,
             "votesCounted": 44717,
             "candidates": [
                 {
@@ -4363,7 +4363,7 @@
             "id": "15855",
             "district_name": "Glen Waverley District",
             "name": "Glen Waverley",
-            "enrolment": "50818",
+            "enrolment": 50818,
             "votesCounted": 46196,
             "candidates": [
                 {
@@ -4480,7 +4480,7 @@
             "id": "15868",
             "district_name": "Greenvale District",
             "name": "Greenvale",
-            "enrolment": "49854",
+            "enrolment": 49854,
             "votesCounted": 41638,
             "candidates": [
                 {
@@ -4609,7 +4609,7 @@
             "id": "15879",
             "district_name": "Hastings District",
             "name": "Hastings",
-            "enrolment": "48674",
+            "enrolment": 48674,
             "votesCounted": 43601,
             "candidates": [
                 {
@@ -4738,7 +4738,7 @@
             "id": "15886",
             "district_name": "Hawthorn District",
             "name": "Hawthorn",
-            "enrolment": "50080",
+            "enrolment": 50080,
             "votesCounted": 45488,
             "candidates": [
                 {
@@ -4867,7 +4867,7 @@
             "id": "15891",
             "district_name": "Ivanhoe District",
             "name": "Ivanhoe",
-            "enrolment": "46961",
+            "enrolment": 46961,
             "votesCounted": 42135,
             "candidates": [
                 {
@@ -4972,7 +4972,7 @@
             "id": "15873",
             "district_name": "Kalkallo District",
             "name": "Kalkallo",
-            "enrolment": "52205",
+            "enrolment": 52205,
             "votesCounted": 43474,
             "candidates": [
                 {
@@ -5113,7 +5113,7 @@
             "id": "15811",
             "district_name": "Kew District",
             "name": "Kew",
-            "enrolment": "49918",
+            "enrolment": 49918,
             "votesCounted": 44959,
             "candidates": [
                 {
@@ -5242,7 +5242,7 @@
             "id": "15835",
             "district_name": "Kororoit District",
             "name": "Kororoit",
-            "enrolment": "51060",
+            "enrolment": 51060,
             "votesCounted": 44056,
             "candidates": [
                 {
@@ -5383,7 +5383,7 @@
             "id": "15850",
             "district_name": "Lara District",
             "name": "Lara",
-            "enrolment": "48920",
+            "enrolment": 48920,
             "votesCounted": 42189,
             "candidates": [
                 {
@@ -5512,7 +5512,7 @@
             "id": "15816",
             "district_name": "Laverton District",
             "name": "Laverton",
-            "enrolment": "48545",
+            "enrolment": 48545,
             "votesCounted": 40281,
             "candidates": [
                 {
@@ -5665,7 +5665,7 @@
             "id": "15849",
             "district_name": "Lowan District",
             "name": "Lowan",
-            "enrolment": "51182",
+            "enrolment": 51182,
             "votesCounted": 45909,
             "candidates": [
                 {
@@ -5782,7 +5782,7 @@
             "id": "15857",
             "district_name": "Macedon District",
             "name": "Macedon",
-            "enrolment": "48019",
+            "enrolment": 48019,
             "votesCounted": 43563,
             "candidates": [
                 {
@@ -5911,7 +5911,7 @@
             "id": "15897",
             "district_name": "Malvern District",
             "name": "Malvern",
-            "enrolment": "46863",
+            "enrolment": 46863,
             "votesCounted": 41937,
             "candidates": [
                 {
@@ -6016,7 +6016,7 @@
             "id": "15853",
             "district_name": "Melbourne District",
             "name": "Melbourne",
-            "enrolment": "54533",
+            "enrolment": 54533,
             "votesCounted": 44004,
             "candidates": [
                 {
@@ -6157,7 +6157,7 @@
             "id": "15817",
             "district_name": "Melton District",
             "name": "Melton",
-            "enrolment": "50151",
+            "enrolment": 50151,
             "votesCounted": 42335,
             "candidates": [
                 {
@@ -6358,7 +6358,7 @@
             "id": "15885",
             "district_name": "Mildura District",
             "name": "Mildura",
-            "enrolment": "47941",
+            "enrolment": 47941,
             "votesCounted": 41236,
             "candidates": [
                 {
@@ -6523,7 +6523,7 @@
             "id": "15856",
             "district_name": "Mill Park District",
             "name": "Mill Park",
-            "enrolment": "45937",
+            "enrolment": 45937,
             "votesCounted": 40308,
             "candidates": [
                 {
@@ -6628,7 +6628,7 @@
             "id": "15846",
             "district_name": "Monbulk District",
             "name": "Monbulk",
-            "enrolment": "48547",
+            "enrolment": 48547,
             "votesCounted": 43860,
             "candidates": [
                 {
@@ -6757,7 +6757,7 @@
             "id": "15903",
             "district_name": "Mordialloc District",
             "name": "Mordialloc",
-            "enrolment": "50643",
+            "enrolment": 50643,
             "votesCounted": 46094,
             "candidates": [
                 {
@@ -6886,7 +6886,7 @@
             "id": "15896",
             "district_name": "Mornington District",
             "name": "Mornington",
-            "enrolment": "48048",
+            "enrolment": 48048,
             "votesCounted": 43885,
             "candidates": [
                 {
@@ -7015,7 +7015,7 @@
             "id": "15848",
             "district_name": "Morwell District",
             "name": "Morwell",
-            "enrolment": "53782",
+            "enrolment": 53782,
             "votesCounted": 46787,
             "candidates": [
                 {
@@ -7192,7 +7192,7 @@
             "id": "15888",
             "district_name": "Mulgrave District",
             "name": "Mulgrave",
-            "enrolment": "47029",
+            "enrolment": 47029,
             "votesCounted": 41574,
             "candidates": [
                 {
@@ -7393,7 +7393,7 @@
             "id": "15854",
             "district_name": "Murray Plains District",
             "name": "Murray Plains",
-            "enrolment": "48622",
+            "enrolment": 48622,
             "votesCounted": 42826,
             "candidates": [
                 {
@@ -7510,7 +7510,7 @@
             "id": "15860",
             "district_name": "Narracan District",
             "name": "Narracan",
-            "enrolment": "50506",
+            "enrolment": 50506,
             "votesCounted": 0,
             "candidates": [
                 {
@@ -7628,7 +7628,7 @@
             "id": "15812",
             "district_name": "Narre Warren North District",
             "name": "Narre Warren North",
-            "enrolment": "51900",
+            "enrolment": 51900,
             "votesCounted": 44972,
             "candidates": [
                 {
@@ -7781,7 +7781,7 @@
             "id": "15825",
             "district_name": "Narre Warren South District",
             "name": "Narre Warren South",
-            "enrolment": "53430",
+            "enrolment": 53430,
             "votesCounted": 46208,
             "candidates": [
                 {
@@ -7910,7 +7910,7 @@
             "id": "15902",
             "district_name": "Nepean District",
             "name": "Nepean",
-            "enrolment": "48944",
+            "enrolment": 48944,
             "votesCounted": 43519,
             "candidates": [
                 {
@@ -8075,7 +8075,7 @@
             "id": "15880",
             "district_name": "Niddrie District",
             "name": "Niddrie",
-            "enrolment": "50034",
+            "enrolment": 50034,
             "votesCounted": 45005,
             "candidates": [
                 {
@@ -8216,7 +8216,7 @@
             "id": "15866",
             "district_name": "Northcote District",
             "name": "Northcote",
-            "enrolment": "50369",
+            "enrolment": 50369,
             "votesCounted": 45087,
             "candidates": [
                 {
@@ -8381,7 +8381,7 @@
             "id": "15839",
             "district_name": "Oakleigh District",
             "name": "Oakleigh",
-            "enrolment": "51934",
+            "enrolment": 51934,
             "votesCounted": 45910,
             "candidates": [
                 {
@@ -8510,7 +8510,7 @@
             "id": "15826",
             "district_name": "Ovens Valley District",
             "name": "Ovens Valley",
-            "enrolment": "48125",
+            "enrolment": 48125,
             "votesCounted": 42491,
             "candidates": [
                 {
@@ -8627,7 +8627,7 @@
             "id": "15833",
             "district_name": "Pakenham District",
             "name": "Pakenham",
-            "enrolment": "48014",
+            "enrolment": 48014,
             "votesCounted": 41956,
             "candidates": [
                 {
@@ -8792,7 +8792,7 @@
             "id": "15872",
             "district_name": "Pascoe Vale District",
             "name": "Pascoe Vale",
-            "enrolment": "48584",
+            "enrolment": 48584,
             "votesCounted": 42522,
             "candidates": [
                 {
@@ -8921,7 +8921,7 @@
             "id": "15842",
             "district_name": "Point Cook District",
             "name": "Point Cook",
-            "enrolment": "49788",
+            "enrolment": 49788,
             "votesCounted": 43547,
             "candidates": [
                 {
@@ -9134,7 +9134,7 @@
             "id": "15863",
             "district_name": "Polwarth District",
             "name": "Polwarth",
-            "enrolment": "53064",
+            "enrolment": 53064,
             "votesCounted": 47951,
             "candidates": [
                 {
@@ -9251,7 +9251,7 @@
             "id": "15829",
             "district_name": "Prahran District",
             "name": "Prahran",
-            "enrolment": "48933",
+            "enrolment": 48933,
             "votesCounted": 40466,
             "candidates": [
                 {
@@ -9356,7 +9356,7 @@
             "id": "15906",
             "district_name": "Preston District",
             "name": "Preston",
-            "enrolment": "50362",
+            "enrolment": 50362,
             "votesCounted": 43249,
             "candidates": [
                 {
@@ -9509,7 +9509,7 @@
             "id": "15827",
             "district_name": "Richmond District",
             "name": "Richmond",
-            "enrolment": "48305",
+            "enrolment": 48305,
             "votesCounted": 41112,
             "candidates": [
                 {
@@ -9638,7 +9638,7 @@
             "id": "15870",
             "district_name": "Ringwood District",
             "name": "Ringwood",
-            "enrolment": "52040",
+            "enrolment": 52040,
             "votesCounted": 47429,
             "candidates": [
                 {
@@ -9755,7 +9755,7 @@
             "id": "15869",
             "district_name": "Ripon District",
             "name": "Ripon",
-            "enrolment": "50813",
+            "enrolment": 50813,
             "votesCounted": 45452,
             "candidates": [
                 {
@@ -9896,7 +9896,7 @@
             "id": "15865",
             "district_name": "Rowville District",
             "name": "Rowville",
-            "enrolment": "49738",
+            "enrolment": 49738,
             "votesCounted": 45439,
             "candidates": [
                 {
@@ -10013,7 +10013,7 @@
             "id": "15875",
             "district_name": "Sandringham District",
             "name": "Sandringham",
-            "enrolment": "46308",
+            "enrolment": 46308,
             "votesCounted": 42211,
             "candidates": [
                 {
@@ -10142,7 +10142,7 @@
             "id": "15813",
             "district_name": "Shepparton District",
             "name": "Shepparton",
-            "enrolment": "50994",
+            "enrolment": 50994,
             "votesCounted": 43964,
             "candidates": [
                 {
@@ -10283,7 +10283,7 @@
             "id": "15836",
             "district_name": "South Barwon District",
             "name": "South Barwon",
-            "enrolment": "51546",
+            "enrolment": 51546,
             "votesCounted": 46821,
             "candidates": [
                 {
@@ -10412,7 +10412,7 @@
             "id": "15862",
             "district_name": "South-West Coast District",
             "name": "South-West Coast",
-            "enrolment": "53099",
+            "enrolment": 53099,
             "votesCounted": 48219,
             "candidates": [
                 {
@@ -10565,7 +10565,7 @@
             "id": "15882",
             "district_name": "St Albans District",
             "name": "St Albans",
-            "enrolment": "46448",
+            "enrolment": 46448,
             "votesCounted": 39354,
             "candidates": [
                 {
@@ -10718,7 +10718,7 @@
             "id": "15887",
             "district_name": "Sunbury District",
             "name": "Sunbury",
-            "enrolment": "45582",
+            "enrolment": 45582,
             "votesCounted": 40326,
             "candidates": [
                 {
@@ -10859,7 +10859,7 @@
             "id": "15838",
             "district_name": "Sydenham District",
             "name": "Sydenham",
-            "enrolment": "53100",
+            "enrolment": 53100,
             "votesCounted": 47255,
             "candidates": [
                 {
@@ -10988,7 +10988,7 @@
             "id": "15821",
             "district_name": "Tarneit District",
             "name": "Tarneit",
-            "enrolment": "48792",
+            "enrolment": 48792,
             "votesCounted": 41924,
             "candidates": [
                 {
@@ -11129,7 +11129,7 @@
             "id": "15901",
             "district_name": "Thomastown District",
             "name": "Thomastown",
-            "enrolment": "47657",
+            "enrolment": 47657,
             "votesCounted": 40580,
             "candidates": [
                 {
@@ -11234,7 +11234,7 @@
             "id": "15859",
             "district_name": "Warrandyte District",
             "name": "Warrandyte",
-            "enrolment": "50951",
+            "enrolment": 50951,
             "votesCounted": 46657,
             "candidates": [
                 {
@@ -11339,7 +11339,7 @@
             "id": "15831",
             "district_name": "Wendouree District",
             "name": "Wendouree",
-            "enrolment": "50461",
+            "enrolment": 50461,
             "votesCounted": 44571,
             "candidates": [
                 {
@@ -11456,7 +11456,7 @@
             "id": "15861",
             "district_name": "Werribee District",
             "name": "Werribee",
-            "enrolment": "49962",
+            "enrolment": 49962,
             "votesCounted": 42759,
             "candidates": [
                 {
@@ -11669,7 +11669,7 @@
             "id": "15890",
             "district_name": "Williamstown District",
             "name": "Williamstown",
-            "enrolment": "45965",
+            "enrolment": 45965,
             "votesCounted": 40852,
             "candidates": [
                 {
@@ -11798,7 +11798,7 @@
             "id": "15840",
             "district_name": "Yan Yean District",
             "name": "Yan Yean",
-            "enrolment": "47327",
+            "enrolment": 47327,
             "votesCounted": 41894,
             "candidates": [
                 {
