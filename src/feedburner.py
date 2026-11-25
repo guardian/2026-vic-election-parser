@@ -121,7 +121,7 @@ def compile(electorates: List[Dict], options: List[Dict], parties: Dict, summary
 
     # render_data['twoParty'] = party_data_2pp
     
-    print(f"{summary_results['votesCountedPercent']}% of Australia has voted.")
+    print(f"{summary_results['votesCountedPercent']}% of Victoria has voted.")
     
     return render_data
 

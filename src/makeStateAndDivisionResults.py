@@ -396,6 +396,8 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 	results_json["partyNationalResults"] = merged_vote_by_party.to_dict(orient='records')
 	results_json['divisions'] = electorates_list	
 
+	print("TOTAL VOTES", stateVotesCounted)
+
 	newJson = json.dumps(results_json, indent=4)
 
 	summaryJson = json.dumps(summary_json, indent=4)

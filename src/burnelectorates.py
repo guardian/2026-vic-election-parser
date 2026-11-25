@@ -12,7 +12,7 @@ SRC_DIR = Path(__file__).resolve().parent
 DATA_DIR = SRC_DIR.parent / "data"
 RESULTS_DIR = SRC_DIR.parent / "results"
 
-print("RESULTS_DIR: ", RESULTS_DIR)
+# print("RESULTS_DIR: ", RESULTS_DIR)
 uploadPath = "2026/11/aus-vic-election/results-data"
 
 
