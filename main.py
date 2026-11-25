@@ -23,7 +23,7 @@ print(TEST_DATA_DIR)
 
 # Uses the local data in data/test-2022
 
-testing = True
+testing = False
 
 # True if we want to upload results to s3 on election night, false for local testing
 
@@ -31,11 +31,11 @@ upload = True
 
 # Ignores recentResults.json if True
 
-ignore_results = True
+ignore_results = False
 
 # Election idenfier string. TestState2026 is the test election, State026 is the real election.
 
-election_id = "TestState2026"
+election_id = "State2026"
 
 if election_id == "TestState2026":
     print("YOU HAVE THE TEST ID SET CHANGE THIS IF IT IS ELECTION NIGHT")
