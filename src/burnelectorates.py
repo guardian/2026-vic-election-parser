@@ -26,7 +26,7 @@ def select_electorate(id: str, electorate: str, results: Dict, divisions: Dict, 
     def party_names(party):
         return party_codes_by_name.get(party, party)
 
-    print(f"Selected electorate: {electorate}")
+    # print(f"Selected electorate: {electorate}")
     result = results.get(electorate)
     aec_result = divisions.get(electorate)
 
@@ -111,7 +111,7 @@ def select_electorate(id: str, electorate: str, results: Dict, divisions: Dict, 
     prediction = result['prediction'].lower() if result['prediction'] else ''
     prediction_name = parties[prediction]['partyName'] if prediction else ''
 
-    print(aec_result['votesCounted'], aec_result['enrolment'])
+    # print(aec_result['votesCounted'], aec_result['enrolment'])
     
     tcpCountProgress = None 
 
@@ -184,11 +184,11 @@ def burnElectorates(uploadPath="", uploadElectorates=True):
         
         electorate_info = json.dumps(info).encode()
         save_to_file(f"{RESULTS_DIR}/electorates/{item['id']}.json", electorate_info)
-        print(f"Saved {item['id']}.json")
+        # print(f"Saved {item['id']}.json")
         
         if uploadElectorates:
             upload_to_s3(f"{uploadPath}/electorates/{item['id']}.json", electorate_info)
-            print(f"Uploaded {item['id']}.json")
+            # print(f"Uploaded {item['id']}.json")
 
     timeRun = datetime.now() - startTime
     print(f"Finished in {timeRun}")
