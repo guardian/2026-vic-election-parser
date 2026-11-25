@@ -298,9 +298,9 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 			if set(currentPartyPair) == set(oldPartyPair):
 				pairingsMatch = True
 
-			print("currentPartyPair: ", currentPartyPair)
-			print("oldPartyPair: ", oldPartyPair)
-			print("pairingsMatch: ", pairingsMatch)
+			# print("currentPartyPair: ", currentPartyPair)
+			# print("oldPartyPair: ", oldPartyPair)
+			# print("pairingsMatch: ", pairingsMatch)
 
 			twoCPResults = []
 
@@ -361,6 +361,7 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 	vote_by_party['votesPercent'] = vote_by_party['votesTotal'] / primary_vote_by_candidate_df['votesTotal'].sum() * 100
 	vote_by_party = vote_by_party.reset_index()
 	vote_by_party['partygroup_name'] = vote_by_party['party_short'].map(party_codes_by_code).apply(lambda x: x['party_name'])
+	vote_by_party['shortName'] = vote_by_party['party_short'].map(party_codes_by_code).apply(lambda x: x['short_name'])
 
 	vote_by_party = vote_by_party.rename(columns={'party_short': 'coalition_short'})
 

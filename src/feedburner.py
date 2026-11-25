@@ -12,6 +12,7 @@ except ImportError:
 
 import pytz
 from pathlib import Path
+import pandas as pd
 
 SRC_DIR = Path(__file__).resolve().parent
 DATA_DIR = SRC_DIR.parent / "data"
@@ -125,69 +126,46 @@ def compile(electorates: List[Dict], options: List[Dict], parties: Dict, summary
     return render_data
 
 
-def create_table(data: List[Dict], party_map: List[Dict], swing: bool, coalition_old_primary: float) -> List[Dict]:
+def create_table(data):
     # Build party map lookup
-    p_map = {item['partyCode'].lower(): item for item in party_map}
-    
-    # Build initial table data
-    table_data = []
-    for item in data:
-        base = {
-            'party': item['partygroup_name'],
-            'votesPercent': float(item['votesPercent']),
-            'votes': float(item['votesTotal']),
-            'short': item['coalition_short']
-        }
-        if swing:
-            base['Swing'] = float(item['swing'])
-        table_data.append(base)
+    df = pd.DataFrame(data)
 
-    # Process coalition items
-    coalition = ["Liberal party", "Liberal Party of Australia - Victorian Division", "National Party of Australia - Victoria"]
-    coalition_items = [item for item in table_data if item['party'] in coalition]
-    
-    coalition_summary = {
-        'party': 'Coalition',
-        'votesPercent': sum(item['votesPercent'] for item in coalition_items),
-        'votes': sum(item['votes'] for item in coalition_items),
-        'short': 'Coalition'
-    }
-    
-    # Hard coded primary vote for Coalition, needs to be updated for new elections
+    # Data fields
+    #  {
+    #             "coalition_short": "ALP",
+    #             "votesTotal": 1339496,
+    #             "votesPercent": 37.03,
+    #             "partygroup_name": "Australian Labor Party - Victorian Branch",
+    #             "votesPercentOld": 36.65330142019311,
+    #             "swing": 0.38
+    #         }
 
-    if swing:
-        if coalition_summary['votesPercent'] > 0:
-            coalition_summary['swing'] = coalition_summary['votesPercent'] - coalition_old_primary
-        else:
-            coalition_summary['swing'] = 0
+    # Merge the coalition party results into a single row
 
-    others = [
-        "Australian Labor Party - Victorian Branch", "Australian Greens Victoria", "The Australian Greens - Victoria", "Independent",
-        "Pauline Hanson's One Nation"
-        ]
-    
-    result = [item for item in table_data if item['party'] in others]
+    coalition_parties = ["Liberal Party of Australia - Victorian Division", "National Party of Australia - Victoria"]
 
-    # Update party names
-    for item in result:
-        party_info = p_map.get(item['short'])
-        if party_info:
-            item['party'] = party_info['shortName']
+    coalition_only = df[df['partygroup_name'].isin(coalition_parties)]
+    coalition_only['coalition'] = 'coalition'
+    coalition_only_gp = coalition_only.groupby('coalition').sum().reset_index()
+    coalition_only_gp = coalition_only_gp[['coalition_short', 'shortName', 'votesTotal', 'votesPercent', 'partygroup_name', 'votesPercentOld', 'swing']]
+    coalition_only_gp = coalition_only_gp.round(2)
+    coalition_only_gp['partygroup_name'] = 'Coalition'
+    coalition_only_gp['coalition_short'] = 'COAL'
+    coalition_only_gp['shortName'] = 'Coalition'
 
-    # Keep only desired properties
-    result = [{k: v for k, v in item.items() if k in ['party', 'short','votesPercent', 'votes', 'swing']} 
-              for item in result]
+    results_df = df[~df['partygroup_name'].isin(coalition_parties)]
+    results_df = pd.concat([results_df, coalition_only_gp])
 
-    result.append(coalition_summary)
-    result.sort(key=lambda x: x['votes'], reverse=True)
+    # Later, maybe only keep a certain set and truncate the others to "Other"
+    # parties_to_name = []
+    # Fields we need:
+    # { "party": "Labor party", "votesPercent": 37.03, "votes": 1339496, "swing": 0.38 }
 
-    # Format numeric values
-    for record in result:
-        record['votesPercent'] = round(record['votesPercent'], 2)
-        if 'swing' in record:
-            record['swing'] = round(record['swing'], 2)
+    results_df = results_df.rename(columns={'shortName': 'party', 'votesTotal': 'votes'})
+    results_df = results_df[['party', 'votes', 'votesPercent', 'swing']]
+    results_df = results_df.sort_values(by='votes', ascending=False)
 
-    return result
+    return results_df.to_dict(orient='records')
 
 def create_ticker_feed(data: Dict) -> List[Dict]:
     predictions = [d for d in data['electorates'] if d['prediction']]
@@ -196,7 +174,7 @@ def create_ticker_feed(data: Dict) -> List[Dict]:
     for prediction in predictions:
         prediction['announced'] = "Predicted"
         prediction['status'] = "hold" if prediction['prediction'] == prediction['incumbent'] else "wins"
-        prediction['label'] = (party_map.get(prediction['prediction'], {}).get('partyName', '')
+        prediction['label'] = (party_map.get(prediction['prediction'], {}).get('shortName', '')
                              if prediction['prediction'] != "IND"
                              else prediction['prediction-name'])
 
@@ -366,7 +344,7 @@ def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
     parties = {item['partyCode'].lower(): item for item in googledoc['partyNames']}
     
     # Process data
-    parties_table_data = create_table(latest_data['partyNationalResults'], googledoc['partyNames'], True, coalition_old_primary)
+    parties_table_data = create_table(latest_data['partyNationalResults'])
     ticker = create_ticker_feed(googledoc)
     googledoc['parties'] = parties
     
@@ -401,7 +379,7 @@ def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
     feed = {
         'updated': updated,
         'ticker': ticker,
-        'partiesTableData': parties_table_data,
+        'partiesTable': parties_table_data,
         'council': { 
             'TOTAL_SEATS': totalSeatsSenate,
             'MAJORITY_SEATS': senateMajority,
@@ -433,5 +411,5 @@ def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
 if __name__ == "__main__":
     burnfeeds(
         uploadPath="2026/11/aus-vic-election/results-data", 
-        latestTimestampStr="20260926_100901", 
+        latestTimestampStr="20221215_180017", 
         upload=False) 

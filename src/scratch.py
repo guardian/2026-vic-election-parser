@@ -84,6 +84,56 @@ import json
 with open("/Users/nick_evershed/Documents/projects/2026/oct/vic-election-stuff/vic-election-results-parser/data/vec/State Election 2022 - Sample Pack/Phase 1 - Election night (12am)/State2022mediafileverboselh_20221127_000008.json", "r") as f:
     data = json.load(f)
 
+#%%
+
+import pandas as pd
+import json
+
+with open("../results/20221215_180017.json", "r") as f:
+    data = json.load(f)
+
+df = pd.DataFrame(data['partyNationalResults'])
+
+# Data fields
+#  {
+#             "coalition_short": "ALP",
+#             "votesTotal": 1339496,
+#             "votesPercent": 37.03,
+#             "partygroup_name": "Australian Labor Party - Victorian Branch",
+#             "votesPercentOld": 36.65330142019311,
+#             "swing": 0.38
+#         }
+
+# Merge the coalition party results into a single row
+
+coalition_parties = ["Liberal Party of Australia - Victorian Division", "National Party of Australia - Victoria"]
+
+coalition_only = df[df['partygroup_name'].isin(coalition_parties)]
+coalition_only['coalition'] = 'coalition'
+coalition_only_gp = coalition_only.groupby('coalition').sum().reset_index()
+coalition_only_gp = coalition_only_gp[['coalition_short', 'shortName', 'votesTotal', 'votesPercent', 'partygroup_name', 'votesPercentOld', 'swing']]
+coalition_only_gp = coalition_only_gp.round(2)
+coalition_only_gp['partygroup_name'] = 'Coalition'
+coalition_only_gp['coalition_short'] = 'COAL'
+coalition_only_gp['shortName'] = 'Coalition'
+
+results_df = df[~df['partygroup_name'].isin(coalition_parties)]
+results_df = pd.concat([results_df, coalition_only_gp])
+
+
+# parties_to_name = []
+# Fields we need:
+# { "party": "Labor party", "votesPercent": 37.03, "votes": 1339496, "swing": 0.38 }
+
+results_df = results_df.rename(columns={'shortName': 'party', 'votesTotal': 'votes'})
+results_df = results_df[['party', 'votes', 'votesPercent', 'swing']]
+results_df = results_df.sort_values(by='votes', ascending=False)
+
+
+
+
+#%%
+
 
 
 
