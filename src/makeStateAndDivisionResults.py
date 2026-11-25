@@ -247,7 +247,8 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 				candidates_row['party_long'] = "Independent"
 			else:
 				candidates_row['party_long'] = candidate["Affiliation"]["eml:AffiliationIdentifier"]["eml:RegisteredName"]
-				candidates_row['party_short'] = party_codes_by_name[candidates_row['party_long']]["party_code"]
+				party_names = party_codes_by_name.get(candidates_row['party_long']) or {}
+				candidates_row['party_short'] = party_names.get("party_code", candidates_row['party_long'])
 			
 			old_results = getOldVotes(candidates_row, primary_2022)
 			
