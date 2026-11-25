@@ -122,6 +122,7 @@ def compile(electorates: List[Dict], options: List[Dict], parties: Dict, summary
     # render_data['twoParty'] = party_data_2pp
     
     print(f"{summary_results['votesCountedPercent']}% of Victoria has voted.")
+
     
     return render_data
 
@@ -330,7 +331,7 @@ def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
     latest_data = get_local_json(RESULTS_DIR / f"{latestTimestampStr}.json")
     
     # Get summary results
-    summary_results = get_local_json("summaryResults.json")
+    summary_results = get_local_json(RESULTS_DIR / "summaryResults.json")
     
     # Get swing data
     # swing = get_local_json(RESULTS_DIR / f"{latest_feed}-swing.json")
