@@ -146,8 +146,8 @@ def process_latest(names, container=None):
             upload=upload,
         )
 
-        burnfeeds(uploadPath, latest_timestamp, upload)
-        burnElectorates(uploadPath, uploadElectorates=True)
+    burnfeeds(uploadPath, latest_timestamp, upload)
+    burnElectorates(uploadPath, uploadElectorates=True)
 
 def get_results_files(test):
     with results_source(test) as container:
