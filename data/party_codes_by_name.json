@@ -1,7 +1,7 @@
 {
   "Animal Justice Party": {
     "party_name": "Animal Justice Party",
-    "short_name": "Animal Justice Party",
+    "short_name": "Animal Justice party",
     "party_code": "AJP",
     "party_status": "old"
   },
@@ -19,7 +19,7 @@
   },
   "Angry Victorians Party": {
     "party_name": "Angry Victorians Party",
-    "short_name": "Angry Victorians Party",
+    "short_name": "Angry Victorians party",
     "party_code": "AVP",
     "party_status": "old"
   },
@@ -79,7 +79,7 @@
   },
   "Health Australia Party": {
     "party_name": "Health Australia Party",
-    "short_name": "Health Australia Party",
+    "short_name": "Health Australia party",
     "party_code": "HAP",
     "party_status": "old"
   },
@@ -145,7 +145,7 @@
   },
   "The Republican Make Australia Great Again": {
     "party_name": "The Republican Make Australia Great Again",
-    "short_name": "The Republican Make Australia Great Again",
+    "short_name": "The Rep. Make Aus. Great Again",
     "party_code": "REP",
     "party_status": "new"
   },
@@ -167,21 +167,21 @@
     "party_code": "SFF",
     "party_status": "old"
   },
-  "Safety Victoria – Violent Crime Prevention": {
-    "party_name": "Safety Victoria – Violent Crime Prevention",
-    "short_name": "Safety Victoria - Violent Crime Prevention",
+  "Safety Victoria \u2013 Violent Crime Prevention": {
+    "party_name": "Safety Victoria \u2013 Violent Crime Prevention",
+    "short_name": "Safety Victoria",
     "party_code": "SVV",
     "party_status": "new"
   },
   "Transport Matters Party": {
     "party_name": "Transport Matters Party",
-    "short_name": "Transport Matters Party",
+    "short_name": "Transport Matters party",
     "party_code": "TMP",
     "party_status": "old"
   },
   "The West Party": {
     "party_name": "The West Party",
-    "short_name": "The West Party",
+    "short_name": "The West party",
     "party_code": "TWP",
     "party_status": "new"
   },
@@ -193,7 +193,7 @@
   },
   "Companions and Pets Party": {
     "party_name": "Companions and Pets Party",
-    "short_name": "Companions and Pets Party",
+    "short_name": "Companions and Pets",
     "party_code": "CPP",
     "party_status": "old"
   }

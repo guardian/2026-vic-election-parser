@@ -1,0 +1,1766 @@
+pp_id,pp_name,pp_type,address,suburb,latitude,longitude,postcode,district_id,district_name
+16055,Bridport,,,,,,,15998,Albert Park District
+16064,Ferrars,,,,,,,15998,Albert Park District
+16059,Kerferd South,,,,,,,15998,Albert Park District
+16058,Middle Park,,,,,,,15998,Albert Park District
+16060,Port Melbourne,,,,,,,15998,Albert Park District
+16061,Port Melbourne East,,,,,,,15998,Albert Park District
+16056,Port Melbourne West,,,,,,,15998,Albert Park District
+16057,Sandridge,,,,,,,15998,Albert Park District
+16062,South Melbourne,,,,,,,15998,Albert Park District
+16063,South Melbourne Park,,,,,,,15998,Albert Park District
+16065,Southbank,,,,,,,15998,Albert Park District
+17674,St Kilda,,,,,,,15998,Albert Park District
+16054,St Kilda Park,,,,,,,15998,Albert Park District
+16066,St Kilda South,,,,,,,15998,Albert Park District
+16073,Alamein,,,,,,,15990,Ashwood District
+16069,Ashburton,,,,,,,15990,Ashwood District
+16070,Ashwood,,,,,,,15990,Ashwood District
+16068,Burwood,,,,,,,15990,Ashwood District
+16067,Burwood West,,,,,,,15990,Ashwood District
+16072,Camberwell South,,,,,,,15990,Ashwood District
+16074,Essex Heights,,,,,,,15990,Ashwood District
+16081,Glen Iris,,,,,,,15990,Ashwood District
+16079,Glen Iris South,,,,,,,15990,Ashwood District
+16080,Jordanville South,,,,,,,15990,Ashwood District
+16071,Manooka,,,,,,,15990,Ashwood District
+16077,Mount Waverley North,,,,,,,15990,Ashwood District
+16076,Mount Waverley South,,,,,,,15990,Ashwood District
+16078,Pinewood,,,,,,,15990,Ashwood District
+16082,Starling,,,,,,,15990,Ashwood District
+16075,Syndal North,,,,,,,15990,Ashwood District
+16083,Syndal South,,,,,,,15990,Ashwood District
+16084,Bass,,,,,,,15963,Bass District
+16086,Bayles,,,,,,,15963,Bass District
+16087,Blind Bight,,,,,,,15963,Bass District
+16088,Cape Paterson,,,,,,,15963,Bass District
+17727,Casey Fields,,,,,,,15963,Bass District
+16089,Catani,,,,,,,15963,Bass District
+16090,Clyde,,,,,,,15963,Bass District
+16091,Corinella,,,,,,,15963,Bass District
+16092,Cowes,,,,,,,15963,Bass District
+16093,Cranbourne South,,,,,,,15963,Bass District
+16094,Dalyston,,,,,,,15963,Bass District
+16095,Devon Meadows,,,,,,,15963,Bass District
+16096,Grantville,,,,,,,15963,Bass District
+16097,Inverloch,,,,,,,15963,Bass District
+16085,Kilcunda,,,,,,,15963,Bass District
+16098,Koo Wee Rup,,,,,,,15963,Bass District
+16099,Lang Lang,,,,,,,15963,Bass District
+16100,Newhaven,,,,,,,15963,Bass District
+16101,Pearcedale,,,,,,,15963,Bass District
+16102,Rhyll,,,,,,,15963,Bass District
+16103,San Remo,,,,,,,15963,Bass District
+16104,Tooradin,,,,,,,15963,Bass District
+16106,Wonthaggi,,,,,,,15963,Bass District
+16105,Wonthaggi North,,,,,,,15963,Bass District
+16107,Bayswater,,,,,,,15946,Bayswater District
+16108,Bayswater South,,,,,,,15946,Bayswater District
+16109,Bayswater West,,,,,,,15946,Bayswater District
+16110,Boronia East,,,,,,,15946,Bayswater District
+16111,Boronia North,,,,,,,15946,Bayswater District
+16112,Boronia West,,,,,,,15946,Bayswater District
+16113,Fairhills,,,,,,,15946,Bayswater District
+17760,Ferntree Gully Central,,,,,,,15946,Bayswater District
+16123,Ferntree Gully West,,,,,,,15946,Bayswater District
+17751,Heathmont West,,,,,,,15946,Bayswater District
+16118,Knox,,,,,,,15946,Bayswater District
+16114,Knoxfield North,,,,,,,15946,Bayswater District
+16116,Mountain Gate,,,,,,,15946,Bayswater District
+16115,Studfield East,,,,,,,15946,Bayswater District
+16120,Templeton,,,,,,,15946,Bayswater District
+16117,The Basin,,,,,,,15946,Bayswater District
+16122,Wantirna,,,,,,,15946,Bayswater District
+16121,Wantirna North,,,,,,,15946,Bayswater District
+16119,Wantirna West,,,,,,,15946,Bayswater District
+16124,Barwon Heads,,,,,,,15962,Bellarine District
+16125,Beacon Point,,,,,,,15962,Bellarine District
+16127,Clifton Springs,,,,,,,15962,Bellarine District
+16126,Collendina,,,,,,,15962,Bellarine District
+16128,Drysdale,,,,,,,15962,Bellarine District
+16129,Indented Head,,,,,,,15962,Bellarine District
+16130,Leopold,,,,,,,15962,Bellarine District
+16131,Ocean Grove,,,,,,,15962,Bellarine District
+16132,Point Lonsdale,,,,,,,15962,Bellarine District
+16133,Portarlington,,,,,,,15962,Bellarine District
+16134,Queenscliff,,,,,,,15962,Bellarine District
+16135,St Leonards,,,,,,,15962,Bellarine District
+16136,Surfside,,,,,,,15962,Bellarine District
+16137,Wallington,,,,,,,15962,Bellarine District
+16138,Baranduda,,,,,,,15932,Benambra District
+16139,Barnawartha,,,,,,,15932,Benambra District
+16140,Beechworth,,,,,,,15932,Benambra District
+16141,Bethanga,,,,,,,15932,Benambra District
+16142,Bonegilla,,,,,,,15932,Benambra District
+16143,Chiltern,,,,,,,15932,Benambra District
+16144,Corryong,,,,,,,15932,Benambra District
+16145,Cudgewa,,,,,,,15932,Benambra District
+16146,Eskdale,,,,,,,15932,Benambra District
+16147,Kergunyah,,,,,,,15932,Benambra District
+16149,Rutherglen,,,,,,,15932,Benambra District
+16151,Stanley,,,,,,,15932,Benambra District
+16152,Tallangatta,,,,,,,15932,Benambra District
+16153,Tallangatta Valley,,,,,,,15932,Benambra District
+16154,Tangambalanga,,,,,,,15932,Benambra District
+16155,Victory,,,,,,,15932,Benambra District
+16156,Wahgunyah,,,,,,,15932,Benambra District
+16157,Walwa,,,,,,,15932,Benambra District
+16150,Wodonga,,,,,,,15932,Benambra District
+16148,Wodonga Birallee,,,,,,,15932,Benambra District
+16159,Wodonga Central,,,,,,,15932,Benambra District
+16158,Wodonga South,,,,,,,15932,Benambra District
+16160,Wooragee,,,,,,,15932,Benambra District
+16161,Yackandandah,,,,,,,15932,Benambra District
+16162,Axedale,,,,,,,15933,Bendigo East District
+17706,Bendigo Central,,,,,,,15933,Bendigo East District
+16164,Bendigo East,,,,,,,15933,Bendigo East District
+17740,Comet Hill,,,,,,,15933,Bendigo East District
+16165,Dingee,,,,,,,15933,Bendigo East District
+16166,Eaglehawk North,,,,,,,15933,Bendigo East District
+16168,Elmore,,,,,,,15933,Bendigo East District
+16169,Eppalock,,,,,,,15933,Bendigo East District
+16170,Epsom,,,,,,,15933,Bendigo East District
+16173,Flora Hill,,,,,,,15933,Bendigo East District
+17728,Golden Square,,,,,,,15933,Bendigo East District
+16171,Goornong,,,,,,,15933,Bendigo East District
+16174,Huntly,,,,,,,15933,Bendigo East District
+16167,Jobs Gully,,,,,,,15933,Bendigo East District
+16163,Junortoun,,,,,,,15933,Bendigo East District
+17748,Kangaroo Flat South,,,,,,,15933,Bendigo East District
+16183,Kennington,,,,,,,15933,Bendigo East District
+16177,Mandurang,,,,,,,15933,Bendigo East District
+16178,Quarry Hill,,,,,,,15933,Bendigo East District
+16179,Raywood,,,,,,,15933,Bendigo East District
+16180,Sailors Gully,,,,,,,15933,Bendigo East District
+16181,Sedgwick,,,,,,,15933,Bendigo East District
+16176,Serpentine,,,,,,,15933,Bendigo East District
+16182,Spring Gully,,,,,,,15933,Bendigo East District
+16175,Strath Hill,,,,,,,15933,Bendigo East District
+16184,Strathdale,,,,,,,15933,Bendigo East District
+16185,Strathfieldsaye,,,,,,,15933,Bendigo East District
+16186,Weeroona,,,,,,,15933,Bendigo East District
+16172,White Hills,,,,,,,15933,Bendigo East District
+16187,Woodvale,,,,,,,15933,Bendigo East District
+16702,Bendigo Central,,,,,,,15936,Bendigo West District
+16885,Bendigo North,,,,,,,15936,Bendigo West District
+16720,California Gully,,,,,,,15936,Bendigo West District
+16722,Campbells Creek,,,,,,,15936,Bendigo West District
+16899,Castlemaine,,,,,,,15936,Bendigo West District
+16724,Castlemaine North,,,,,,,15936,Bendigo West District
+16728,Chewton,,,,,,,15936,Bendigo West District
+16810,Comet Hill,,,,,,,15936,Bendigo West District
+16701,Eaglehawk West,,,,,,,15936,Bendigo West District
+16764,Golden Square,,,,,,,15936,Bendigo West District
+16763,Golden Square South,,,,,,,15936,Bendigo West District
+16769,Guildford,,,,,,,15936,Bendigo West District
+16772,Harcourt,,,,,,,15936,Bendigo West District
+16934,Ironbark,,,,,,,15936,Bendigo West District
+16736,Kangaroo Flat,,,,,,,15936,Bendigo West District
+16900,Kangaroo Flat South,,,,,,,15936,Bendigo West District
+16785,Kangaroo Flat South West,,,,,,,15936,Bendigo West District
+16812,Lockwood,,,,,,,15936,Bendigo West District
+16818,Maiden Gully,,,,,,,15936,Bendigo West District
+16819,Maldon,,,,,,,15936,Bendigo West District
+16824,Marong,,,,,,,15936,Bendigo West District
+16856,Newstead,,,,,,,15936,Bendigo West District
+16725,Sandhurst,,,,,,,15936,Bendigo West District
+16813,Sparrowhawk,,,,,,,15936,Bendigo West District
+16890,Specimen Hill,,,,,,,15936,Bendigo West District
+16948,Winters Flat,,,,,,,15936,Bendigo West District
+17241,Bentleigh,,,,,,,15911,Bentleigh District
+17232,Bentleigh Central,,,,,,,15911,Bentleigh District
+17132,Bentleigh East,,,,,,,15911,Bentleigh District
+17133,Bentleigh West,,,,,,,15911,Bentleigh District
+17155,Cheltenham East,,,,,,,15911,Bentleigh District
+17157,Cheltenham North,,,,,,,15911,Bentleigh District
+17667,Coatesville,,,,,,,15911,Bentleigh District
+17161,Hughesdale South,,,,,,,15911,Bentleigh District
+17199,McKinnon,,,,,,,15911,Bentleigh District
+17200,McKinnon East,,,,,,,15911,Bentleigh District
+17159,Moorabbin Central,,,,,,,15911,Bentleigh District
+17162,Moorabbin Heights,,,,,,,15911,Bentleigh District
+17246,Moorabbin South,,,,,,,15911,Bentleigh District
+17249,Moorabbin South East,,,,,,,15911,Bentleigh District
+17212,Ormond West,,,,,,,15911,Bentleigh District
+17225,Southmoor,,,,,,,15911,Bentleigh District
+17691,Avebury,,,,,,,15937,Berwick District
+16974,Beaconsfield,,,,,,,15937,Berwick District
+16975,Beaconsfield Upper,,,,,,,15937,Berwick District
+16979,Berwick,,,,,,,15937,Berwick District
+16976,Berwick Chase,,,,,,,15937,Berwick District
+16978,Berwick Lodge,,,,,,,15937,Berwick District
+16983,Berwick South,,,,,,,15937,Berwick District
+16977,Centre Road,,,,,,,15937,Berwick District
+17073,Clyde North East,,,,,,,15937,Berwick District
+17024,Harkaway,,,,,,,15937,Berwick District
+17069,Ramlegh Park,,,,,,,15937,Berwick District
+17757,Timbarra,,,,,,,15937,Berwick District
+17763,Tulliallan,,,,,,,15937,Berwick District
+16288,Blackburn,,,,,,,15997,Box Hill District
+17743,Blackburn North,,,,,,,15997,Box Hill District
+16278,Blackburn South,,,,,,,15997,Box Hill District
+16281,Box Hill,,,,,,,15997,Box Hill District
+16287,Box Hill Central,,,,,,,15997,Box Hill District
+16203,Box Hill North,,,,,,,15997,Box Hill District
+16264,Box Hill South,,,,,,,15997,Box Hill District
+16297,Burwood Central,,,,,,,15997,Box Hill District
+16258,Elgar Park,,,,,,,15997,Box Hill District
+17694,Greythorn,,,,,,,15997,Box Hill District
+16238,Kerrimuir,,,,,,,15997,Box Hill District
+16242,Koonung Heights,,,,,,,15997,Box Hill District
+16243,Laburnum,,,,,,,15997,Box Hill District
+16255,Middlefield,,,,,,,15997,Box Hill District
+16249,Mont Albert,,,,,,,15997,Box Hill District
+16004,Starling,,,,,,,15997,Box Hill District
+16283,Surrey Hills,,,,,,,15997,Box Hill District
+17684,Surrey Hills North,,,,,,,15997,Box Hill District
+16190,Tyne,,,,,,,15997,Box Hill District
+16200,Warrawong,,,,,,,15997,Box Hill District
+16193,Wattle Park,,,,,,,15997,Box Hill District
+17134,Berendale,,,,,,,15914,Brighton District
+17142,Brighton,,,,,,,15914,Brighton District
+17141,Brighton Beach,,,,,,,15914,Brighton District
+17202,Brighton East,,,,,,,15914,Brighton District
+17143,Brighton High,,,,,,,15914,Brighton District
+17235,Dendy,,,,,,,15914,Brighton District
+17163,Elsternwick South,,,,,,,15914,Brighton District
+17116,Elwood,,,,,,,15914,Brighton District
+17164,Elwood North,,,,,,,15914,Brighton District
+17242,Gardenvale,,,,,,,15914,Brighton District
+17177,Hampton,,,,,,,15914,Brighton District
+17221,Hampton East,,,,,,,15914,Brighton District
+17168,Landcox,,,,,,,15914,Brighton District
+17194,Ludstone,,,,,,,15914,Brighton District
+17226,Middle Brighton,,,,,,,15914,Brighton District
+17735,Moorabbin Central,,,,,,,15914,Brighton District
+17756,Bethal,,,,,,,15980,Broadmeadows District
+16613,Broadmeadows,,,,,,,15980,Broadmeadows District
+16598,Broadmeadows North,,,,,,,15980,Broadmeadows District
+16558,Campbellfield,,,,,,,15980,Broadmeadows District
+16570,Coolaroo,,,,,,,15980,Broadmeadows District
+16659,Fawkner,,,,,,,15980,Broadmeadows District
+16600,Fawkner North,,,,,,,15980,Broadmeadows District
+16587,Glenroy,,,,,,,15980,Broadmeadows District
+16664,Glenroy East,,,,,,,15980,Broadmeadows District
+16588,Glenroy North,,,,,,,15980,Broadmeadows District
+16589,Glenroy West,,,,,,,15980,Broadmeadows District
+16550,Gowrie Park,,,,,,,15980,Broadmeadows District
+16599,Hume Central,,,,,,,15980,Broadmeadows District
+16616,Moomba Park,,,,,,,15980,Broadmeadows District
+16627,Oak Park,,,,,,,15980,Broadmeadows District
+17697,Strathmore North,,,,,,,15980,Broadmeadows District
+16575,Upfield,,,,,,,15980,Broadmeadows District
+17705,Westmeadows,,,,,,,15980,Broadmeadows District
+16649,Blyth,,,,,,,15968,Brunswick District
+16553,Brunswick East,,,,,,,15968,Brunswick District
+16554,Brunswick North,,,,,,,15968,Brunswick District
+17761,Brunswick North West,,,,,,,15968,Brunswick District
+16666,Brunswick South,,,,,,,15968,Brunswick District
+16556,Brunswick South West,,,,,,,15968,Brunswick District
+16560,Carlton Central,,,,,,,15968,Brunswick District
+16662,Carlton North,,,,,,,15968,Brunswick District
+16561,Delbridge,,,,,,,15968,Brunswick District
+16557,Edward,,,,,,,15968,Brunswick District
+16611,Fitzroy North,,,,,,,15968,Brunswick District
+16597,Glen Nichol,,,,,,,15968,Brunswick District
+16657,Melville,,,,,,,15968,Brunswick District
+16615,Merri,,,,,,,15968,Brunswick District
+16658,Mitchell Street,,,,,,,15968,Brunswick District
+17685,Moreland,,,,,,,15968,Brunswick District
+16206,Bulleen,,,,,,,15960,Bulleen District
+16241,Bulleen West,,,,,,,15960,Bulleen District
+16215,Doncaster,,,,,,,15960,Bulleen District
+16216,Doncaster Central,,,,,,,15960,Bulleen District
+17774,Doncaster East,,,,,,,15960,Bulleen District
+16199,Doncaster South,,,,,,,15960,Bulleen District
+16291,Doncaster West,,,,,,,15960,Bulleen District
+16229,Gumnut Gully,,,,,,,15960,Bulleen District
+16205,Lower Templestowe,,,,,,,15960,Bulleen District
+16274,Manningham,,,,,,,15960,Bulleen District
+16270,Serpell,,,,,,,15960,Bulleen District
+16276,St Gregory's,,,,,,,15960,Bulleen District
+16245,Templestowe,,,,,,,15960,Bulleen District
+16284,Templestowe Heights,,,,,,,15960,Bulleen District
+16285,Templestowe Park,,,,,,,15960,Bulleen District
+16286,Templestowe Valley,,,,,,,15960,Bulleen District
+17681,The Pines,,,,,,,15960,Bulleen District
+16005,Apollo Parkways,,,,,,,15934,Bundoora District
+16006,Briar Hill,,,,,,,15934,Bundoora District
+16007,Bundoora,,,,,,,15934,Bundoora District
+17755,Findon,,,,,,,15934,Bundoora District
+16008,Greensborough,,,,,,,15934,Bundoora District
+16009,Kingsbury,,,,,,,15934,Bundoora District
+17696,Macleod,,,,,,,15934,Bundoora District
+16010,Mill Park,,,,,,,15934,Bundoora District
+16011,Norris Bank,,,,,,,15934,Bundoora District
+16012,Streeton,,,,,,,15934,Bundoora District
+17733,The Stables,,,,,,,15934,Bundoora District
+16018,Watsonia,,,,,,,15934,Bundoora District
+16013,Watsonia Central,,,,,,,15934,Bundoora District
+16016,Watsonia Heights,,,,,,,15934,Bundoora District
+16015,Watsonia North,,,,,,,15934,Bundoora District
+16017,Watsonia South,,,,,,,15934,Bundoora District
+16014,Yulong Park,,,,,,,15934,Bundoora District
+16972,Banyan Fields,,,,,,,15929,Carrum District
+17078,Belvedere Park,,,,,,,15929,Carrum District
+16980,Bonbeach,,,,,,,15929,Carrum District
+16986,Carrum,,,,,,,15929,Carrum District
+16985,Carrum Downs,,,,,,,15929,Carrum District
+17092,Carrum Downs Central,,,,,,,15929,Carrum District
+17720,Chelsea Central,,,,,,,15929,Carrum District
+17047,Lyndhurst West,,,,,,,15929,Carrum District
+17049,Lyrebird,,,,,,,15929,Carrum District
+17068,Patterson Lakes,,,,,,,15929,Carrum District
+17075,Rowellyn Park,,,,,,,15929,Carrum District
+17079,Seaford,,,,,,,15929,Carrum District
+17077,Seaford North,,,,,,,15929,Carrum District
+17082,Skye,,,,,,,15929,Carrum District
+17120,Alma,,,,,,,15973,Caulfield District
+17153,Bundeera,,,,,,,15973,Caulfield District
+17171,Caulfield East,,,,,,,15973,Caulfield District
+17151,Caulfield North,,,,,,,15973,Caulfield District
+17119,Caulfield South,,,,,,,15973,Caulfield District
+17195,Caulfield Upper,,,,,,,15973,Caulfield District
+17222,Caulfield West,,,,,,,15973,Caulfield District
+17152,Clarence,,,,,,,15973,Caulfield District
+17248,Elsternwick,,,,,,,15973,Caulfield District
+17115,Elsternwick North,,,,,,,15973,Caulfield District
+17172,Glen Eira,,,,,,,15973,Caulfield District
+17173,Glenhuntly East,,,,,,,15973,Caulfield District
+17190,Ormond,,,,,,,15973,Caulfield District
+17216,Ripponlea East,,,,,,,15973,Caulfield District
+17724,St Kilda,,,,,,,15973,Caulfield District
+17754,Cheltenham East,,,,,,,15967,Clarinda District
+16995,Cheltenham South,,,,,,,15967,Clarinda District
+16997,Clarinda,,,,,,,15967,Clarinda District
+17099,Clarinda South,,,,,,,15967,Clarinda District
+16998,Clayton South,,,,,,,15967,Clarinda District
+17723,Coatesville,,,,,,,15967,Clarinda District
+17038,Coomoora,,,,,,,15967,Clarinda District
+17011,Dingley,,,,,,,15967,Clarinda District
+16003,Heatherhill,,,,,,,15967,Clarinda District
+17088,Heatherton North,,,,,,,15967,Clarinda District
+17041,Kingston Heath,,,,,,,15967,Clarinda District
+16989,Kingswood,,,,,,,15967,Clarinda District
+17071,Loxwood,,,,,,,15967,Clarinda District
+17054,Mentone North,,,,,,,15967,Clarinda District
+17053,Mentone Park,,,,,,,15967,Clarinda District
+17036,Southvale,,,,,,,15967,Clarinda District
+17083,Spring Valley,,,,,,,15967,Clarinda District
+16970,Springvale South,,,,,,,15967,Clarinda District
+17698,Springvale West,,,,,,,15967,Clarinda District
+17110,Westall,,,,,,,15967,Clarinda District
+17097,Amstel,,,,,,,15925,Cranbourne District
+16981,Botanic Ridge,,,,,,,15925,Cranbourne District
+16988,Casey Fields,,,,,,,15925,Cranbourne District
+17738,Clyde,,,,,,,15925,Cranbourne District
+17112,Clyde North,,,,,,,15925,Cranbourne District
+17709,Courtenay Gardens,,,,,,,15925,Cranbourne District
+17004,Cranbourne,,,,,,,15925,Cranbourne District
+17002,Cranbourne East,,,,,,,15925,Cranbourne District
+17001,Cranbourne North East,,,,,,,15925,Cranbourne District
+17014,Cranbourne North West,,,,,,,15925,Cranbourne District
+17003,Cranbourne Park,,,,,,,15925,Cranbourne District
+17737,Cranbourne South,,,,,,,15925,Cranbourne District
+16973,Cranbourne South West,,,,,,,15925,Cranbourne District
+17005,Cranbourne West,,,,,,,15925,Cranbourne District
+17722,Lyndhurst,,,,,,,15925,Cranbourne District
+17676,Ramlegh Park,,,,,,,15925,Cranbourne District
+17070,Rangebank,,,,,,,15925,Cranbourne District
+16197,Bayswater North,,,,,,,15959,Croydon District
+16239,Civic Square,,,,,,,15959,Croydon District
+16210,Croydon,,,,,,,15959,Croydon District
+16209,Croydon Central,,,,,,,15959,Croydon District
+16267,Croydon East,,,,,,,15959,Croydon District
+16208,Croydon Hills,,,,,,,15959,Croydon District
+16204,Croydon North,,,,,,,15959,Croydon District
+16194,Croydon West,,,,,,,15959,Croydon District
+16218,Dorset,,,,,,,15959,Croydon District
+16225,Glen Park,,,,,,,15959,Croydon District
+17702,Kalinda,,,,,,,15959,Croydon District
+16240,Kilsyth,,,,,,,15959,Croydon District
+16224,Kilsyth South,,,,,,,15959,Croydon District
+16272,Lincoln,,,,,,,15959,Croydon District
+17718,Manchester,,,,,,,15959,Croydon District
+16280,Mooroolbark,,,,,,,15959,Croydon District
+16260,Mooroolbark South,,,,,,,15959,Croydon District
+17747,Tinternvale,,,,,,,15959,Croydon District
+16301,Yarra Road,,,,,,,15959,Croydon District
+17006,Cleeland,,,,,,,15956,Dandenong District
+17007,Dandenong Central,,,,,,,15956,Dandenong District
+17045,Dandenong North,,,,,,,15956,Dandenong District
+17008,Dandenong South,,,,,,,15956,Dandenong District
+17009,Dandenong West,,,,,,,15956,Dandenong District
+17012,Doveton North,,,,,,,15956,Dandenong District
+17029,Doveton West,,,,,,,15956,Dandenong District
+17766,Loxwood,,,,,,,15956,Dandenong District
+17046,Lyndale,,,,,,,15956,Dandenong District
+16991,Maralinga,,,,,,,15956,Dandenong District
+17062,Noble Park,,,,,,,15956,Dandenong District
+17035,Noble Park South,,,,,,,15956,Dandenong District
+17074,Rosewood Downs,,,,,,,15956,Dandenong District
+17105,Wallarano,,,,,,,15956,Dandenong District
+17113,Wooranna Park,,,,,,,15956,Dandenong District
+17114,Yarraman Oaks,,,,,,,15956,Dandenong District
+16687,Alexandra,,,,,,,15979,Eildon District
+16690,Arthurs Creek,,,,,,,15979,Eildon District
+16694,Badger Creek,,,,,,,15979,Eildon District
+16709,Bonnie Doon,,,,,,,15979,Eildon District
+16718,Buxton,,,,,,,15979,Eildon District
+16743,Dixons Creek,,,,,,,15979,Eildon District
+16750,Eildon,,,,,,,15979,Eildon District
+16754,Flowerdale,,,,,,,15979,Eildon District
+16759,Gladysdale,,,,,,,15979,Eildon District
+16760,Glenburn,,,,,,,15979,Eildon District
+16774,Healesville,,,,,,,15979,Eildon District
+16775,Healesville Central,,,,,,,15979,Eildon District
+16778,Hoddles Creek,,,,,,,15979,Eildon District
+16779,Hurstbridge,,,,,,,15979,Eildon District
+16784,Jamieson,,,,,,,15979,Eildon District
+16786,Kangaroo Ground,,,,,,,15979,Eildon District
+16794,Kinglake,,,,,,,15979,Eildon District
+16795,Kinglake West,,,,,,,15979,Eildon District
+16806,Launching Place,,,,,,,15979,Eildon District
+16823,Mansfield,,,,,,,15979,Eildon District
+16825,Marysville,,,,,,,15979,Eildon District
+16831,Merrijig,,,,,,,15979,Eildon District
+16832,Merton,,,,,,,15979,Eildon District
+16838,Millgrove,,,,,,,15979,Eildon District
+16852,Narbethong,,,,,,,15979,Eildon District
+16865,Panton Hill,,,,,,,15979,Eildon District
+16766,Piries-Goughs Bay,,,,,,,15979,Eildon District
+16894,St Andrews,,,,,,,15979,Eildon District
+16909,Taggerty,,,,,,,15979,Eildon District
+16919,Thornton,,,,,,,15979,Eildon District
+16920,Tolmie,,,,,,,15979,Eildon District
+16924,Toolangi,,,,,,,15979,Eildon District
+16941,Warburton,,,,,,,15979,Eildon District
+16839,Warburton East,,,,,,,15979,Eildon District
+16943,Wesburn,,,,,,,15979,Eildon District
+16950,Woori Yallock,,,,,,,15979,Eildon District
+16956,Yarck,,,,,,,15979,Eildon District
+16957,Yarra Glen,,,,,,,15979,Eildon District
+16958,Yarra Junction,,,,,,,15979,Eildon District
+16962,Yea,,,,,,,15979,Eildon District
+16268,Diamond Creek,,,,,,,15955,Eltham District
+16212,Diamond Creek East,,,,,,,15955,Eltham District
+16223,Eltham,,,,,,,15955,Eltham District
+16221,Eltham East,,,,,,,15955,Eltham District
+16222,Eltham North,,,,,,,15955,Eltham District
+16277,Glen Katherine,,,,,,,15955,Eltham District
+16228,Greenhills,,,,,,,15955,Eltham District
+17725,Greensborough,,,,,,,15955,Eltham District
+16234,Holy Trinity - Eltham North,,,,,,,15955,Eltham District
+16244,Lower Plenty,,,,,,,15955,Eltham District
+16250,Montmorency,,,,,,,15955,Eltham District
+16251,Montmorency South,,,,,,,15955,Eltham District
+16261,Research,,,,,,,15955,Eltham District
+16271,Sherbourne,,,,,,,15955,Eltham District
+16296,Wattle Glen,,,,,,,15955,Eltham District
+16661,Ascot Vale Central,,,,,,,15945,Essendon District
+16547,Ascot Vale East,,,,,,,15945,Essendon District
+17710,Buckley Park,,,,,,,15945,Essendon District
+16663,Essendon,,,,,,,15945,Essendon District
+16582,Essendon North,,,,,,,15945,Essendon District
+16581,Essendon West,,,,,,,15945,Essendon District
+16652,Flemington,,,,,,,15945,Essendon District
+16583,Glenbervie,,,,,,,15945,Essendon District
+16610,Moonee Ponds,,,,,,,15945,Essendon District
+16617,Moonee Ponds Central,,,,,,,15945,Essendon District
+16618,Moonee Ponds West,,,,,,,15945,Essendon District
+16684,Newmarket,,,,,,,15945,Essendon District
+16665,Strathmore,,,,,,,15945,Essendon District
+16539,Strathmore North,,,,,,,15945,Essendon District
+17406,Bacchus Marsh,,,,,,,15935,Eureka District
+17619,Bacchus Marsh Central,,,,,,,15935,Eureka District
+17407,Ballan,,,,,,,15935,Eureka District
+17431,Bungaree,,,,,,,15935,Eureka District
+17432,Buninyong,,,,,,,15935,Eureka District
+17433,Caledonian,,,,,,,15935,Eureka District
+17435,Canadian,,,,,,,15935,Eureka District
+17436,Cape Clear,,,,,,,15935,Eureka District
+17624,Clarkes Hill,,,,,,,15935,Eureka District
+17461,Darley,,,,,,,15935,Eureka District
+17465,Dereel,,,,,,,15935,Eureka District
+17473,Elaine,,,,,,,15935,Eureka District
+17487,Gordon,,,,,,,15935,Eureka District
+17511,Inverleigh,,,,,,,15935,Eureka District
+17528,Lethbridge,,,,,,,15935,Eureka District
+17535,Magpie,,,,,,,15935,Eureka District
+17546,Meredith,,,,,,,15935,Eureka District
+17459,Mount Clear,,,,,,,15935,Eureka District
+17558,Mount Egerton,,,,,,,15935,Eureka District
+17559,Mount Pleasant,,,,,,,15935,Eureka District
+17561,Mount Wallace,,,,,,,15935,Eureka District
+17564,Myrniong,,,,,,,15935,Eureka District
+17600,Rokewood,,,,,,,15935,Eureka District
+17636,Teesdale,,,,,,,15935,Eureka District
+17616,The Stockade,,,,,,,15935,Eureka District
+17647,Warrenheip,,,,,,,15935,Eureka District
+16693,Avenel,,,,,,,16001,Euroa District
+16866,Baddaginnie,,,,,,,16001,Euroa District
+16699,Benalla,,,,,,,16001,Euroa District
+16700,Benalla West,,,,,,,16001,Euroa District
+16714,Broadford,,,,,,,16001,Euroa District
+16719,Byrneside,,,,,,,16001,Euroa District
+16730,Clonbinane,,,,,,,16001,Euroa District
+16733,Colbinabbin,,,,,,,16001,Euroa District
+16735,Cooma,,,,,,,16001,Euroa District
+16740,Devenish,,,,,,,16001,Euroa District
+16741,Dhurringile,,,,,,,16001,Euroa District
+16729,Euroa,,,,,,,16001,Euroa District
+16756,Girgarre,,,,,,,16001,Euroa District
+16765,Goorambat,,,,,,,16001,Euroa District
+16776,Heathcote,,,,,,,16001,Euroa District
+16692,Kilmore,,,,,,,16001,Euroa District
+16814,Longwood,,,,,,,16001,Euroa District
+16815,Lurg,,,,,,,16001,Euroa District
+16830,Merrigum,,,,,,,16001,Euroa District
+16845,Murchison,,,,,,,16001,Euroa District
+16848,Nagambie,,,,,,,16001,Euroa District
+16871,Puckapunyal,,,,,,,16001,Euroa District
+16872,Pyalong,,,,,,,16001,Euroa District
+16876,Redesdale,,,,,,,16001,Euroa District
+16881,Ruffy,,,,,,,16001,Euroa District
+16882,Rushworth,,,,,,,16001,Euroa District
+16688,Seymour,,,,,,,16001,Euroa District
+16888,Seymour East,,,,,,,16001,Euroa District
+16901,Stanhope,,,,,,,16001,Euroa District
+16902,Strathbogie,,,,,,,16001,Euroa District
+16686,Swanpool,,,,,,,16001,Euroa District
+16910,Tallarook,,,,,,,16001,Euroa District
+16914,Tatong,,,,,,,16001,Euroa District
+16918,Thoona,,,,,,,16001,Euroa District
+16922,Tooborac,,,,,,,16001,Euroa District
+16925,Toolleen,,,,,,,16001,Euroa District
+16935,Violet Town,,,,,,,16001,Euroa District
+16316,Bimbadeen,,,,,,,15977,Evelyn District
+17713,Chirnside Park,,,,,,,15977,Evelyn District
+16333,Coldstream,,,,,,,15977,Evelyn District
+16369,Gruyere,,,,,,,15977,Evelyn District
+16392,Lilydale,,,,,,,15977,Evelyn District
+16391,Lilydale Heights,,,,,,,15977,Evelyn District
+16390,Lilydale Lake,,,,,,,15977,Evelyn District
+16519,Lilydale West,,,,,,,15977,Evelyn District
+16401,Manchester,,,,,,,15977,Evelyn District
+16409,Montrose,,,,,,,15977,Evelyn District
+16411,Mooroolbark East,,,,,,,15977,Evelyn District
+16457,Mount Evelyn,,,,,,,15977,Evelyn District
+16418,Mt Evelyn South,,,,,,,15977,Evelyn District
+16460,Rolling Hills,,,,,,,15977,Evelyn District
+16472,Seville,,,,,,,15977,Evelyn District
+16522,Wandin Yallock,,,,,,,15977,Evelyn District
+17297,Footscray,,,,,,,15970,Footscray District
+17251,Footscray Central,,,,,,,15970,Footscray District
+17379,Footscray East,,,,,,,15970,Footscray District
+17393,Footscray North,,,,,,,15970,Footscray District
+17265,Footscray Park,,,,,,,15970,Footscray District
+17296,Hyde,,,,,,,15970,Footscray District
+17318,Kingsville,,,,,,,15970,Footscray District
+17686,Kingsville South,,,,,,,15970,Footscray District
+17317,Kingsville West,,,,,,,15970,Footscray District
+17298,Maidstone,,,,,,,15970,Footscray District
+17324,Maidstone West,,,,,,,15970,Footscray District
+17327,Maribyrnong River,,,,,,,15970,Footscray District
+17344,Seddon,,,,,,,15970,Footscray District
+17299,West Footscray,,,,,,,15970,Footscray District
+17677,Yarraville,,,,,,,15970,Footscray District
+17392,Yarraville Central,,,,,,,15970,Footscray District
+16965,Aldercourt,,,,,,,15949,Frankston District
+16971,Baden Powell,,,,,,,15949,Frankston District
+17052,Ballam Park,,,,,,,15949,Frankston District
+17678,Belvedere Park,,,,,,,15949,Frankston District
+17055,Bruce Park,,,,,,,15949,Frankston District
+17010,Derinya,,,,,,,15949,Frankston District
+17091,Frankston,,,,,,,15949,Frankston District
+17096,Frankston Beach,,,,,,,15949,Frankston District
+17018,Frankston East,,,,,,,15949,Frankston District
+16189,Frankston Forest,,,,,,,15949,Frankston District
+17019,Frankston Heights,,,,,,,15949,Frankston District
+16996,Frankston Rail,,,,,,,15949,Frankston District
+17020,Frankston South,,,,,,,15949,Frankston District
+17031,John Paul College,,,,,,,15949,Frankston District
+17032,Kananook,,,,,,,15949,Frankston District
+17033,Karingal Heights,,,,,,,15949,Frankston District
+17040,Kingsley Park,,,,,,,15949,Frankston District
+17057,Mt Erin,,,,,,,15949,Frankston District
+17481,Aberdeen,,,,,,,15920,Geelong District
+17412,Bannockburn,,,,,,,15920,Geelong District
+17413,Bannockburn West,,,,,,,15920,Geelong District
+17614,Barwon,,,,,,,15920,Geelong District
+17420,Belmont North,,,,,,,15920,Geelong District
+17687,Belmont West,,,,,,,15920,Geelong District
+17625,Britannia,,,,,,,15920,Geelong District
+17444,Chilwell,,,,,,,15920,Geelong District
+17620,Fyans Park,,,,,,,15920,Geelong District
+17479,Geelong,,,,,,,15920,Geelong District
+17478,Geelong East,,,,,,,15920,Geelong District
+17483,Geelong West,,,,,,,15920,Geelong District
+17516,Kardinia Park,,,,,,,15920,Geelong District
+17644,Kidman,,,,,,,15920,Geelong District
+17538,Manifold Heights,,,,,,,15920,Geelong District
+17655,Manifold Heights West,,,,,,,15920,Geelong District
+17553,Moolap,,,,,,,15920,Geelong District
+17573,Newcomb,,,,,,,15920,Geelong District
+17574,Newcomb South,,,,,,,15920,Geelong District
+17586,Oberon,,,,,,,15920,Geelong District
+17577,Shannon,,,,,,,15920,Geelong District
+17615,St Albans Park,,,,,,,15920,Geelong District
+17711,St Helens,,,,,,,15920,Geelong District
+17470,Thomson,,,,,,,15920,Geelong District
+17418,Whittington,,,,,,,15920,Geelong District
+17627,Whittington South,,,,,,,15920,Geelong District
+16488,Bairnsdale,,,,,,,15917,Gippsland East District
+16307,Bairnsdale West,,,,,,,15917,Gippsland East District
+16319,Boisdale,,,,,,,15917,Gippsland East District
+16323,Briagolong,,,,,,,15917,Gippsland East District
+16325,Bruthen,,,,,,,15917,Gippsland East District
+16326,Buchan,,,,,,,15917,Gippsland East District
+16328,Bundalaguah,,,,,,,15917,Gippsland East District
+17665,Cann River,,,,,,,15917,Gippsland East District
+16331,Cobains,,,,,,,15917,Gippsland East District
+16339,Dargo,,,,,,,15917,Gippsland East District
+16349,Eagle Point,,,,,,,15917,Gippsland East District
+16532,Ellaswood,,,,,,,15917,Gippsland East District
+16365,Glenmaggie,,,,,,,15917,Gippsland East District
+16372,Heyfield,,,,,,,15917,Gippsland East District
+16375,Johnsonville,,,,,,,15917,Gippsland East District
+16382,Lakes Entrance,,,,,,,15917,Gippsland East District
+16480,Lakes Entrance East,,,,,,,15917,Gippsland East District
+16393,Lindenow,,,,,,,15917,Gippsland East District
+16306,Lucknow,,,,,,,15917,Gippsland East District
+16398,Lucknow West,,,,,,,15917,Gippsland East District
+16400,Maffra,,,,,,,15917,Gippsland East District
+16407,Mallacoota,,,,,,,15917,Gippsland East District
+16402,Marlo,,,,,,,15917,Gippsland East District
+16405,Metung,,,,,,,15917,Gippsland East District
+16431,Newlands Arm,,,,,,,15917,Gippsland East District
+16432,Newmerella,,,,,,,15917,Gippsland East District
+16516,Newry,,,,,,,15917,Gippsland East District
+16433,Nicholson,,,,,,,15917,Gippsland East District
+16437,Nowa Nowa,,,,,,,15917,Gippsland East District
+16438,Nungurner,,,,,,,15917,Gippsland East District
+16475,Omeo,,,,,,,15917,Gippsland East District
+16482,Orbost,,,,,,,15917,Gippsland East District
+16449,Paynesville,,,,,,,15917,Gippsland East District
+16492,Stratford,,,,,,,15917,Gippsland East District
+16493,Swifts Creek,,,,,,,15917,Gippsland East District
+16502,Tinamba,,,,,,,15917,Gippsland East District
+16507,Toorloo Arm,,,,,,,15917,Gippsland East District
+16518,Valencia Creek,,,,,,,15917,Gippsland East District
+16303,Alberton,,,,,,,15969,Gippsland South District
+16305,Arawata,,,,,,,15969,Gippsland South District
+16313,Bena,,,,,,,15969,Gippsland South District
+16322,Boolarra,,,,,,,15969,Gippsland South District
+16336,Cowwarr,,,,,,,15969,Gippsland South District
+16341,Devon North,,,,,,,15969,Gippsland South District
+16348,Dumbalk,,,,,,,15969,Gippsland South District
+16359,Fish Creek,,,,,,,15969,Gippsland South District
+16360,Foster,,,,,,,15969,Gippsland South District
+16366,Golden Beach,,,,,,,15969,Gippsland South District
+16367,Gormandale,,,,,,,15969,Gippsland South District
+16377,Kongwak,,,,,,,15969,Gippsland South District
+16378,Koonwarra,,,,,,,15969,Gippsland South District
+16489,Korumburra,,,,,,,15969,Gippsland South District
+16338,Leongatha,,,,,,,15969,Gippsland South District
+16387,Leongatha East,,,,,,,15969,Gippsland South District
+16388,Leongatha South,,,,,,,15969,Gippsland South District
+16394,Loch,,,,,,,15969,Gippsland South District
+16395,Loch Sport,,,,,,,15969,Gippsland South District
+16396,Longford,,,,,,,15969,Gippsland South District
+16403,Meeniyan,,,,,,,15969,Gippsland South District
+16406,Mirboo North,,,,,,,15969,Gippsland South District
+16415,Mount Eccles,,,,,,,15969,Gippsland South District
+16421,Nambrok,,,,,,,15969,Gippsland South District
+16428,Nerrena,,,,,,,15969,Gippsland South District
+16439,Nyora,,,,,,,15969,Gippsland South District
+16452,Poowong,,,,,,,15969,Gippsland South District
+16453,Port Albert,,,,,,,15969,Gippsland South District
+16454,Port Franklin,,,,,,,15969,Gippsland South District
+16464,Rosedale,,,,,,,15969,Gippsland South District
+16468,Sale,,,,,,,15969,Gippsland South District
+16304,Sale East,,,,,,,15969,Gippsland South District
+16467,Sale North,,,,,,,15969,Gippsland South District
+16494,Sandy Point,,,,,,,15969,Gippsland South District
+16470,Seaspray,,,,,,,15969,Gippsland South District
+16491,Staceys Bridge,,,,,,,15969,Gippsland South District
+16496,Tarwin Lower,,,,,,,15969,Gippsland South District
+16504,Toongabbie,,,,,,,15969,Gippsland South District
+16505,Toora,,,,,,,15969,Gippsland South District
+16526,Welshpool,,,,,,,15969,Gippsland South District
+16528,Won Wron,,,,,,,15969,Gippsland South District
+16530,Woodside,,,,,,,15969,Gippsland South District
+16531,Wurruk,,,,,,,15969,Gippsland South District
+16534,Yanakie,,,,,,,15969,Gippsland South District
+16536,Yarram,,,,,,,15969,Gippsland South District
+16537,Yinnar,,,,,,,15969,Gippsland South District
+16022,Burwood Heights,,,,,,,15996,Glen Waverley District
+16023,Camelot,,,,,,,15996,Glen Waverley District
+16024,Charlesworth Park,,,,,,,15996,Glen Waverley District
+16025,Eastmont,,,,,,,15996,Glen Waverley District
+16026,Forest Hill,,,,,,,15996,Glen Waverley District
+16027,Glen Waverley,,,,,,,15996,Glen Waverley District
+16028,Glen Waverley Central,,,,,,,15996,Glen Waverley District
+16029,Glen Waverley Lower,,,,,,,15996,Glen Waverley District
+16030,Glen Waverley South,,,,,,,15996,Glen Waverley District
+16031,Glendal,,,,,,,15996,Glen Waverley District
+16032,Highvale,,,,,,,15996,Glen Waverley District
+16033,Jells Park,,,,,,,15996,Glen Waverley District
+17762,Mitcham South,,,,,,,15996,Glen Waverley District
+16034,Morack,,,,,,,15996,Glen Waverley District
+16035,Mount View,,,,,,,15996,Glen Waverley District
+17689,Nunawading South,,,,,,,15996,Glen Waverley District
+16036,Parkmore,,,,,,,15996,Glen Waverley District
+16037,Tally Ho,,,,,,,15996,Glen Waverley District
+16038,The Glen,,,,,,,15996,Glen Waverley District
+17749,Vermont North,,,,,,,15996,Glen Waverley District
+16039,Weeden Heights,,,,,,,15996,Glen Waverley District
+16040,Wheelers Hill,,,,,,,15996,Glen Waverley District
+16551,Bethal,,,,,,,15922,Greenvale District
+16572,Craigieburn South,,,,,,,15922,Greenvale District
+16591,Greenvale,,,,,,,15922,Greenvale District
+16540,Greenvale Park,,,,,,,15922,Greenvale District
+16592,Greenvale South,,,,,,,15922,Greenvale District
+16612,Meadow Heights,,,,,,,15922,Greenvale District
+16644,Roxburgh Homestead,,,,,,,15922,Greenvale District
+16645,Roxburgh Park,,,,,,,15922,Greenvale District
+16646,Roxburgh Rise,,,,,,,15922,Greenvale District
+16590,Somerton,,,,,,,15922,Greenvale District
+16681,Westmeadows,,,,,,,15922,Greenvale District
+16308,Balnarring,,,,,,,15942,Hastings District
+16310,Baxter,,,,,,,15942,Hastings District
+16317,Bittern,,,,,,,15942,Hastings District
+16337,Crib Point,,,,,,,15942,Hastings District
+16370,Hastings,,,,,,,15942,Hastings District
+16350,Langwarrin,,,,,,,15942,Hastings District
+16385,Langwarrin Hall,,,,,,,15942,Hastings District
+16384,Langwarrin Park,,,,,,,15942,Hastings District
+16465,Somers,,,,,,,15942,Hastings District
+16476,Somerville,,,,,,,15942,Hastings District
+16477,Somerville West,,,,,,,15942,Hastings District
+16512,Tyabb,,,,,,,15942,Hastings District
+16520,Westpark,,,,,,,15942,Hastings District
+16529,Woodlands,,,,,,,15942,Hastings District
+17181,Auburn,,,,,,,15993,Hawthorn District
+17123,Auburn North,,,,,,,15993,Hawthorn District
+17124,Auburn South,,,,,,,15993,Hawthorn District
+17758,Burwood Central,,,,,,,15993,Hawthorn District
+17147,Camberwell,,,,,,,15993,Hawthorn District
+17145,Camberwell Middle,,,,,,,15993,Hawthorn District
+17764,Camberwell South,,,,,,,15993,Hawthorn District
+17736,Canterbury,,,,,,,15993,Hawthorn District
+17146,Canterbury South,,,,,,,15993,Hawthorn District
+17148,Chatham South,,,,,,,15993,Hawthorn District
+17180,Glenferrie,,,,,,,15993,Hawthorn District
+17174,Glenferrie Central,,,,,,,15993,Hawthorn District
+17166,Glenferrie South,,,,,,,15993,Hawthorn District
+17179,Hartwell,,,,,,,15993,Hawthorn District
+17182,Hawthorn,,,,,,,15993,Hawthorn District
+17230,Highfield,,,,,,,15993,Hawthorn District
+17704,Kooyong,,,,,,,15993,Hawthorn District
+17679,Surrey Hills,,,,,,,15993,Hawthorn District
+17184,Surrey Hills North,,,,,,,15993,Hawthorn District
+17231,Willison,,,,,,,15993,Hawthorn District
+16196,Banyule,,,,,,,15921,Ivanhoe District
+16292,Eaglemont,,,,,,,15921,Ivanhoe District
+16235,Fairy Hills,,,,,,,15921,Ivanhoe District
+16226,Golf Links,,,,,,,15921,Ivanhoe District
+16257,Heidelberg,,,,,,,15921,Ivanhoe District
+16282,Heidelberg West,,,,,,,15921,Ivanhoe District
+16236,Ivanhoe,,,,,,,15921,Ivanhoe District
+16275,Ivanhoe East,,,,,,,15921,Ivanhoe District
+16273,Ivanhoe West,,,,,,,15921,Ivanhoe District
+16021,Macleod,,,,,,,15921,Ivanhoe District
+16256,Olympic Village,,,,,,,15921,Ivanhoe District
+16266,Rosanna,,,,,,,15921,Ivanhoe District
+17680,Streeton,,,,,,,15921,Ivanhoe District
+16290,Viewbank,,,,,,,15921,Ivanhoe District
+16265,Waiora,,,,,,,15921,Ivanhoe District
+16552,Beveridge,,,,,,,15947,Kalkallo District
+16573,Craigieburn,,,,,,,15947,Kalkallo District
+16571,Craigieburn Central,,,,,,,15947,Kalkallo District
+16541,Craigieburn North West,,,,,,,15947,Kalkallo District
+16683,Craigieburn West,,,,,,,15947,Kalkallo District
+16579,Elevation,,,,,,,15947,Kalkallo District
+16621,Mickleham,,,,,,,15947,Kalkallo District
+16586,Mickleham North,,,,,,,15947,Kalkallo District
+16620,Mount Ridley,,,,,,,15947,Kalkallo District
+16677,Wallan,,,,,,,15947,Kalkallo District
+16678,Wallan South,,,,,,,15947,Kalkallo District
+17125,Balwyn,,,,,,,15975,Kew District
+17127,Balwyn Central,,,,,,,15975,Kew District
+17126,Balwyn North,,,,,,,15975,Kew District
+17228,Balwyn North Central,,,,,,,15975,Kew District
+17131,Balwyn North West,,,,,,,15975,Kew District
+17140,Balwyn West,,,,,,,15975,Kew District
+17139,Boroondara,,,,,,,15975,Kew District
+16188,Canterbury,,,,,,,15975,Kew District
+17154,Chatham,,,,,,,15975,Kew District
+17170,Cotham,,,,,,,15975,Kew District
+17213,Deepdene,,,,,,,15975,Kew District
+17176,Greythorn,,,,,,,15975,Kew District
+17117,Hyde Park,,,,,,,15975,Kew District
+17188,Kew,,,,,,,15975,Kew District
+17187,Kew East,,,,,,,15975,Kew District
+17186,Kew North,,,,,,,15975,Kew District
+17245,Kew South,,,,,,,15975,Kew District
+17144,Studley Park,,,,,,,15975,Kew District
+17732,Surrey Hills North,,,,,,,15975,Kew District
+17256,Albanvale,,,,,,,15908,Kororoit District
+17276,Brookside,,,,,,,15908,Kororoit District
+17278,Burnside,,,,,,,15908,Kororoit District
+17283,Caroline Springs,,,,,,,15908,Kororoit District
+17286,Creekside,,,,,,,15908,Kororoit District
+17380,Deer Park Central,,,,,,,15908,Kororoit District
+17287,Deer Park North,,,,,,,15908,Kororoit District
+17288,Deer Park West,,,,,,,15908,Kororoit District
+17668,Kings Park,,,,,,,15908,Kororoit District
+17290,Mount Derrimut,,,,,,,15908,Kororoit District
+17338,Rockbank,,,,,,,15908,Kororoit District
+17253,Rockbank North,,,,,,,15908,Kororoit District
+17330,Stevensville,,,,,,,15908,Kororoit District
+17398,Anakie,,,,,,,15951,Lara District
+17417,Bell Park,,,,,,,15951,Lara District
+17570,Bell Park South,,,,,,,15951,Lara District
+17422,Bisinella,,,,,,,15951,Lara District
+17503,Corio,,,,,,,15951,Lara District
+17581,Corio Central,,,,,,,15951,Lara District
+17582,Corio West,,,,,,,15951,Lara District
+17515,Fyansford,,,,,,,15951,Lara District
+17654,Hamlyn Heights,,,,,,,15951,Lara District
+17522,Lara,,,,,,,15951,Lara District
+17523,Lara Central,,,,,,,15951,Lara District
+17524,Lara Lake,,,,,,,15951,Lara District
+17447,Norlane,,,,,,,15951,Lara District
+17580,Norlane West,,,,,,,15951,Lara District
+17583,North Shore,,,,,,,15951,Lara District
+17601,Rollins,,,,,,,15951,Lara District
+17482,St Helens,,,,,,,15951,Lara District
+17258,Albion,,,,,,,15985,Laverton District
+17267,Ardeer,,,,,,,15985,Laverton District
+17268,Ardeer South,,,,,,,15985,Laverton District
+17363,Glengala,,,,,,,15985,Laverton District
+17365,Glengala South,,,,,,,15985,Laverton District
+17320,Laverton,,,,,,,15985,Laverton District
+17321,Laverton North,,,,,,,15985,Laverton District
+17362,Sunvale,,,,,,,15985,Laverton District
+17385,Tottenham North,,,,,,,15985,Laverton District
+17354,Truganina,,,,,,,15985,Laverton District
+17300,Truganina North,,,,,,,15985,Laverton District
+17376,Truganina South,,,,,,,15985,Laverton District
+17400,Antwerp,,,,,,,15915,Lowan District
+17402,Apsley,,,,,,,15915,Lowan District
+17411,Balmoral,,,,,,,15915,Lowan District
+17426,Branxholme,,,,,,,15915,Lowan District
+17429,Brim,,,,,,,15915,Lowan District
+17437,Caramut,,,,,,,15915,Lowan District
+17440,Casterton,,,,,,,15915,Lowan District
+17442,Cavendish,,,,,,,15915,Lowan District
+17453,Coleraine,,,,,,,15915,Lowan District
+17454,Concongella,,,,,,,15915,Lowan District
+17462,Dartmoor,,,,,,,15915,Lowan District
+17467,Dimboola,,,,,,,15915,Lowan District
+17631,Dunkeld,,,,,,,15915,Lowan District
+17472,Edenhope,,,,,,,15915,Lowan District
+17485,Glenorchy,,,,,,,15915,Lowan District
+17486,Glenthompson,,,,,,,15915,Lowan District
+17488,Goroke,,,,,,,15915,Lowan District
+17490,Great Western,,,,,,,15915,Lowan District
+17496,Halls Gap,,,,,,,15915,Lowan District
+17551,Hamilton,,,,,,,15915,Lowan District
+17498,Hamilton Central,,,,,,,15915,Lowan District
+17497,Hamilton North,,,,,,,15915,Lowan District
+17500,Harrow,,,,,,,15915,Lowan District
+17501,Haven,,,,,,,15915,Lowan District
+17507,Horsham East,,,,,,,15915,Lowan District
+17508,Horsham North,,,,,,,15915,Lowan District
+17491,Horsham South,,,,,,,15915,Lowan District
+17509,Horsham West,,,,,,,15915,Lowan District
+17513,Jeparit,,,,,,,15915,Lowan District
+17514,Kaniva,,,,,,,15915,Lowan District
+17519,Laharum,,,,,,,15915,Lowan District
+17520,Lake Bolac,,,,,,,15915,Lowan District
+17547,Merino,,,,,,,15915,Lowan District
+17549,Minyip,,,,,,,15915,Lowan District
+17556,Mortlake,,,,,,,15915,Lowan District
+17562,Moyston,,,,,,,15915,Lowan District
+17563,Murtoa,,,,,,,15915,Lowan District
+17568,Natimuk,,,,,,,15915,Lowan District
+17571,Netherby,,,,,,,15915,Lowan District
+17578,Nhill,,,,,,,15915,Lowan District
+17590,Patterson Park,,,,,,,15915,Lowan District
+17591,Penshurst,,,,,,,15915,Lowan District
+17595,Pomonal,,,,,,,15915,Lowan District
+17599,Rainbow,,,,,,,15915,Lowan District
+17604,Rupanyup,,,,,,,15915,Lowan District
+17629,Stawell,,,,,,,15915,Lowan District
+17630,Stawell West,,,,,,,15915,Lowan District
+17632,Streatham,,,,,,,15915,Lowan District
+17634,Tarrington,,,,,,,15915,Lowan District
+17635,Tatyoon,,,,,,,15915,Lowan District
+17640,Toolondo,,,,,,,15915,Lowan District
+17646,Warracknabeal,,,,,,,15915,Lowan District
+17656,Willaura,,,,,,,15915,Lowan District
+16707,Blackwood,,,,,,,15988,Macedon District
+16708,Bolinda,,,,,,,15988,Macedon District
+16817,Bullengarook,,,,,,,15988,Macedon District
+16737,Darraweit Guim,,,,,,,15988,Macedon District
+16738,Daylesford,,,,,,,15988,Macedon District
+16746,Drummond,,,,,,,15988,Macedon District
+16752,Elphinstone,,,,,,,15988,Macedon District
+16757,Gisborne,,,,,,,15988,Macedon District
+16758,Gisborne South,,,,,,,15988,Macedon District
+16761,Glenlyon,,,,,,,15988,Macedon District
+16777,Hepburn Springs,,,,,,,15988,Macedon District
+16799,Kyneton,,,,,,,15988,Macedon District
+16884,Kyneton East,,,,,,,15988,Macedon District
+16805,Lancefield,,,,,,,15988,Macedon District
+16816,Macedon,,,,,,,15988,Macedon District
+16821,Malmsbury,,,,,,,15988,Macedon District
+16841,Mount Macedon,,,,,,,15988,Macedon District
+16854,New Gisborne,,,,,,,15988,Macedon District
+16855,Newham,,,,,,,15988,Macedon District
+16877,Riddell,,,,,,,15988,Macedon District
+16880,Romsey,,,,,,,15988,Macedon District
+16912,Taradale,,,,,,,15988,Macedon District
+17773,Toolern,,,,,,,15988,Macedon District
+16927,Trentham,,,,,,,15988,Macedon District
+16929,Tylden,,,,,,,15988,Macedon District
+16715,Woodend,,,,,,,15988,Macedon District
+16955,Yandoit,,,,,,,15988,Macedon District
+17122,Armadale,,,,,,,15958,Malvern District
+17233,Armadale East,,,,,,,15958,Malvern District
+17118,Carnegie North,,,,,,,15958,Malvern District
+17198,Chadstone,,,,,,,15958,Malvern District
+17150,Darling,,,,,,,15958,Malvern District
+17240,Gardiner,,,,,,,15958,Malvern District
+17247,Kooyong,,,,,,,15958,Malvern District
+17196,Malvern,,,,,,,15958,Malvern District
+17191,Malvern Central,,,,,,,15958,Malvern District
+17193,Malvern East,,,,,,,15958,Malvern District
+17192,Malvern Lower,,,,,,,15958,Malvern District
+17197,Malvern South,,,,,,,15958,Malvern District
+17229,Toorak,,,,,,,15958,Malvern District
+17244,Toorak Central,,,,,,,15958,Malvern District
+17169,Toorak West,,,,,,,15958,Malvern District
+16601,Carlton,,,,,,,15966,Melbourne District
+16609,Docklands,,,,,,,15966,Melbourne District
+16614,East Melbourne,,,,,,,15966,Melbourne District
+16624,Hotham Hill,,,,,,,15966,Melbourne District
+16602,Kensington,,,,,,,15966,Melbourne District
+16668,Melbourne,,,,,,,15966,Melbourne District
+16625,North Melbourne,,,,,,,15966,Melbourne District
+16655,North Melbourne East,,,,,,,15966,Melbourne District
+16675,Parkville,,,,,,,15966,Melbourne District
+16576,Queen Victoria,,,,,,,15966,Melbourne District
+16596,South Kensington,,,,,,,15966,Melbourne District
+17541,Brookfield,,,,,,,15912,Melton District
+17441,Bulmans,,,,,,,15912,Melton District
+17450,Coburn,,,,,,,15912,Melton District
+17476,Eynesbury,,,,,,,15912,Melton District
+17518,Kurunjang,,,,,,,15912,Melton District
+17543,Melton,,,,,,,15912,Melton District
+17542,Melton Central,,,,,,,15912,Melton District
+17545,Melton South,,,,,,,15912,Melton District
+17544,Melton West,,,,,,,15912,Melton District
+17768,Strathtulloh,,,,,,,15912,Melton District
+17639,Toolern,,,,,,,15912,Melton District
+16703,Berriwillock,,,,,,,15928,Mildura District
+16704,Beulah,,,,,,,15928,Mildura District
+16706,Birchip,,,,,,,15928,Mildura District
+16711,Boundary Bend,,,,,,,15928,Mildura District
+16917,Cabarita,,,,,,,15928,Mildura District
+16723,Cardross,,,,,,,15928,Mildura District
+16727,Charlton,,,,,,,15928,Mildura District
+16837,Cullulleraine,,,,,,,15928,Mildura District
+16744,Donald,,,,,,,15928,Mildura District
+16887,Hopetoun,,,,,,,15928,Mildura District
+16781,Irymple,,,,,,,15928,Mildura District
+16796,Koorlong,,,,,,,15928,Mildura District
+16822,Manangatang,,,,,,,15928,Mildura District
+16826,Merbein,,,,,,,15928,Mildura District
+16886,Mildura,,,,,,,15928,Mildura District
+16834,Mildura City Central,,,,,,,15928,Mildura District
+16726,Mildura Deakin,,,,,,,15928,Mildura District
+16875,Mildura Ranfurly,,,,,,,15928,Mildura District
+16835,Mildura South,,,,,,,15928,Mildura District
+16836,Mildura West,,,,,,,15928,Mildura District
+16820,Murrayville,,,,,,,15928,Mildura District
+16849,Nandaly,,,,,,,15928,Mildura District
+16850,Nangiloc,,,,,,,15928,Mildura District
+16857,Nichols Point,,,,,,,15928,Mildura District
+16863,Ouyen,,,,,,,15928,Mildura District
+16867,Piangil,,,,,,,15928,Mildura District
+16898,Red Cliffs,,,,,,,15928,Mildura District
+16878,Robinvale,,,,,,,15928,Mildura District
+16933,Sea Lake,,,,,,,15928,Mildura District
+16891,Speed,,,,,,,15928,Mildura District
+16782,Sunnycliffs,,,,,,,15928,Mildura District
+16932,Underbool,,,,,,,15928,Mildura District
+16942,Wemen,,,,,,,15928,Mildura District
+16949,Woomelang,,,,,,,15928,Mildura District
+16953,Wycheproof,,,,,,,15928,Mildura District
+16044,Blossom Park,,,,,,,15938,Mill Park District
+17770,Epping,,,,,,,15938,Mill Park District
+16045,Epping East,,,,,,,15938,Mill Park District
+17716,Epping Views,,,,,,,15938,Mill Park District
+16020,Findon,,,,,,,15938,Mill Park District
+16046,Greenbrook,,,,,,,15938,Mill Park District
+17670,Lalor North East,,,,,,,15938,Mill Park District
+16047,Marymeade,,,,,,,15938,Mill Park District
+16048,Meadow Glen,,,,,,,15938,Mill Park District
+17695,Mernda Park,,,,,,,15938,Mill Park District
+16049,Mill Park Heights,,,,,,,15938,Mill Park District
+16050,Morang South,,,,,,,15938,Mill Park District
+16051,The Lakes,,,,,,,15938,Mill Park District
+16019,The Stables,,,,,,,15938,Mill Park District
+16490,Belgrave,,,,,,,15913,Monbulk District
+16312,Belgrave South,,,,,,,15913,Monbulk District
+16499,Canterbury Gardens,,,,,,,15913,Monbulk District
+16332,Cockatoo,,,,,,,15913,Monbulk District
+16352,Emerald,,,,,,,15913,Monbulk District
+16356,Ferntree Gully,,,,,,,15913,Monbulk District
+16355,Ferntree Gully Central,,,,,,,15913,Monbulk District
+16357,Ferntree Gully North,,,,,,,15913,Monbulk District
+16515,Ferntree Gully Upper,,,,,,,15913,Monbulk District
+16358,Ferny Creek,,,,,,,15913,Monbulk District
+16362,Gembrook,,,,,,,15913,Monbulk District
+16376,Kallista,,,,,,,15913,Monbulk District
+16399,Macclesfield,,,,,,,15913,Monbulk District
+16404,Menzies Creek,,,,,,,15913,Monbulk District
+16408,Monbulk Central,,,,,,,15913,Monbulk District
+16315,Montrose South,,,,,,,15913,Monbulk District
+17726,Mooroolbark South,,,,,,,15913,Monbulk District
+16414,Mount Dandenong,,,,,,,15913,Monbulk District
+16441,Olinda,,,,,,,15913,Monbulk District
+16469,Sassafras,,,,,,,15913,Monbulk District
+16471,Selby,,,,,,,15913,Monbulk District
+16474,Silvan,,,,,,,15913,Monbulk District
+16497,Tecoma,,,,,,,15913,Monbulk District
+16500,The Patch,,,,,,,15913,Monbulk District
+16517,Upwey,,,,,,,15913,Monbulk District
+16521,Wandin East,,,,,,,15913,Monbulk District
+16969,Aspendale,,,,,,,15919,Mordialloc District
+16968,Aspendale Gardens,,,,,,,15919,Mordialloc District
+17080,Chapel,,,,,,,15919,Mordialloc District
+16992,Chelsea,,,,,,,15919,Mordialloc District
+16994,Chelsea Central,,,,,,,15919,Mordialloc District
+16993,Chelsea Heights,,,,,,,15919,Mordialloc District
+17013,Edithvale,,,,,,,15919,Mordialloc District
+17037,Keysborough Gardens,,,,,,,15919,Mordialloc District
+17085,Keysborough Park,,,,,,,15919,Mordialloc District
+17729,Mentone,,,,,,,15919,Mordialloc District
+16967,Mordialloc East,,,,,,,15919,Mordialloc District
+17089,Parkdale,,,,,,,15919,Mordialloc District
+17066,Parkdale Central,,,,,,,15919,Mordialloc District
+17067,Parkdale East,,,,,,,15919,Mordialloc District
+17771,Baden Powell,,,,,,,16000,Mornington District
+17714,Derinya,,,,,,,16000,Mornington District
+16379,Kunyung,,,,,,,16000,Mornington District
+16410,Moorooduc,,,,,,,16000,Mornington District
+16486,Mornington,,,,,,,16000,Mornington District
+16314,Mornington East,,,,,,,16000,Mornington District
+16450,Mornington South,,,,,,,16000,Mornington District
+16417,Mt Eliza,,,,,,,16000,Mornington District
+16506,Mt Eliza Central,,,,,,,16000,Mornington District
+16419,Mt Eliza North,,,,,,,16000,Mornington District
+16416,Mt Eliza South,,,,,,,16000,Mornington District
+16420,Mt Martha,,,,,,,16000,Mornington District
+16442,Osborne,,,,,,,16000,Mornington District
+16412,Tanti Park,,,,,,,16000,Mornington District
+16330,Churchill,,,,,,,15978,Morwell District
+16364,Glengarry,,,,,,,15978,Morwell District
+16371,Hazelwood North,,,,,,,15978,Morwell District
+16302,Moe,,,,,,,15978,Morwell District
+16309,Moe Central,,,,,,,15978,Morwell District
+16485,Moe West,,,,,,,15978,Morwell District
+16413,Morwell,,,,,,,15978,Morwell District
+16487,Morwell Central,,,,,,,15978,Morwell District
+16458,Morwell East,,,,,,,15978,Morwell District
+16380,Morwell Estate,,,,,,,15978,Morwell District
+16430,Newborough,,,,,,,15978,Morwell District
+16429,Newborough East,,,,,,,15978,Morwell District
+16368,Traralgon,,,,,,,15978,Morwell District
+16389,Traralgon East,,,,,,,15978,Morwell District
+16386,Traralgon North,,,,,,,15978,Morwell District
+16511,Traralgon North East,,,,,,,15978,Morwell District
+16510,Traralgon South,,,,,,,15978,Morwell District
+16334,Traralgon West,,,,,,,15978,Morwell District
+16513,Tyers,,,,,,,15978,Morwell District
+16533,Yallourn North,,,,,,,15978,Morwell District
+16982,Brandon Park,,,,,,,15974,Mulgrave District
+17109,Clareville,,,,,,,15974,Mulgrave District
+17058,Gladeswood,,,,,,,15974,Mulgrave District
+17734,Glen Waverley South,,,,,,,15974,Mulgrave District
+17025,Harrisfield,,,,,,,15974,Mulgrave District
+17027,Heatherhill,,,,,,,15974,Mulgrave District
+17742,Lyndale,,,,,,,15974,Mulgrave District
+17108,Mulgrave,,,,,,,15974,Mulgrave District
+17745,Noble Park,,,,,,,15974,Mulgrave District
+17061,Noble Park North,,,,,,,15974,Mulgrave District
+16964,Northvale,,,,,,,15974,Mulgrave District
+17090,Silverton,,,,,,,15974,Mulgrave District
+17086,Springvale,,,,,,,15974,Mulgrave District
+17093,Springvale Central,,,,,,,15974,Mulgrave District
+17087,Springvale Heights,,,,,,,15974,Mulgrave District
+17111,Springvale North,,,,,,,15974,Mulgrave District
+17084,Springvale West,,,,,,,15974,Mulgrave District
+17107,Waverley Meadows,,,,,,,15974,Mulgrave District
+16987,Waverley Park,,,,,,,15974,Mulgrave District
+17095,Wheelers Hill South,,,,,,,15974,Mulgrave District
+16696,Bamawm,,,,,,,15982,Murray Plains District
+16695,Bamawm Extension,,,,,,,15982,Murray Plains District
+16705,Beverford,,,,,,,15982,Murray Plains District
+16710,Boort,,,,,,,15982,Murray Plains District
+16721,Calivil,,,,,,,15982,Murray Plains District
+16732,Cohuna,,,,,,,15982,Murray Plains District
+16742,Dingwall,,,,,,,15982,Murray Plains District
+16748,Echuca,,,,,,,15982,Murray Plains District
+16747,Echuca East,,,,,,,15982,Murray Plains District
+16749,Echuca South,,,,,,,15982,Murray Plains District
+16770,Gunbower,,,,,,,15982,Murray Plains District
+16790,Kerang,,,,,,,15982,Murray Plains District
+16791,Kerang North,,,,,,,15982,Murray Plains District
+16698,Koondrook,,,,,,,15982,Murray Plains District
+16797,Koyuga,,,,,,,15982,Murray Plains District
+16800,Ky Valley,,,,,,,15982,Murray Plains District
+16798,Kyabram,,,,,,,15982,Murray Plains District
+16801,Lake Boga,,,,,,,15982,Murray Plains District
+16802,Lake Charm,,,,,,,15982,Murray Plains District
+16803,Lalbert,,,,,,,15982,Murray Plains District
+16804,Lancaster,,,,,,,15982,Murray Plains District
+16808,Leitchville,,,,,,,15982,Murray Plains District
+16811,Lockington,,,,,,,15982,Murray Plains District
+16846,Murrabit,,,,,,,15982,Murray Plains District
+16851,Nanneella,,,,,,,15982,Murray Plains District
+16860,Nyah,,,,,,,15982,Murray Plains District
+16859,Nyah West,,,,,,,15982,Murray Plains District
+16873,Pyramid Hill,,,,,,,15982,Murray Plains District
+16874,Quambatook,,,,,,,15982,Murray Plains District
+16879,Rochester,,,,,,,15982,Murray Plains District
+16904,Swan Hill,,,,,,,15982,Murray Plains District
+16906,Swan Hill North,,,,,,,15982,Murray Plains District
+16905,Swan Hill South,,,,,,,15982,Murray Plains District
+16907,Swan Hill West,,,,,,,15982,Murray Plains District
+16921,Tongala,,,,,,,15982,Murray Plains District
+16926,Torrumbarry,,,,,,,15982,Murray Plains District
+16930,Ultima,,,,,,,15982,Murray Plains District
+16931,Undera,,,,,,,15982,Murray Plains District
+16951,Woorinen,,,,,,,15982,Murray Plains District
+16954,Wyuna,,,,,,,15982,Murray Plains District
+16320,Bona Vista,,,,,,,15940,Narracan District
+16327,Buln Buln,,,,,,,15940,Narracan District
+16329,Bunyip,,,,,,,15940,Narracan District
+16335,Cora Lynn,,,,,,,15940,Narracan District
+16340,Darnum,,,,,,,15940,Narracan District
+16344,Drouin,,,,,,,15940,Narracan District
+16345,Drouin College,,,,,,,15940,Narracan District
+16346,Drouin South,,,,,,,15940,Narracan District
+16347,Drouin West,,,,,,,15940,Narracan District
+16351,Ellinbank,,,,,,,15940,Narracan District
+16353,Erica,,,,,,,15940,Narracan District
+16361,Garfield,,,,,,,15940,Narracan District
+16373,Jindivick,,,,,,,15940,Narracan District
+16381,Labertouche,,,,,,,15940,Narracan District
+16434,Lillico,,,,,,,15940,Narracan District
+16397,Longwarry,,,,,,,15940,Narracan District
+16354,Maryknoll,,,,,,,15940,Narracan District
+16422,Nar Nar Goon,,,,,,,15940,Narracan District
+16423,Nar Nar Goon North,,,,,,,15940,Narracan District
+16424,Narracan,,,,,,,15940,Narracan District
+16426,Neerim Junction,,,,,,,15940,Narracan District
+16427,Neerim South,,,,,,,15940,Narracan District
+16435,Nilma,,,,,,,15940,Narracan District
+16436,Noojee,,,,,,,15940,Narracan District
+16455,Rawson,,,,,,,15940,Narracan District
+16459,Rokeby,,,,,,,15940,Narracan District
+16495,Tanjil South,,,,,,,15940,Narracan District
+16498,Tetoora Road,,,,,,,15940,Narracan District
+16501,Thorpdale,,,,,,,15940,Narracan District
+16509,Trafalgar,,,,,,,15940,Narracan District
+16514,Tynong,,,,,,,15940,Narracan District
+16524,Warragul,,,,,,,15940,Narracan District
+16525,Warragul East,,,,,,,15940,Narracan District
+16523,Warragul North,,,,,,,15940,Narracan District
+16527,Willow Grove,,,,,,,15940,Narracan District
+16535,Yarragon,,,,,,,15940,Narracan District
+17102,Avebury,,,,,,,15989,Narre Warren North District
+17746,Berwick Lodge,,,,,,,15989,Narre Warren North District
+17030,Endeavour Hills,,,,,,,15989,Narre Warren North District
+17081,Endeavour Hills East,,,,,,,15989,Narre Warren North District
+16990,Endeavour Hills North,,,,,,,15989,Narre Warren North District
+17017,Fountain Gate,,,,,,,15989,Narre Warren North District
+17056,Glen Eagles,,,,,,,15989,Narre Warren North District
+17022,Hallam,,,,,,,15989,Narre Warren North District
+17021,Hallam East,,,,,,,15989,Narre Warren North District
+17015,Hallam Valley,,,,,,,15989,Narre Warren North District
+17699,Harkaway,,,,,,,15989,Narre Warren North District
+17051,Maramba,,,,,,,15989,Narre Warren North District
+17101,Mitchell,,,,,,,15989,Narre Warren North District
+17016,Narre Warren,,,,,,,15989,Narre Warren North District
+17059,Narre Warren North,,,,,,,15989,Narre Warren North District
+17064,Oatlands,,,,,,,15989,Narre Warren North District
+17103,Timbarra,,,,,,,15989,Narre Warren North District
+16966,Casey Central,,,,,,,15953,Narre Warren South District
+16999,Coral Park,,,,,,,15953,Narre Warren South District
+17000,Courtenay Gardens,,,,,,,15953,Narre Warren South District
+17023,Hampton Park,,,,,,,15953,Narre Warren South District
+17072,Hampton Park East,,,,,,,15953,Narre Warren South District
+17028,Hillsmeade,,,,,,,15953,Narre Warren South District
+17039,Kilberry Valley,,,,,,,15953,Narre Warren South District
+17044,Lynbrook,,,,,,,15953,Narre Warren South District
+17048,Lyndhurst,,,,,,,15953,Narre Warren South District
+17060,Narre Warren South,,,,,,,15953,Narre Warren South District
+17063,Oakgrove,,,,,,,15953,Narre Warren South District
+17098,Strathaird,,,,,,,15953,Narre Warren South District
+17104,Tulliallan,,,,,,,15953,Narre Warren South District
+16318,Blairgowrie,,,,,,,15954,Nepean District
+16321,Boneo,,,,,,,15954,Nepean District
+16342,Dromana,,,,,,,15954,Nepean District
+16343,Dromana Beach,,,,,,,15954,Nepean District
+16483,Flinders,,,,,,,15954,Nepean District
+16484,McCrae,,,,,,,15954,Nepean District
+16451,Portsea,,,,,,,15954,Nepean District
+16456,Red Hill,,,,,,,15954,Nepean District
+16461,Rosebud,,,,,,,15954,Nepean District
+16462,Rosebud East,,,,,,,15954,Nepean District
+16363,Rosebud South,,,,,,,15954,Nepean District
+16463,Rosebud West,,,,,,,15954,Nepean District
+16466,Rye,,,,,,,15954,Nepean District
+16473,Shoreham,,,,,,,15954,Nepean District
+16478,Sorrento,,,,,,,15954,Nepean District
+16479,St Andrews Beach,,,,,,,15954,Nepean District
+16508,Tootgarook,,,,,,,15954,Nepean District
+16311,Waterfall Gully,,,,,,,15954,Nepean District
+17252,Aberfeldie,,,,,,,15950,Niddrie District
+17353,Airport West,,,,,,,15950,Niddrie District
+17269,Avondale Heights,,,,,,,15950,Niddrie District
+17355,Avondale Heights Central,,,,,,,15950,Niddrie District
+17306,Avondale Heights North,,,,,,,15950,Niddrie District
+17277,Buckley Park,,,,,,,15950,Niddrie District
+17351,Calder Rise,,,,,,,15950,Niddrie District
+17707,Essendon North,,,,,,,15950,Niddrie District
+17673,Essendon West,,,,,,,15950,Niddrie District
+17305,Gowanbrae,,,,,,,15950,Niddrie District
+17314,Keilor,,,,,,,15950,Niddrie District
+17357,Keilor East,,,,,,,15950,Niddrie District
+17312,Keilor Heights,,,,,,,15950,Niddrie District
+17313,Keilor Park,,,,,,,15950,Niddrie District
+17294,Keilor South,,,,,,,15950,Niddrie District
+17254,Niddrie,,,,,,,15950,Niddrie District
+17339,Niddrie Central,,,,,,,15950,Niddrie District
+16544,Alphington,,,,,,,15930,Northcote District
+16542,Alphington North,,,,,,,15930,Northcote District
+16549,Bell,,,,,,,15930,Northcote District
+16656,Croxton,,,,,,,15930,Northcote District
+16673,Darebin Parklands,,,,,,,15930,Northcote District
+16584,Fairfield,,,,,,,15930,Northcote District
+16650,Northcote,,,,,,,15930,Northcote District
+16626,Northcote North,,,,,,,15930,Northcote District
+16680,Northcote South,,,,,,,15930,Northcote District
+17744,Preston,,,,,,,15930,Northcote District
+16594,Preston South,,,,,,,15930,Northcote District
+16674,Thornbury,,,,,,,15930,Northcote District
+16632,Thornbury East,,,,,,,15930,Northcote District
+16676,Thornbury South,,,,,,,15930,Northcote District
+16543,Westgarth,,,,,,,15930,Northcote District
+17149,Carnegie,,,,,,,15916,Oakleigh District
+17239,Carnegie East,,,,,,,15916,Oakleigh District
+17227,Carnegie West,,,,,,,15916,Oakleigh District
+17167,Clayton,,,,,,,15916,Oakleigh District
+17160,Clayton East,,,,,,,15916,Oakleigh District
+17204,Clayton North,,,,,,,15916,Oakleigh District
+17250,Davies Reserve,,,,,,,15916,Oakleigh District
+17700,Glenhuntly East,,,,,,,15916,Oakleigh District
+17185,Hughesdale,,,,,,,15916,Oakleigh District
+17701,Hughesdale South,,,,,,,15916,Oakleigh District
+17208,Huntingdale,,,,,,,15916,Oakleigh District
+17207,Monash East,,,,,,,15916,Oakleigh District
+17206,Murrumbeena,,,,,,,15916,Oakleigh District
+17238,Murrumbeena South,,,,,,,15916,Oakleigh District
+17165,Oakleigh Central,,,,,,,15916,Oakleigh District
+17121,Oakleigh East,,,,,,,15916,Oakleigh District
+17158,Oakleigh North,,,,,,,15916,Oakleigh District
+17210,Oakleigh South,,,,,,,15916,Oakleigh District
+17205,Sussex Heights,,,,,,,15916,Oakleigh District
+16713,Bright,,,,,,,15976,Ovens Valley District
+16717,Bundalong,,,,,,,15976,Ovens Valley District
+16731,Cobram,,,,,,,15976,Ovens Valley District
+16739,Dederang,,,,,,,15976,Ovens Valley District
+16751,Eldorado,,,,,,,15976,Ovens Valley District
+16753,Everton,,,,,,,15976,Ovens Valley District
+16755,Gapsted,,,,,,,15976,Ovens Valley District
+16762,Glenrowan,,,,,,,15976,Ovens Valley District
+16773,Harrietville,,,,,,,15976,Ovens Valley District
+16780,Invergordon,,,,,,,15976,Ovens Valley District
+16787,Katamatite,,,,,,,15976,Ovens Valley District
+16833,Milawa,,,,,,,15976,Ovens Valley District
+16842,Moyhu,,,,,,,15976,Ovens Valley District
+16843,Mt Beauty,,,,,,,15976,Ovens Valley District
+16844,Mudgegonga,,,,,,,15976,Ovens Valley District
+16847,Myrtleford,,,,,,,15976,Ovens Valley District
+16864,Oxley,,,,,,,15976,Ovens Valley District
+16870,Porepunkah,,,,,,,15976,Ovens Valley District
+16893,Running Creek,,,,,,,15976,Ovens Valley District
+16892,Springhurst,,,,,,,15976,Ovens Valley District
+16897,St James,,,,,,,15976,Ovens Valley District
+16913,Tarrawingee,,,,,,,15976,Ovens Valley District
+16916,Tawonga,,,,,,,15976,Ovens Valley District
+16928,Tungamah,,,,,,,15976,Ovens Valley District
+16937,Wandiligong,,,,,,,15976,Ovens Valley District
+16940,Wangaratta West,,,,,,,15976,Ovens Valley District
+16939,West End,,,,,,,15976,Ovens Valley District
+16944,Whitfield,,,,,,,15976,Ovens Valley District
+16946,Whorouly,,,,,,,15976,Ovens Valley District
+16960,Yarrawonga,,,,,,,15976,Ovens Valley District
+16883,Yarrawonga Central,,,,,,,15976,Ovens Valley District
+16961,Yarroweyah,,,,,,,15976,Ovens Valley District
+16862,Yarrunga,,,,,,,15976,Ovens Valley District
+16374,Caversham,,,,,,,15961,Pakenham District
+16383,Lakeside East,,,,,,,15961,Pakenham District
+16440,Officer,,,,,,,15961,Pakenham District
+16481,Officer East,,,,,,,15961,Pakenham District
+16324,Officer South East,,,,,,,15961,Pakenham District
+16445,Pakenham,,,,,,,15961,Pakenham District
+16447,Pakenham Central,,,,,,,15961,Pakenham District
+16443,Pakenham Hills,,,,,,,15961,Pakenham District
+16444,Pakenham Lakeside,,,,,,,15961,Pakenham District
+16446,Pakenham Springs,,,,,,,15961,Pakenham District
+16448,Pakenham Upper,,,,,,,15961,Pakenham District
+16503,Toomuc Valley,,,,,,,15961,Pakenham District
+16555,Brunswick North West,,,,,,,15939,Pascoe Vale District
+16563,Coburg,,,,,,,15939,Pascoe Vale District
+16545,Coburg East,,,,,,,15939,Pascoe Vale District
+16564,Coburg North,,,,,,,15939,Pascoe Vale District
+16559,Coburg South,,,,,,,15939,Pascoe Vale District
+16565,Coburg West,,,,,,,15939,Pascoe Vale District
+16630,Gaffney,,,,,,,15939,Pascoe Vale District
+16679,Hadfield,,,,,,,15939,Pascoe Vale District
+16604,Lake Park,,,,,,,15939,Pascoe Vale District
+17721,Melville,,,,,,,15939,Pascoe Vale District
+17666,Merlynston,,,,,,,15939,Pascoe Vale District
+16619,Moreland,,,,,,,15939,Pascoe Vale District
+16623,Murray,,,,,,,15939,Pascoe Vale District
+17675,Newlands,,,,,,,15939,Pascoe Vale District
+16628,Pascoe Vale,,,,,,,15939,Pascoe Vale District
+16546,Pascoe Vale Central,,,,,,,15939,Pascoe Vale District
+16629,Pascoe Vale North,,,,,,,15939,Pascoe Vale District
+16631,Pascoe Vale South,,,,,,,15939,Pascoe Vale District
+17693,Strathmore North,,,,,,,15939,Pascoe Vale District
+17255,Alamanda,,,,,,,15991,Point Cook District
+17259,Altona Bay,,,,,,,15991,Point Cook District
+17261,Altona Meadows,,,,,,,15991,Point Cook District
+17260,Altona Meadows CC,,,,,,,15991,Point Cook District
+17281,Boardwalk,,,,,,,15991,Point Cook District
+17295,Featherbrook,,,,,,,15991,Point Cook District
+17308,Homestead,,,,,,,15991,Point Cook District
+17282,Jamieson Way,,,,,,,15991,Point Cook District
+17340,Point Cook East,,,,,,,15991,Point Cook District
+17335,Point Cook North,,,,,,,15991,Point Cook District
+17342,Seabrook,,,,,,,15991,Point Cook District
+17341,Seabrook Central,,,,,,,15991,Point Cook District
+17292,Werribee South,,,,,,,15991,Point Cook District
+17394,Aireys Inlet,,,,,,,15964,Polwarth District
+17399,Anglesea,,,,,,,15964,Polwarth District
+17401,Apollo Bay,,,,,,,15964,Polwarth District
+17415,Beeac,,,,,,,15964,Polwarth District
+17419,Bellbrae,,,,,,,15964,Polwarth District
+17421,Birregurra,,,,,,,15964,Polwarth District
+17434,Camperdown,,,,,,,15964,Polwarth District
+17439,Carpendeit,,,,,,,15964,Polwarth District
+17449,Cobden,,,,,,,15964,Polwarth District
+17451,Colac East,,,,,,,15964,Polwarth District
+17452,Colac West,,,,,,,15964,Polwarth District
+17456,Cororooke,,,,,,,15964,Polwarth District
+17457,Cressy,,,,,,,15964,Polwarth District
+17463,Deans Marsh,,,,,,,15964,Polwarth District
+17466,Derrinallum,,,,,,,15964,Polwarth District
+17471,Ecklin,,,,,,,15964,Polwarth District
+17474,Elliminyt,,,,,,,15964,Polwarth District
+17477,Forrest,,,,,,,15964,Polwarth District
+17484,Gellibrand River,,,,,,,15964,Polwarth District
+17512,Irrewillipe East,,,,,,,15964,Polwarth District
+17525,Lavers Hill,,,,,,,15964,Polwarth District
+17531,Lismore,,,,,,,15964,Polwarth District
+17532,Lorne,,,,,,,15964,Polwarth District
+17596,Port Campbell,,,,,,,15964,Polwarth District
+17606,Scotts Creek,,,,,,,15964,Polwarth District
+17608,Simpson,,,,,,,15964,Polwarth District
+17638,Timboon,,,,,,,15964,Polwarth District
+17662,Torquay,,,,,,,15964,Polwarth District
+17628,Torquay North,,,,,,,15964,Polwarth District
+17648,Warrion,,,,,,,15964,Polwarth District
+17657,Winchelsea,,,,,,,15964,Polwarth District
+17661,Winchelsea South,,,,,,,15964,Polwarth District
+17658,Wiridjil,,,,,,,15964,Polwarth District
+17135,Balaclava,,,,,,,15952,Prahran District
+17224,Fawkner Park,,,,,,,15952,Prahran District
+17243,Hawksburn,,,,,,,15952,Prahran District
+17223,Hawksburn Central,,,,,,,15952,Prahran District
+17214,Orrong,,,,,,,15952,Prahran District
+17175,Prahran,,,,,,,15952,Prahran District
+17215,Prahran East,,,,,,,15952,Prahran District
+17136,Redan Central,,,,,,,15952,Prahran District
+17201,South Yarra,,,,,,,15952,Prahran District
+17772,Southbank,,,,,,,15952,Prahran District
+17234,St Kilda,,,,,,,15952,Prahran District
+17237,St Kilda East,,,,,,,15952,Prahran District
+17669,Toorak Central,,,,,,,15952,Prahran District
+17715,Toorak West,,,,,,,15952,Prahran District
+17236,Windsor,,,,,,,15952,Prahran District
+17739,Bell,,,,,,,15931,Preston District
+16637,Boldrewood,,,,,,,15931,Preston District
+16603,Keon Park,,,,,,,15931,Preston District
+16682,Merrilands,,,,,,,15931,Preston District
+17683,Murray,,,,,,,15931,Preston District
+16622,Newlands,,,,,,,15931,Preston District
+16647,Preston,,,,,,,15931,Preston District
+16667,Preston East,,,,,,,15931,Preston District
+16634,Preston North East,,,,,,,15931,Preston District
+17753,Preston South,,,,,,,15931,Preston District
+16636,Preston West,,,,,,,15931,Preston District
+16635,Regent,,,,,,,15931,Preston District
+16638,Reservoir,,,,,,,15931,Preston District
+16639,Reservoir Central,,,,,,,15931,Preston District
+16595,Reservoir East,,,,,,,15931,Preston District
+16640,Reservoir North,,,,,,,15931,Preston District
+16577,Reservoir North East,,,,,,,15931,Preston District
+16660,Reservoir South,,,,,,,15931,Preston District
+16641,Reservoir West,,,,,,,15931,Preston District
+16654,Ruthven,,,,,,,15931,Preston District
+16567,Abbotsford,,,,,,,15999,Richmond District
+16648,Atherton Gardens,,,,,,,15999,Richmond District
+16651,Clifton Hill,,,,,,,15999,Richmond District
+16566,Collingwood,,,,,,,15999,Richmond District
+16562,Collingwood North,,,,,,,15999,Richmond District
+17719,Delbridge,,,,,,,15999,Richmond District
+16585,Fitzroy,,,,,,,15999,Richmond District
+16642,Hosie,,,,,,,15999,Richmond District
+16653,Richmond,,,,,,,15999,Richmond District
+16685,Richmond Central,,,,,,,15999,Richmond District
+16568,Richmond North 106,,,,,,,15999,Richmond District
+16569,Richmond North 110,,,,,,,15999,Richmond District
+16643,Richmond South,,,,,,,15999,Richmond District
+16195,Antonio Park,,,,,,,15909,Ringwood District
+17672,Blackburn,,,,,,,15909,Ringwood District
+16201,Blackburn Lake,,,,,,,15909,Ringwood District
+16202,Blackburn North,,,,,,,15909,Ringwood District
+16220,Eastwood,,,,,,,15909,Ringwood District
+16230,Heatherdale,,,,,,,15909,Ringwood District
+16233,Heathmont,,,,,,,15909,Ringwood District
+16232,Heathmont East,,,,,,,15909,Ringwood District
+16231,Heathmont West,,,,,,,15909,Ringwood District
+16248,Mitcham,,,,,,,15909,Ringwood District
+16041,Mitcham South,,,,,,,15909,Ringwood District
+16254,Norwood,,,,,,,15909,Ringwood District
+16191,Nunawading,,,,,,,15909,Ringwood District
+16252,Nunawading East,,,,,,,15909,Ringwood District
+16042,Nunawading South,,,,,,,15909,Ringwood District
+16279,Ringwood,,,,,,,15909,Ringwood District
+16192,Ringwood East,,,,,,,15909,Ringwood District
+16246,Ringwood South,,,,,,,15909,Ringwood District
+16227,Southwood,,,,,,,15909,Ringwood District
+16289,Tinternvale,,,,,,,15909,Ringwood District
+16043,Vermont North,,,,,,,15909,Ringwood District
+16299,Wakefield,,,,,,,15909,Ringwood District
+17765,Alfredton West,,,,,,,15987,Ripon District
+17397,Amphitheatre,,,,,,,15987,Ripon District
+17404,Ararat,,,,,,,15987,Ripon District
+17403,Ararat West,,,,,,,15987,Ripon District
+17405,Avoca,,,,,,,15987,Ripon District
+17414,Bealiba,,,,,,,15987,Ripon District
+17416,Beaufort,,,,,,,15987,Ripon District
+17425,Bowenvale,,,,,,,15987,Ripon District
+17428,Bridgewater,,,,,,,15987,Ripon District
+17430,Buangor,,,,,,,15987,Ripon District
+17438,Carisbrook,,,,,,,15987,Ripon District
+17448,Clunes,,,,,,,15987,Ripon District
+17458,Creswick,,,,,,,15987,Ripon District
+17469,Dunolly,,,,,,,15987,Ripon District
+17475,Elmhurst,,,,,,,15987,Ripon District
+17495,Haddon,,,,,,,15987,Ripon District
+17510,Inglewood,,,,,,,15987,Ripon District
+17521,Landsborough,,,,,,,15987,Ripon District
+17526,Learmonth,,,,,,,15987,Ripon District
+17529,Lexton,,,,,,,15987,Ripon District
+17530,Linton,,,,,,,15987,Ripon District
+17533,Lucas,,,,,,,15987,Ripon District
+17539,Marnoo,,,,,,,15987,Ripon District
+17641,Maryborough,,,,,,,15987,Ripon District
+17506,Maryborough East,,,,,,,15987,Ripon District
+17548,Miners Rest,,,,,,,15987,Ripon District
+17554,Moonambel,,,,,,,15987,Ripon District
+17565,Napoleons,,,,,,,15987,Ripon District
+17572,Newbridge,,,,,,,15987,Ripon District
+17576,Newlyn,,,,,,,15987,Ripon District
+17603,Ross Creek,,,,,,,15987,Ripon District
+17605,Scarsdale,,,,,,,15987,Ripon District
+17609,Skipton,,,,,,,15987,Ripon District
+17611,Smeaton,,,,,,,15987,Ripon District
+17612,Smythesdale,,,,,,,15987,Ripon District
+17613,Snake Valley,,,,,,,15987,Ripon District
+17618,St Arnaud,,,,,,,15987,Ripon District
+17633,Talbot,,,,,,,15987,Ripon District
+17643,Tarnagulla,,,,,,,15987,Ripon District
+17652,Waubra,,,,,,,15987,Ripon District
+17653,Wedderburn,,,,,,,15987,Ripon District
+16984,Carrington,,,,,,,15941,Rowville District
+17100,Flamingo,,,,,,,15941,Rowville District
+17026,Heany Park,,,,,,,15941,Rowville District
+17034,Karoo,,,,,,,15941,Rowville District
+17042,Knox Gardens,,,,,,,15941,Rowville District
+17043,Knox Park,,,,,,,15941,Rowville District
+17050,Lysterfield,,,,,,,15941,Rowville District
+17065,Park Ridge,,,,,,,15941,Rowville District
+17076,Rowville,,,,,,,15941,Rowville District
+16963,Rowville East,,,,,,,15941,Rowville District
+17094,Scoresby,,,,,,,15941,Rowville District
+17106,Wantirna South,,,,,,,15941,Rowville District
+17128,Beaumaris,,,,,,,15927,Sandringham District
+17130,Beaumaris Central,,,,,,,15927,Sandringham District
+17129,Beaumaris North,,,,,,,15927,Sandringham District
+17690,Berendale,,,,,,,15927,Sandringham District
+17137,Black Rock,,,,,,,15927,Sandringham District
+17138,Black Rock South,,,,,,,15927,Sandringham District
+17156,Cheltenham,,,,,,,15927,Sandringham District
+17211,Cheltenham West,,,,,,,15927,Sandringham District
+17708,Hampton,,,,,,,15927,Sandringham District
+17178,Hampton Central,,,,,,,15927,Sandringham District
+17220,Highett,,,,,,,15927,Sandringham District
+17183,Highett South,,,,,,,15927,Sandringham District
+17219,Holloway,,,,,,,15927,Sandringham District
+17189,Mentone,,,,,,,15927,Sandringham District
+17203,Mentone West,,,,,,,15927,Sandringham District
+17750,Moorabbin South East,,,,,,,15927,Sandringham District
+17217,Sandringham,,,,,,,15927,Sandringham District
+17218,Sandringham North,,,,,,,15927,Sandringham District
+16689,Ardmona,,,,,,,15994,Shepparton District
+16697,Barmah,,,,,,,15994,Shepparton District
+16716,Bunbartha,,,,,,,15994,Shepparton District
+16734,Congupna,,,,,,,15994,Shepparton District
+16745,Dookie,,,,,,,15994,Shepparton District
+16767,Gowrie Street,,,,,,,15994,Shepparton District
+16771,Guthrie Street,,,,,,,15994,Shepparton District
+16788,Katandra West,,,,,,,15994,Shepparton District
+16789,Katunga,,,,,,,15994,Shepparton District
+16792,Kialla,,,,,,,15994,Shepparton District
+16793,Kialla West,,,,,,,15994,Shepparton District
+16895,Knight Street,,,,,,,15994,Shepparton District
+16809,Lemnos,,,,,,,15994,Shepparton District
+16840,Mooroopna,,,,,,,15994,Shepparton District
+16853,Nathalia,,,,,,,15994,Shepparton District
+16858,Numurkah,,,,,,,15994,Shepparton District
+16861,Orrvale,,,,,,,15994,Shepparton District
+16868,Picola,,,,,,,15994,Shepparton District
+16889,Shepparton East,,,,,,,15994,Shepparton District
+16896,St Georges Road,,,,,,,15994,Shepparton District
+16712,Storey,,,,,,,15994,Shepparton District
+16903,Strathmerton,,,,,,,15994,Shepparton District
+16911,Tallygaroopna,,,,,,,15994,Shepparton District
+16915,Tatura,,,,,,,15994,Shepparton District
+16923,Toolamba,,,,,,,15994,Shepparton District
+16936,Waaia,,,,,,,15994,Shepparton District
+16768,Wanganui,,,,,,,15994,Shepparton District
+16947,Wilmot Road,,,,,,,15994,Shepparton District
+16952,Wunghnu,,,,,,,15994,Shepparton District
+17480,Armstrong Creek,,,,,,,15907,South Barwon District
+17585,Armstrong Creek East,,,,,,,15907,South Barwon District
+17602,Belmont,,,,,,,15907,South Barwon District
+17446,Belmont West,,,,,,,15907,South Barwon District
+17443,Ceres,,,,,,,15907,South Barwon District
+17494,Grovedale,,,,,,,15907,South Barwon District
+17492,Grovedale Central,,,,,,,15907,South Barwon District
+17493,Grovedale East,,,,,,,15907,South Barwon District
+17505,Highton,,,,,,,15907,South Barwon District
+17623,Highton Central,,,,,,,15907,South Barwon District
+17552,Highton North,,,,,,,15907,South Barwon District
+17537,Mandama,,,,,,,15907,South Barwon District
+17555,Moriac,,,,,,,15907,South Barwon District
+17557,Mount Duneed,,,,,,,15907,South Barwon District
+17550,Mount Duneed Central,,,,,,,15907,South Barwon District
+17445,Waurn Ponds,,,,,,,15907,South Barwon District
+17396,Allansford,,,,,,,15984,South-West Coast District
+17424,Bolwarra,,,,,,,15984,South-West Coast District
+17455,Condah,,,,,,,15984,South-West Coast District
+17489,Grassmere,,,,,,,15984,South-West Coast District
+17502,Hawkesdale,,,,,,,15984,South-West Coast District
+17504,Heywood,,,,,,,15984,South-West Coast District
+17517,Koroit,,,,,,,15984,South-West Coast District
+17534,Macarthur,,,,,,,15984,South-West Coast District
+17536,Mailors Flat,,,,,,,15984,South-West Coast District
+17566,Naringal,,,,,,,15984,South-West Coast District
+17567,Narrawong,,,,,,,15984,South-West Coast District
+17569,Nelson,,,,,,,15984,South-West Coast District
+17579,Noorat,,,,,,,15984,South-West Coast District
+17584,Nullawarre,,,,,,,15984,South-West Coast District
+17587,Orford,,,,,,,15984,South-West Coast District
+17589,Panmure,,,,,,,15984,South-West Coast District
+17592,Peterborough,,,,,,,15984,South-West Coast District
+17626,Port Fairy,,,,,,,15984,South-West Coast District
+17468,Portland,,,,,,,15984,South-West Coast District
+17527,Portland South,,,,,,,15984,South-West Coast District
+17597,Portland South West,,,,,,,15984,South-West Coast District
+17598,Purnim,,,,,,,15984,South-West Coast District
+17637,Terang,,,,,,,15984,South-West Coast District
+17645,Wangoom,,,,,,,15984,South-West Coast District
+17651,Warrnambool,,,,,,,15984,South-West Coast District
+17588,Warrnambool - Tower Square,,,,,,,15984,South-West Coast District
+17642,Warrnambool Central,,,,,,,15984,South-West Coast District
+17650,Warrnambool East,,,,,,,15984,South-West Coast District
+17649,Warrnambool Education Centre,,,,,,,15984,South-West Coast District
+17621,Warrnambool North,,,,,,,15984,South-West Coast District
+17499,Warrnambool South West,,,,,,,15984,South-West Coast District
+17427,Warrnambool West,,,,,,,15984,South-West Coast District
+17659,Woodford,,,,,,,15984,South-West Coast District
+17660,Woolsthorpe,,,,,,,15984,South-West Coast District
+17663,Yambuk,,,,,,,15984,South-West Coast District
+17257,Albion North,,,,,,,15971,St Albans District
+17279,Cairnlea,,,,,,,15971,St Albans District
+17356,Kealba,,,,,,,15971,St Albans District
+17315,Keilor Downs,,,,,,,15971,St Albans District
+17682,Kings Park,,,,,,,15971,St Albans District
+17328,Monmia,,,,,,,15971,St Albans District
+17349,St Albans,,,,,,,15971,St Albans District
+17274,St Albans East,,,,,,,15971,St Albans District
+17350,St Albans North,,,,,,,15971,St Albans District
+17378,St Albans South,,,,,,,15971,St Albans District
+17311,St Albans South East,,,,,,,15971,St Albans District
+17358,St Albans West,,,,,,,15971,St Albans District
+17688,Stevensville,,,,,,,15971,St Albans District
+17352,Sunshine North,,,,,,,15971,St Albans District
+17741,Sunvale,,,,,,,15971,St Albans District
+17310,Bulla,,,,,,,15924,Sunbury District
+17291,Diggers Rest,,,,,,,15924,Sunbury District
+17301,Gladstone Park,,,,,,,15924,Sunbury District
+17302,Gladstone Views,,,,,,,15924,Sunbury District
+17304,Goonawarra,,,,,,,15924,Sunbury District
+17361,Jacksons Hill,,,,,,,15924,Sunbury District
+17359,Sunbury,,,,,,,15924,Sunbury District
+17293,Sunbury Central,,,,,,,15924,Sunbury District
+17360,Sunbury Heights,,,,,,,15924,Sunbury District
+17319,Sunbury North,,,,,,,15924,Sunbury District
+17316,Sunbury North West,,,,,,,15924,Sunbury District
+17332,Sunbury West,,,,,,,15924,Sunbury District
+17377,Tullamarine,,,,,,,15924,Sunbury District
+17692,Westmeadows,,,,,,,15924,Sunbury District
+17323,Delahey,,,,,,,15944,Sydenham District
+17366,Hillside,,,,,,,15944,Sydenham District
+17730,Kings Park,,,,,,,15944,Sydenham District
+17334,Parkwood Green,,,,,,,15944,Sydenham District
+17348,Plumpton,,,,,,,15944,Sydenham District
+17347,Springside,,,,,,,15944,Sydenham District
+17367,Sydenham,,,,,,,15944,Sydenham District
+17284,Sydenham East,,,,,,,15944,Sydenham District
+17275,Sydenham West,,,,,,,15944,Sydenham District
+17370,Taylors Hill,,,,,,,15944,Sydenham District
+17371,Taylors Lakes,,,,,,,15944,Sydenham District
+17372,Taylors Lakes Central,,,,,,,15944,Sydenham District
+17333,Taylors Lakes North,,,,,,,15944,Sydenham District
+17285,Bellbridge,,,,,,,15965,Tarneit District
+17273,Bellbridge East,,,,,,,15965,Tarneit District
+17280,Cambridge,,,,,,,15965,Tarneit District
+17289,Derrimut,,,,,,,15965,Tarneit District
+17329,Mossfiel,,,,,,,15965,Tarneit District
+17270,Tarneit,,,,,,,15965,Tarneit District
+17374,Tarneit East,,,,,,,15965,Tarneit District
+17368,Tarneit North,,,,,,,15965,Tarneit District
+17369,Tarneit Rise,,,,,,,15965,Tarneit District
+17303,Tarneit West,,,,,,,15965,Tarneit District
+17373,The Grange,,,,,,,15965,Tarneit District
+17731,Westgrove,,,,,,,15965,Tarneit District
+17381,Woodville,,,,,,,15965,Tarneit District
+16580,Epping,,,,,,,15918,Thomastown District
+16574,Epping North,,,,,,,15918,Thomastown District
+16593,Epping North West,,,,,,,15918,Thomastown District
+16052,Epping Views,,,,,,,15918,Thomastown District
+16608,Lalor,,,,,,,15918,Thomastown District
+16605,Lalor East,,,,,,,15918,Thomastown District
+16607,Lalor North,,,,,,,15918,Thomastown District
+16053,Lalor North East,,,,,,,15918,Thomastown District
+16633,Lalor Park,,,,,,,15918,Thomastown District
+16548,Lalor South,,,,,,,15918,Thomastown District
+16606,Lalor West,,,,,,,15918,Thomastown District
+16671,Thomastown,,,,,,,15918,Thomastown District
+16669,Thomastown East,,,,,,,15918,Thomastown District
+16670,Thomastown Meadows,,,,,,,15918,Thomastown District
+16672,Thomastown West,,,,,,,15918,Thomastown District
+16578,Wollert South West,,,,,,,15918,Thomastown District
+16198,Beverley Hills,,,,,,,15986,Warrandyte District
+16207,Chirnside Park,,,,,,,15986,Warrandyte District
+17759,Croydon North,,,,,,,15986,Warrandyte District
+16213,Donburn,,,,,,,15986,Warrandyte District
+16219,Doncaster East,,,,,,,15986,Warrandyte District
+16214,Doncaster Gardens,,,,,,,15986,Warrandyte District
+16269,Doncaster Heights,,,,,,,15986,Warrandyte District
+16298,Donvale,,,,,,,15986,Warrandyte District
+16237,Kalinda,,,,,,,15986,Warrandyte District
+16247,Milgate,,,,,,,15986,Warrandyte District
+16253,North Warrandyte,,,,,,,15986,Warrandyte District
+17752,Norwood,,,,,,,15986,Warrandyte District
+16259,Park Orchards,,,,,,,15986,Warrandyte District
+16262,Ringwood Heights,,,,,,,15986,Warrandyte District
+16263,Ringwood North,,,,,,,15986,Warrandyte District
+16211,The Pines,,,,,,,15986,Warrandyte District
+16217,Tunstall,,,,,,,15986,Warrandyte District
+16293,Warrandyte,,,,,,,15986,Warrandyte District
+16294,Warrandyte South,,,,,,,15986,Warrandyte District
+16295,Warranwood,,,,,,,15986,Warrandyte District
+16300,Wonga Park,,,,,,,15986,Warrandyte District
+17540,Alfredton,,,,,,,15972,Wendouree District
+17395,Alfredton West,,,,,,,15972,Wendouree District
+17460,Ballarat Central,,,,,,,15972,Wendouree District
+17409,Ballarat North,,,,,,,15972,Wendouree District
+17594,Ballarat North West,,,,,,,15972,Wendouree District
+17617,Ballarat South,,,,,,,15972,Wendouree District
+17575,Ballarat South West,,,,,,,15972,Wendouree District
+17423,Black Hill,,,,,,,15972,Wendouree District
+17671,Caledonian,,,,,,,15972,Wendouree District
+17464,Delacombe,,,,,,,15972,Wendouree District
+17712,Lucas,,,,,,,15972,Wendouree District
+17593,Redan,,,,,,,15972,Wendouree District
+17607,Sebastopol,,,,,,,15972,Wendouree District
+17610,Skipton Street,,,,,,,15972,Wendouree District
+17408,Wendouree,,,,,,,15972,Wendouree District
+17410,Wendouree East,,,,,,,15972,Wendouree District
+17560,Wendouree North,,,,,,,15972,Wendouree District
+17664,Wendouree West,,,,,,,15972,Wendouree District
+17389,Galvin Park,,,,,,,15923,Werribee District
+17390,Glenorden,,,,,,,15923,Werribee District
+17309,Iramoo,,,,,,,15923,Werribee District
+17322,Little River,,,,,,,15923,Werribee District
+17325,Manor Lakes,,,,,,,15923,Werribee District
+17326,Manorvale,,,,,,,15923,Werribee District
+17336,Riverbend,,,,,,,15923,Werribee District
+17337,Riverwalk,,,,,,,15923,Werribee District
+17375,Thomas Chirnside,,,,,,,15923,Werribee District
+17384,Werribee,,,,,,,15923,Werribee District
+17383,Werribee Central,,,,,,,15923,Werribee District
+17386,Westgrove,,,,,,,15923,Werribee District
+17769,Woodville,,,,,,,15923,Werribee District
+17264,Altona,,,,,,,15981,Williamstown District
+17262,Altona North,,,,,,,15981,Williamstown District
+17263,Altona West,,,,,,,15981,Williamstown District
+17266,Brooklyn,,,,,,,15981,Williamstown District
+17767,Hyde,,,,,,,15981,Williamstown District
+17382,Kingsville South,,,,,,,15981,Williamstown District
+17331,Newport,,,,,,,15981,Williamstown District
+17307,Newport East,,,,,,,15981,Williamstown District
+17271,Newport West,,,,,,,15981,Williamstown District
+17343,Seaholme,,,,,,,15981,Williamstown District
+17346,Spotswood,,,,,,,15981,Williamstown District
+17345,Spotswood West,,,,,,,15981,Williamstown District
+17388,Williamstown,,,,,,,15981,Williamstown District
+17387,Williamstown South,,,,,,,15981,Williamstown District
+17272,Williamstown West,,,,,,,15981,Williamstown District
+17391,Yarraville,,,,,,,15981,Williamstown District
+16691,Ashley Park,,,,,,,15957,Yan Yean District
+16783,Doreen,,,,,,,15957,Yan Yean District
+16807,Laurimar,,,,,,,15957,Yan Yean District
+16829,Mernda,,,,,,,15957,Yan Yean District
+16827,Mernda Central,,,,,,,15957,Yan Yean District
+16828,Mernda Park,,,,,,,15957,Yan Yean District
+17717,Morang South,,,,,,,15957,Yan Yean District
+16869,Plenty,,,,,,,15957,Yan Yean District
+16938,Wandong,,,,,,,15957,Yan Yean District
+16945,Whittlesea,,,,,,,15957,Yan Yean District
+16959,Yarrambat,,,,,,,15957,Yan Yean District

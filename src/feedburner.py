@@ -37,6 +37,10 @@ with open(DATA_DIR / "party_codes_by_name.json") as f:
     party_codes_by_name = json.load(f)
 
 
+with open(DATA_DIR / "party_codes_by_code.json") as f:
+    party_codes_by_code = json.load(f)
+
+
 # uploadElectorates = False
 # if not uploadElectorates:
 #     print("WARNING: NOT UPLOADING ELECTORATES")
@@ -166,7 +170,13 @@ def create_table(data):
     results_df = results_df[['party', 'votes', 'votesPercent', 'swing']]
     results_df = results_df.sort_values(by='votes', ascending=False)
 
-    return results_df.to_dict(orient='records')
+    results_dict = results_df.to_dict(orient='records')
+    for row in results_dict:
+        for key, value in row.items():
+            if isinstance(value, float) and pd.isna(value):
+                row[key] = None
+                
+    return results_dict
 
 def create_ticker_feed(data: Dict) -> List[Dict]:
     predictions = [d for d in data['electorates'] if d['prediction']]
@@ -202,113 +212,55 @@ def create_ticker_feed(data: Dict) -> List[Dict]:
     fields_to_keep = ['electorate', 'prediction', 'incumbent', 'label', 'announced', 'isoTimestamp']
 
     results = [{k: v for k, v in item.items() if k in fields_to_keep} for item in results]
-    print("results", results)
+    # print("results", results)
     return results
 
-def senate_render(data: Dict) -> Dict:
+def senate_render(googledoc):
+    # Set up constants
+    key = 'upperhouse'
+    party_field = 'party'
+
     # Set up constants
     key = 'upperhouse'
     party_field = 'party'
 
     # Filter out records with an empty party field
-    has_data = [d for d in data[key] if d[party_field]]
+    has_data = [d for d in googledoc[key] if d[party_field]]
 
-    # Tally each party's count (using a case-insensitive party key)
-    party_data = []
-    party_counts = {}
-    others_count = 0
+    df = pd.DataFrame(has_data)
+    print(df.head())
+    df['count'] = 1
 
-    for curr in has_data:
-        party_key = curr[party_field].lower()
-        if party_key not in party_counts:
-            party_counts[party_key] = {'key': party_key, 'value': 0}
-            party_data.append(party_counts[party_key])
-        party_counts[party_key]['value'] += 1
-        if party_key not in SENATE:
-            others_count += 1
 
-    print("party_counts", party_counts)
+    parties_df = df[['party','count']].groupby('party').sum().reset_index()
+    parties_df = parties_df.sort_values(by='count', ascending=False)
 
-    # Enhance partyData with additional properties
-    for d in party_data:
-        current_items = [item for item in has_data 
-                        if item[party_field].lower() == d['key'] 
-                        and item.get('current') == 'yes']
-        
-        party_info = data['parties'].get(d['key'])
-        d['name'] = party_info['partyName'] if party_info else d['key']
-        d['shortName'] = party_info['shortName'] if party_info else d['key']
-        # d['current'] = len(current_items)
-        # d['elected'] = d['value'] - d['current']
+    parties_df['name'] = parties_df['party'].map(party_codes_by_code).apply(lambda party: party['short_name'])
 
-    # Create a lookup map for party data
-    party_map = {item['key']: item for item in party_data}
+    # parties_to_name = ['ALP', 'LIB', 'NAT', 'ON', 'GRN']
 
-    print("party_data", party_data)
+    parties_gp = parties_df[['party', 'name', 'count']].groupby(['party', 'name']).sum().reset_index()
+    parties_gp = parties_gp.rename(columns={'party':'key', 'count':'seats'})
+    parties_gp = parties_gp.sort_values(by='seats', ascending=False)
+    parties_gp['key'] = parties_gp['key'].str.lower()
 
-    # Build senateData based on the global SENATE array
-    senate_data = []
-    for d in SENATE:
-        party = party_map.get(d)
-        seats = party['value'] if party else 0
+    regions_df = df.copy()
 
-        senate_data.append({
-            'key': d,
-            'name': party['shortName'] if party else d,
-            'seats': seats
-        })
+    regions_df['party'] = regions_df['party'].str.lower()
+    regions_df['spot'] = pd.to_numeric(regions_df['spot'], errors='coerce')
+    regions_df = regions_df.sort_values(['region', 'spot'])
 
-    # Create a Map from senateData for quick lookup
-    senate_map = {item['key']: item for item in senate_data}
+    regions_gp = (
+        regions_df.groupby('region', sort=False)['party']
+        .agg(list)
+        .reset_index(name='parties')
+    )
 
-    # # Define breakdown fields
-    # breakdowns = [
-    #     {'value': 'value', 'seats': 'seats', 'percentage': 'percentage'},
-    #     {'value': 'current', 'seats': 'currentSeats', 'percentage': 'currentPercentage'},
-    #     {'value': 'elected', 'seats': 'electedSeats', 'percentage': 'electedPercentage'}
-    # ]
+    regions_gp = regions_gp.rename(columns={'parties':'elected'})
+    # print(regions_gp.to_dict(orient='records'))
+    
+    return {"parties": parties_gp.to_dict(orient='records'), "regions": regions_gp.to_dict(orient='records')}
 
-    # # Calculate aggregate values for 'other' and adjust the 'lib' totals
-    # for field in breakdowns:
-    #     other = senate_map['other']
-    #     # Sum values for parties not in senateMap and not LNP/CLP
-    #     other_sum = sum(d[field['value']] for d in party_data 
-    #                    if d['key'] not in senate_map and d['key'] not in ['lnp', 'clp'])
-        
-    #     other[field['value']] = other_sum
-    #     other[field['seats']] = other_sum > 0
-    #     other[field['percentage']] = (
-    #         (other_sum / totalSeatsSenate * 100) if field['value'] == 'value'
-    #         else (other_sum / other['value'] * 100) if other['value']
-    #         else 0
-    #     )
-
-    #     # Add LNP and CLP numbers into the Liberal totals
-    #     lib = senate_map['lib']
-    #     lnp_value = party_map.get('lnp', {}).get(field['value'], 0)
-    #     clp_value = party_map.get('clp', {}).get(field['value'], 0)
-
-    #     lib[field['value']] += lnp_value + clp_value
-    #     lib[field['seats']] = lib[field['value']] > 0
-    #     lib[field['percentage']] = (
-    #         (lib[field['value']] / totalSeatsSenate * 100) if field['value'] == 'value'
-    #         else (lib[field['value']] / lib['value'] * 100) if lib['value']
-    #         else 0
-    #     )
-
-    # # Calculate pending seats
-    # senate_map['pending']['value'] = totalSeatsSenate - len(has_data)
-
-    # Sort party_data
-    party_data.sort(key=lambda x: x['value'], reverse=True)
-
-    list_size = math.ceil(len(party_map) / 2)
-
-    # Build final render data
-
-    render_data = list(senate_map.values()),
-
-    return render_data
 
 def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
     
@@ -326,7 +278,7 @@ def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
     # Fetch Google doc data
     
     googledoc = requests.get(f"https://interactive.guim.co.uk/docsdata/{googledoc_key}.json").json()['sheets']
-    print(f"Latest googledoc: https://interactive.guim.co.uk/docsdata/{googledoc_key}.json")
+    # print(f"Latest googledoc: https://interactive.guim.co.uk/docsdata/{googledoc_key}.json")
 
     latest_data = get_local_json(RESULTS_DIR / f"{latestTimestampStr}.json")
     
@@ -385,7 +337,8 @@ def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
             'TOTAL_SEATS': totalSeatsSenate,
             'MAJORITY_SEATS': senateMajority,
             'display': True, 
-            'parties': senate_data
+            'parties': senate_data['parties'],
+            'regions': senate_data['regions']
             }
     }
     

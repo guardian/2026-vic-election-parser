@@ -4,6 +4,8 @@ from datetime import datetime
 from typing import Dict, List
 import json
 from pathlib import Path
+import schedule
+import time
 
 googledoc_key = "1k0_d-Og6sWr3BYz1Hw3Sz9eA98IRuvccm3r6xaA7U7s"
 startTime = datetime.now()
@@ -195,3 +197,8 @@ def burnElectorates(uploadPath="", uploadElectorates=True):
 
 if __name__ == "__main__":
     burnElectorates(uploadPath, uploadElectorates=True)
+    schedule.every(3).minutes.do(burnElectorates, uploadPath, uploadElectorates=True)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+        print(datetime.now())

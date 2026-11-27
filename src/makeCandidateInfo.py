@@ -9,6 +9,7 @@ from io import BytesIO
 # candidate_xml_file = "data/sample-vec-data/round 1 samples (election wkend)/TestState2026MediaFileCandidatesV2.xml"
 
 VEC_TOKEN = os.environ["VEC_RESULTS_SAS"]
+
 with ContainerClient.from_container_url(VEC_TOKEN) as container:
     candidate_data = getAndReadFile(container, "State2026MediaFileCandidatesV2")
 

@@ -179,7 +179,7 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 
 	for contest in elect_data['MediaFeed']['Election']['House']['Contests']['Contest']:
 		currentElectorate = contest["eml:ContestIdentifier"]["eml:ContestName"].split(" District")[0]
-		print("currentElectorate: ", currentElectorate)
+		# print("currentElectorate: ", currentElectorate)
 		
 		# The object for the individual electorate JSON
 		electorates_json = {}
@@ -222,7 +222,7 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 		# Add the total votes counted for the electorate to the electorate JSON
 		electorates_json['votesCounted'] = electorateVotesCountedTotal 
 
-		print("electorate votes counted: ", electorateVotesCountedTotal )
+		# print("electorate votes counted: ", electorateVotesCountedTotal )
 
 		primary_2022 = results_2022_primary[currentElectorate]
 		twocp_2022 = results_2022_2cp[currentElectorate]
@@ -393,7 +393,14 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 	results_json["votesCounted"] = stateVotesCounted
 	results_json["votesCountedFormal"] = stateVotesCountedFormal
 	results_json["votesCountedPercent"] = round(stateVotesCounted / stateEnrolment * 100, 2)
-	results_json["partyNationalResults"] = merged_vote_by_party.to_dict(orient='records')
+	# Replace NaN after leaving the dataframe. Assigning None back into a float
+	# column turns it into NaN again, and json.dumps writes that as invalid JSON.
+	party_results = merged_vote_by_party.to_dict(orient='records')
+	for row in party_results:
+		for key, value in row.items():
+			if isinstance(value, float) and pd.isna(value):
+				row[key] = None
+	results_json["partyNationalResults"] = party_results
 	results_json['divisions'] = electorates_list	
 
 	print("TOTAL VOTES", stateVotesCounted)

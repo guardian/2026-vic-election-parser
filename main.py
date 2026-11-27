@@ -13,6 +13,7 @@ from pathlib import Path
 from src.makeStateAndDivisionResults import eml_to_JSON
 from datetime import datetime
 from src.burnelectorates import burnElectorates
+from src.candidateResultsByPP import getPollingPlaceResults
 
 SRC_DIR = Path(__file__).resolve().parent
 DATA_DIR = SRC_DIR / "data"
@@ -65,7 +66,7 @@ ELECTORATES_DIR.mkdir(parents=True, exist_ok=True)
 
 def getTimestamp(file_str):
     # Timestamps are in the format YYYYMMDD_HHMMSS
-    print(file_str)
+    # print(file_str)
     timestamp = file_str.split(filetype + "_")[1].split(".zip")[0]
 
     timestamp_parsed = datetime.strptime(timestamp,"%Y%m%d_%H%M%S")
@@ -81,6 +82,7 @@ def results_source(test):
 def list_result_names(container=None):
     if container is None:
         names = [path.name for path in TEST_DATA_DIR.glob("*.zip")]
+        # print("files in test data directory: ", names)
         return [name for name in names if filetype in name]
 
     prefix = f"{election_id}{filetype}"
@@ -101,10 +103,10 @@ def process_latest(names, container=None):
     if not names:
         print("No results files found")
         return
-
+    print("names: ", names)
     latest_name = max(names, key=getTimestamp)
     latest_timestamp = datetime.strftime(getTimestamp(latest_name), "%Y%m%d_%H%M%S")
-    print("latest timestamp from server is ", latest_timestamp)
+    print("latest timestamp is ", latest_timestamp)
 
     # Get the latest timestamp from the local results file
     recent_path = Path("recentResults.json")
@@ -139,6 +141,7 @@ def process_latest(names, container=None):
 		# 	 upload=True)	
 
         eml_to_JSON(content, local=False, timestamp=latest_timestamp, uploadPath=uploadPath, upload=upload)
+        getPollingPlaceResults(content, testing=testing, local=False, timestamp=latest_timestamp, uploadPath=uploadPath, upload=upload)
 
         logresults.saveRecentResults(
             timestamp=latest_timestamp,
@@ -147,7 +150,8 @@ def process_latest(names, container=None):
         )
 
     burnfeeds(uploadPath, latest_timestamp, upload)
-    burnElectorates(uploadPath, uploadElectorates=True)
+    
+    # burnElectorates(uploadPath, uploadElectorates=True)
 
 def get_results_files(test):
     with results_source(test) as container:
@@ -167,6 +171,7 @@ def parse_results(test):
 parse_results(testing)
 
 schedule.every(1).minutes.do(parse_results,testing)
+# schedule.every(3).minutes.do(burnElectorates, uploadPath, upload)
 
 while True:
     schedule.run_pending()
