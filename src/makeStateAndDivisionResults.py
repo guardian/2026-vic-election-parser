@@ -179,7 +179,7 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 
 	for contest in elect_data['MediaFeed']['Election']['House']['Contests']['Contest']:
 		currentElectorate = contest["eml:ContestIdentifier"]["eml:ContestName"].split(" District")[0]
-		# print("currentElectorate: ", currentElectorate)
+		print("currentElectorate: ", currentElectorate)
 		
 		# The object for the individual electorate JSON
 		electorates_json = {}
@@ -222,7 +222,7 @@ def eml_to_JSON(eml_file, local, timestamp, uploadPath, upload):
 		# Add the total votes counted for the electorate to the electorate JSON
 		electorates_json['votesCounted'] = electorateVotesCountedTotal 
 
-		# print("electorate votes counted: ", electorateVotesCountedTotal )
+		print("electorate votes counted: ", electorateVotesCountedTotal )
 
 		primary_2022 = results_2022_primary[currentElectorate]
 		twocp_2022 = results_2022_2cp[currentElectorate]
