@@ -1,4 +1,4 @@
-from src.util import get_json, get_local_json, get_latest_feed, upload_to_s3, save_to_file
+
 import requests
 from datetime import datetime
 from typing import Dict, List
@@ -6,9 +6,13 @@ import json
 from pathlib import Path
 import schedule
 import time
+try:
+    from src.util import get_json, get_local_json, get_latest_feed, upload_to_s3, save_to_file
+except ImportError:
+    from util import get_json, get_local_json, get_latest_feed, upload_to_s3, save_to_file
 
 googledoc_key = "1k0_d-Og6sWr3BYz1Hw3Sz9eA98IRuvccm3r6xaA7U7s"
-startTime = datetime.now()
+
 
 SRC_DIR = Path(__file__).resolve().parent
 DATA_DIR = SRC_DIR.parent / "data"
@@ -143,6 +147,7 @@ def select_electorate(id: str, electorate: str, results: Dict, divisions: Dict, 
 def burnElectorates(uploadPath="", uploadElectorates=True):
 
     print("Burning electorate files...")
+    startTime = datetime.now()
     # Fetch Google doc data
     
     googledoc = requests.get(f"https://interactive.guim.co.uk/docsdata/{googledoc_key}.json").json()['sheets']

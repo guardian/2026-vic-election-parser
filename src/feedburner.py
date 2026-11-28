@@ -227,40 +227,43 @@ def senate_render(googledoc):
     # Filter out records with an empty party field
     has_data = [d for d in googledoc[key] if d[party_field]]
 
-    df = pd.DataFrame(has_data)
-    print(df.head())
-    df['count'] = 1
+    if len(has_data) > 0:
+        df = pd.DataFrame(has_data)
+        print(df.head())
+        df['count'] = 1
 
 
-    parties_df = df[['party','count']].groupby('party').sum().reset_index()
-    parties_df = parties_df.sort_values(by='count', ascending=False)
+        parties_df = df[['party','count']].groupby('party').sum().reset_index()
+        parties_df = parties_df.sort_values(by='count', ascending=False)
 
-    parties_df['name'] = parties_df['party'].map(party_codes_by_code).apply(lambda party: party['short_name'])
+        parties_df['name'] = parties_df['party'].map(party_codes_by_code).apply(lambda party: party['short_name'])
 
-    # parties_to_name = ['ALP', 'LIB', 'NAT', 'ON', 'GRN']
+        # parties_to_name = ['ALP', 'LIB', 'NAT', 'ON', 'GRN']
 
-    parties_gp = parties_df[['party', 'name', 'count']].groupby(['party', 'name']).sum().reset_index()
-    parties_gp = parties_gp.rename(columns={'party':'key', 'count':'seats'})
-    parties_gp = parties_gp.sort_values(by='seats', ascending=False)
-    parties_gp['key'] = parties_gp['key'].str.lower()
+        parties_gp = parties_df[['party', 'name', 'count']].groupby(['party', 'name']).sum().reset_index()
+        parties_gp = parties_gp.rename(columns={'party':'key', 'count':'seats'})
+        parties_gp = parties_gp.sort_values(by='seats', ascending=False)
+        parties_gp['key'] = parties_gp['key'].str.lower()
 
-    regions_df = df.copy()
+        regions_df = df.copy()
 
-    regions_df['party'] = regions_df['party'].str.lower()
-    regions_df['spot'] = pd.to_numeric(regions_df['spot'], errors='coerce')
-    regions_df = regions_df.sort_values(['region', 'spot'])
+        regions_df['party'] = regions_df['party'].str.lower()
+        regions_df['spot'] = pd.to_numeric(regions_df['spot'], errors='coerce')
+        regions_df = regions_df.sort_values(['region', 'spot'])
 
-    regions_gp = (
-        regions_df.groupby('region', sort=False)['party']
-        .agg(list)
-        .reset_index(name='parties')
-    )
+        regions_gp = (
+            regions_df.groupby('region', sort=False)['party']
+            .agg(list)
+            .reset_index(name='parties')
+        )
 
-    regions_gp = regions_gp.rename(columns={'parties':'elected'})
-    # print(regions_gp.to_dict(orient='records'))
+        regions_gp = regions_gp.rename(columns={'parties':'elected'})
+        # print(regions_gp.to_dict(orient='records'))
     
-    return {"parties": parties_gp.to_dict(orient='records'), "regions": regions_gp.to_dict(orient='records')}
+        return {"parties": parties_gp.to_dict(orient='records'), "regions": regions_gp.to_dict(orient='records')}
 
+    else:
+        return {"parties": [], "regions": []}
 
 def burnfeeds(uploadPath="", latestTimestampStr="", upload=False):
     
